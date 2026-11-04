@@ -1,0 +1,76 @@
+# Players added with batch-4 verified finals (1979, 1982, 1991, 1997)
+anderson-v|Viv Anderson|فيف أندرسون|N-ENG|RB|1956-07-29|3|1978-1988|NFO 1974-1984; ARS 1984-1987; MUN 1987-1991|CL1979 CL1980|viv anderson
+lloyd-l|Larry Lloyd|لاري لويد|N-ENG|CB|1948-10-06|4|1971-1980|LIV 1969-1974; NFO 1976-1981|CL1979 CL1980|larry lloyd
+burns-k|Kenny Burns|كيني بيرنز|N-SCO|CB|1953-09-23|4|1974-1981|BIR 1971-1977; NFO 1977-1981|CL1979 CL1980|kenny burns
+clark-f|Frank Clark|فرانك كلارك|N-ENG|LB|1943-09-09|4||NEW 1962-1975; NFO 1975-1979|CL1979|frank clark
+francis-t|Trevor Francis|تريفور فرانسيس|N-ENG|FW|1954-04-19|2|1977-1986|BIR 1970-1979; NFO 1978-1981; MCI 1981-1982; SAM 1982-1986; ATA 1986-1987; RAN 1987-1988|CL1979|trevor francis
+mcgovern|John McGovern|جون ماكغوفرن|N-SCO|CM|1949-10-28|4||LEE 1974-1975; NFO 1974-1982|CL1979 CL1980|mcgovern
+bowyer|Ian Bowyer|إيان بوير|N-ENG|MF|1951-06-06|4||MCI 1968-1971; NFO 1973-1981|CL1979 CL1980|bowyer
+robertson-j|John Robertson|جون روبرتسون|N-SCO|LW|1953-01-20|3|1978-1983|NFO 1970-1983|CL1979 CL1980|john robertson
+birtles|Garry Birtles|غاري بيرتلز|N-ENG|CF|1956-07-27|4|1980-1980|NFO 1976-1980; MUN 1980-1982; NFO 1982-1987|CL1979 CL1980|birtles
+woodcock|Tony Woodcock|توني وودكوك|N-ENG|FW|1955-12-06|3|1977-1986|NFO 1973-1979; KOE 1979-1982; ARS 1982-1986|CL1979|woodcock
+moller-j|Jan Möller|يان مولر|N-SWE|GK|1953-09-17|4|1979-1980||-|jan moller
+andersson-r|Roland Andersson|رولاند أندرسون|N-SWE|RB|1950-03-28|4|||-|roland andersson
+jonsson-k|Kent Jönsson|كينت يونسون|N-SWE|CB|1950-01-01|4|||-|kent jonsson
+andersson-m|Magnus Andersson|ماغنوس أندرسون|N-SWE|CB|1958-01-01|4|||-|magnus andersson
+erlandsson|Ingemar Erlandsson|إنغمار إرلاندسون|N-SWE|LB|1957-11-16|4|1978-1985|MAL2 1975-1986|-|erlandsson
+prytz|Robert Prytz|روبرت بريتز|N-SWE|MF|1960-01-12|4|1979-1989|MAL2 1977-1982; RAN 1982-1985|-|prytz
+tapper|Staffan Tapper|ستافان تابر|N-SWE|MF|1948-07-10|4|1971-1978|MAL2 1968-1980|-|tapper
+ljungberg-a|Anders Ljungberg|أندرس يونغبيري|N-SWE|MF|1947-02-01|4|||-|anders ljungberg
+kinnvall|Jan-Olov Kinnvall|يان أولوف كينفال|N-SWE|MF|1955-01-01|4|||-|kinnvall
+cervin|Tore Cervin|توري سيرفين|N-SWE|FW|1950-01-01|4|||-|cervin
+hansson-t|Tommy Hansson|تومي هانسون|N-SWE|FW|1956-01-01|4|||-|tommy hansson
+malmberg|Claes Malmberg|كلاس مالمبيري|N-SWE|MF|1955-01-01|4|||-|malmberg
+andersson-t|Tommy Andersson|تومي أندرسون|N-SWE|FW|1955-01-01|4|||-|tommy andersson
+swain|Kenny Swain|كيني سوين|N-ENG|RB|1952-01-28|4||CHE 1973-1978; AVL 1978-1983; NFO 1982-1985|CL1982|kenny swain
+mcnaught|Ken McNaught|كين ماكنوت|N-SCO|CB|1955-01-11|4||EVE 1974-1977; AVL 1977-1983|CL1982|mcnaught
+evans-a|Allan Evans|آلان إيفانز|N-SCO|CB|1956-10-12|4|1982-1982|AVL 1977-1989|CL1982|allan evans
+williams-g|Gary Williams|غاري ويليامز|N-ENG|LB|1960-06-17|4||AVL 1978-1987|CL1982|gary williams
+mortimer|Dennis Mortimer|دينيس مورتيمر|N-ENG|CM|1952-04-05|4||AVL 1975-1985|CL1982|mortimer
+cowans|Gordon Cowans|غوردون كوانز|N-ENG|MF|1958-10-27|3|1983-1990|AVL 1976-1985; BRE 1985-1988; AVL 1988-1991; BLB 1991-1993|CL1982|cowans
+bremner|Des Bremner|ديس بريمنر|N-SCO|MF|1952-09-07|4|1976-1976|HIB 1971-1979; AVL 1979-1984|CL1982|des bremner
+withe|Peter Withe|بيتر ويذ|N-ENG|CF|1951-08-30|3|1981-1985|NFO 1976-1978; NEW 1978-1980; AVL 1980-1985|CL1982|withe
+shaw-g|Gary Shaw|غاري شو|N-ENG|FW|1961-01-21|4||AVL 1978-1988|CL1982|gary shaw
+morley|Tony Morley|توني مورلي|N-ENG|LW|1954-08-26|4|1982-1982|AVL 1979-1983|CL1982|morley
+spink|Nigel Spink|نايجل سبينك|N-ENG|GK|1958-08-08|4|1983-1983|AVL 1977-1996|CL1982|spink
+muller-m|Manfred Müller|مانفريد مولر|N-GER|GK|1947-04-28|4||BAY 1979-1984|-|manfred muller
+weiner|Hans Weiner|هانز فاينر|N-AUT|CB|1950-01-01|4||BAY 1981-1982|-|weiner
+horsmann|Udo Horsmann|أودو هورسمان|N-GER|LB|1952-03-30|4||BAY 1975-1983|CL1976|horsmann
+mathy|Reinhold Mathy|راينهولد ماتي|N-GER|MF|1962-04-12|4||BAY 1980-1987|-|mathy
+kraus|Wolfgang Kraus|فولفغانغ كراوس|N-GER|MF|1953-08-20|4||BAY 1980-1983|-|wolfgang kraus
+durnberger|Bernd Dürnberger|بيرند دورنبيرغر|N-GER|MF|1953-09-17|4||BAY 1972-1985|CL1974 CL1975 CL1976|durnberger
+guttler|Günter Güttler|غونتر غوتلر|N-GER|MF|1961-01-01|4||BAY 1981-1982|-|guttler
+niedermayer|Kurt Niedermayer|كورت نيدرماير|N-GER|MF|1955-11-25|4||BAY 1977-1982|-|niedermayer
+stojanovic|Stevan Stojanović|ستيفان ستويانوفيتش|N-YUG|GK|1964-10-29|4||RSB 1981-1991|CL1991|stojanovic
+sabanadzovic|Refik Šabanadžović|رفيق شابانادجوفيتش|N-YUG|RB|1965-08-02|4|1987-1990|RSB 1990-1992|CL1991|sabanadzovic
+belodedici|Miodrag Belodedici|ميودراغ بيلوديديتشي|N-ROU|SW|1964-05-20|3|1984-2000|STE 1982-1988; RSB 1989-1992; VAL 1992-1994; STE 1998-2001|CL1986 CL1991|belodedici
+najdoski|Ilija Najdoski|إيليا نايدوسكي|N-YUG|CB|1964-03-26|4||RSB 1989-1992|CL1991|najdoski
+marovic|Slobodan Marović|سلوبودان ماروفيتش|N-YUG|LB|1964-07-13|4||RSB 1986-1992|CL1991|marovic
+mihajlovic|Siniša Mihajlović|سينيشا ميهايلوفيتش|N-YUG|DF|1969-02-20|2|1991-2003|RSB 1990-1992; ROM 1992-1994; SAM 1994-1998; LAZ 1998-2004; INT 2004-2006|CL1991|mihajlovic
+pancev|Darko Pančev|داركو بانتشيف|N-YUG|CF|1965-09-07|3|1984-1995|RSB 1988-1992; INT 1992-1995|CL1991|pancev
+binic|Dragiša Binić|دراغيشا بينيتش|N-YUG|FW|1961-10-20|4||RSB 1990-1991|CL1991|binic
+stosic|Vlada Stošić|فلادا ستوشيتش|N-YUG|MF|1965-01-01|4||RSB 1990-1991|CL1991|stosic
+olmeta|Pascal Olmeta|باسكال أولميتا|N-FRA|GK|1961-04-07|4||OM 1990-1993; OL 1993-1997|-|olmeta
+amoros|Manuel Amoros|مانويل أموروس|N-FRA|DF|1962-02-01|3|1982-1992|ASM 1980-1989; OM 1989-1993; OL 1993-1995|EURO1984|amoros
+mozer|Carlos Mozer|كارلوس موزر|N-BRA|CB|1960-09-19|3|1983-1994|FLA 1980-1987; BEN 1987-1989; OM 1989-1992; BEN 1992-1995|-|mozer
+germain|Bruno Germain|برونو جيرمان|N-FRA|DF|1960-04-28|4|||-|bruno germain
+casoni|Bernard Casoni|برنارد كازوني|N-FRA|CB|1961-09-04|4|1988-1992|OM 1990-1996|CL1993|casoni
+waddle|Chris Waddle|كريس وادل|N-ENG|RW|1960-12-14|2|1985-1991|NEW 1980-1985; TOT 1985-1989; OM 1989-1992; SHW 1992-1996|-|waddle,magic chris
+fournier|Laurent Fournier|لوران فورنييه|N-FRA|MF|1964-09-14|4||OM 1990-1991; PSG 1991-1994; BOR 1994-1995; PSG 1995-1998|-|fournier
+stojkovic|Dragan Stojković|دراغان ستويكوفيتش|N-YUG|AM|1965-03-03|2|1983-2001|RSB 1986-1990; OM 1990-1994|-|piksi,stojkovic
+vercruysse|Philippe Vercruysse|فيليب فيركرويس|N-FRA|MF|1962-01-28|4|1983-1990|OM 1989-1991|-|vercruysse
+klos|Stefan Klos|شتيفان كلوس|N-GER|GK|1971-08-16|4||BVB 1991-1998; RAN 1998-2007|CL1997|klos
+sammer|Matthias Sammer|ماتياس زامر|N-GER|SW|1967-09-05|2|1990-1997|VFB 1990-1992; INT 1992-1993; BVB 1992-1999|EURO1996 CL1997 BDO1996|sammer
+kree|Martin Kree|مارتن كري|N-GER|CB|1965-01-27|4||B04 1989-1994; BVB 1994-1998|CL1997|kree
+heinrich|Jörg Heinrich|يورغ هاينريش|N-GER|DF|1969-12-06|4|1995-2002|BVB 1996-1998; FIO 1998-2000; BVB 2000-2003|CL1997|heinrich
+lambert|Paul Lambert|بول لامبرت|N-SCO|CM|1969-08-07|3|1995-2004|BVB 1996-1997; CEL 1997-2005|CL1997|paul lambert
+moller-a|Andreas Möller|أندرياس موللر|N-GER|AM|1967-09-02|2|1988-1999|BVB 1988-1990; SGE 1990-1992; JUV 1992-1994; BVB 1994-2000; S04 2000-2003|WC1990 EURO1996 CL1997|andreas moller
+riedle|Karl-Heinz Riedle|كارل هاينز ريدله|N-GER|CF|1965-09-16|3|1988-1994|SVW 1987-1990; LAZ 1990-1993; BVB 1993-1997; LIV 1997-1999|WC1990 CL1997|riedle
+chapuisat|Stéphane Chapuisat|ستيفان شابويسات|N-SUI|FW|1969-06-28|3|1989-2004|BVB 1991-1999|CL1997|chapuisat
+zorc|Michael Zorc|ميكايل تسورك|N-GER|MF|1962-08-25|4|1992-1993|BVB 1981-1998|CL1997|zorc
+ricken|Lars Ricken|لارس ريكن|N-GER|MF|1976-07-10|4|1997-2002|BVB 1993-2007|CL1997|ricken
+herrlich|Heiko Herrlich|هايكو هيرليش|N-GER|FW|1971-12-03|4|1995-1995|B04 1989-1993; BMG 1993-1995; BVB 1995-2000|CL1997|herrlich
+porrini|Sergio Porrini|سيرجيو بوريني|N-ITA|DF|1968-11-08|4|1993-1997|ATA 1991-1993; JUV 1993-1997; RAN 1997-2001|CL1996|porrini
+iuliano|Mark Iuliano|مارك يوليانو|N-ITA|CB|1973-08-12|3|1998-2004|JUV 1996-2005|-|iuliano
+vieri|Christian Vieri|كريستيان فييري|N-ITA|CF|1973-07-12|1|1997-2005|ATA 1995-1996; JUV 1996-1997; ATM 1997-1998; LAZ 1998-1999; INT 1999-2005; MIL 2005-2006; ASM 2005-2006|-|bobo,vieri,فييري
+amoruso|Nicola Amoruso|نيكولا أموروزو|N-ITA|FW|1974-08-29|4||JUV 1996-1999; NAP 2002-2003; PAR 2007-2008|-|amoruso

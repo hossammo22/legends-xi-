@@ -1,0 +1,112 @@
+# Players added with batch-2 verified finals. Empty career = only the verified lineup spell is known (marked partial).
+cohen|George Cohen|جورج كوهين|N-ENG|RB|1939-10-22|3|1964-1967|FUL 1956-1969|WC1966|george cohen
+charlton-j|Jack Charlton|جاك تشارلتون|N-ENG|CB|1935-05-08|2|1965-1970|LEE 1952-1973|WC1966|jack charlton,big jack
+wilson-r|Ray Wilson|راي ويلسون|N-ENG|LB|1934-12-17|3|1960-1968|EVE 1964-1969|WC1966|ray wilson
+stiles|Nobby Stiles|نوبي ستايلز|N-ENG|DM|1942-05-18|2|1965-1970|MUN 1960-1971; MID 1971-1973|WC1966 CL1968|nobby stiles
+ball|Alan Ball|آلان بول|N-ENG|MF|1945-05-12|2|1965-1975|EVE 1966-1971; ARS 1971-1976; SOU 1976-1978|WC1966|alan ball
+peters|Martin Peters|مارتن بيترز|N-ENG|MF|1943-11-08|3|1966-1974|WHU 1960-1970; TOT 1969-1975|WC1966|martin peters
+hunt|Roger Hunt|روجر هانت|N-ENG|FW|1938-07-20|3|1962-1969|LIV 1958-1969|WC1966|roger hunt
+tilkowski|Hans Tilkowski|هانز تيلكوفسكي|N-GER|GK|1935-07-12|4|1957-1967|BVB 1963-1967|-|tilkowski
+hottges|Horst-Dieter Höttges|هورست ديتر هوتغيس|N-GER|DF|1943-09-10|4|1965-1974|SVW 1964-1978|WC1974 EURO1972|hottges
+schulz|Willi Schulz|فيلي شولتس|N-GER|CB|1938-10-04|4|1959-1970|S04 1960-1965; HSV 1965-1973|-|willi schulz
+weber|Wolfgang Weber|فولفغانغ فيبر|N-GER|CB|1944-06-26|4|1964-1974|KOE 1962-1978|-|wolfgang weber
+schnellinger|Karl-Heinz Schnellinger|كارل هاينز شنيلينغر|N-GER|LB|1939-03-31|3|1958-1971|KOE 1958-1963; ROM 1964-1965; MIL 1965-1974|CL1969|schnellinger
+haller|Helmut Haller|هيلموت هالر|N-GER|FW|1939-07-21|3|1958-1970|BLG 1962-1968; JUV 1968-1973|-|haller
+seeler|Uwe Seeler|أوفه زيلر|N-GER|CF|1936-11-05|2|1954-1970|HSV 1953-1972|-|uwe seeler
+held|Sigfried Held|زيغفريد هيلد|N-GER|FW|1942-08-07|4|1966-1973|BVB 1965-1971|-|held
+emmerich|Lothar Emmerich|لوثار إيمريش|N-GER|FW|1941-11-29|4|1966-1966|BVB 1960-1969|-|emmerich
+fillol|Ubaldo Fillol|أوبالدو فيول|N-ARG|GK|1950-07-21|3|1974-1985|RIV 1974-1983; FLA 1984-1985; ATM 1985-1986|WC1978|fillol,el pato
+olguin|Jorge Olguín|خورخي أولغين|N-ARG|RB|1952-05-17|4|1976-1982|SLO 1971-1979; IND 1979-1982|WC1978|olguin
+galvan|Luis Galván|لويس غالفان|N-ARG|CB|1948-02-24|4|1975-1982||WC1978|galvan
+passarella|Daniel Passarella|دانيال باساريلا|N-ARG|CB|1953-05-25|2|1976-1986|RIV 1974-1982; FIO 1982-1986; INT 1986-1988; RIV 1988-1989|WC1978 WC1986|passarella,el kaiser
+tarantini|Alberto Tarantini|ألبرتو تارانتيني|N-ARG|LB|1955-12-03|3|1974-1982|BOC 1973-1977; BIR 1978-1979; RIV 1979-1980|WC1978|tarantini
+gallego|Américo Gallego|أميريكو غاييغو|N-ARG|DM|1955-04-25|4|1975-1982|NOB 1974-1980; RIV 1981-1988|WC1978|gallego
+ardiles|Osvaldo Ardiles|أوسفالدو أرديليس|N-ARG|CM|1952-08-03|2|1975-1982|TOT 1978-1988; PSG 1982-1983|WC1978|ardiles,ossie
+kempes|Mario Kempes|ماريو كيمبس|N-ARG|FW|1954-07-15|1|1973-1982|VAL 1976-1981; RIV 1981-1982; VAL 1982-1984|WC1978|kempes,el matador
+bertoni|Daniel Bertoni|دانيال بيرتوني|N-ARG|RW|1955-03-14|3|1974-1982|IND 1973-1977; SEV 1977-1980; FIO 1980-1984; NAP 1984-1986|WC1978|bertoni
+ortiz|Oscar Ortiz|أوسكار أورتيز|N-ARG|LW|1953-04-08|4|1975-1979||WC1978|oscar ortiz
+luque|Leopoldo Luque|ليوبولدو لوكي|N-ARG|CF|1949-05-03|3|1975-1981|RIV 1975-1980|WC1978|luque
+larrosa|Omar Larrosa|عمر لاروسا|N-ARG|MF|1947-11-18|4|1974-1978|IND 1971-1981|WC1978|larrosa
+houseman|René Houseman|رينيه هاوسمان|N-ARG|RW|1953-07-19|3|1973-1979||WC1978|houseman
+brandts|Ernie Brandts|إرني براندتس|N-NED|CB|1956-02-03|4|1977-1985|PSV 1977-1986|-|brandts
+poortvliet|Jan Poortvliet|يان بورتفليت|N-NED|LB|1955-09-21|4|1977-1979|PSV 1975-1980|-|poortvliet
+vandekerkhof-w|Willy van de Kerkhof|ويلي فان دي كيرخوف|N-NED|MF|1951-09-16|4|1974-1985|TWE 1970-1973; PSV 1973-1988|-|willy van de kerkhof
+nanninga|Dick Nanninga|ديك نانينغا|N-NED|FW|1949-01-17|4|1978-1981||-|nanninga
+gentile|Claudio Gentile|كلاوديو جنتيلي|N-ITA|DF|1953-09-27|2|1975-1984|JUV 1973-1984; FIO 1984-1987|WC1982 CL1985|gentile
+collovati|Fulvio Collovati|فولفيو كولوفاتي|N-ITA|CB|1957-05-09|3|1979-1986|MIL 1976-1982; INT 1982-1986; ROM 1987-1989|WC1982|collovati
+cabrini|Antonio Cabrini|أنطونيو كابريني|N-ITA|LB|1957-10-08|2|1978-1987|ATA 1975-1976; JUV 1976-1989; BLG 1989-1991|WC1982 CL1985|cabrini
+conti-b|Bruno Conti|برونو كونتي|N-ITA|RW|1955-03-13|2|1980-1986|ROM 1973-1991; GEN 1975-1976; GEN 1978-1979|WC1982|bruno conti
+graziani|Francesco Graziani|فرانشيسكو غراتسياني|N-ITA|FW|1952-12-16|3|1975-1983|TOR 1973-1981; FIO 1981-1983; ROM 1983-1986|WC1982|graziani,ciccio
+stielike|Uli Stielike|أولي شتيليكه|N-GER|SW|1954-11-15|2|1975-1984|BMG 1972-1977; RMA 1977-1985|EURO1980|stielike
+forster-b|Bernd Förster|بيرند فورستر|N-GER|DF|1956-05-03|4|1979-1986|VFB 1979-1986|EURO1980|bernd forster
+kaltz|Manfred Kaltz|مانفريد كالتس|N-GER|RB|1953-01-06|3|1975-1983|HSV 1971-1989|EURO1980 CL1983|kaltz
+dremmler|Wolfgang Dremmler|فولفغانغ دريملر|N-GER|MF|1954-07-12|4|1981-1984|BAY 1979-1986|-|dremmler
+fischer|Klaus Fischer|كلاوس فيشر|N-GER|CF|1949-12-27|3|1977-1982|S04 1970-1981; KOE 1981-1984; B04 1984-1988|-|klaus fischer
+muller-h|Hansi Müller|هانزي مولر|N-GER|AM|1957-07-27|3|1978-1983|VFB 1975-1982; INT 1982-1984|EURO1980|hansi muller
+hrubesch|Horst Hrubesch|هورست هروبيش|N-GER|CF|1951-04-17|3|1980-1982|HSV 1978-1983|EURO1980 CL1983|hrubesch
+ramelow|Carsten Ramelow|كارستن راميلو|N-GER|DM|1974-03-20|4|1998-2003|B04 1996-2008|-|ramelow
+metzelder|Christoph Metzelder|كريستوف ميتسيلدر|N-GER|CB|1980-11-05|3|2002-2008|BVB 2000-2007; RMA 2007-2010; S04 2010-2013|-|metzelder
+frings|Torsten Frings|تورستن فرينغس|N-GER|MF|1976-11-22|3|2001-2009|SVW 1997-2002; BVB 2002-2004; BAY 2004-2005; SVW 2005-2011; TFC 2011-2013|-|frings
+bode|Marco Bode|ماركو بوده|N-GER|LM|1969-07-23|4|1995-2002|SVW 1988-2002|EURO1996|bode
+schneider|Bernd Schneider|بيرند شنايدر|N-GER|MF|1973-11-17|3|1999-2008|SGE 1998-1999; B04 1999-2009|-|bernd schneider
+neuville|Oliver Neuville|أوليفر نويفيل|N-GER|FW|1973-05-01|3|1998-2008|B04 1999-2004; BMG 2004-2010|-|neuville
+bierhoff|Oliver Bierhoff|أوليفر بيرهوف|N-GER|CF|1968-05-01|2|1996-2002|HSV 1988-1990; UDI 1995-1998; MIL 1998-2001; ASM 2001-2002|EURO1996|bierhoff
+asamoah|Gerald Asamoah|جيرالد أسامواه|N-GER|FW|1978-10-03|4|2001-2006|S04 1999-2010|-|asamoah
+ziege|Christian Ziege|كريستيان تسيغه|N-GER|LB|1972-02-01|3|1993-2004|BAY 1990-1997; MIL 1997-1999; MID 1999-2000; LIV 2000-2001; TOT 2001-2004|EURO1996|ziege
+vanbreukelen|Hans van Breukelen|هانز فان بروكلين|N-NED|GK|1956-10-04|3|1980-1992|NFO 1982-1984; PSV 1984-1994|EURO1988 CL1988|van breukelen
+vanaerle|Berry van Aerle|بيري فان آرله|N-NED|RB|1962-12-08|4|1987-1992|PSV 1981-1994|EURO1988 CL1988|van aerle
+vantiggelen|Adri van Tiggelen|أدري فان تيغيلن|N-NED|LB|1957-06-16|4|1983-1992|AND 1986-1991; PSV 1991-1993|EURO1988|van tiggelen
+vanenburg|Gerald Vanenburg|خيرالد فانينبورغ|N-NED|RM|1964-03-05|4|1982-1992|AJA 1980-1986; PSV 1986-1993|EURO1988 CL1988|vanenburg
+wouters|Jan Wouters|يان فاوترز|N-NED|CM|1960-07-17|3|1982-1994|AJA 1986-1992; BAY 1991-1994; PSV 1994-1996|EURO1988|jan wouters
+muhren-a|Arnold Mühren|أرنولد مورن|N-NED|MF|1951-06-02|3|1978-1988|AJA 1970-1974; TWE 1974-1978; MUN 1982-1985; AJA 1985-1989|EURO1988|arnold muhren
+koeman-e|Erwin Koeman|إروين كومان|N-NED|MF|1961-09-20|4|1983-1994|PSV 1985-1990|EURO1988 CL1988|erwin koeman
+dasayev|Rinat Dasayev|رينات داساييف|N-URS|GK|1957-06-13|2|1979-1990|SPA 1977-1988; SEV 1988-1991|-|dasayev
+demyanenko|Anatoliy Demyanenko|أناتولي ديميانينكو|N-URS|DF|1959-02-19|3|1981-1990|DYK 1979-1991|-|demyanenko
+aleinikov|Sergei Aleinikov|سيرغي أليينيكوف|N-URS|MF|1961-11-07|3|1981-1992|JUV 1989-1990|-|aleinikov
+khidiyatullin|Vagiz Khidiyatullin|فاغيز خيدياتولين|N-URS|DF|1959-03-03|4|1978-1990|SPA 1976-1981|-|khidiyatullin
+rats|Vasyl Rats|فاسيل راتس|N-URS|LB|1961-03-25|4|1986-1990|DYK 1981-1989|-|rats
+lytovchenko|Hennadiy Lytovchenko|غينادي ليتوفتشينكو|N-URS|MF|1963-09-11|4|1984-1990|DYK 1986-1990|-|lytovchenko
+zavarov|Oleksandr Zavarov|أولكسندر زافاروف|N-URS|AM|1961-04-26|3|1985-1990|DYK 1983-1988; JUV 1988-1990|-|zavarov
+mykhaylychenko|Oleksiy Mykhaylychenko|أوليكسي ميخايليتشينكو|N-URS|MF|1963-03-30|4|1987-1996|DYK 1981-1990; SAM 1990-1991; RAN 1991-1996|-|mikhailichenko
+gotsmanov|Sergey Gotsmanov|سيرغي غوتسمانوف|N-URS|MF|1959-03-27|4|1984-1990||-|gotsmanov
+protasov|Oleh Protasov|أوليه بروتاسوف|N-URS|CF|1964-02-04|3|1984-1994|DYK 1987-1990; OLY 1990-1994|-|protasov
+belanov|Igor Belanov|إيغور بيلانوف|N-URS|FW|1960-09-25|2|1985-1990|DYK 1985-1989|BDO1986|belanov
+baltacha|Sergei Baltacha|سيرغي بالتاتشا|N-URS|DF|1958-02-17|4|1980-1988|DYK 1976-1988|-|baltacha
+pasulko|Viktor Pasulko|فيكتور باسولكو|N-URS|MF|1961-01-01|4|1987-1988|SPA 1987-1990|-|pasulko
+simpson-r|Ronnie Simpson|روني سيمبسون|N-SCO|GK|1930-10-11|4|1967-1969|NEW 1951-1960; CEL 1964-1970|CL1967|ronnie simpson
+craig-j|Jim Craig|جيم كريغ|N-SCO|RB|1943-05-07|4|1967-1967|CEL 1965-1972|CL1967|jim craig
+mcneill|Billy McNeill|بيلي ماكنيل|N-SCO|CB|1940-03-02|3|1961-1972|CEL 1957-1975|CL1967|billy mcneill,caesar
+clark-j|John Clark|جون كلارك|N-SCO|CB|1941-03-13|4|1966-1967|CEL 1958-1971|CL1967|john clark
+gemmell|Tommy Gemmell|تومي جيميل|N-SCO|LB|1943-10-16|3|1966-1971|CEL 1961-1971; NFO 1971-1973|CL1967|gemmell
+murdoch|Bobby Murdoch|بوبي ميردوك|N-SCO|CM|1944-08-17|3|1965-1969|CEL 1959-1973; MID 1973-1976|CL1967|murdoch
+auld|Bertie Auld|بيرتي أولد|N-SCO|CM|1938-03-23|4|1959-1960|CEL 1965-1971|CL1967|auld
+johnstone-j|Jimmy Johnstone|جيمي جونستون|N-SCO|RW|1944-09-30|2|1964-1974|CEL 1961-1975|CL1967|jinky,jimmy johnstone
+chalmers|Stevie Chalmers|ستيفي تشالمرز|N-SCO|CF|1936-12-26|4|1964-1966|CEL 1959-1971|CL1967|chalmers
+wallace-w|Willie Wallace|ويلي والاس|N-SCO|FW|1940-06-23|4|1965-1968|CEL 1966-1971|CL1967|willie wallace
+lennox|Bobby Lennox|بوبي لينوكس|N-SCO|LW|1943-08-30|3|1966-1970|CEL 1961-1980|CL1967|bobby lennox
+fallon|John Fallon|جون فالون|N-SCO|GK|1940-03-16|4||CEL 1958-1972|CL1967|fallon
+sarti|Giuliano Sarti|جوليانو سارتي|N-ITA|GK|1933-10-02|4|1959-1967|FIO 1954-1963; INT 1963-1968|CL1964 CL1965|sarti
+picchi|Armando Picchi|أرماندو بيكي|N-ITA|SW|1935-06-20|3|1964-1968|INT 1960-1967|CL1964 CL1965|picchi
+guarneri|Aristide Guarneri|أريستيدي غوارنيري|N-ITA|CB|1938-03-07|4|1963-1968|INT 1958-1967|CL1964 CL1965|guarneri
+bicicli|Mauro Bicicli|ماورو بيتشيكلي|N-ITA|MF|1935-01-01|4||INT 1966-1967|-|bicicli
+cappellini|Renato Cappellini|ريناتو كابيليني|N-ITA|FW|1943-10-09|4||INT 1966-1967|-|cappellini
+corso|Mario Corso|ماريو كورسو|N-ITA|LW|1941-08-25|3|1961-1971|INT 1957-1973|CL1964 CL1965|corso,mariolino
+stepney|Alex Stepney|أليكس ستيبني|N-ENG|GK|1942-09-18|3|1968-1968|MUN 1966-1978|CL1968|stepney
+brennan|Shay Brennan|شاي برينان|N-IRL|RB|1937-05-06|4|1965-1970|MUN 1957-1970|CL1968|shay brennan
+foulkes|Bill Foulkes|بيل فولكس|N-ENG|CB|1932-01-05|4|1954-1954|MUN 1951-1970|CL1968|foulkes
+dunne-t|Tony Dunne|توني دان|N-IRL|LB|1941-07-24|4|1962-1975|MUN 1960-1973; BOL 1973-1979|CL1968|tony dunne
+crerand|Pat Crerand|بات كريراند|N-SCO|CM|1939-02-19|4|1961-1965|CEL 1957-1963; MUN 1962-1971|CL1968|crerand
+kidd|Brian Kidd|براين كيد|N-ENG|FW|1949-05-29|4|1970-1970|MUN 1967-1974; ARS 1974-1976; MCI 1976-1979; EVE 1979-1980|CL1968|brian kidd
+sadler|David Sadler|ديفيد سادلر|N-ENG|DF|1946-02-05|4|1967-1970|MUN 1963-1974|CL1968|sadler
+aston|John Aston|جون أستون|N-ENG|LW|1947-06-28|4||MUN 1964-1972|CL1968|john aston
+rimmer|Jimmy Rimmer|جيمي ريمر|N-ENG|GK|1948-02-10|4|1976-1976|MUN 1965-1974; ARS 1974-1977; AVL 1977-1983|CL1968 CL1982|jimmy rimmer
+henrique-j|José Henrique|جوزيه هنريكي|N-POR|GK|1943-01-01|4|1967-1973|BEN 1960-1976|-|jose henrique
+calisto|Adolfo Calisto|أدولفو كاليستو|N-POR|RB|1944-01-01|4||BEN 1967-1968|-|adolfo calisto
+humberto-f|Humberto Fernandes|أومبيرتو فرنانديش|N-POR|CB|1940-01-01|4||BEN 1967-1968|-|humberto fernandes
+jacinto|Jacinto Santos|جاسينتو سانتوس|N-POR|CB|1941-01-01|4||BEN 1967-1968|-|jacinto
+cruz-f|Fernando Cruz|فرناندو كروز|N-POR|LB|1940-08-12|4|1962-1970|BEN 1959-1970|CL1961 CL1962|fernando cruz
+graca|Jaime Graça|جايمي غراسا|N-POR|MF|1942-01-30|4|1965-1972|BEN 1966-1975|-|jaime graca
+augusto-j|José Augusto|جوزيه أوغوستو|N-POR|RW|1937-04-13|3|1958-1968|BEN 1959-1970|CL1961 CL1962|jose augusto
+torres-j|José Torres|جوزيه توريس|N-POR|CF|1938-09-08|3|1963-1973|BEN 1959-1971|-|jose torres
+simoes|António Simões|أنطونيو سيموس|N-POR|LW|1943-12-14|3|1962-1973|BEN 1961-1975|CL1962|antonio simoes
+nascimento|Nascimento|ناسيمنتو|N-POR|GK|1940-01-01|4||BEN 1967-1968|-|nascimento

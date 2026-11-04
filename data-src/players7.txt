@@ -1,0 +1,69 @@
+# Players added with UEFA-verified finals (2004, 2008, 2009, 2014)
+brown-w|Wes Brown|ويس براون|N-ENG|DF|1979-10-13|3|1999-2010|MUN 1996-2011; SUN 2011-2016|CL2008|wes brown
+hargreaves|Owen Hargreaves|أوين هارغريفز|N-ENG|MF|1981-01-20|3|2001-2008|BAY 1999-2007; MUN 2007-2011; MCI 2011-2012|CL2001 CL2008|hargreaves
+kuszczak|Tomasz Kuszczak|توماش كوشتشاك|N-POL|GK|1982-03-20|4|2003-2009|WBA 2004-2006; MUN 2006-2012|-|kuszczak
+anderson|Anderson|أندرسون|N-BRA|MF|1988-04-13|3|2007-2008|POR 2005-2007; MUN 2007-2015; FIO 2013-2014|CL2008|anderson
+oshea|John O'Shea|جون أوشي|N-IRL|DF|1981-04-30|3|2001-2018|MUN 1999-2011; SUN 2011-2018|CL2008|oshea,john o'shea
+fletcher|Darren Fletcher|دارين فليتشر|N-SCO|MF|1984-02-01|3|2003-2017|MUN 2003-2015; WBA 2014-2017; STO 2017-2019|CL2008|fletcher
+silvestre|Mikaël Silvestre|ميكاييل سيلفستر|N-FRA|DF|1977-08-09|3|2001-2006|INT 1998-1999; MUN 1999-2008; ARS 2008-2010; SVW 2010-2012|EURO2000 CL2008|silvestre
+essien|Michael Essien|مايكل إيسيان|N-GHA|MF|1982-12-03|2|2002-2014|OL 2003-2005; CHE 2005-2014; RMA 2012-2013; MIL 2013-2015|CL2012|essien,the bison
+ballack|Michael Ballack|ميكايل بالاك|N-GER|MF|1976-09-26|1|1999-2010|KAI 1997-1999; B04 1999-2002; BAY 2002-2006; CHE 2006-2010; B04 2010-2012|-|ballack,بالاك
+cudicini|Carlo Cudicini|كارلو كوديتشيني|N-ITA|GK|1973-09-06|4||LAZ 1995-1996; CHE 1999-2010; TOT 2009-2013|-|cudicini
+alex|Alex (Alex Rodrigo Dias da Costa)|أليكس|N-BRA|CB|1982-06-17|4|2003-2008|SAN 2002-2004; PSV 2005-2007; CHE 2007-2012; PSG 2011-2014; MIL 2014-2016|-|alex
+anelka|Nicolas Anelka|نيكولا أنيلكا|N-FRA|CF|1979-03-14|2|1998-2010|PSG 1995-1997; ARS 1996-1999; RMA 1999-2000; PSG 2000-2002; LIV 2001-2002; MCI 2002-2005; FEN 2004-2006; BOL 2006-2008; CHE 2007-2012; JUV 2012-2013; WBA 2013-2014|EURO2000 CL2000|anelka
+sylvinho|Sylvinho|سيلفينيو|N-BRA|LB|1974-04-12|3|2000-2001|COR 1994-1999; ARS 1999-2001; CLT 2001-2004; BAR 2004-2009; MCI 2009-2010|CL2006 CL2009|sylvinho
+pinto|José Manuel Pinto|خوسيه مانويل بينتو|N-ESP|GK|1975-11-08|4||BET 1998-2003; CLT 2003-2008; BAR 2008-2014|CL2009 CL2011|pinto
+caceres|Martín Cáceres|مارتين كاسيريس|N-URU|DF|1987-04-07|3|2007-2022|VIL 2006-2007; BAR 2008-2010; JUV 2009-2010; SEV 2010-2012; JUV 2012-2016; LAZ 2018-2019; FIO 2019-2021|CA2011|caceres
+bojan|Bojan Krkić|بويان كركيتش|N-ESP|FW|1990-08-28|3|2010-2010|BAR 2007-2011; ROM 2011-2012; MIL 2012-2013; AJA 2013-2014; STO 2014-2019|CL2009 CL2011|bojan
+muniesa|Marc Muniesa|مارك مونييسا|N-ESP|DF|1992-03-27|4||BAR 2008-2013; STO 2013-2018|CL2009|muniesa
+berbatov|Dimitar Berbatov|ديميتار برباتوف|N-BUL|CF|1981-01-30|2|1999-2010|B04 2001-2006; TOT 2006-2008; MUN 2008-2012; FUL 2012-2014; ASM 2013-2015|-|berbatov
+rafael|Rafael da Silva|رافاييل دا سيلفا|N-BRA|RB|1990-07-09|4|2012-2012|MUN 2008-2015; OL 2015-2021|-|rafael
+evans|Jonny Evans|جوني إيفانز|N-NIR|CB|1988-01-03|3|2006-2023|MUN 2007-2015; WBA 2015-2018; LEI 2018-2023; MUN 2023-2025|-|jonny evans
+coentrao|Fábio Coentrão|فابيو كوينتراو|N-POR|LB|1988-03-11|3|2009-2017|BEN 2007-2011; RMA 2011-2017; ASM 2015-2016; SCP 2017-2018|CL2014 CL2016 CL2017|coentrao
+arbeloa|Álvaro Arbeloa|ألفارو أربيلوا|N-ESP|RB|1983-01-17|3|2008-2014|LIV 2006-2009; RMA 2009-2016; WHU 2016-2017|WC2010 EURO2008 EURO2012 CL2014 CL2016|arbeloa
+lopez-d|Diego López|دييغو لوبيز|N-ESP|GK|1981-11-03|3|2009-2010|VIL 2007-2012; SEV 2012-2013; RMA 2012-2014; MIL 2014-2016; ESP 2016-2020|CL2014|diego lopez
+pepe|Pepe|بيبي|N-POR|CB|1983-02-26|2|2007-2024|POR 2004-2007; RMA 2007-2017; BJK 2017-2019; POR 2019-2024|EURO2016 CL2014 CL2016 CL2017|pepe
+illarramendi|Asier Illarramendi|أسيير إياراميندي|N-ESP|DM|1990-03-08|4|2013-2013|RSO 2011-2013; RMA 2013-2015; RSO 2015-2024|CL2014|illarramendi
+juanfran|Juanfran|خوانفران|N-ESP|RB|1985-01-09|3|2012-2016|RMA 2004-2006; ESP 2005-2006; OSA 2006-2011; ATM 2010-2019|EURO2012|juanfran
+miranda|Miranda|ميراندا|N-BRA|CB|1984-09-07|3|2009-2019|SPFC 2006-2011; ATM 2011-2015; INT 2015-2019|CA2019|miranda
+godin|Diego Godín|دييغو غودين|N-URU|CB|1986-02-16|2|2005-2022|VIL 2007-2010; ATM 2010-2019; INT 2019-2020; CAG 2020-2021|CA2011|godin
+filipeluis|Filipe Luís|فيليبي لويس|N-BRA|LB|1985-08-09|2|2009-2021|AJA 2004-2005; DEP 2006-2010; ATM 2010-2014; CHE 2014-2015; ATM 2015-2019; FLA 2019-2024|CA2019|filipe luis
+raulgarcia|Raúl García|راؤول غارسيا|N-ESP|MF|1986-07-11|3|2014-2016|OSA 2004-2007; ATM 2007-2015; ATH 2015-2024|-|raul garcia
+gabi|Gabi|غابي|N-ESP|CM|1983-07-10|3||ATM 2004-2007; ZAR 2007-2011; ATM 2011-2018; SAD 2018-2020|-|gabi
+koke|Koke|كوكي|N-ESP|CM|1992-01-08|2|2013-2026|ATM 2009-2026|-|koke
+diegocosta|Diego Costa|دييغو كوستا|N-ESP|CF|1988-10-07|2|2014-2018|ATM 2010-2014; CHE 2014-2017; ATM 2017-2020; ATMG 2021-2022; WOL 2022-2023|-|diego costa
+aranzubia|Daniel Aranzubia|دانيال أرانزوبيا|N-ESP|GK|1979-09-18|4||ATH 1998-2006; DEP 2006-2012; ATM 2012-2015|-|aranzubia
+mariosuarez|Mario Suárez|ماريو سواريز|N-ESP|DM|1987-02-24|4|2013-2014|ATM 2009-2015; FIO 2015-2016; WAT 2016-2017|-|mario suarez
+adrian|Adrián López|أدريان لوبيز|N-ESP|FW|1988-01-08|4|2012-2013|DEP 2007-2012; ATM 2012-2014; POR 2014-2017; VIL 2015-2017|-|adrian lopez
+cristianrodriguez|Cristian Rodríguez|كريستيان رودريغيز|N-URU|LM|1985-09-30|4|2003-2018|PSG 2005-2007; BEN 2007-2008; POR 2008-2012; ATM 2012-2014|CA2011|cebolla
+sosa|José Sosa|خوسيه سوسا|N-ARG|MF|1985-06-19|4|2008-2018|EST 2003-2007; BAY 2007-2010; ATM 2013-2014; BJK 2014-2016; MIL 2016-2017|-|pepe sosa
+diego-r|Diego Ribas|دييغو ريباس|N-BRA|AM|1985-02-28|3|2003-2014|SAN 2002-2004; POR 2004-2006; SVW 2006-2009; JUV 2009-2010; WOB 2010-2014; ATM 2011-2012; ATM 2013-2014; FEN 2014-2016; FLA 2016-2022|CA2004 CA2007|diego
+vitorbaia|Vítor Baía|فيتور بايا|N-POR|GK|1969-10-15|2|1990-2002|POR 1988-1996; BAR 1996-1999; POR 1998-2007|CL2004|vitor baia
+jorgecosta|Jorge Costa|جورج كوستا|N-POR|CB|1971-10-14|3|1992-2002|POR 1991-2005; CHA 2001-2002|CL2004|jorge costa
+nunovalente|Nuno Valente|نونو فالنتي|N-POR|LB|1974-09-12|4|2003-2006|POR 2002-2005; EVE 2005-2009|CL2004|nuno valente
+costinha|Costinha|كوستينيا|N-POR|DM|1974-12-01|3|1998-2006|ASM 1997-2001; POR 2001-2006; ATM 2006-2007|CL2004|costinha
+maniche|Maniche|مانيتشي|N-POR|CM|1977-11-11|3|2002-2007|BEN 1998-2002; POR 2002-2005; CHE 2005-2006; ATM 2006-2008; INT 2007-2008; KOE 2008-2010|CL2004|maniche
+pedromendes|Pedro Mendes|بيدرو منديش|N-POR|MF|1979-02-26|4|2004-2008|POR 2003-2004; TOT 2004-2006; POM 2005-2008; RAN 2008-2010|CL2004|pedro mendes
+carlosalberto-pt|Carlos Alberto (Porto)|كارلوس ألبرتو (بورتو)|N-BRA|FW|1984-12-11|4||FLU 2002-2004; POR 2003-2005; COR 2005-2006; SVW 2007-2009|CL2004|carlos alberto porto
+derlei|Derlei|ديرلي|N-BRA|FW|1975-07-14|4||POR 2002-2005; SCP 2006-2008|CL2004|derlei
+nuno|Nuno Espírito Santo|نونو إسبيريتو سانتو|N-POR|GK|1974-01-25|4||DEP 1997-2002; POR 2002-2007|CL2004|nuno espirito santo
+pedroemanuel|Pedro Emanuel|بيدرو إيمانويل|N-POR|CB|1975-02-11|4||POR 2001-2009|CL2004|pedro emanuel
+ricardocosta|Ricardo Costa|ريكاردو كوستا|N-POR|CB|1981-05-16|4|2004-2014|POR 2001-2007; WOB 2007-2010; LIL 2009-2010; VAL 2010-2015|CL2004|ricardo costa
+jankauskas|Edgaras Jankauskas|إدغاراس يانكاوسكاس|N-LTU|FW|1975-03-12|4|1991-2008|RSO 2000-2002; POR 2002-2005; BEN 2002-2003|CL2004|jankauskas
+alenichev|Dmitri Alenichev|ديميتري أليينيتشيف|N-RUS|MF|1972-10-20|4|1996-2005|SPA 1994-1998; ROM 1998-1999; PER 1999-2000; POR 2000-2004|CL2004|alenichev
+mccarthy|Benni McCarthy|بيني مكارثي|N-RSA|CF|1977-11-12|3|1997-2012|AJA 1997-1999; CLT 1999-2003; POR 2003-2006; BLB 2006-2010; WHU 2010-2011|CL2004|benni mccarthy
+roma-f|Flavio Roma|فلافيو روما|N-ITA|GK|1974-06-21|4||ASM 2001-2009; MIL 2009-2012|-|flavio roma
+ibarra|Hugo Ibarra|هوغو إيبارا|N-ARG|RB|1974-04-01|4|2001-2002|BOC 1993-2001; POR 2001-2002; ASM 2003-2004; BOC 2004-2010|-|ibarra
+rodriguez-ju|Julien Rodriguez|جوليان رودريغيز|N-FRA|CB|1978-06-11|4|2001-2001|ASM 2001-2005; RAN 2005-2006; OM 2006-2010|-|julien rodriguez
+givet|Gaël Givet|غايل جيفيه|N-FRA|CB|1981-10-09|4|2004-2006|ASM 1999-2007; OM 2007-2008; BLB 2009-2013|-|givet
+cisse-e|Édouard Cissé|إدوار سيسيه|N-FRA|DM|1978-03-30|4||PSG 1997-2002; ASM 2003-2004; WHU 2002-2003; OM 2007-2011|-|edouard cisse
+bernardi|Lucas Bernardi|لوكاس برناردي|N-ARG|MF|1977-09-27|4|2003-2004|OM 1999-2001; ASM 2001-2009; NOB 2009-2013|-|bernardi
+rothen|Jérôme Rothen|جيروم روتن|N-FRA|LW|1978-03-31|4|2003-2004|ASM 2002-2004; PSG 2004-2010; RAN 2008-2009|-|rothen
+zikos|Andreas Zikos|أندرياس زيكوس|N-GRE|DM|1974-05-01|4|1997-2005|ASM 2002-2005|-|zikos
+sylva|Tony Sylva|توني سيلفا|N-SEN|GK|1975-05-17|4|1999-2012|ASM 1996-2004; LIL 2004-2009|-|tony sylva
+plasil|Jaroslav Plašil|ياروسلاف بلاشيل|N-CZE|MF|1982-01-05|4|2004-2016|ASM 2000-2007; OSA 2007-2009; BOR 2009-2019|-|plasil
+prso|Dado Pršo|دادو برشو|N-CRO|FW|1974-11-05|4|2003-2005|ASM 1993-2004; RAN 2004-2007|-|prso
+nonda|Shabani Nonda|شباني نوندا|N-COD|FW|1977-03-06|4|2000-2010|REN 1998-2000; ASM 2000-2005; ROM 2005-2006; GAL 2007-2010|-|nonda
+squillaci|Sébastien Squillaci|سيباستيان سكيلاتشي|N-FRA|CB|1980-08-11|4|2004-2010|ASM 2000-2004; OL 2004-2008; SEV 2008-2010; ARS 2010-2013|-|squillaci
+adebayor|Emmanuel Adebayor|إيمانويل أديبايور|N-TOG|CF|1984-02-26|2|2000-2019|ASM 2003-2006; ARS 2005-2009; MCI 2009-2012; RMA 2010-2011; TOT 2011-2015|-|adebayor
+elfakiri|Hassan El Fakiri|حسن الفقيري|N-NOR|MF|1977-04-18|4|2000-2005|ASM 2003-2004|-|el fakiri

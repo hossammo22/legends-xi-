@@ -276,3 +276,10 @@ N-BLR|Belarus|بيلاروسيا|nt|BY|#C8313E|#4AA657
 N-MKD|North Macedonia|مقدونيا الشمالية|nt|MK|#D20000|#FFE600
 N-TRI|Trinidad and Tobago|ترينيداد وتوباغو|nt|TT|#CE1126|#000000
 N-NIR|Northern Ireland|أيرلندا الشمالية|nt|GB|#00843D|#FFFFFF
+OSA|Osasuna|أوساسونا|club|ES|#D91A21|#0A346F
+CHA|Charlton Athletic|تشارلتون أتلتيك|club|GB|#D4021D|#FFFFFF
+N-LTU|Lithuania|ليتوانيا|nt|LT|#FDB913|#006A44
+N-RSA|South Africa|جنوب أفريقيا|nt|ZA|#007A4D|#FFB612
+N-COD|DR Congo|الكونغو الديمقراطية|nt|CD|#007FFF|#CE1021
+N-MNE|Montenegro|الجبل الأسود|nt|ME|#C40308|#D3AE3B
+N-SMR|San Marino|سان مارينو|nt|SM|#5EB6E4|#FFFFFF

@@ -1,0 +1,72 @@
+# Players added with batch-5 verified finals (1985-1988). Empty career = only the verified lineup spell.
+tacconi|Stefano Tacconi|ستيفانو تاكوني|N-ITA|GK|1957-05-13|3|1987-1991|AVL 1980-1983; JUV 1983-1992; GEN 1992-1994|CL1985|tacconi
+favero|Luciano Favero|لوتشيانو فافيرو|N-ITA|RB|1957-10-11|4||JUV 1984-1989|CL1985|favero
+bonini|Massimo Bonini|ماسيمو بونيني|N-SMR|CM|1959-10-13|4||JUV 1981-1988; BLG 1988-1992|CL1985|bonini
+brio|Sergio Brio|سيرجيو بريو|N-ITA|CB|1956-08-19|4||JUV 1978-1990|CL1985|brio
+briaschi|Massimo Briaschi|ماسيمو برياسكي|N-ITA|FW|1958-05-12|4||GEN 1982-1984; JUV 1984-1987|CL1985|briaschi
+boniek|Zbigniew Boniek|زبيغنيو بونيك|N-POL|FW|1956-03-03|2|1976-1988|JUV 1982-1985; ROM 1985-1988|CL1985|boniek
+prandelli|Cesare Prandelli|تشيزاري برانديلي|N-ITA|MF|1957-08-19|4||ATA 1978-1979; JUV 1979-1985; ATA 1985-1990|CL1985|prandelli
+vignola|Beniamino Vignola|بنيامينو فينيولا|N-ITA|MF|1959-06-12|4||JUV 1983-1985; JUV 1986-1988|CL1985|vignola
+beglin|Jim Beglin|جيم بيغلين|N-IRL|LB|1963-07-29|4|1984-1986|LIV 1983-1989|-|beglin
+walsh-p|Paul Walsh|بول والش|N-ENG|FW|1962-10-01|4|1983-1984|LIV 1984-1988; TOT 1987-1992|-|paul walsh
+wark|John Wark|جون وارك|N-SCO|MF|1957-08-04|3|1979-1984|LIV 1983-1988|-|john wark
+gillespie|Gary Gillespie|غاري غيلسبي|N-SCO|CB|1960-07-05|4|1987-1990|LIV 1983-1991; CEL 1991-1994|-|gillespie
+duckadam|Helmuth Duckadam|هيلموت دوكادام|N-ROU|GK|1959-04-01|3|1983-1986|STE 1982-1986|CL1986|duckadam
+barbulescu|Ilie Bărbulescu|إيلي باربوليسكو|N-ROU|DF|1957-07-01|4||STE 1985-1987|CL1986|barbulescu
+balan|Lucian Bălan|لوسيان بالان|N-ROU|MF|1959-07-25|4||STE 1985-1990|CL1986|balan
+majearu|Mihail Majearu|ميهاي ماجيارو|N-ROU|MF|1961-01-01|4||STE 1985-1988|CL1986|majearu
+boloni|László Bölöni|لاسلو بولوني|N-ROU|MF|1953-03-11|3|1975-1988|STE 1984-1987|CL1986|boloni
+iordanescu|Anghel Iordănescu|أنغيل يوردانيسكو|N-ROU|FW|1950-05-04|4|1971-1981|STE 1968-1982; STE 1985-1986|CL1986|iordanescu
+radu-m|Marin Radu|مارين رادو|N-ROU|FW|1956-01-01|4||STE 1985-1986|CL1986|marin radu
+urruti|Javier Urruti|خافيير أوروتي|N-ESP|GK|1952-02-17|4||ESP 1976-1981; BAR 1981-1988|-|urruti
+gerardo|Gerardo Miranda|خيراردو ميراندا|N-ESP|RB|1956-11-26|4||BAR 1983-1988|-|gerardo
+migueli|Migueli|ميغيلي|N-ESP|CB|1951-12-19|4|1974-1980|BAR 1973-1989|-|migueli
+julioalberto|Julio Alberto|خوليو ألبرتو|N-ESP|LB|1958-10-07|4|1984-1986|ATM 1977-1982; BAR 1982-1991|-|julio alberto
+victormunoz|Víctor Muñoz|فيكتور مونيوز|N-ESP|MF|1957-03-15|4|1981-1988|ZAR 1975-1981; BAR 1981-1988; SAM 1988-1990|-|victor munoz
+schuster|Bernd Schuster|بيرند شوستر|N-GER|MF|1959-12-22|2|1979-1984|KOE 1978-1980; BAR 1980-1988; RMA 1988-1990; ATM 1990-1993; B04 1993-1996|EURO1980|schuster,el rubio
+pedraza|Ángel Pedraza|أنخيل بيدراثا|N-ESP|MF|1962-10-15|4||BAR 1985-1987|-|pedraza
+lobocarrasco|Lobo Carrasco|لوبو كاراسكو|N-ESP|LW|1959-03-06|4|1979-1988|BAR 1978-1989|-|lobo carrasco
+archibald|Steve Archibald|ستيف أرشيبالد|N-SCO|CF|1956-09-27|3|1980-1986|TOT 1980-1984; BAR 1984-1988|-|archibald
+marcosalonso|Marcos Alonso Peña|ماركوس ألونسو بينيا|N-ESP|RM|1959-10-01|4|1981-1985|ATM 1977-1982; BAR 1982-1987; ATM 1987-1989|-|marcos alonso pena
+moratalla|Josep Moratalla|جوسيب موراتايا|N-ESP|MF|1957-01-01|4||BAR 1985-1987|-|moratalla
+pichialonso|Pichi Alonso|بيتشي ألونسو|N-ESP|FW|1954-09-26|4||ESP 1979-1982; BAR 1982-1986|-|pichi alonso
+mlynarczyk|Józef Młynarczyk|يوزيف مليناركزيك|N-POL|GK|1953-09-20|4|1979-1986|POR 1986-1989|-|mlynarczyk
+joaopinto|João Pinto|جواو بينتو|N-POR|RB|1961-11-21|3|1983-1996|POR 1981-1997|-|joao pinto
+inacio|Augusto Inácio|أوغوستو إيناسيو|N-POR|LB|1955-02-28|4||POR 1986-1987|-|inacio
+eduardoluis|Eduardo Luís|إدواردو لويس|N-POR|CB|1956-01-01|4||POR 1986-1987|-|eduardo luis
+celso|Celso|سيلسو|N-BRA|CB|1956-01-01|4||POR 1986-1987|-|celso
+quim|Quim|كيم|N-POR|MF|1959-01-01|4||POR 1986-1987|-|quim
+magalhaes|Jaime Magalhães|جايمي ماغالهايش|N-POR|MF|1962-07-10|4|1983-1988|POR 1979-1995|-|jaime magalhaes
+sousa-a|António Sousa|أنطونيو سوزا|N-POR|MF|1957-04-28|4|1979-1989|POR 1984-1989|-|antonio sousa
+futre|Paulo Futre|باولو فوتري|N-POR|LW|1966-02-28|2|1983-1995|SCP 1983-1984; POR 1984-1987; ATM 1987-1993; BEN 1992-1993; OM 1993-1994; WHU 1996-1997; MIL 1996-1997|-|futre
+andre|António André|أنطونيو أندريه|N-POR|MF|1957-12-24|4|1985-1989|POR 1984-1995|-|antonio andre
+frasco|António Frasco|أنطونيو فراسكو|N-POR|MF|1955-01-01|4||POR 1986-1987|-|frasco
+juary|Juary|جواري|N-BRA|FW|1959-06-16|4||POR 1986-1988|-|juary
+pfaff|Jean-Marie Pfaff|جان ماري باف|N-BEL|GK|1953-12-04|3|1976-1987|BAY 1982-1988|-|pfaff
+winklhofer|Helmut Winklhofer|هيلموت فينكلهوفر|N-GER|DF|1961-08-27|4||BAY 1986-1987|-|winklhofer
+nachtweih|Norbert Nachtweih|نوربرت ناختفايه|N-GER|SW|1957-06-04|4||SGE 1977-1982; BAY 1982-1989|-|nachtweih
+pfluegler|Hans Pflügler|هانز بفلوغلر|N-GER|LB|1960-03-27|4|1987-1990|BAY 1981-1992|WC1990|pflugler
+flick|Hans-Dieter Flick|هانسي فليك|N-GER|MF|1965-02-24|3||BAY 1985-1990; KOE 1990-1993|-|hansi flick,flick
+rummenigge-m|Michael Rummenigge|ميكايل رومينيغه|N-GER|FW|1964-02-03|4|1983-1986|BAY 1982-1988; BVB 1988-1991|-|michael rummenigge
+kogl|Ludwig Kögl|لودفيغ كوغل|N-GER|LW|1966-03-07|4||BAY 1985-1990|-|kogl
+lunde|Lars Lunde|لارس لوندي|N-DEN|FW|1964-03-21|4||BAY 1986-1988|-|lars lunde
+gerets|Eric Gerets|إريك غيريتس|N-BEL|RB|1954-05-18|3|1975-1991|STL 1971-1983; MIL 1983-1984; PSV 1985-1992|CL1988|gerets
+nielsen-i|Ivan Nielsen|إيفان نيلسن|N-DEN|CB|1956-10-09|4|1979-1990|FEY 1979-1986; PSV 1986-1990|CL1988|ivan nielsen
+heintze|Jan Heintze|يان هاينتسه|N-DEN|LB|1963-08-17|4|1987-2002|PSV 1982-1994|CL1988|heintze
+lerby|Søren Lerby|سورين ليربي|N-DEN|MF|1958-02-01|3|1978-1989|AJA 1975-1983; BAY 1983-1986; ASM 1986-1987; PSV 1987-1990|CL1988|lerby
+linskens|Edward Linskens|إدوارد لينسكنس|N-NED|MF|1968-11-06|4||PSV 1986-1990|CL1988|linskens
+kieft|Wim Kieft|فيم كيفت|N-NED|CF|1962-11-12|3|1981-1993|AJA 1979-1983; PSV 1987-1991|EURO1988 CL1988|kieft
+gillhaus|Hans Gillhaus|هانز خيلهاوس|N-NED|FW|1963-11-05|4|1987-1994|PSV 1987-1989|CL1988|gillhaus
+janssen-a|Anton Janssen|أنطون يانسن|N-NED|MF|1963-01-01|4||PSV 1986-1989|CL1988|anton janssen
+silvino|Silvino|سيلفينو|N-POR|GK|1958-03-05|4||BEN 1987-1994|-|silvino
+veloso|António Veloso|أنطونيو فيلوزو|N-POR|RB|1957-01-31|4|1980-1990|BEN 1980-1995|-|veloso
+dito|Dito|ديتو|N-POR|CB|1962-01-01|4||BEN 1987-1988|-|dito
+alvaro|Álvaro Magalhães|ألفارو ماغالهايش|N-POR|LB|1961-01-03|4||BEN 1987-1988|-|alvaro
+elzo|Elzo|إلزو|N-BRA|MF|1961-01-22|4||BEN 1987-1989|-|elzo
+chiquinho|Chiquinho Carlos|شيكينيو كارلوس|N-POR|RM|1963-01-01|4||BEN 1987-1988|-|chiquinho
+pacheco|António Pacheco|أنطونيو باتشيكو|N-POR|LM|1966-12-21|4||BEN 1987-1993; SCP 1993-1995|-|pacheco
+ruiaguas|Rui Águas|روي أغواش|N-POR|CF|1960-04-28|4|1986-1992|BEN 1985-1988; POR 1988-1990; BEN 1990-1994|-|rui aguas
+sheu|Shéu|شيو|N-POR|MF|1953-08-05|4|1975-1986|BEN 1970-1989|-|sheu
+magnusson|Mats Magnusson|ماتس ماغنوسون|N-SWE|CF|1963-07-10|4|1985-1991|BEN 1987-1992|-|mats magnusson
+wando|Wando|واندو|N-BRA|FW|1963-01-01|4||BEN 1987-1988|-|wando
+redouane|Hajry Redouane|حجري رضوان|N-MAR|FW|1966-01-01|4||BEN 1987-1988|-|redouane
