@@ -1,0 +1,129 @@
+colombo|Angelo Colombo|أنجيلو كولومبو|N-ITA|RM|1961-02-24|4||UDI 1983-1987; MIL 1987-1990|CL1989|colombo
+coman|Kingsley Coman|كينغسلي كومان|N-FRA|LW|1996-06-13|2|2015-2026|PSG 2013-2014; JUV 2014-2015; BAY 2015-2025; NAS 2025-2026|CL2020|coman
+conte|Antonio Conte|أنطونيو كونتي|N-ITA|CM|1969-07-31|2|1994-2000|JUV 1991-2004|CL1996|conte,كونتي
+costacurta|Alessandro Costacurta|أليساندرو كوستاكورتا|N-ITA|CB|1966-04-24|2|1991-1998|MIL 1986-2007|CL1989 CL1990 CL1994 CL2003 CL2007|billy,costacurta
+crespo|Hernán Crespo|هيرنان كريسبو|N-ARG|CF|1975-07-05|2|1995-2007|RIV 1993-1996; PAR 1996-2000; LAZ 2000-2002; INT 2002-2003; CHE 2003-2004; MIL 2004-2005; CHE 2005-2006; INT 2006-2009; GEN 2009-2010; PAR 2010-2012|-|crespo,valdanito
+cristiano|Cristiano Ronaldo|كريستيانو رونالدو|N-POR|FW|1985-02-05|1|2003-2026|SCP 2002-2003; MUN 2003-2009; RMA 2009-2018; JUV 2018-2021; MUN 2021-2022; NAS 2022-2026|EURO2016 CL2008 CL2014 CL2016 CL2017 CL2018 BDO2008 BDO2013 BDO2014 BDO2016 BDO2017|cr7,ronaldo cristiano,كريستيانو,رونالدو البرتغالي,الدون
+cruyff|Johan Cruyff|يوهان كرويف|N-NED|CF|1947-04-25|1|1966-1977|AJA 1964-1973; BAR 1973-1978; AJA 1981-1983; FEY 1983-1984|CL1971 CL1972 CL1973 BDO1971 BDO1973 BDO1974|cruijff,كرويف
+cuadrado|Juan Cuadrado|خوان كوادرادو|N-COL|RW|1988-05-26|2|2010-2023|UDI 2009-2012; FIO 2012-2015; CHE 2014-2015; JUV 2015-2023; INT 2023-2024|-|cuadrado
+cuciuffo|José Luis Cuciuffo|خوسيه لويس كوتشيوفو|N-ARG|DF|1961-02-01|4|1985-1989|VEL 1982-1987; BOC 1987-1990|WC1986|cuciuffo
+dalglish|Kenny Dalglish|كيني دالغليش|N-SCO|FW|1951-03-04|2|1971-1986|CEL 1969-1977; LIV 1977-1990|CL1978 CL1981 CL1984|king kenny,dalglish
+danialves|Dani Alves|داني ألفيش|N-BRA|RB|1983-05-06|1|2006-2022|SEV 2002-2008; BAR 2008-2016; JUV 2016-2017; PSG 2017-2019; SPFC 2019-2021; BAR 2021-2022|CL2009 CL2011 CL2015 CA2007 CA2019|dani alves,ألفيش,الفيس
+dante|Dante|دانتي|N-BRA|CB|1983-10-18|3|2013-2014|BMG 2008-2012; BAY 2012-2015; WOB 2015-2016; NIC 2016-2026|CL2013|dante
+darmian|Matteo Darmian|ماتيو دارميان|N-ITA|DF|1989-12-02|3|2014-2022|TOR 2010-2015; MUN 2015-2019; PAR 2019-2021; INT 2020-2026|-|darmian
+davidluiz|David Luiz|ديفيد لويز|N-BRA|CB|1987-04-22|2|2010-2017|BEN 2007-2011; CHE 2010-2014; PSG 2014-2016; CHE 2016-2019; ARS 2019-2021; FLA 2021-2023|CL2012|david luiz
+davids|Edgar Davids|إدغار ديفيدز|N-NED|CM|1973-03-13|1|1994-2005|AJA 1991-1996; MIL 1996-1998; JUV 1997-2004; BAR 2003-2004; INT 2004-2005; TOT 2005-2007; AJA 2007-2008|CL1995|pitbull,davids,دافيدز
+deboer-f|Frank de Boer|فرانك دي بور|N-NED|DF|1970-05-15|2|1990-2004|AJA 1988-1999; BAR 1998-2003; GAL 2003-2004; RAN 2003-2004|CL1995|frank de boer
+deboer-r|Ronald de Boer|رونالد دي بور|N-NED|MF|1970-05-15|2|1993-2003|AJA 1987-1991; TWE 1991-1993; AJA 1993-1999; BAR 1998-2000; RAN 2000-2004|CL1995|ronald de boer
+debruyne|Kevin De Bruyne|كيفين دي بروين|N-BEL|AM|1991-06-28|1|2010-2026|SVW 2012-2013; CHE 2013-2014; WOB 2013-2015; MCI 2015-2025; NAP 2025-2026|CL2023|kdb,de bruyne,دي بروين
+deco|Deco|ديكو|N-POR|AM|1977-08-27|2|2003-2010|POR 1999-2004; BAR 2004-2008; CHE 2008-2010; FLU 2010-2013|CL2004 CL2006|deco
+dejong-n|Nigel de Jong|نايجل دي يونغ|N-NED|DM|1984-11-30|3|2004-2014|AJA 2002-2006; HSV 2006-2009; MCI 2008-2012; MIL 2012-2016; LAG 2015-2016; GAL 2016-2017|-|nigel de jong
+dejong-t|Theo de Jong|تيو دي يونغ|N-NED|MF|1947-08-11|4|1972-1974|FEY 1970-1974|-|theo de jong
+delpiero|Alessandro Del Piero|أليساندرو ديل بييرو|N-ITA|SS|1974-11-09|1|1995-2008|JUV 1993-2012|WC2006 CL1996|alex,pinturicchio,del piero,ديل بييرو
+delsol|Luis del Sol|لويس ديل سول|N-ESP|MF|1935-04-06|3|1960-1966|BET 1954-1960; RMA 1959-1962; JUV 1962-1970; ROM 1970-1972|CL1960 EURO1964|del sol
+dembele|Ousmane Dembélé|عثمان ديمبيلي|N-FRA|RW|1997-05-15|1|2016-2026|REN 2015-2016; BVB 2016-2017; BAR 2017-2023; PSG 2023-2026|WC2018 CL2025 BDO2025|dembele,ديمبيلي
+demichelis|Martín Demichelis|مارتن ديميكيليس|N-ARG|CB|1980-12-20|3|2005-2014|RIV 1998-2003; BAY 2003-2011; MAL 2010-2013; MCI 2013-2016|-|demichelis,micho
+denilson|Denílson|دينيلسون|N-BRA|LW|1977-08-24|2|1996-2003|SPFC 1994-1998; BET 1998-2005; BOR 2005-2006|WC2002 CA1997|denilson
+depaul|Rodrigo De Paul|رودريغو دي بول|N-ARG|CM|1994-05-24|2|2018-2026|RAC 2013-2014; VAL 2014-2016; UDI 2016-2021; ATM 2021-2025; MIA 2025-2026|WC2022 CA2021 CA2024|de paul,دي بول
+derossi|Daniele De Rossi|دانييلي دي روسي|N-ITA|DM|1983-07-24|2|2004-2017|ROM 2001-2019; BOC 2019-2020|WC2006|de rossi
+desailly|Marcel Desailly|مارسيل ديسايي|N-FRA|CB|1968-09-07|1|1993-2004|NAN 1986-1992; OM 1992-1993; MIL 1993-1998; CHE 1998-2004|WC1998 EURO2000 CL1993 CL1994|desailly,the rock,ديسايي
+deschamps|Didier Deschamps|ديدييه ديشان|N-FRA|DM|1968-10-15|1|1989-2000|NAN 1985-1989; OM 1989-1990; BOR 1990-1991; OM 1991-1994; JUV 1994-1999; CHE 1999-2000; VAL 2000-2001|WC1998 EURO2000 CL1993 CL1996|deschamps,ديشامب,ديشان
+desisti|Giancarlo De Sisti|جانكارلو دي سيستي|N-ITA|CM|1943-03-13|4|1967-1972|ROM 1960-1965; FIO 1965-1974; ROM 1974-1979|EURO1968|de sisti,picchio
+dezotti|Gustavo Dezotti|غوستافو ديزوتي|N-ARG|CF|1964-02-14|4|1988-1990|NOB 1982-1988; LAZ 1988-1989; CRE 1989-1994|-|dezotti
+diarra-a|Alou Diarra|ألو ديارا|N-FRA|DM|1981-07-15|4|2004-2012|LEN 2004-2006; OL 2006-2007; BOR 2007-2011; OM 2011-2012; WHU 2012-2014|-|alou diarra
+dias|Rúben Dias|روبن دياز|N-POR|CB|1997-05-14|2|2018-2026|BEN 2017-2020; MCI 2020-2026|CL2023|ruben dias
+dida|Dida|ديدا|N-BRA|GK|1973-10-07|2|1995-2006|CRU 1994-1998; MIL 2001-2010|CL2003 CL2007 CA1999|dida
+dier|Eric Dier|إريك داير|N-ENG|DM|1994-01-15|3|2015-2019|SCP 2012-2014; TOT 2014-2024; BAY 2023-2025; ASM 2025-2026|-|dier
+dilivio|Angelo Di Livio|أنجيلو دي ليفيو|N-ITA|RM|1966-07-26|3|1995-2002|JUV 1993-1999; FIO 1999-2005|CL1996|di livio,soldatino
+dimarco|Federico Dimarco|فيديريكو ديماركو|N-ITA|LWB|1997-11-10|3|2021-2026|INT 2021-2026|-|dimarco
+dimaria|Ángel Di María|أنخيل دي ماريا|N-ARG|RW|1988-02-14|1|2008-2024|BEN 2007-2010; RMA 2010-2014; MUN 2014-2015; PSG 2015-2022; JUV 2022-2023; BEN 2023-2025|WC2022 CA2021 CA2024 CL2014|di maria,fideo,دي ماريا
+dimeco|Éric Di Meco|إريك دي ميكو|N-FRA|LB|1963-09-07|4|1994-1996|OM 1980-1994; ASM 1994-1998|CL1993|di meco
+disasi|Axel Disasi|أكسيل ديساسي|N-FRA|CB|1998-03-11|4|2022-2024|ASM 2020-2023; CHE 2023-2026|-|disasi
+distefano|Alfredo Di Stéfano|ألفريدو دي ستيفانو|N-ESP|CF|1926-07-04|1|1957-1961|RIV 1945-1949; MLL 1949-1953; RMA 1953-1964; ESP 1964-1966|CL1956 CL1957 CL1958 CL1959 CL1960 BDO1957 BDO1959|di stefano,la saeta rubia,دي ستيفانو
+djorkaeff|Youri Djorkaeff|يوري جوركاييف|N-FRA|AM|1968-03-09|2|1993-2002|ASM 1990-1995; PSG 1995-1996; INT 1996-1999; KAI 1999-2002; BOL 2002-2004; BLB 2004-2005; NYR 2005-2007|WC1998 EURO2000|djorkaeff,the snake
+domenghini|Angelo Domenghini|أنجيلو دومنغيني|N-ITA|RM|1941-08-25|4|1963-1972|ATA 1960-1964; INT 1964-1969; CAG 1969-1973|EURO1968|domenghini
+dominguez|Rogelio Domínguez|روخيليو دومينغيز|N-ARG|GK|1931-03-09|4|1951-1963|RAC 1951-1957; RMA 1957-1962|CL1958 CL1959 CL1960|dominguez
+donadoni|Roberto Donadoni|روبرتو دونادوني|N-ITA|LM|1963-09-09|2|1986-1996|ATA 1982-1986; MIL 1986-1996; NYR 1996-1997; MIL 1997-1999|CL1989 CL1990 CL1994|donadoni
+drogba|Didier Drogba|ديدييه دروغبا|N-CIV|CF|1978-03-11|1|2002-2014|GUI 2002-2003; OM 2003-2004; CHE 2004-2012; GAL 2012-2014; CHE 2014-2015; MON 2015-2016|CL2012|drogba,دروجبا,دروغبا
+dudek|Jerzy Dudek|ييجي دوديك|N-POL|GK|1973-03-23|2|1998-2005|FEY 1996-2001; LIV 2001-2007; RMA 2007-2011|CL2005|dudek
+duff|Damien Duff|داميان داف|N-IRL|LW|1979-03-02|2|1998-2012|BLB 1996-2003; CHE 2003-2006; NEW 2006-2009; FUL 2009-2014|-|duff,duffer
+dumfries|Denzel Dumfries|دينزل دومفريس|N-NED|RWB|1996-04-18|3|2018-2026|HEE 2017-2019; PSV 2019-2021; INT 2021-2026|-|dumfries
+dunga|Dunga|دونغا|N-BRA|DM|1963-10-31|2|1983-1998|INTB 1980-1984; FIO 1988-1992; VFB 1993-1995; INTB 1999-2000|WC1994 CA1989 CA1997|dunga,دونجا
+durand|Jean-Philippe Durand|جان فيليب دوران|N-FRA|MF|1960-11-11|4|1988-1992|BOR 1987-1991; OM 1991-1997|CL1993|durand
+dybala|Paulo Dybala|باولو ديبالا|N-ARG|AM|1993-11-15|1|2015-2026|PAL 2012-2015; JUV 2015-2022; ROM 2022-2026|WC2022|dybala,la joya,ديبالا
+dzeko|Edin Džeko|إيدين دجيكو|N-BIH|CF|1986-03-17|2|2007-2026|WOB 2007-2011; MCI 2010-2016; ROM 2015-2021; INT 2021-2023; FEN 2023-2025; FIO 2025-2026|-|dzeko,دجيكو
+eboue|Emmanuel Eboué|إيمانويل إيبوي|N-CIV|RB|1983-06-04|3|2007-2014|ARS 2004-2011; GAL 2011-2015|-|eboue
+eder|Norbert Eder|نوربرت إيدر|N-GER|DF|1955-11-07|4|1986-1986|NUR 1977-1984; BAY 1984-1988|-|eder
+ederson|Ederson|إيدرسون|N-BRA|GK|1993-08-17|2|2017-2026|BEN 2015-2017; MCI 2017-2025; FEN 2025-2026|CL2023 CA2019|ederson
+edmilson|Edmílson|إدميلسون|N-BRA|DM|1976-07-10|3|2000-2007|SPFC 1993-2000; OL 2000-2004; BAR 2004-2007; VIL 2007-2009|WC2002 CL2006|edmilson
+edmundo|Edmundo|إدموندو|N-BRA|FW|1971-04-02|3|1992-2000|VAS 1990-1992; PAL2 1993-1995; FIO 1997-1999; VAS 1999-2001|-|edmundo,animal
+edu|Edu|إيدو|N-BRA|MF|1978-05-15|3|2004-2005|COR 1998-2001; ARS 2000-2005; VAL 2005-2009|-|edu gaspar
+effenberg|Stefan Effenberg|شتيفان إيفنبرغ|N-GER|CM|1968-08-02|2|1991-1998|BMG 1987-1990; BAY 1990-1992; FIO 1992-1994; BMG 1994-1998; BAY 1998-2002; WOB 2002-2003|CL2001|effenberg,tiger
+elhadary|Essam El-Hadary|عصام الحضري|N-EGY|GK|1973-01-15|2|1996-2018|AHL 1996-2008|AFCON1998 AFCON2006 AFCON2008 AFCON2010|el hadary,الحضري,السد العالي
+elia|Eljero Elia|إلييرو إيليا|N-NED|LW|1987-02-13|4|2009-2014|TWE 2007-2009; HSV 2009-2011; JUV 2011-2012; SVW 2012-2015; SOU 2014-2015; FEY 2015-2017|-|elia
+elmohamady|Ahmed Elmohamady|أحمد المحمدي|N-EGY|RB|1987-09-09|2|2007-2021|ENP 2006-2010; SUN 2010-2013; HUL 2013-2017; AVL 2017-2021|AFCON2008 AFCON2010|elmohamady,المحمدي
+enrique|Héctor Enrique|هيكتور إنريكي|N-ARG|CM|1962-04-26|4|1985-1990|RIV 1983-1990|WC1986|enrique
+enzo|Enzo Fernández|إنزو فيرنانديز|N-ARG|CM|2001-01-17|2|2022-2026|RIV 2019-2022; BEN 2022-2023; CHE 2022-2026|WC2022 CA2024|enzo,enzo fernandez,إنزو
+eranio|Stefano Eranio|ستيفانو إرانيو|N-ITA|MF|1966-12-29|4|1990-1997|GEN 1984-1992; MIL 1992-1997|CL1994|eranio
+eriksen|Christian Eriksen|كريستيان إريكسن|N-DEN|AM|1992-02-14|2|2010-2026|AJA 2010-2013; TOT 2013-2020; INT 2019-2021; MUN 2022-2025|-|eriksen,اريكسن
+etoo|Samuel Eto'o|صامويل إيتو|N-CMR|CF|1981-03-10|1|1997-2014|RCDM 2000-2004; BAR 2004-2009; INT 2009-2011; CHE 2013-2014; EVE 2014-2015; SAM 2014-2015|CL2006 CL2009 CL2010 AFCON2000 AFCON2002|etoo,eto'o,إيتو,ايتو
+eusebio|Eusebio Sacristán|إوسيبيو ساكريستان|N-ESP|MF|1964-04-13|4|1986-1992|ATM 1987-1988; BAR 1988-1995|CL1992|eusebio sacristan
+evani|Alberigo Evani|ألبيريغو إيفاني|N-ITA|MF|1963-01-01|4|1991-1994|MIL 1980-1993; SAM 1993-1997|CL1989 CL1990|evani,chicco
+everaldo|Everaldo|إيفرالدو|N-BRA|LB|1944-09-11|4|1967-1972|GRE 1964-1974|WC1970|everaldo
+evra|Patrice Evra|باتريس إيفرا|N-FRA|LB|1981-05-15|2|2004-2016|ASM 2002-2006; MUN 2005-2014; JUV 2014-2017; OM 2016-2017; WHU 2017-2018|CL2008|evra,إيفرا
+fabinho|Fabinho|فابينيو|N-BRA|DM|1993-10-23|2|2015-2022|ASM 2013-2018; LIV 2018-2023; ITH 2023-2026|CL2019|fabinho
+fabio|Fábio da Silva|فابيو دا سيلفا|N-BRA|RB|1990-07-09|4|2011-2011|MUN 2008-2014; QPR 2012-2013|-|fabio
+fabregas|Cesc Fàbregas|سيسك فابريغاس|N-ESP|CM|1987-05-04|1|2006-2016|ARS 2003-2011; BAR 2011-2014; CHE 2014-2019; ASM 2018-2022|WC2010 EURO2008 EURO2012|cesc,fabregas,فابريغاس
+facchetti|Giacinto Facchetti|جاتشينتو فاكيتي|N-ITA|LB|1942-07-18|2|1963-1977|INT 1960-1978|EURO1968 CL1964 CL1965|facchetti
+fathy-a|Ahmed Fathy|أحمد فتحي|N-EGY|RB|1984-11-10|2|2002-2018|ISM 2003-2007; AHL 2007-2018; PYR 2018-2021|AFCON2006 AFCON2008 AFCON2010|ahmed fathy,فتحي
+felix|Félix|فيليكس|N-BRA|GK|1937-12-24|4|1965-1972|FLU 1968-1976|WC1970|felix
+ferdinand|Rio Ferdinand|ريو فرديناند|N-ENG|CB|1978-11-07|1|1997-2011|WHU 1995-2000; LEE 2000-2002; MUN 2002-2014; QPR 2014-2015|CL2008|rio,ferdinand,ريو فرديناند
+ferrara|Ciro Ferrara|تشيرو فيرارا|N-ITA|CB|1967-02-11|3|1987-2000|NAP 1984-1994; JUV 1994-2005|CL1996|ferrara
+ferreira-p|Paulo Ferreira|باولو فيريرا|N-POR|RB|1979-01-18|3|2002-2010|POR 2002-2004; CHE 2004-2013|CL2004 CL2012|paulo ferreira
+ferrer|Albert Ferrer|ألبرت فيرير|N-ESP|RB|1970-06-06|3|1991-1999|BAR 1990-1998; CHE 1998-2003|CL1992|chapi ferrer,ferrer
+figo|Luís Figo|لويس فيغو|N-POR|RW|1972-11-04|1|1991-2006|SCP 1989-1995; BAR 1995-2000; RMA 2000-2005; INT 2005-2009|CL2002 BDO2000|figo,فيجو,فيغو
+finidi|Finidi George|فينيدي جورج|N-NGA|RW|1971-04-15|3|1991-2002|AJA 1993-1996; BET 1996-2000; RCDM 2000-2001|CL1995|finidi
+fink|Thorsten Fink|تورستن فينك|N-GER|MF|1967-10-29|4||KSC 1994-1997; BAY 1997-2004|CL2001|fink
+finnan|Steve Finnan|ستيف فينان|N-IRL|RB|1976-04-24|3|2000-2008|FUL 1998-2003; LIV 2003-2008|CL2005|finnan
+firmino|Roberto Firmino|روبرتو فيرمينو|N-BRA|CF|1991-10-02|2|2014-2022|HOF 2010-2015; LIV 2015-2023; AHS 2023-2026|CL2019 CA2019|firmino,بوبي
+flamini|Mathieu Flamini|ماتيو فلاميني|N-FRA|DM|1984-03-07|4|2007-2008|OM 2003-2004; ARS 2004-2008; MIL 2008-2013; ARS 2013-2016; CRY 2016-2017|-|flamini
+flavioconceicao|Flávio Conceição|فلافيو كونسيساو|N-BRA|DM|1974-06-13|4|1995-2002|DEP 1997-2000; RMA 2000-2004; BVB 2003-2004; GAL 2004-2005|CL2002|flavio conceicao
+foden|Phil Foden|فيل فودين|N-ENG|AM|2000-05-28|2|2020-2026|MCI 2017-2026|CL2023|foden,فودين
+fofana-y|Youssouf Fofana|يوسف فوفانا|N-FRA|CM|1999-01-10|4|2022-2024|ASM 2019-2024; MIL 2024-2026|-|youssouf fofana
+forster-kh|Karlheinz Förster|كارلهاينز فورستر|N-GER|CB|1958-07-25|3|1978-1986|VFB 1977-1986; OM 1986-1990|EURO1980|karlheinz forster,forster
+frustalupi|Mario Frustalupi|ماريو فروستالوبي|N-ITA|MF|1942-09-12|4||SAM 1962-1970; INT 1970-1974; LAZ 1974-1976|-|frustalupi
+gago|Fernando Gago|فرناندو غاغو|N-ARG|CM|1986-04-10|3|2007-2015|BOC 2004-2007; RMA 2006-2012; ROM 2011-2012; VAL 2012-2013; BOC 2013-2019|-|gago
+galli-f|Filippo Galli|فيليبو غالي|N-ITA|DF|1963-05-19|4||MIL 1981-1996|CL1989 CL1990 CL1994|filippo galli
+galli-g|Giovanni Galli|جيوفاني غالي|N-ITA|GK|1958-04-29|3|1980-1986|FIO 1977-1986; MIL 1986-1990; NAP 1990-1993|CL1989 CL1990|giovanni galli
+gallas|William Gallas|ويليام غالاس|N-FRA|DF|1977-08-17|2|2002-2010|OM 1997-2001; CHE 2001-2006; ARS 2006-2010; TOT 2010-2013|-|gallas
+garay|Ezequiel Garay|إيزيكيل غاراي|N-ARG|CB|1986-10-10|3|2009-2016|RMA 2008-2011; BEN 2011-2014; ZEN 2014-2016; VAL 2016-2020|-|garay
+gattuso|Gennaro Gattuso|جينارو غاتوزو|N-ITA|DM|1978-01-09|1|2000-2010|RAN 1997-1998; MIL 1999-2012|WC2006 CL2003 CL2007|gattuso,ringhio,جاتوزو,غاتوزو
+gedo|Mohamed Nagy "Gedo"|محمد ناجي "جدو"|N-EGY|FW|1984-10-03|2|2010-2013|ITT 2008-2010; AHL 2010-2014; HUL 2012-2013|AFCON2010|gedo,geddo,جدو
+gento|Paco Gento|فرانسيسكو خينتو|N-ESP|LW|1933-10-21|2|1955-1969|RMA 1953-1971|CL1956 CL1957 CL1958 CL1959 CL1960 CL1966|gento,paco gento
+gerrard|Steven Gerrard|ستيفن جيرارد|N-ENG|CM|1980-05-30|1|2000-2014|LIV 1998-2015; LAG 2015-2016|CL2005|stevie g,gerrard,جيرارد
+gerson|Gérson|جيرسون|N-BRA|CM|1941-01-11|3|1961-1972|FLA 1959-1963; BOT 1963-1969; SPFC 1969-1972; FLU 1972-1974|WC1970|gerson,canhotinha de ouro
+ghaly|Hossam Ghaly|حسام غالي|N-EGY|CM|1981-12-15|2|2002-2016|AHL 1999-2003; FEY 2003-2006; TOT 2005-2008; AHL 2008-2017|AFCON2010|ghaly,حسام غالي,غالي
+giggs|Ryan Giggs|رايان غيغز|N-WAL|LW|1973-11-29|1|1991-2007|MUN 1990-2014|CL1999 CL2008|giggs,جيجز,غيغز
+gilbertosilva|Gilberto Silva|جيلبرتو سيلفا|N-BRA|DM|1976-10-07|2|2001-2010|ATMG 2000-2002; ARS 2002-2008; PAN 2008-2011; GRE 2011-2012|WC2002 CA2007|gilberto,gilberto silva
+giroud|Olivier Giroud|أوليفييه جيرو|N-FRA|CF|1986-09-30|1|2011-2024|MTP 2010-2012; ARS 2012-2018; CHE 2017-2021; MIL 2021-2024; LAFC 2024-2025; LIL 2025-2026|WC2018 CL2021|giroud,جيرو
+giubertoni|Mario Giubertoni|ماريو جوبيرتوني|N-ITA|DF|1945-01-07|4||INT 1970-1972|-|giubertoni
+giuly|Ludovic Giuly|لودوفيك جولي|N-FRA|RW|1976-07-10|3|2000-2004|ASM 1997-2004; BAR 2004-2007; ROM 2007-2008; PSG 2008-2011|CL2006|giuly
+giusti|Ricardo Giusti|ريكاردو جوستي|N-ARG|MF|1956-12-11|4|1983-1990|IND 1979-1990|WC1986|giusti
+goikoetxea|Jon Andoni Goikoetxea|جون أندوني غويكويتشيا|N-ESP|MF|1965-10-21|4|1990-1995|RSO 1985-1990; BAR 1990-1994; ATH 1994-1997|CL1992|goikoetxea,goiko
+gomaa|Wael Gomaa|وائل جمعة|N-EGY|CB|1975-08-03|2|2001-2013|AHL 2001-2015|AFCON2006 AFCON2008 AFCON2010|wael gomaa,وائل جمعة
+gomez-j|Joe Gomez|جو غوميز|N-ENG|CB|1997-05-23|3|2017-2023|LIV 2015-2026|CL2019|joe gomez
+gomez-m|Mario Gómez|ماريو غوميز|N-GER|CF|1985-07-10|2|2007-2018|VFB 2004-2009; BAY 2009-2013; FIO 2013-2015; BJK 2015-2016; WOB 2016-2018; VFB 2017-2020|CL2013|mario gomez,gomez
+gosens|Robin Gosens|روبين غوزنس|N-GER|LWB|1994-07-05|3|2020-2026|ATA 2017-2022; INT 2021-2023; FIO 2024-2026|-|gosens
+gotze|Mario Götze|ماريو غوتسه|N-GER|AM|1992-06-03|2|2010-2022|BVB 2009-2013; BAY 2013-2016; BVB 2016-2020; PSV 2020-2022; SGE 2022-2026|WC2014|gotze,goetze,غوتزه
+goycochea|Sergio Goycochea|سيرخيو غويكوتشيا|N-ARG|GK|1963-10-17|3|1987-1994|RIV 1983-1989|CA1991 CA1993|goycochea
+grabowski|Jürgen Grabowski|يورغن غرابوفسكي|N-GER|RW|1944-07-07|3|1966-1974|SGE 1965-1980|WC1974 EURO1972|grabowski
+grealish|Jack Grealish|جاك غريليش|N-ENG|LW|1995-09-10|2|2020-2026|AVL 2012-2021; MCI 2021-2025; EVE 2025-2026|CL2023|grealish
+griezmann|Antoine Griezmann|أنطوان غريزمان|N-FRA|FW|1991-03-21|1|2014-2024|RSO 2009-2014; ATM 2014-2019; BAR 2019-2021; ATM 2021-2026|WC2018|griezmann,grizou,غريزمان,جريزمان
+grobbelaar|Bruce Grobbelaar|بروس غروبلار|N-ZIM|GK|1957-10-06|3|1980-1998|LIV 1981-1994; SOU 1994-1996|CL1984|grobbelaar
+grosskreutz|Kevin Großkreutz|كيفين غروسكرويتس|N-GER|MF|1988-07-19|4|2010-2014|BVB 2009-2016; GAL 2015-2016; VFB 2015-2017|WC2014|grosskreutz
+grosso|Fabio Grosso|فابيو غروسو|N-ITA|LB|1977-11-28|3|2003-2009|PAL 2004-2006; INT 2006-2007; OL 2007-2009; JUV 2009-2012|WC2006|grosso
+guardiola|Pep Guardiola|بيب غوارديولا|N-ESP|DM|1971-01-18|1|1992-2001|BAR 1990-2001; BRE 2001-2003; ROM 2002-2003|CL1992|pep,guardiola,غوارديولا,جوارديولا
+gudjohnsen|Eiður Guðjohnsen|إيدور غوديونسن|N-ISL|FW|1978-09-15|2|1996-2016|BOL 1998-2000; CHE 2000-2006; BAR 2006-2009; ASM 2009-2010; TOT 2009-2010; STO 2010-2011; FUL 2010-2011|CL2009|gudjohnsen,eidur
+guivarch|Stéphane Guivarc'h|ستيفان جيفارش|N-FRA|CF|1970-09-06|4|1997-1998|REN 1993-1995; AUX 1995-1998; NEW 1998-1999; RAN 1998-1999; AUX 1999-2001|WC1998|guivarch
+gullit|Ruud Gullit|رود خوليت|N-NED|AM|1962-09-01|1|1981-1994|FEY 1982-1985; PSV 1985-1987; MIL 1987-1994; SAM 1993-1995; CHE 1995-1998|EURO1988 CL1989 CL1990 BDO1987|gullit,خوليت,جوليت
+gundogan|İlkay Gündoğan|إلكاي غوندوغان|N-GER|CM|1990-10-24|2|2011-2024|BVB 2011-2016; MCI 2016-2023; BAR 2023-2024; MCI 2024-2025; GAL 2025-2026|CL2023|gundogan,جوندوجان

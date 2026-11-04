@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LEGENDS XI</string>
+    <string name="title_activity_main">LEGENDS XI</string>
+    <string name="package_name">com.drhossammo.legendsxi</string>
+    <string name="custom_url_scheme">com.drhossammo.legendsxi</string>
+</resources>

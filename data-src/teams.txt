@@ -1,0 +1,278 @@
+# id|English|Arabic|type|country(ISO2 or gb-eng etc)|primary|secondary
+RMA|Real Madrid|ريال مدريد|club|ES|#FFFFFF|#D4AF37
+BAR|FC Barcelona|برشلونة|club|ES|#A50044|#004D98
+ATM|Atlético Madrid|أتلتيكو مدريد|club|ES|#CB3524|#FFFFFF
+VAL|Valencia|فالنسيا|club|ES|#FFFFFF|#EE3524
+DEP|Deportivo La Coruña|ديبورتيفو لاكورونيا|club|ES|#1C5BA9|#FFFFFF
+SEV|Sevilla|إشبيلية|club|ES|#FFFFFF|#D4021D
+VIL|Villarreal|فياريال|club|ES|#FFE667|#005187
+ATH|Athletic Bilbao|أتلتيك بيلباو|club|ES|#EE2523|#FFFFFF
+RSO|Real Sociedad|ريال سوسيداد|club|ES|#0067B1|#FFFFFF
+BET|Real Betis|ريال بيتيس|club|ES|#0BB363|#FFFFFF
+ESP|Espanyol|إسبانيول|club|ES|#007FC8|#FFFFFF
+ZAR|Real Zaragoza|ريال سرقسطة|club|ES|#FFFFFF|#0033A0
+MAL|Málaga|ملقا|club|ES|#0A75BC|#FFFFFF
+MUN|Manchester United|مانشستر يونايتد|club|GB|#DA291C|#FBE122
+MCI|Manchester City|مانشستر سيتي|club|GB|#6CABDD|#1C2C5B
+LIV|Liverpool|ليفربول|club|GB|#C8102E|#00B2A9
+CHE|Chelsea|تشيلسي|club|GB|#034694|#FFFFFF
+ARS|Arsenal|آرسنال|club|GB|#EF0107|#FFFFFF
+TOT|Tottenham Hotspur|توتنهام هوتسبير|club|GB|#FFFFFF|#132257
+LEE|Leeds United|ليدز يونايتد|club|GB|#FFFFFF|#1D428A
+BLB|Blackburn Rovers|بلاكبيرن روفرز|club|GB|#009EE0|#FFFFFF
+NEW|Newcastle United|نيوكاسل يونايتد|club|GB|#241F20|#FFFFFF
+EVE|Everton|إيفرتون|club|GB|#003399|#FFFFFF
+AVL|Aston Villa|أستون فيلا|club|GB|#670E36|#95BFE5
+NFO|Nottingham Forest|نوتنغهام فورست|club|GB|#DD0000|#FFFFFF
+LEI|Leicester City|ليستر سيتي|club|GB|#003090|#FDBE11
+WHU|West Ham United|وست هام يونايتد|club|GB|#7A263A|#1BB1E7
+SOU|Southampton|ساوثهامبتون|club|GB|#D71920|#FFFFFF
+FUL|Fulham|فولهام|club|GB|#FFFFFF|#000000
+POM|Portsmouth|بورتسموث|club|GB|#001489|#FFFFFF
+MID|Middlesbrough|ميدلزبره|club|GB|#E11B22|#FFFFFF
+BOL|Bolton Wanderers|بولتون واندررز|club|GB|#FFFFFF|#263C7E
+STO|Stoke City|ستوك سيتي|club|GB|#E03A3E|#FFFFFF
+SUN|Sunderland|سندرلاند|club|GB|#EB172B|#FFFFFF
+WBA|West Bromwich Albion|وست بروميتش ألبيون|club|GB|#122F67|#FFFFFF
+WAT|Watford|واتفورد|club|GB|#FBEE23|#ED2127
+CRY|Crystal Palace|كريستال بالاس|club|GB|#1B458F|#C4122E
+BHA|Brighton|برايتون|club|GB|#0057B8|#FFFFFF
+BUR|Burnley|بيرنلي|club|GB|#6C1D45|#99D6EA
+HUL|Hull City|هال سيتي|club|GB|#F5A12D|#000000
+QPR|Queens Park Rangers|كوينز بارك رينجرز|club|GB|#1D5BA4|#FFFFFF
+WIG|Wigan Athletic|ويغان أثليتيك|club|GB|#1D59AF|#FFFFFF
+MIL|AC Milan|ميلان|club|IT|#FB090B|#000000
+INT|Inter Milan|إنتر ميلان|club|IT|#0068A8|#000000
+JUV|Juventus|يوفنتوس|club|IT|#FFFFFF|#000000
+ROM|AS Roma|روما|club|IT|#8E1F2F|#F0BC42
+LAZ|Lazio|لاتسيو|club|IT|#87D8F7|#FFFFFF
+PAR|Parma|بارما|club|IT|#FFD200|#1B4094
+NAP|Napoli|نابولي|club|IT|#12A0D7|#FFFFFF
+FIO|Fiorentina|فيورنتينا|club|IT|#482E92|#FFFFFF
+SAM|Sampdoria|سامبدوريا|club|IT|#1B5497|#FFFFFF
+ATA|Atalanta|أتالانتا|club|IT|#1E71B8|#000000
+TOR|Torino|تورينو|club|IT|#881F19|#FFFFFF
+UDI|Udinese|أودينيزي|club|IT|#FFFFFF|#000000
+BLG|Bologna|بولونيا|club|IT|#A21C26|#1A2F48
+CAG|Cagliari|كالياري|club|IT|#002350|#A3142D
+GEN|Genoa|جنوى|club|IT|#C8102E|#002147
+PAL|Palermo|باليرمو|club|IT|#F5A9C4|#000000
+BRE|Brescia|بريشيا|club|IT|#0064B0|#FFFFFF
+BAY|Bayern Munich|بايرن ميونخ|club|DE|#DC052D|#FFFFFF
+BVB|Borussia Dortmund|بوروسيا دورتموند|club|DE|#FDE100|#000000
+B04|Bayer Leverkusen|باير ليفركوزن|club|DE|#E32221|#000000
+S04|Schalke 04|شالكه 04|club|DE|#004D9D|#FFFFFF
+SVW|Werder Bremen|فيردر بريمن|club|DE|#1D9053|#FFFFFF
+HSV|Hamburger SV|هامبورغ|club|DE|#0A3F86|#FFFFFF
+VFB|VfB Stuttgart|شتوتغارت|club|DE|#E32219|#FFFFFF
+BMG|Borussia Mönchengladbach|بوروسيا مونشنغلادباخ|club|DE|#000000|#FFFFFF
+WOB|VfL Wolfsburg|فولفسبورغ|club|DE|#65B32E|#FFFFFF
+KOE|1. FC Köln|كولن|club|DE|#ED1C24|#FFFFFF
+KAI|1. FC Kaiserslautern|كايزرسلاوترن|club|DE|#E2001A|#FFFFFF
+RBL|RB Leipzig|لايبزيغ|club|DE|#DD0741|#FFFFFF
+HOF|TSG Hoffenheim|هوفنهايم|club|DE|#1961B5|#FFFFFF
+SGE|Eintracht Frankfurt|آينتراخت فرانكفورت|club|DE|#E1000F|#000000
+HER|Hertha BSC|هيرتا برلين|club|DE|#004D9E|#FFFFFF
+PSG|Paris Saint-Germain|باريس سان جيرمان|club|FR|#004170|#DA291C
+OM|Olympique de Marseille|أولمبيك مارسيليا|club|FR|#2FAEE0|#FFFFFF
+OL|Olympique Lyonnais|أولمبيك ليون|club|FR|#FFFFFF|#14387F
+ASM|AS Monaco|موناكو|club|FR|#E51B22|#FFFFFF
+LIL|Lille|ليل|club|FR|#E01E13|#20325F
+BOR|Bordeaux|بوردو|club|FR|#1B2A4A|#FFFFFF
+ASSE|Saint-Étienne|سانت إتيان|club|FR|#009639|#FFFFFF
+NAN|Nantes|نانت|club|FR|#FCD405|#00843D
+AUX|Auxerre|أوكسير|club|FR|#FFFFFF|#0055A4
+REN|Rennes|رين|club|FR|#E13327|#000000
+LEN|Lens|لانس|club|FR|#FFD100|#E2001A
+NIC|Nice|نيس|club|FR|#C8102E|#000000
+CAN|Cannes|كان|club|FR|#C8102E|#FFFFFF
+GUI|Guingamp|غانغان|club|FR|#C8102E|#000000
+MTP|Montpellier|مونبلييه|club|FR|#F37021|#0A2D6E
+AJA|Ajax|أياكس|club|NL|#D2122E|#FFFFFF
+PSV|PSV Eindhoven|آيندهوفن|club|NL|#ED1C24|#FFFFFF
+FEY|Feyenoord|فينورد|club|NL|#ED1C24|#FFFFFF
+AZ|AZ Alkmaar|ألكمار|club|NL|#DB0021|#FFFFFF
+TWE|FC Twente|تفينتي|club|NL|#E2001A|#FFFFFF
+HEE|Heerenveen|هيرينفين|club|NL|#0063AF|#FFFFFF
+GRO|Groningen|خرونينغن|club|NL|#00A859|#FFFFFF
+POR|FC Porto|بورتو|club|PT|#00428C|#FFFFFF
+BEN|Benfica|بنفيكا|club|PT|#E83030|#FFFFFF
+SCP|Sporting CP|سبورتنغ لشبونة|club|PT|#008057|#FFFFFF
+BRG|Braga|براغا|club|PT|#DC0A28|#FFFFFF
+CEL|Celtic|سلتيك|club|GB|#018749|#FFFFFF
+RAN|Rangers|رينجرز|club|GB|#1B458F|#FFFFFF
+GAL|Galatasaray|غلطة سراي|club|TR|#A90432|#FDB912
+FEN|Fenerbahçe|فنربخشة|club|TR|#002D72|#FFED00
+BJK|Beşiktaş|بشكتاش|club|TR|#000000|#FFFFFF
+AND|Anderlecht|أندرلخت|club|BE|#4C2C92|#FFFFFF
+BRU|Club Brugge|كلوب بروج|club|BE|#0074C8|#000000
+STL|Standard Liège|ستاندرد لييج|club|BE|#D71920|#FFFFFF
+RSB|Red Star Belgrade|النجم الأحمر|club|RS|#E2001A|#FFFFFF
+PTZ|Partizan|بارتيزان|club|RS|#000000|#FFFFFF
+STE|Steaua București|ستيوا بوخارست|club|RO|#003A8F|#E2001A
+DYK|Dynamo Kyiv|دينامو كييف|club|UA|#FFFFFF|#0055A5
+SHK|Shakhtar Donetsk|شاختار دونيتسك|club|UA|#F37021|#000000
+CSKA|CSKA Moscow|سيسكا موسكو|club|RU|#E2001A|#003399
+ZEN|Zenit|زينيت|club|RU|#0072CE|#FFFFFF
+SPA|Spartak Moscow|سبارتاك موسكو|club|RU|#E2001A|#FFFFFF
+DZG|Dinamo Zagreb|دينامو زغرب|club|HR|#0057A8|#FFFFFF
+HAJ|Hajduk Split|هايدوك سبليت|club|HR|#FFFFFF|#0057A8
+OLY|Olympiacos|أولمبياكوس|club|GR|#E2001A|#FFFFFF
+PAN|Panathinaikos|باناثينايكوس|club|GR|#007A33|#FFFFFF
+BAS|FC Basel|بازل|club|CH|#E2001A|#0033A0
+SAL|Red Bull Salzburg|سالزبورغ|club|AT|#E2001A|#FFFFFF
+RAP|Rapid Wien|رابيد فيينا|club|AT|#00843D|#FFFFFF
+COP|FC Copenhagen|كوبنهاغن|club|DK|#FFFFFF|#0B2A5B
+BRB|Brøndby|بروندبي|club|DK|#FFDD00|#0057A8
+MAL2|Malmö FF|مالمو|club|SE|#6CB4EE|#FFFFFF
+IFK|IFK Göteborg|يوتيبوري|club|SE|#0055A4|#FFFFFF
+LEG|Legia Warsaw|ليغيا وارسو|club|PL|#007A33|#FFFFFF
+SPP|Sparta Prague|سبارتا براغ|club|CZ|#A50021|#FFFFFF
+FER|Ferencváros|فيرينتسفاروش|club|HU|#00843D|#FFFFFF
+HON|Budapest Honvéd|هونفيد|club|HU|#E2001A|#000000
+SAN|Santos|سانتوس|club|BR|#FFFFFF|#000000
+FLA|Flamengo|فلامنغو|club|BR|#C8102E|#000000
+COR|Corinthians|كورينثيانز|club|BR|#FFFFFF|#000000
+SPFC|São Paulo|ساو باولو|club|BR|#FFFFFF|#E2001A
+PAL2|Palmeiras|بالميراس|club|BR|#006437|#FFFFFF
+FLU|Fluminense|فلومينينسي|club|BR|#7A0A2E|#00613C
+BOT|Botafogo|بوتافوغو|club|BR|#000000|#FFFFFF
+VAS|Vasco da Gama|فاسكو دا غاما|club|BR|#000000|#FFFFFF
+CRU|Cruzeiro|كروزيرو|club|BR|#0033A0|#FFFFFF
+GRE|Grêmio|غريميو|club|BR|#0D80BF|#000000
+INTB|Internacional|إنترناسيونال|club|BR|#E2001A|#FFFFFF
+ATMG|Atlético Mineiro|أتلتيكو مينيرو|club|BR|#000000|#FFFFFF
+BOC|Boca Juniors|بوكا جونيورز|club|AR|#003C82|#FFD200
+RIV|River Plate|ريفر بليت|club|AR|#FFFFFF|#E2001A
+IND|Independiente|إندبندينتي|club|AR|#E2001A|#FFFFFF
+ARG2|Argentinos Juniors|أرجنتينوس جونيورز|club|AR|#E2001A|#FFFFFF
+EST|Estudiantes|إستوديانتس|club|AR|#E2001A|#FFFFFF
+VEL|Vélez Sarsfield|فيليز سارسفيلد|club|AR|#FFFFFF|#0033A0
+NOB|Newell's Old Boys|نيولز أولد بويز|club|AR|#E2001A|#000000
+RAC|Racing Club|راسينغ كلوب|club|AR|#6CB4EE|#FFFFFF
+SLO|San Lorenzo|سان لورينزو|club|AR|#003C82|#E2001A
+PEN|Peñarol|بينارول|club|UY|#FFD200|#000000
+NAC|Nacional|ناسيونال|club|UY|#FFFFFF|#003C82
+CAM|América (Mexico)|كلوب أمريكا|club|MX|#FFD200|#003C82
+COS|New York Cosmos|نيويورك كوزموس|club|US|#008C45|#FFFFFF
+LAG|LA Galaxy|لوس أنجلوس جالاكسي|club|US|#00245D|#FFD200
+MIA|Inter Miami|إنتر ميامي|club|US|#F7B5CD|#231F20
+NYR|New York Red Bulls|نيويورك ريد بولز|club|US|#E2001A|#FFFFFF
+TFC|Toronto FC|تورونتو|club|CA|#E2001A|#FFFFFF
+ORL|Orlando City|أورلاندو سيتي|club|US|#612B9B|#FFFFFF
+AHL|Al Ahly|الأهلي|club|EG|#C8102E|#FFFFFF
+ZAM|Zamalek|الزمالك|club|EG|#FFFFFF|#C8102E
+ISM|Ismaily|الإسماعيلي|club|EG|#FFD200|#0033A0
+ARC|Arab Contractors|المقاولون العرب|club|EG|#FFD200|#000000
+ENP|ENPPI|إنبي|club|EG|#E2001A|#FFFFFF
+PYR|Pyramids|بيراميدز|club|EG|#002D62|#FFFFFF
+ITT|Al Ittihad (Alexandria)|الاتحاد السكندري|club|EG|#00843D|#FFFFFF
+HRS|Haras El Hodoud|حرس الحدود|club|EG|#00843D|#FFFFFF
+WAD|Wadi Degla|وادي دجلة|club|EG|#E2001A|#FFFFFF
+NAS|Al Nassr|النصر|club|SA|#FFD200|#003C82
+HIL|Al Hilal|الهلال|club|SA|#0033A0|#FFFFFF
+ITH|Al Ittihad|الاتحاد|club|SA|#FFD200|#000000
+AHS|Al Ahli Saudi|الأهلي السعودي|club|SA|#00843D|#FFFFFF
+SAD|Al Sadd|السد|club|QA|#FFFFFF|#000000
+RAJ|Raja Casablanca|الرجاء|club|MA|#00843D|#FFFFFF
+WAC|Wydad Casablanca|الوداد|club|MA|#E2001A|#FFFFFF
+EST2|Espérance de Tunis|الترجي|club|TN|#E2001A|#FFD200
+BES|Beijing Guoan|بكين غوان|club|CN|#00843D|#FFFFFF
+SHS|Shanghai SIPG|شنغهاي|club|CN|#E2001A|#FFFFFF
+GZE|Guangzhou Evergrande|غوانزو|club|CN|#E2001A|#FFD200
+VIS|Vissel Kobe|فيسل كوبي|club|JP|#8B0000|#FFFFFF
+MON|CF Montréal|مونتريال|club|CA|#0033A0|#000000
+LAFC|Los Angeles FC|لوس أنجلوس إف سي|club|US|#000000|#C39E6D
+N-BRA|Brazil|البرازيل|nt|BR|#FFDF00|#009C3B
+N-ARG|Argentina|الأرجنتين|nt|AR|#75AADB|#FFFFFF
+N-FRA|France|فرنسا|nt|FR|#002395|#ED2939
+N-GER|Germany / West Germany|ألمانيا / ألمانيا الغربية|nt|DE|#FFFFFF|#000000
+N-ITA|Italy|إيطاليا|nt|IT|#0066CC|#FFFFFF
+N-ESP|Spain|إسبانيا|nt|ES|#C60B1E|#FFC400
+N-NED|Netherlands|هولندا|nt|NL|#FF6600|#FFFFFF
+N-POR|Portugal|البرتغال|nt|PT|#C8102E|#046A38
+N-ENG|England|إنجلترا|nt|GB|#FFFFFF|#CF081F
+N-CRO|Croatia|كرواتيا|nt|HR|#FF0000|#FFFFFF
+N-CZE|Czech Republic|التشيك|nt|CZ|#D7141A|#11457E
+N-TCH|Czechoslovakia|تشيكوسلوفاكيا|nt|CZ|#D7141A|#11457E
+N-TUR|Turkey|تركيا|nt|TR|#E30A17|#FFFFFF
+N-BEL|Belgium|بلجيكا|nt|BE|#E30613|#000000
+N-URU|Uruguay|أوروغواي|nt|UY|#5CBFEB|#FFFFFF
+N-SWE|Sweden|السويد|nt|SE|#FECC00|#006AA7
+N-DEN|Denmark|الدنمارك|nt|DK|#C8102E|#FFFFFF
+N-HUN|Hungary|المجر|nt|HU|#CD2A3E|#436F4D
+N-POL|Poland|بولندا|nt|PL|#FFFFFF|#DC143C
+N-SCO|Scotland|اسكتلندا|nt|GB|#003078|#FFFFFF
+N-SRB|Serbia|صربيا|nt|RS|#C6363C|#0C4076
+N-YUG|Yugoslavia|يوغوسلافيا|nt|RS|#0C4076|#C6363C
+N-URS|Soviet Union|الاتحاد السوفيتي|nt|RU|#CC0000|#FFFFFF
+N-RUS|Russia|روسيا|nt|RU|#FFFFFF|#0039A6
+N-GRE|Greece|اليونان|nt|GR|#0D5EAF|#FFFFFF
+N-SUI|Switzerland|سويسرا|nt|CH|#FF0000|#FFFFFF
+N-AUT|Austria|النمسا|nt|AT|#ED2939|#FFFFFF
+N-UKR|Ukraine|أوكرانيا|nt|UA|#FFD500|#005BBB
+N-IRL|Republic of Ireland|أيرلندا|nt|IE|#169B62|#FFFFFF
+N-WAL|Wales|ويلز|nt|GB|#C8102E|#00B140
+N-NOR|Norway|النرويج|nt|NO|#BA0C2F|#FFFFFF
+N-FIN|Finland|فنلندا|nt|FI|#FFFFFF|#003580
+N-BUL|Bulgaria|بلغاريا|nt|BG|#FFFFFF|#00966E
+N-ROU|Romania|رومانيا|nt|RO|#FFD100|#002B7F
+N-BIH|Bosnia and Herzegovina|البوسنة والهرسك|nt|BA|#002395|#FECB00
+N-SVN|Slovenia|سلوفينيا|nt|SI|#FFFFFF|#005DA4
+N-SVK|Slovakia|سلوفاكيا|nt|SK|#0B4EA2|#FFFFFF
+N-GEO|Georgia|جورجيا|nt|GE|#FFFFFF|#FF0000
+N-ARM|Armenia|أرمينيا|nt|AM|#D90012|#0033A0
+N-EGY|Egypt|مصر|nt|EG|#CE1126|#FFFFFF
+N-MAR|Morocco|المغرب|nt|MA|#C1272D|#006233
+N-ALG|Algeria|الجزائر|nt|DZ|#FFFFFF|#006233
+N-TUN|Tunisia|تونس|nt|TN|#E70013|#FFFFFF
+N-NGA|Nigeria|نيجيريا|nt|NG|#008751|#FFFFFF
+N-CMR|Cameroon|الكاميرون|nt|CM|#007A5E|#CE1126
+N-SEN|Senegal|السنغال|nt|SN|#FFFFFF|#00853F
+N-GHA|Ghana|غانا|nt|GH|#FFFFFF|#006B3F
+N-CIV|Ivory Coast|كوت ديفوار|nt|CI|#F77F00|#009E60
+N-MLI|Mali|مالي|nt|ML|#14B53A|#FCD116
+N-GAB|Gabon|الغابون|nt|GA|#009E60|#FCD116
+N-LBR|Liberia|ليبيريا|nt|LR|#BF0A30|#002868
+N-GUI|Guinea|غينيا|nt|GN|#CE1126|#FCD116
+N-TOG|Togo|توغو|nt|TG|#006A4E|#FFCE00
+N-JPN|Japan|اليابان|nt|JP|#000080|#FFFFFF
+N-KOR|South Korea|كوريا الجنوبية|nt|KR|#C60C30|#FFFFFF
+N-KSA|Saudi Arabia|السعودية|nt|SA|#006C35|#FFFFFF
+N-AUS|Australia|أستراليا|nt|AU|#FFCD00|#00843D
+N-IRN|Iran|إيران|nt|IR|#FFFFFF|#239F40
+N-MEX|Mexico|المكسيك|nt|MX|#006847|#FFFFFF
+N-USA|USA|الولايات المتحدة|nt|US|#FFFFFF|#0A3161
+N-CHI|Chile|تشيلي|nt|CL|#D52B1E|#0039A6
+N-COL|Colombia|كولومبيا|nt|CO|#FCD116|#003893
+N-PAR|Paraguay|باراغواي|nt|PY|#D52B1E|#FFFFFF
+N-PER|Peru|بيرو|nt|PE|#FFFFFF|#D91023
+N-ECU|Ecuador|الإكوادور|nt|EC|#FFD100|#034EA2
+N-CRC|Costa Rica|كوستاريكا|nt|CR|#CE1126|#002B7F
+N-CAN|Canada|كندا|nt|CA|#FF0000|#FFFFFF
+N-VEN|Venezuela|فنزويلا|nt|VE|#7B1C2E|#FFFFFF
+VER|Hellas Verona|هيلاس فيرونا|club|IT|#FFD200|#003C82
+CRE|Cremonese|كريمونيزي|club|IT|#E2001A|#808080
+MLL|Millonarios|ميلوناريوس|club|CO|#0033A0|#FFFFFF
+NUR|1. FC Nürnberg|نورنبيرغ|club|DE|#8B0000|#FFFFFF
+RCDM|RCD Mallorca|ريال مايوركا|club|ES|#E2001A|#000000
+KSC|Karlsruher SC|كارلسروه|club|DE|#0033A0|#FFFFFF
+BIR|Birmingham City|برمنغهام سيتي|club|GB|#0033A0|#FFFFFF
+BARI|Bari|باري|club|IT|#E2001A|#FFFFFF
+CLT|Celta Vigo|سيلتا فيغو|club|ES|#8AC3EE|#FFFFFF
+VWC|Vancouver Whitecaps|فانكوفر وايتكابس|club|CA|#00245E|#9DC2EA
+SHW|Sheffield Wednesday|شيفيلد وينزداي|club|GB|#0033A0|#FFFFFF
+NYC|New York City FC|نيويورك سيتي|club|US|#6CACE4|#041E42
+DER|Derby County|ديربي كاونتي|club|GB|#FFFFFF|#000000
+HIB|Hibernian|هيبرنيان|club|GB|#00843D|#FFFFFF
+DYM|Dynamo Moscow|دينامو موسكو|club|RU|#0033A0|#FFFFFF
+VIC|Vicenza|فيتشنزا|club|IT|#E2001A|#FFFFFF
+PER|Perugia|بيروجيا|club|IT|#E2001A|#FFFFFF
+COV|Coventry City|كوفنتري سيتي|club|GB|#6CABDD|#FFFFFF
+WOL|Wolverhampton|وولفرهامبتون|club|GB|#FDB913|#231F20
+N-ZIM|Zimbabwe|زيمبابوي|nt|ZW|#319208|#FFD200
+N-ISL|Iceland|آيسلندا|nt|IS|#02529C|#FFFFFF
+N-BLR|Belarus|بيلاروسيا|nt|BY|#C8313E|#4AA657
+N-MKD|North Macedonia|مقدونيا الشمالية|nt|MK|#D20000|#FFE600
+N-TRI|Trinidad and Tobago|ترينيداد وتوباغو|nt|TT|#CE1126|#000000
+N-NIR|Northern Ireland|أيرلندا الشمالية|nt|GB|#00843D|#FFFFFF
