@@ -2,7 +2,7 @@ name: Build LEGENDS XI APK
 
 on:
   push:
-    branches: [ main, master, legends-xi ]
+    branches: [ main, master ]
   workflow_dispatch:
 
 permissions:
