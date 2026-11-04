@@ -6,7 +6,7 @@ const LX = window.LX, D = LX.D, S = LX.S, esc = LX.esc, I = LX.I;
 const BIG = new Set(['RMA', 'BAR', 'MUN', 'LIV', 'MIL', 'INT', 'JUV', 'BAY', 'ARS', 'CHE', 'PSG', 'AJA', 'BVB', 'ATM', 'MCI']);
 LX.CATS = [
   ['mix', 'متنوع'], ['career', 'المسيرة'], ['nat', 'الجنسية'], ['pos', 'المركز'], ['clubs', 'الأندية'],
-  ['mates', 'الزملاء'], ['shirt', 'رقم القميص'], ['hon', 'الإنجازات'], ['photo', 'الصورة'], ['squad', 'التشكيلة التاريخية']
+  ['mates', 'الزملاء'], ['shirt', 'رقم القميص'], ['hon', 'الإنجازات'], ['photo', 'الصورة'], ['squad', 'التشكيلة التاريخية'], ['bio', 'السمات والحكايات']
 ];
 const yr = p => p.b ? +p.b.slice(0, 4) : null;
 
@@ -31,6 +31,15 @@ function facts(p, r) {
     const y = LX.pick(ys, r);
     F.push({ c: 'hon', g: 'h' + k, x: `توّج بـ${LX.HONAR[k]} عام ${y}`, t: q => q.h.some(h => h[0] === k && h[1] === y) });
   });
+  // editorial player card: traits & best season are flavour (never used to prove uniqueness); card shirt numbers are checked
+  const X = p.x;
+  if (X) {
+    const tn = t => t === p.nat ? 'منتخب ' + nat : LX.teamName(t);
+    (X.tags || []).forEach(tg => F.push({ c: 'bio', g: 'tag' + tg, soft: 1, x: `من سماته: ${LX.TAGAR[tg]}`, t: () => true }));
+    (X.best || []).forEach(b => F.push({ c: 'bio', g: 'best', soft: 1, x: `قدّم أفضل مواسمه مع ${tn(b[0])} ${b[0] === p.nat ? 'عام ' + b[1] : 'موسم ' + LX.seasonLabel(b[1])}`, t: () => true }));
+    Object.entries(X.no || {}).forEach(([tm, ns]) => ns.forEach(n => F.push({ c: 'shirt', g: 'no' + tm + n, x: `ارتدى القميص رقم ${n} مع ${tn(tm)}`,
+      t: q => { const L = q.x && q.x.no && q.x.no[tm]; return L ? L.includes(n) : (tm === q.nat || q.cl.some(c => c[0] === tm)); } })));
+  }
   if (p.nt) F.push({ c: 'nat', g: 'nat', x: `لعب دوليًا مع ${nat} منذ ${p.nt[0]}`, t: q => q.nat === p.nat && q.nt && Math.abs(q.nt[0] - p.nt[0]) <= 1 });
   if (yr(p)) F.push({ c: 'career', x: `وُلد عام ${yr(p)}`, t: q => yr(q) === yr(p) });
   if (p.yr && p.cl.length && p.cs !== 'tm') F.push({ c: 'career', x: `جيله: نشط بين ${p.yr[0]} و${Math.min(p.yr[1], LX.NOW) >= LX.NOW ? 'اليوم' : p.yr[1]}`, t: q => q.yr && q.cl.length && Math.abs(q.yr[0] - p.yr[0]) <= 2, w: 1 });
@@ -57,6 +66,16 @@ function facts(p, r) {
   });
   return F;
 }
+/** free-text card facts usable as clues (the texts never contain the player's own name — checked by build.py) */
+function cardSoft(p) {
+  const x = p.x; if (!x) return [];
+  const out = LX.cardFacts(p).map(t => 'معلومة: ' + t);
+  if (x.role) out.push(`مركزه المعروف: ${x.role}`);
+  if (x.ind && x.ind.length) out.push(`من جوائزه الفردية: ${x.ind.slice(0, 2).join('، ')}`);
+  if (x.tit && x.tit.length) out.push(`من ألقابه: ${x.tit.slice(0, 3).join('، ')}`);
+  return out;
+}
+LX.cardSoft = cardSoft;
 const POOLMAP = { 1: [1], 2: [2, 1], 3: [3, 2], 4: [4, 3] };
 /** Build a question. opts {diff, cat, era, r (rng), pool (array of ids), recent:Set} */
 LX.makeQuestion = (opts) => {
@@ -67,8 +86,9 @@ LX.makeQuestion = (opts) => {
   const tiers = POOLMAP[d.id];
   let pool = opts.pool ? base : base.filter(p => tiers.includes(p.t));
   if (opts.cat === 'squad') pool = pool.filter(p => (LX.squadsOf[p.id] || []).length);
-  if (opts.cat === 'shirt') pool = pool.filter(p => (LX.squadsOf[p.id] || []).length || (p.wc || []).some(w => w[1] != null));
+  if (opts.cat === 'shirt') pool = pool.filter(p => (LX.squadsOf[p.id] || []).length || (p.wc || []).some(w => w[1] != null) || (p.x && p.x.no));
   if (opts.cat === 'hon') pool = pool.filter(p => p.h.length);
+  if (opts.cat === 'bio') pool = pool.filter(p => p.x);
   if (pool.length < 4) pool = base;
   const recent = opts.recent || new Set();
   const fresh = pool.filter(p => !recent.has(p.id)); if (fresh.length >= 3) pool = fresh;
@@ -110,11 +130,17 @@ LX.makeQuestion = (opts) => {
       const f = scored[k][1]; chosen.push(f); C = C.filter(q => f.t(q));
     }
     if (C.length !== 1 || C[0].id !== p.id) continue;
-    if (chosen.every(f => f.c === 'pos' || /^وُلد/.test(f.x))) continue;   // never identify a player only by position + birth year
+    if (chosen.filter(f => !f.soft).every(f => f.c === 'pos' || /^وُلد/.test(f.x))) continue;   // never identify a player only by position + birth year
     // order: vaguest first
     chosen = chosen.map(f => [LX.allPlayers.filter(q => f.t(q)).length, f]).sort((a, b) => b[0] - a[0]).map(x => x[1]);
-    const extras = LX.shuffle(F.filter(f => !chosen.includes(f)), r).slice(0, 4);
-    return { p, clues: chosen.map(f => f.x), extras: extras.map(f => f.x), photo: opts.cat === 'photo' };
+    if (chosen.every(f => f.soft)) continue;
+    // "soft" card clues (role, stories, stats, awards) make the riddle richer; the nickname is always the last hint
+    const soft = LX.shuffle(cardSoft(p), r);
+    const clues = chosen.map(f => f.x);
+    if (d.id <= 2 && soft.length) clues.push(soft.shift());
+    const extras = soft.slice(0, 3).concat(LX.shuffle(F.filter(f => !chosen.includes(f)), r).slice(0, 3).map(f => f.x));
+    if (p.x && p.x.nick) extras.push(`يُلقب بـ«${p.x.nick[0]}»${p.x.nick[1] ? ` (${p.x.nick[1]})` : ''}`);
+    return { p, clues, extras, photo: opts.cat === 'photo' };
   }
   return null;
 };
@@ -163,18 +189,19 @@ LX.route(/^\/guess\/play(?:\/(rel))?$/, (root, rel) => {
       <div class="mystery ${q.photo ? 'photo' : ''}">${q.photo ? LX.ph(q.p.id, 104) : '?'}</div>
       <div class="q">مين اللاعب ده؟</div>
       <div class="clues">${all.map((c, i) => `<div class="clue"><span class="i">${i + 1}</span><span class="x">${esc(c)}</span></div>`).join('')}</div>
-      <div class="answer"><div class="search"><input id="ans" placeholder="اكتب الاسم بالعربي أو الإنجليزي" autocomplete="off" autocapitalize="off"></div><button class="btn gold" id="chk">تحقق</button></div>
+      <div class="answer"><div class="search"><input id="ans" placeholder="ابدأ كتابة الاسم بالعربي أو الإنجليزي…" autocomplete="off" autocapitalize="off"></div><button class="btn gold" id="chk">تحقق</button></div>
       <div class="row" style="margin-top:10px"><button class="btn sm grow" id="hint" ${st.hints >= q.extras.length ? 'disabled style="opacity:.4"' : ''}>${I.q} دليل إضافي (${LX.iso('−' + Math.round(d.pts * .15))})</button><button class="btn sm grow" id="give">استسلام${prac ? '' : ' (−فرصة)'}</button></div></div>`;
     LX.loadPhotos(stage);
     const inp = stage.querySelector('#ans'); setTimeout(() => inp.focus(), 50);
+    LX.autoAnswer(inp, () => check());
     inp.onkeydown = e => { if (e.key === 'Enter') check(); };
     stage.querySelector('#chk').onclick = check;
     stage.querySelector('#hint').onclick = () => { if (st.hints < q.extras.length) { st.hints++; drawQ(); } };
     stage.querySelector('#give').onclick = () => { wrong(true); };
   };
   const check = () => {
-    const v = stage.querySelector('#ans').value; if (!v.trim()) return;
-    const m = LX.matchAnswer(v, st.q.p.id);
+    const inp = stage.querySelector('#ans'); if (!inp.value.trim()) return;
+    const m = LX.answerCheck(inp, st.q.p.id);
     if (m.ok) return right(m);
     const other = m.other && m.other.length === 1 && LX.P(m.other[0]);
     LX.toast(other ? `${other.ar}؟ لا، ليس هو` : (m.amb ? 'الاسم يطابق أكثر من لاعب، اكتب الاسم كاملًا' : 'إجابة خاطئة'), 'bad');
@@ -207,6 +234,7 @@ LX.route(/^\/guess\/play(?:\/(rel))?$/, (root, rel) => {
     const p = st.q.p; const over = !prac && st.lives <= 0;
     stage.innerHTML = `<div class="qbox reveal ${ok ? '' : 'bad'}">${LX.ph(p.id, 110)}<div style="font-size:22px;font-weight:900;margin-top:10px">${esc(p.ar)}</div><div class="muted ltr">${esc(p.en)}</div>
       <div style="margin-top:6px">${ok ? `<span class="chip green">إجابة صحيحة ${LX.iso('+' + pts)}</span>` : '<span class="chip red">الإجابة الصحيحة</span>'}</div>
+      ${LX.cardMini(p)}
       ${ok ? `<div class="breakdown">${b.map(x => `<div><span>${esc(x[0])}</span><b class="${x[1] < 0 ? '' : 'gold'}">${x[1] > 0 ? '+' : ''}${x[1]}</b></div>`).join('')}</div>` : ''}
       <div class="row" style="margin-top:14px"><button class="btn grow" id="prof">الملف الكامل</button><button class="btn gold grow" id="nx">${over ? 'النتيجة النهائية' : 'السؤال التالي'}</button></div></div>`;
     LX.loadPhotos(stage);

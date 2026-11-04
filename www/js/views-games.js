@@ -44,16 +44,17 @@ LX.route(/^\/missing(?:\/(daily))?$/, (root, daily) => {
     const x = s.p[idx], p = LX.P(x[2]);
     LX.sheet(`<h3>اللاعب الناقص — ${esc(LX.POSDETAIL[x[1]] || x[1])}${x[0] != null && M.diff < 4 ? ` · رقم ${x[0]}` : ''}</h3>
       ${st.hints.has(idx) ? `<div class="clue" style="margin-bottom:10px"><span class="i">!</span><span class="x">جنسيته: ${esc(LX.natName(p))} · ${p.yr ? `نشط ${LX.iso(p.yr[0] + '–' + Math.min(p.yr[1], LX.NOW))}` : ''}</span></div>` : ''}
-      <div class="answer" style="margin-top:0"><div class="search"><input id="ma" placeholder="اسم اللاعب" autocomplete="off"></div><button class="btn gold" id="mc">تحقق</button></div>
+      <div class="answer" style="margin-top:0"><div class="search"><input id="ma" placeholder="ابدأ كتابة اسم اللاعب…" autocomplete="off"></div><button class="btn gold" id="mc">تحقق</button></div>
       ${st.hints.has(idx) ? '' : `<button class="btn sm block" style="margin-top:10px" id="mh">${I.q} تلميح: الجنسية (${LX.iso('−' + Math.round(d.pts * .15))})</button>`}`, sh => {
       const inp = sh.querySelector('#ma'); setTimeout(() => inp.focus(), 250);
       const go = () => {
-        const m = LX.matchAnswer(inp.value, p.id);
+        if (!inp.value.trim()) return;
+        const m = LX.answerCheck(inp, p.id);
         if (m.ok) { st.found.add(idx); LX.closeSheet(); LX.toast('صحيح! ' + p.ar, 'good'); LX.buzz(30); if (st.found.size === M.hidden.length) end(true); else draw(); return; }
         st.lives--; LX.buzz(120); LX.toast('إجابة خاطئة', 'bad'); sh.querySelector('.answer').classList.add('shake'); setTimeout(() => sh.querySelector('.answer') && sh.querySelector('.answer').classList.remove('shake'), 400);
         if (st.lives <= 0) { LX.closeSheet(); end(false); } else draw();
       };
-      sh.querySelector('#mc').onclick = go; inp.onkeydown = e => { if (e.key === 'Enter') go(); };
+      LX.autoAnswer(inp, go); sh.querySelector('#mc').onclick = go; inp.onkeydown = e => { if (e.key === 'Enter') go(); };
       const mh = sh.querySelector('#mh'); if (mh) mh.onclick = () => { st.hints.add(idx); LX.closeSheet(); ask(idx); };
     });
   };
@@ -195,13 +196,28 @@ LX.route(/^\/daily$/, root => {
     if (k === 'c') { const ch = LX.makeChallenge(1, 2, { era: LX.ERAS[4] }, LX.rng(seed + 13)); if (!ch) return; ch.daily = true; LX._ch = ch; return LX.go('/connect/play'); }
     // daily guess inline
     const q = LX.makeQuestion({ diff: 2, cat: 'mix', era: LX.ERAS[4], r: LX.rng(seed + 3) }); if (!q) return;
-    const dg = main.querySelector('#dg'); let tries = 3;
+    const dg = main.querySelector('#dg'); let tries = 3, hints = 0;
+    const done = ok => {
+      if (ok) mark('g', true);
+      dg.innerHTML = `<div class="qbox reveal ${ok ? '' : 'bad'}" style="margin-top:12px">${LX.ph(q.p.id, 100)}<div style="font-weight:900;font-size:20px;margin-top:8px">${esc(q.p.ar)}</div><div class="muted ltr">${esc(q.p.en)}</div>
+        <div style="margin-top:6px">${ok ? '<span class="chip green">إجابة صحيحة</span>' : '<span class="chip red">حاول غدًا من جديد</span>'}</div>${LX.cardMini(q.p)}
+        <div class="row" style="margin-top:12px"><button class="btn grow" id="dp">الملف الكامل</button><button class="btn gold grow" id="dk">${ok ? 'متابعة التحدي' : 'حسنًا'}</button></div></div>`;
+      LX.loadPhotos(dg);
+      dg.querySelector('#dp').onclick = () => LX.go('/player/' + q.p.id);
+      dg.querySelector('#dk').onclick = () => LX.render();
+    };
     const draw = (msg) => {
-      dg.innerHTML = `<div class="qbox" style="margin-top:12px"><div class="q">مين أسطورة اليوم؟</div><div class="clues">${q.clues.map((c, i) => `<div class="clue"><span class="i">${i + 1}</span><span class="x">${esc(c)}</span></div>`).join('')}</div>
-      <div class="answer"><div class="search"><input id="da" placeholder="اكتب الاسم" autocomplete="off"></div><button class="btn gold" id="dc">تحقق</button></div><div class="muted" style="margin-top:8px;font-size:12px">محاولات متبقية: ${tries} ${msg ? '· ' + msg : ''}</div></div>`;
-      const go = () => { const m = LX.matchAnswer(dg.querySelector('#da').value, q.p.id); if (m.ok) { mark('g', true); LX.toast('صحيح! ' + q.p.ar, 'good'); return LX.render(); } tries--; LX.buzz(120); if (tries <= 0) { dg.innerHTML = `<div class="qbox reveal bad" style="margin-top:12px">${LX.ph(q.p.id, 100)}<div style="font-weight:900;font-size:20px;margin-top:8px">${esc(q.p.ar)}</div><div class="muted">حاول غدًا من جديد</div></div>`; LX.loadPhotos(dg); return; } draw('إجابة خاطئة'); };
-      dg.querySelector('#dc').onclick = go; dg.querySelector('#da').onkeydown = e => { if (e.key === 'Enter') go(); };
-      setTimeout(() => dg.querySelector('#da').focus(), 50);
+      const all = q.clues.concat(q.extras.slice(0, hints));
+      dg.innerHTML = `<div class="qbox" style="margin-top:12px"><div class="q">مين أسطورة اليوم؟</div><div class="clues">${all.map((c, i) => `<div class="clue"><span class="i">${i + 1}</span><span class="x">${esc(c)}</span></div>`).join('')}</div>
+      <div class="answer"><div class="search"><input id="da" placeholder="ابدأ كتابة الاسم…" autocomplete="off" autocapitalize="off"></div><button class="btn gold" id="dc">تحقق</button></div>
+      <div class="row" style="margin-top:10px"><button class="btn sm grow" id="dh" ${hints >= Math.min(3, q.extras.length) ? 'disabled style="opacity:.4"' : ''}>${I.q} دليل إضافي (${LX.iso(Math.min(3, q.extras.length) - hints)} متبقية)</button></div>
+      <div class="muted" style="margin-top:8px;font-size:12px">محاولات متبقية: ${tries} ${msg ? '· ' + msg : ''}</div></div>`;
+      const inp = dg.querySelector('#da');
+      const go = () => { if (!inp.value.trim()) return; const m = LX.answerCheck(inp, q.p.id); if (m.ok) { LX.toast('صحيح! ' + q.p.ar, 'good'); return done(true); } tries--; LX.buzz(120); if (tries <= 0) return done(false); draw('إجابة خاطئة'); };
+      LX.autoAnswer(inp, go);
+      dg.querySelector('#dc').onclick = go; inp.onkeydown = e => { if (e.key === 'Enter') go(); };
+      dg.querySelector('#dh').onclick = () => { if (hints < Math.min(3, q.extras.length)) { hints++; draw(msg); } };
+      setTimeout(() => inp.focus(), 50);
     };
     if (t.g) return LX.toast('أكملت هذا الجزء اليوم', 'good');
     draw();

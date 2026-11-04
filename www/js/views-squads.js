@@ -156,6 +156,27 @@ LX.card = (pid, no, pos, s) => {
   return `<button class="pcard t${p.t}" data-p="${pid}"><span class="num ${no == null ? 'u' : ''}">${no ?? 'غير موثق'}</span><span class="pos en">${esc(pos || p.pos)}</span>${LX.ph(pid, 86)}<div class="nm">${esc(p.ar)}</div><div class="en">${esc(p.en)}</div><div class="meta"><span>${LX.flag((LX.T(p.nat) || {}).cc)} ${esc(LX.natName(p))}</span><span>${esc(team)}</span><span class="en">${esc(period)}</span></div><div class="sig">${LX.SIG}</div></button>`;
 };
 
+/* ---------------- editorial player card (bios*.txt) */
+function cardHtml(p) {
+  const x = p.x; if (!x) return '';
+  const tn = t => t === p.nat ? 'منتخب ' + LX.natName(p) : LX.teamName(t);
+  const row = (k, v) => `<div class="kv"><span class="k">${k}</span><span class="v">${v}</span></div>`;
+  const nos = Object.entries(x.no || {});
+  return `<div class="section-t">البطاقة التعريفية</div><div class="card pcardx">
+    ${x.role ? row('المركز المعروف به', esc(x.role)) : ''}
+    ${x.nick ? row('اللقب', esc(x.nick[0]) + (x.nick[1] ? ` <span class="en muted">${esc(x.nick[1])}</span>` : '')) : ''}
+    ${x.tags && x.tags.length ? `<div class="kv"><span class="k">ما يميّزه</span><span class="v tags">${x.tags.map(t => `<span class="chip">${esc(LX.TAGAR[t])}</span>`).join('')}</span></div>` : ''}
+    ${x.desc ? `<p class="bdesc">${esc(x.desc)}</p>` : ''}
+    ${(x.best || []).map(b => `<div class="bitem"><div class="bt">⭐ أفضل مواسمه — ${esc(tn(b[0]))} ${b[0] === p.nat ? LX.iso(b[1]) : LX.seasonLabel(b[1])}</div><div>${esc(b[2])}</div></div>`).join('')}
+    ${(x.stat || []).map(t => `<div class="bitem"><div class="bt">📊 إحصائية مميزة</div><div>${esc(t)}</div></div>`).join('')}
+    ${(x.story || []).map(st => `<div class="bitem"><div class="bt">📖 ${st[0] ? 'مع ' + esc(tn(st[0])) : 'حكاية لا تُنسى'}</div><div>${esc(st[1])}</div></div>`).join('')}
+    ${nos.length ? `<div class="bt" style="margin-top:10px">👕 أرقام القميص</div><div class="nos">${nos.map(([t, ns]) => `<div class="noitem">${t === p.nat ? `<span class="fl">${LX.flag((LX.T(p.nat) || {}).cc)}</span>` : LX.crest(t, 24)}<span class="grow">${esc(tn(t))}</span><b class="en">${ns.join(' · ')}</b></div>`).join('')}</div>` : ''}
+    ${x.ind && x.ind.length ? `<div class="bt" style="margin-top:10px">🏅 جوائز فردية</div><div class="honours">${x.ind.map(t => `<span class="chip gold">${esc(t)}</span>`).join('')}</div>` : ''}
+    ${x.tit && x.tit.length ? `<div class="bt" style="margin-top:10px">🏆 ألقاب جماعية</div><div class="honours">${x.tit.map(t => `<span class="chip">${esc(t)}</span>`).join('')}</div>` : ''}
+    <p class="muted" style="font-size:11px;margin:10px 0 0">معلومات تحريرية من المعرفة التاريخية الموثقة عمومًا؛ الأرقام غير المؤكدة لم تُدرج.</p>
+  </div>`;
+}
+
 /* ---------------- player profile */
 LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
   const p = LX.P(pid); if (!p) return LX.go('/home');
@@ -173,6 +194,7 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
       ${p.cl.length || !p.wc ? `<div class="fact"><b>${p.yr ? LX.iso(p.yr[0] + '–' + (p.yr[1] >= LX.NOW ? 'الآن' : p.yr[1])) : '–'}</b><small>سنوات النشاط</small></div>` : `<div class="fact"><b>${p.wc.length}</b><small>مشاركات في كأس العالم</small></div>`}
       <div class="fact"><b>${p.nt ? LX.iso(p.nt[0] + '–' + (p.nt[1] >= LX.NOW ? 'الآن' : p.nt[1])) : 'غير موثق'}</b><small>دوليًا مع ${esc(LX.natName(p))}</small></div>
     </div>
+    ${cardHtml(p)}
     ${Object.keys(hon).length ? `<div class="section-t">أبرز الإنجازات</div><div class="honours">${Object.entries(hon).map(([k, ys]) => `<span class="chip gold">${LX.HONIC[k]} ${esc(LX.HONAR[k])}${ys.length > 1 ? ` ×${ys.length}` : ''} <span class="en" style="opacity:.8">${ys.join('، ')}</span></span>`).join('')}</div>` : ''}
     <div class="actions">
       <button class="btn green" id="a1">${I.link}بدء وصلة</button>

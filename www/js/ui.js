@@ -165,6 +165,45 @@ LX.closeSheet = () => {
   bg.classList.remove('on'); sh.classList.remove('on'); setTimeout(() => { bg.remove(); sh.remove(); }, 260); return true;
 };
 
+/** Type-ahead for answer boxes: suggestions appear while typing; picking one fills the box and submits.
+ *  The picked player id is kept on the input so homonyms are never confused. */
+LX.autoAnswer = (inp, onPick, opts = {}) => {
+  const host = inp.closest('.answer') || inp.parentElement;
+  host.classList.add('achost');
+  const inline = !!inp.closest('.sheet');
+  const box = document.createElement('div'); box.className = 'acbox' + (inline ? ' inline' : ''); inline ? host.after(box) : host.appendChild(box);
+  const hide = () => { box.innerHTML = ''; box.classList.remove('on'); };
+  const draw = () => {
+    delete inp.dataset.pid;
+    const v = inp.value.trim();
+    const res = v.length >= 2 ? LX.search(v, 6, opts.filter) : [];
+    if (!res.length) return hide();
+    box.innerHTML = res.map(p => `<button type="button" class="acitem" data-p="${p.id}">${LX.ph(p.id, 30)}<span class="grow"><b>${esc(p.ar)}</b><small class="ltr">${esc(p.en)}</small></span><span class="fl">${LX.flag((LX.T(p.nat) || {}).cc)}</span></button>`).join('');
+    box.classList.add('on'); LX.loadPhotos(box);
+  };
+  inp.addEventListener('input', draw);
+  inp.addEventListener('blur', () => setTimeout(hide, 180));
+  inp.addEventListener('keydown', e => { if (e.key === 'Escape') hide(); });
+  // pointerdown fires before the input loses focus, so the keyboard stays and the pick is not lost
+  box.addEventListener('pointerdown', e => {
+    const b = e.target.closest('[data-p]'); if (!b) return; e.preventDefault();
+    const p = LX.P(b.dataset.p); inp.value = p.ar; inp.dataset.pid = p.id; hide(); onPick && onPick(p);
+  });
+  return { hide };
+};
+/** check an answer box against the target (uses the picked suggestion when there is one) */
+LX.answerCheck = (inp, targetId) => {
+  const pid = inp.dataset.pid;
+  if (pid && LX.P(pid) && inp.value === LX.P(pid).ar) return pid === targetId ? { ok: true, exact: true } : { ok: false, other: [pid] };
+  return LX.matchAnswer(inp.value, targetId);
+};
+/** "did you know" block for reveal screens */
+LX.cardMini = p => {
+  const x = p.x; if (!x) return '';
+  const f = LX.cardFacts(p).slice(0, 2);
+  return `<div class="didyou"><div class="h">هل تعلم؟</div>${x.nick ? `<div><b>لقبه:</b> ${esc(x.nick.join(' — '))}</div>` : ''}${x.role ? `<div><b>مركزه المعروف:</b> ${esc(x.role)}</div>` : ''}${f.map(t => `<div>• ${esc(t)}</div>`).join('')}</div>`;
+};
+
 /** Player picker sheet. opts: {title, filter(p), onPick(p)} */
 LX.pickPlayer = opts => {
   const sh = LX.sheet(`<h3>${esc(opts.title || 'اختر لاعبًا')}</h3>

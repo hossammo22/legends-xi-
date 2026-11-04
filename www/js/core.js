@@ -59,6 +59,24 @@ LX.POSAR = { GK: 'حارس مرمى', DF: 'مدافع', MF: 'لاعب وسط', F
 LX.POSDETAIL = { GK: 'حارس مرمى', CB: 'قلب دفاع', SW: 'ليبرو', RB: 'ظهير أيمن', LB: 'ظهير أيسر', RWB: 'جناح دفاعي أيمن', LWB: 'جناح دفاعي أيسر', DM: 'وسط دفاعي', CM: 'وسط ميدان', AM: 'صانع ألعاب', RM: 'وسط أيمن', LM: 'وسط أيسر', RW: 'جناح أيمن', LW: 'جناح أيسر', CF: 'رأس حربة', SS: 'مهاجم ثانٍ', FW: 'مهاجم', MF: 'لاعب وسط', DF: 'مدافع', IL: 'مهاجم داخلي أيسر', IR: 'مهاجم داخلي أيمن', OR: 'جناح أيمن', OL: 'جناح أيسر', RH: 'نصف أيمن', LH: 'نصف أيسر', RF: 'مهاجم أيمن', LF: 'مهاجم أيسر', WB: 'ظهير جناح' };
 LX.HONAR = { WC: 'كأس العالم', EURO: 'كأس الأمم الأوروبية', CA: 'كوبا أمريكا', AFCON: 'كأس الأمم الأفريقية', CL: 'دوري أبطال أوروبا', BDO: 'الكرة الذهبية', LIB: 'كوبا ليبرتادوريس' };
 LX.HONIC = { WC: '🏆', EURO: '🇪🇺', CA: '🌎', AFCON: '🌍', CL: '⭐', BDO: '🥇', LIB: '🏅' };
+/* player cards (editorial): trait tags, used in the profile and as quiz clues */
+LX.TAGAR = { tall: 'طويل القامة', short: 'قصير القامة', fast: 'سريع جدًا', dribble: 'مراوغ بارع', shot: 'صاحب تسديدات قوية من بعيد', fk: 'متخصص في الركلات الحرة',
+  head: 'قوي في الكرات الهوائية', tough: 'صلب وخشن في الالتحامات', fiery: 'حماسي ومندفع داخل الملعب', leader: 'قائد بالفطرة', vision: 'يتميز بالرؤية والتمرير الدقيق',
+  lefty: 'يعتمد على قدمه اليسرى', ambi: 'يجيد اللعب بالقدمين', poacher: 'قناص داخل منطقة الجزاء', engine: 'لا يتوقف عن الركض طوال المباراة', tech: 'صاحب مهارة فنية فائقة',
+  temper: 'عُرف بانفعالات وتصرفات مثيرة للجدل', loyal: 'قضى معظم مسيرته وفيًّا لنادٍ واحد', acro: 'يشتهر بالأهداف الأكروباتية', strong: 'يتمتع بقوة بدنية هائلة',
+  versatile: 'لعب في أكثر من مركز', cross: 'يُتقن العرضيات', reflex: 'ردود فعل خارقة تحت العارضة', gkfeet: 'حارس يجيد اللعب بقدميه والخروج من مرماه',
+  clutch: 'يحسم المباريات الكبيرة والنهائيات', pens: 'متخصص في ركلات الجزاء' };
+LX.seasonLabel = y => LX.iso(y + '–' + String((y + 1) % 100).padStart(2, '0'));
+/** "did you know" lines for a player card (no nickname) */
+LX.cardFacts = p => {
+  const x = p.x; if (!x) return [];
+  const out = [];
+  (x.stat || []).forEach(t => out.push(t));
+  (x.best || []).forEach(b => out.push(`أفضل مواسمه: مع ${LX.teamName(b[0])} موسم ${LX.seasonLabel(b[1])} — ${b[2]}`));
+  (x.story || []).forEach(s => out.push(s[0] ? `مع ${LX.teamName(s[0])}: ${s[1]}` : s[1]));
+  if (x.desc) out.push(x.desc);
+  return out;
+};
 const ISO = x => '\u2066' + x + '\u2069';
 LX.iso = ISO;
 LX.nums = t => String(t).replace(/\d+\s*[–-]\s*\d+/g, m => ISO(m));

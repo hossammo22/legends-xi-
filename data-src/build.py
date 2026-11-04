@@ -227,8 +227,68 @@ stats = dict(players=len(players), squads=len(squads), edges=len(edges), wcsq=le
              full=sum(1 for p in players.values() if not p['partial']),
              teams=len(teams_out))
 
+# ---- player cards (bios*.txt): role, nickname, traits, best season, stats, stories, shirt numbers, honours
+TAGS = {'tall', 'short', 'fast', 'dribble', 'shot', 'fk', 'head', 'tough', 'fiery', 'leader', 'vision', 'lefty', 'ambi', 'poacher',
+        'engine', 'tech', 'temper', 'loyal', 'acro', 'strong', 'versatile', 'cross', 'reflex', 'gkfeet', 'clutch', 'pens'}
+BIOKEYS = {'role', 'nick', 'tags', 'desc', 'best', 'stat', 'story', 'no', 'ind', 'tit'}
+AR = r'؀-ۿ'
+def own_name(pl, txt):
+    toks = [w for w in re.split(r'[\s\-]+', pl['ar']) if len(w) >= 3] + [w for w in re.split(r'[\s\-]+', pl['en']) if len(w) >= 4]
+    for w in toks:
+        if re.search(rf'(?<![{AR}A-Za-z])[وبلف]?{re.escape(w)}(?![{AR}A-Za-z])', txt): return w
+    return None
+nbio = 0
+for f in sorted(glob.glob(os.path.join(HERE, 'bios*.txt'))):
+    cur = None
+    for ln, l in enumerate(open(f, encoding='utf-8'), 1):
+        l = l.strip()
+        if not l or l.startswith('#'): continue
+        where = f'{os.path.basename(f)}:{ln}'
+        if l.startswith('@'):
+            pid = l[1:].strip()
+            if pid not in players: errors.append(f'{where}: unknown player {pid}'); cur = None; continue
+            pl = players[pid]
+            if 'x' in pl: errors.append(f'{where}: duplicate card {pid}')
+            cur = pl['x'] = {}; nbio += 1
+            clubs = {c[0] for c in pl['cl']}
+            continue
+        if cur is None: continue
+        k, _, v = l.partition(':'); k, v = k.strip(), v.strip()
+        if k not in BIOKEYS or not v: errors.append(f'{where}: bad line {l[:40]}'); continue
+        def club(c):
+            c = c.strip()
+            if c == 'NT': return pl['nat']
+            if c not in clubs: errors.append(f'{where}: {pl["id"]} never played for {c}')
+            return c
+        if k in ('desc', 'stat', 'story', 'best', 'role'):
+            body = v.split('|', 1)[-1]
+            hit = own_name(pl, body)
+            if hit: errors.append(f'{where}: text reveals the player\'s own name "{hit}"')
+        if k == 'role': cur['role'] = v
+        elif k == 'nick': cur['nick'] = [s.strip() for s in v.split('|')]
+        elif k == 'tags':
+            t = v.split(); bad = [x for x in t if x not in TAGS]
+            if bad: errors.append(f'{where}: unknown tags {bad}')
+            cur['tags'] = t
+        elif k == 'desc': cur['desc'] = v
+        elif k == 'best':
+            m = re.match(r'(\S+)\s+(\d{4})\s*\|\s*(.+)$', v)
+            if not m: errors.append(f'{where}: bad best "{v[:30]}"'); continue
+            cur.setdefault('best', []).append([club(m.group(1)), int(m.group(2)), m.group(3)])
+        elif k == 'stat': cur.setdefault('stat', []).append(v)
+        elif k == 'story':
+            c, sep, txt = v.partition('|')
+            cur.setdefault('story', []).append([club(c), txt.strip()] if sep else [None, v])
+        elif k == 'no':
+            for part in v.split(';'):
+                m = re.match(r'\s*(\S+)\s+([\d,]+)\s*$', part)
+                if not m: errors.append(f'{where}: bad number spec "{part}"'); continue
+                cur.setdefault('no', {})[club(m.group(1))] = [int(n) for n in m.group(2).split(',')]
+        elif k in ('ind', 'tit'): cur[k] = [s.strip() for s in v.split(';') if s.strip()]
+
 if errors:
     print('ERRORS:'); print('\n'.join(errors)); sys.exit(1)
+stats['cards'] = nbio
 for w in warns: print('warn:', w)
 
 for p in players.values():
