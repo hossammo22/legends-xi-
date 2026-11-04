@@ -1,0 +1,1014 @@
+# Club generations from historical knowledge (ver kb = pending a second-source check), and finals checked against published records (src).
+# Same block format as squads.txt, but players are written by name (resolved by gen_apply.py); "Name@N-XXX" picks the nation, "=id" forces an id.
+# "-" = shirt number not documented.
+
+# ---------------- Champions League finals
+@rma1998cl|RMA|1997|نهائي دوري أبطال أوروبا 1998|ريال مدريد 1–0 يوفنتوس|1998-05-20|4-3-1-2|match|kb
+> توج بدوري الأبطال للمرة السابعة بعد انتظار 32 عامًا، بهدف ميياتوفيتش في أمستردام، مع يوب هاينكس
+1|GK|Bodo Illgner
+2|RB|Christian Panucci
+4|CB|Fernando Hierro
+5|CB|Manolo Sanchís
+3|LB|Roberto Carlos
+-|RM|Christian Karembeu
+6|CM|Fernando Redondo
+10|LM|Clarence Seedorf
+7|AM|Raúl
+8|CF|Predrag Mijatović
+9|CF|Fernando Morientes
+
+@juv1998cl|JUV|1997|نهائي دوري أبطال أوروبا 1998|يوفنتوس 0–1 ريال مدريد|1998-05-20|4-3-1-2|match|kb
+> توج بالدوري الإيطالي، وخسر نهائي دوري الأبطال للمرة الثانية توالياً في ثالث نهائي يبلغه على التوالي (1996-1998) مع ليبي
+1|GK|Angelo Peruzzi
+-|RB|Moreno Torricelli
+-|CB|Paolo Montero
+13|CB|Mark Iuliano
+-|LB|Gianluca Pessotto
+7|RM|Angelo Di Livio
+14|CM|Didier Deschamps
+26|LM|Edgar Davids
+21|AM|Zinedine Zidane
+10|CF|Alessandro Del Piero
+9|CF|Filippo Inzaghi
+
+@rma2000cl|RMA|1999|نهائي دوري أبطال أوروبا 2000|ريال مدريد 3–0 فالنسيا|2000-05-24|3-4-1-2|match|kb
+> توج بدوري الأبطال الثامن في أول نهائي بين فريقين من البلد نفسه، بعد تولي ديل بوسكي تدريبه في منتصف الموسم
+-|GK|Iker Casillas
+-|CB|Iván Campo
+-|CB|Iván Helguera
+-|CB|Aitor Karanka
+-|RM|Míchel Salgado
+6|CM|Fernando Redondo
+8|CM|Steve McManaman
+3|LM|Roberto Carlos
+7|AM|Raúl
+9|CF|Fernando Morientes
+-|CF|Nicolas Anelka
+
+@val2000cl|VAL|1999|نهائي دوري أبطال أوروبا 2000|فالنسيا 0–3 ريال مدريد|2000-05-24|4-4-2|match|kb
+> بلغ نهائي دوري الأبطال لأول مرة في تاريخه مع هيكتور كوبر، ثم بلغ النهائي التالي 2001 أيضًا وخسره بركلات الترجيح
+1|GK|Santiago Cañizares
+-|RB|Jocelyn Angloma
+-|CB|Miroslav Đukić
+-|CB|Mauricio Pellegrino
+-|LB|Gerardo
+-|RM|Gaizka Mendieta
+-|CM|Javier Farinós
+-|CM|Gerard López
+-|LM|Kily González
+-|CF|Miguel Ángel Angulo
+-|CF|Claudio López
+
+@bay2020cl|BAY|2019|نهائي دوري أبطال أوروبا 2020|بايرن ميونخ 1–0 باريس سان جيرمان|2020-08-23|4-2-3-1|match|kb
+> السداسية مع هانزي فليك، وفاز بكل مبارياته الإحدى عشرة في دوري الأبطال، منها 8-2 على برشلونة
+1|GK|Manuel Neuer
+32|RB|Joshua Kimmich
+17|CB|Jérôme Boateng
+27|CB|David Alaba
+19|LB|Alphonso Davies
+6|DM|=w92520
+18|DM|Leon Goretzka
+22|RW|Serge Gnabry
+25|AM|Thomas Müller
+29|LW|Kingsley Coman
+9|CF|Robert Lewandowski
+
+@psg2020cl|PSG|2019|نهائي دوري أبطال أوروبا 2020|باريس سان جيرمان 0–1 بايرن ميونخ|2020-08-23|4-3-3|match|kb
+> بلغ نهائي دوري الأبطال لأول مرة في تاريخه مع توماس توخيل، وتوج بالرباعية المحلية
+1|GK|Keylor Navas
+4|RB|Thilo Kehrer
+2|CB|Thiago Silva
+3|CB|Presnel Kimpembe
+14|LB|Juan Bernat
+21|CM|Ander Herrera
+5|CM|Marquinhos
+8|CM|Leandro Paredes
+11|RW|Ángel Di María
+7|CF|Kylian Mbappé
+10|LW|Neymar
+
+@che2021cl|CHE|2020|نهائي دوري أبطال أوروبا 2021|تشيلسي 1–0 مانشستر سيتي|2021-05-29|3-4-2-1|match|kb
+> توج بدوري الأبطال للمرة الثانية بعد أربعة أشهر فقط من تولي توخيل تدريبه، بهدف هافيرتس في بورتو
+16|GK|Édouard Mendy
+28|CB|César Azpilicueta
+6|CB|Thiago Silva
+2|CB|Antonio Rüdiger
+24|RM|Reece James
+7|CM|N'Golo Kanté
+5|CM|Jorginho
+21|LM|Ben Chilwell
+19|AM|Mason Mount
+29|AM|Kai Havertz
+11|CF|Timo Werner
+
+@mci2021cl|MCI|2020|نهائي دوري أبطال أوروبا 2021|مانشستر سيتي 0–1 تشيلسي|2021-05-29|4-3-3|match|kb
+> توج بالدوري الإنجليزي وكأس الرابطة، وبلغ نهائي دوري الأبطال لأول مرة في تاريخه
+31|GK|Ederson
+2|RB|Kyle Walker
+5|CB|John Stones
+3|CB|Rúben Dias
+11|LB|Oleksandr Zinchenko
+20|CM|Bernardo Silva
+8|CM|İlkay Gündoğan
+47|CM|Phil Foden
+26|RW|Riyad Mahrez
+17|CF|Kevin De Bruyne
+7|LW|Raheem Sterling
+
+@rma2022cl|RMA|2021|نهائي دوري أبطال أوروبا 2022|ريال مدريد 1–0 ليفربول|2022-05-28|4-3-3|match|kb
+> توج بدوري الأبطال الرابع عشر بعد عودات تاريخية أمام باريس وتشيلسي ومانشستر سيتي، وبالدوري الإسباني، مع أنشيلوتي
+1|GK|Thibaut Courtois
+2|RB|Dani Carvajal
+3|CB|Éder Militão
+4|CB|David Alaba
+23|LB|Ferland Mendy
+10|CM|Luka Modrić
+14|CM|Casemiro
+8|CM|Toni Kroos
+15|RW|Federico Valverde
+9|CF|Karim Benzema
+20|LW|Vinícius Júnior
+
+@liv2022cl|LIV|2021|نهائي دوري أبطال أوروبا 2022|ليفربول 0–1 ريال مدريد|2022-05-28|4-3-3|match|kb
+> توج بكأس الاتحاد وكأس الرابطة، وخسر الدوري بفارق نقطة ونهائي دوري الأبطال، في موسم كاد يحقق فيه الرباعية
+1|GK|Alisson
+66|RB|Trent Alexander-Arnold
+5|CB|Ibrahima Konaté
+4|CB|Virgil van Dijk
+26|LB|Andrew Robertson
+14|CM|Jordan Henderson
+3|CM|Fabinho
+6|CM|=w92520
+11|RW|Mohamed Salah
+10|CF|Sadio Mané
+23|LW|Luis Díaz
+
+@rma2024cl|RMA|2023|نهائي دوري أبطال أوروبا 2024|ريال مدريد 2–0 بوروسيا دورتموند|2024-06-01|4-3-1-2|match|kb
+> توج بالدوري الإسباني ودوري الأبطال الخامس عشر، في آخر مباراة لتوني كروس مع النادي
+1|GK|Thibaut Courtois
+2|RB|Dani Carvajal
+22|CB|Antonio Rüdiger
+6|CB|Nacho
+23|LB|Ferland Mendy
+15|CM|Federico Valverde
+8|CM|Toni Kroos
+12|CM|Eduardo Camavinga
+5|AM|Jude Bellingham
+11|CF|Rodrygo
+7|CF|Vinícius Júnior
+
+@bvb2024cl|BVB|2023|نهائي دوري أبطال أوروبا 2024|بوروسيا دورتموند 0–2 ريال مدريد|2024-06-01|4-2-3-1|match|kb
+> بلغ نهائي دوري الأبطال في ويمبلي رغم احتلاله المركز الخامس في الدوري، وأضاع فرصًا محققة قبل أن يحسم الريال المباراة
+1|GK|Gregor Kobel
+26|RB|Julian Ryerson
+15|CB|Mats Hummels
+4|CB|Nico Schlotterbeck
+22|LB|Ian Maatsen
+23|DM|Emre Can
+20|DM|Marcel Sabitzer
+10|RW|Jadon Sancho
+19|AM|Julian Brandt
+27|LW|Karim Adeyemi
+14|CF|Niclas Füllkrug
+
+@psg2025cl|PSG|2024|نهائي دوري أبطال أوروبا 2025|باريس سان جيرمان 5–0 إنتر|2025-05-31|4-3-3|match|kb
+> توج بأول لقب دوري أبطال في تاريخه بأكبر فوز في نهائي البطولة، ضمن ثلاثية تاريخية مع لويس إنريكي
+1|GK|Gianluigi Donnarumma
+2|RB|Achraf Hakimi
+5|CB|Marquinhos
+51|CB|Willian Pacho
+25|LB|Nuno Mendes
+8|CM|Fabián Ruiz
+87|CM|João Neves
+17|CM|Vitinha
+14|RW|Désiré Doué
+10|CF|Ousmane Dembélé
+7|LW|Khvicha Kvaratskhelia
+
+@int2025cl|INT|2024|نهائي دوري أبطال أوروبا 2025|إنتر 0–5 باريس سان جيرمان|2025-05-31|3-5-2|match|kb
+> بلغ نهائي دوري الأبطال للمرة الثانية في ثلاث سنوات بعد إقصاء بايرن وبرشلونة، وخسره بخماسية، مع سيموني إنزاغي
+1|GK|Yann Sommer
+28|CB|Benjamin Pavard
+15|CB|Francesco Acerbi
+95|CB|Alessandro Bastoni
+2|RM|Denzel Dumfries
+23|CM|Nicolò Barella
+20|CM|Hakan Çalhanoğlu
+22|CM|Henrikh Mkhitaryan
+32|LM|Federico Dimarco
+9|CF|Marcus Thuram
+10|CF|Lautaro Martínez
+
+# ---------------- UEFA Cup / Europa League finals
+@par1999uc|PAR|1998|نهائي كأس الاتحاد الأوروبي 1999|بارما 3–0 مارسيليا|1999-05-12|3-4-1-2|match|src
+> الجيل الذهبي لبارما: توج بكأس الاتحاد الأوروبي وكأس إيطاليا مع ألبرتو مالساني، بجيل بوفون وكانافارو وتورام وفيرون وكريسبو
+1|GK|Gianluigi Buffon
+21|CB|Lilian Thuram
+17|CB|Fabio Cannavaro
+6|CB|Roberto Sensini
+7|RM|Diego Fuser
+8|CM|Dino Baggio
+15|CM|Alain Boghossian
+24|LM|Paolo Vanoli
+11|AM|Juan Sebastián Verón
+9|CF|Hernán Crespo
+20|CF|Enrico Chiesa
+
+@om1999uc|OM|1998|نهائي كأس الاتحاد الأوروبي 1999|مارسيليا 0–3 بارما|1999-05-12|5-2-1-2|match|src
+> وصيف الدوري الفرنسي بفارق نقطة، وبلغ نهائي كأس الاتحاد الأوروبي في موسكو
+16|GK|Stéphane Porato
+2|RB|Patrick Blondeau
+5|CB|Laurent Blanc
+4|CB|Pierre Issa
+17|CB|Cyril Domoraud
+28|LB|Edson
+8|CM|Frédéric Brando
+27|CM|Daniel Bravo
+10|AM|Jocelyn Gourvennec
+7|CF|Robert Pires
+9|CF|Florian Maurice
+
+@gal2000uc|GAL|1999|نهائي كأس الاتحاد الأوروبي 2000|غلطة سراي 0–0 آرسنال (4–1 ركلات ترجيح)|2000-05-17|4-4-2|match|kb
+> أول نادٍ تركي يتوج بلقب أوروبي، مع فاتح تيريم وجورجي هاجي، ثم أضاف كأس السوبر الأوروبي على حساب ريال مدريد
+1|GK|Cláudio Taffarel
+-|RB|Capone
+-|CB|Gheorghe Popescu
+-|CB|Bülent Korkmaz
+-|LB|Ergün Penbe
+-|RM|Ümit Davala
+-|CM|Okan Buruk
+-|CM|Suat Kaya
+10|LM|Gheorghe Hagi
+-|CF|Arif Erdem
+9|CF|Hakan Şükür
+
+@ars2000uc|ARS|1999|نهائي كأس الاتحاد الأوروبي 2000|آرسنال 0–0 غلطة سراي (1–4 ركلات ترجيح)|2000-05-17|4-4-2|match|kb
+> وصيف الدوري الإنجليزي، وخسر نهائي كأس الاتحاد الأوروبي بركلات الترجيح في كوبنهاغن
+1|GK|David Seaman
+2|RB|Lee Dixon
+5|CB|Martin Keown
+6|CB|Tony Adams
+16|LB|Silvinho
+15|RM|Ray Parlour
+4|CM|Patrick Vieira
+17|CM|Emmanuel Petit
+11|LM|Marc Overmars
+10|CF|Dennis Bergkamp
+14|CF|Thierry Henry
+
+@liv2001uc|LIV|2000|نهائي كأس الاتحاد الأوروبي 2001|ليفربول 5–4 ألافيس (هدف ذهبي)|2001-05-16|4-4-2|match|kb
+> الثلاثية: كأس الاتحاد الأوروبي وكأس الاتحاد الإنجليزي وكأس الرابطة في موسم واحد مع جيرار هولييه
+1|GK|Sander Westerveld
+6|RB|Markus Babbel
+2|CB|Stéphane Henchoz
+12|CB|Sami Hyypiä
+23|LB|Jamie Carragher
+17|RM|Steven Gerrard
+16|CM|Dietmar Hamann
+21|CM|Gary McAllister
+13|LM|Danny Murphy
+8|CF|Emile Heskey
+10|CF|Michael Owen
+
+@por2003uc|POR|2002|نهائي كأس الاتحاد الأوروبي 2003|بورتو 3–2 سلتيك (بعد التمديد)|2003-05-21|4-3-1-2|match|kb
+> الثلاثية (الدوري والكأس وكأس الاتحاد الأوروبي) مع مورينيو، قبل عام من التتويج بدوري الأبطال
+99|GK|Vítor Baía
+-|RB|Paulo Ferreira
+2|CB|Jorge Costa
+-|CB|Ricardo Carvalho
+-|LB|Nuno Valente
+-|CM|Costinha
+-|CM|Maniche
+-|CM|Dmitri Alenichev
+10|AM|Deco
+-|CF|Capucho
+-|CF|Derlei
+
+@cel2003uc|CEL|2002|نهائي كأس الاتحاد الأوروبي 2003|سلتيك 2–3 بورتو (بعد التمديد)|2003-05-21|3-4-1-2|match|kb
+> بلغ نهائي كأس الاتحاد الأوروبي في إشبيلية مع مارتن أونيل، وسجل لارسون هدفين في النهائي، وحضره نحو 80 ألف مشجع
+-|GK|Rab Douglas
+-|CB|Johan Mjällby
+-|CB|Bobo Baldé
+-|CB|Joos Valgaeren
+-|RM|Didier Agathe
+-|CM|Neil Lennon
+-|CM|Paul Lambert
+-|LM|Alan Thompson
+-|AM|Stiliyan Petrov
+7|CF|Henrik Larsson
+-|CF|Chris Sutton
+
+@mid2006uc|MID|2005|نهائي كأس الاتحاد الأوروبي 2006|ميدلزبره 0–4 إشبيلية|2006-05-10|4-4-2|match|kb
+> بلغ نهائي كأس الاتحاد الأوروبي بعد عودتين تاريخيتين من تأخر 0-3 أمام بازل وستيوا بوخارست، مع ستيف ماكلارين
+1|GK|Mark Schwarzer
+-|RB|Stuart Parnaby
+-|CB|Chris Riggott
+-|CB|Gareth Southgate
+-|LB|Franck Queudrue
+-|RM|James Morrison
+-|CM|George Boateng
+-|CM|Fábio Rochemback
+-|LM|Stewart Downing
+-|CF|Jimmy Floyd Hasselbaink
+-|CF|Mark Viduka
+
+@ful2010el|FUL|2009|نهائي الدوري الأوروبي 2010|فولهام 1–2 أتلتيكو مدريد (بعد التمديد)|2010-05-12|4-4-1-1|match|kb
+> بلغ نهائي الدوري الأوروبي في أول مشاركة أوروبية كبرى له مع روي هودجسون، بعد إقصاء يوفنتوس وهامبورغ
+1|GK|Mark Schwarzer
+-|RB|Chris Baird
+-|CB|Brede Hangeland
+-|CB|Aaron Hughes
+-|LB|Paul Konchesky
+-|RM|Simon Davies
+-|CM|Dickson Etuhu
+-|CM|Danny Murphy
+-|LM|Damien Duff
+-|AM|Zoltán Gera
+-|CF|Bobby Zamora
+
+@por2011el|POR|2010|نهائي الدوري الأوروبي 2011|بورتو 1–0 براغا|2011-05-18|4-3-3|match|kb
+> الرباعية مع أندريه فياش بواش: الدوري دون هزيمة والكأس والسوبر والدوري الأوروبي، وسجل فالكاو 17 هدفًا أوروبيًا (رقم قياسي)
+1|GK|Helton
+-|RB|Cristian Săpunaru
+-|CB|Rolando
+-|CB|Nicolás Otamendi
+-|LB|Álvaro Pereira
+-|CM|Fredy Guarín
+-|CM|=sb16003
+-|CM|João Moutinho
+12|RW|Hulk
+9|CF|Radamel Falcao
+-|LW|Silvestre Varela
+
+@che2013el|CHE|2012|نهائي الدوري الأوروبي 2013|تشيلسي 2–1 بنفيكا|2013-05-15|4-2-3-1|match|kb
+> توج بالدوري الأوروبي بعد عام من دوري الأبطال، مع رافائيل بينيتيز، بهدف رأسي لإيفانوفيتش في الدقيقة 93
+1|GK|Petr Čech
+28|RB|César Azpilicueta
+2|CB|Branislav Ivanović
+24|CB|Gary Cahill
+3|LB|Ashley Cole
+8|DM|Frank Lampard
+4|DM|David Luiz
+7|RW|Ramires
+10|AM|Juan Mata
+11|LW|Oscar
+9|CF|Fernando Torres
+
+@ben2013el|BEN|2012|نهائي الدوري الأوروبي 2013|بنفيكا 1–2 تشيلسي|2013-05-15|4-4-2|match|kb
+> خسر الدوري البرتغالي في الأسبوع الأخير ونهائيي الدوري الأوروبي وكأس البرتغال خلال أسبوعين، مع جورجي جيسوس
+1|GK|Artur
+-|RB|André Almeida
+4|CB|Luisão
+-|CB|Ezequiel Garay
+-|LB|Lorenzo Melgarejo
+-|RM|Eduardo Salvio
+-|CM|Enzo Pérez
+-|CM|Nemanja Matić
+-|LM|Nicolás Gaitán
+-|CF|Rodrigo
+7|CF|Óscar Cardozo
+
+@mun2017el|MUN|2016|نهائي الدوري الأوروبي 2017|مانشستر يونايتد 2–0 أياكس|2017-05-24|4-3-3|match|kb
+> توج بالدوري الأوروبي وكأس الرابطة في أول مواسم مورينيو، بعد يومين من هجوم مانشستر
+20|GK|Sergio Romero
+25|RB|Antonio Valencia
+12|CB|Chris Smalling
+17|CB|Daley Blind
+36|LB|Matteo Darmian
+21|CM|Ander Herrera
+6|CM|Paul Pogba
+27|CM|Marouane Fellaini
+8|RW|Juan Mata
+19|CF|Marcus Rashford
+22|LW|Henrikh Mkhitaryan
+
+@aja2017el|AJA|2016|نهائي الدوري الأوروبي 2017|أياكس 0–2 مانشستر يونايتد|2017-05-24|4-3-3|match|kb
+> بلغ نهائي الدوري الأوروبي بأصغر تشكيلة في تاريخ النهائيات الأوروبية (متوسط نحو 22 عامًا)، وكانت نواة جيل 2019
+24|GK|André Onana
+-|RB|Joël Veltman
+-|CB|Davinson Sánchez
+-|CB|Matthijs de Ligt
+-|LB|Jairo Riedewald
+-|CM|Davy Klaassen
+-|CM|Lasse Schöne
+22|CM|Hakim Ziyech
+-|RW|Bertrand Traoré
+-|CF|Kasper Dolberg
+-|LW|Amin Younes
+
+@om2018el|OM|2017|نهائي الدوري الأوروبي 2018|مارسيليا 0–3 أتلتيكو مدريد|2018-05-16|4-2-3-1|match|kb
+> بلغ نهائي الدوري الأوروبي مع رودي غارسيا، وخرج قائده باييه مصابًا في الشوط الأول
+16|GK|Steve Mandanda
+-|RB|Bouna Sarr
+-|CB|Adil Rami
+-|CB|Luiz Gustavo
+-|LB|Jordan Amavi
+-|DM|André-Frank Zambo Anguissa
+-|DM|Maxime Lopez
+26|RW|Florian Thauvin
+10|AM|Dimitri Payet
+5|LW|Lucas Ocampos
+28|CF|Valère Germain
+
+@che2019el|CHE|2018|نهائي الدوري الأوروبي 2019|تشيلسي 4–1 آرسنال|2019-05-29|4-3-3|match|kb
+> توج بالدوري الأوروبي في باكو مع ماوريسيو ساري، في آخر مباراة لهازارد مع النادي
+1|GK|Kepa Arrizabalaga
+28|RB|César Azpilicueta
+27|CB|Andreas Christensen
+30|CB|David Luiz
+33|LB|Emerson Palmieri
+7|CM|N'Golo Kanté
+5|CM|Jorginho
+17|CM|Mateo Kovačić
+11|RW|Pedro
+18|CF|Olivier Giroud
+10|LW|Eden Hazard
+
+@ars2019el|ARS|2018|نهائي الدوري الأوروبي 2019|آرسنال 1–4 تشيلسي|2019-05-29|3-4-1-2|match|kb
+> خسر نهائي الدوري الأوروبي في آخر مباراة لبيتر تشيك، وفاته التأهل لدوري الأبطال في أول مواسم أوناي إيمري
+1|GK|Petr Čech
+5|CB|Sokratis Papastathopoulos
+6|CB|Laurent Koscielny
+18|CB|Nacho Monreal
+15|RM|Ainsley Maitland-Niles
+11|CM|Lucas Torreira
+34|CM|Granit Xhaka
+31|LM|Sead Kolašinac
+10|AM|Mesut Özil
+9|CF|Alexandre Lacazette
+14|CF|Pierre-Emerick Aubameyang
+
+@sev2020el|SEV|2019|نهائي الدوري الأوروبي 2020|إشبيلية 3–2 إنتر|2020-08-21|4-3-3|match|kb
+> توج بالدوري الأوروبي للمرة السادسة (رقم قياسي) مع لوبيتيغي، وسجل دييغو كارلوس الهدف الحاسم بمقصية
+13|GK|Yassine Bounou
+16|RB|Jesús Navas
+12|CB|Jules Koundé
+20|CB|Diego Carlos
+3|LB|Sergio Reguilón
+25|CM|Fernando Reges
+10|CM|Éver Banega
+8|CM|Joan Jordán
+7|RW|Suso
+15|CF|Youssef En-Nesyri
+5|LW|Lucas Ocampos
+
+@int2020el|INT|2019|نهائي الدوري الأوروبي 2020|إنتر 2–3 إشبيلية|2020-08-21|3-5-2|match|kb
+> وصيف الدوري الإيطالي ووصيف الدوري الأوروبي في أول مواسم كونتي، قبل عام من التتويج بالدوري
+1|GK|Samir Handanović
+2|CB|Diego Godín
+6|CB|Stefan de Vrij
+95|CB|Alessandro Bastoni
+33|RM|Danilo D'Ambrosio
+23|CM|Nicolò Barella
+77|CM|Marcelo Brozović
+5|CM|Roberto Gagliardini
+15|LM|Ashley Young
+9|CF|Romelu Lukaku
+10|CF|Lautaro Martínez
+
+@mun2021el|MUN|2020|نهائي الدوري الأوروبي 2021|مانشستر يونايتد 1–1 فياريال (10–11 ركلات ترجيح)|2021-05-26|4-2-3-1|match|kb
+> وصيف الدوري الإنجليزي، وخسر نهائي الدوري الأوروبي بركلات الترجيح بعد أن أهدر حارسه دي خيا الركلة الأخيرة، مع سولشاير
+1|GK|David de Gea
+29|RB|Aaron Wan-Bissaka
+2|CB|Victor Lindelöf
+5|CB|Harry Maguire
+23|LB|Luke Shaw
+17|DM|=w74941
+39|DM|Scott McTominay
+11|RW|Mason Greenwood
+18|AM|Bruno Fernandes
+10|LW|Marcus Rashford
+7|CF|Edinson Cavani
+
+@sge2022el|SGE|2021|نهائي الدوري الأوروبي 2022|آينتراخت فرانكفورت 1–1 رينجرز (5–4 ركلات ترجيح)|2022-05-18|3-4-2-1|match|kb
+> توج بالدوري الأوروبي دون أي هزيمة بعد إقصاء برشلونة في كامب نو، رغم احتلاله المركز الحادي عشر في الدوري الألماني
+1|GK|Kevin Trapp
+35|CB|Tuta
+13|CB|Martin Hinteregger
+2|CB|Evan Ndicka
+36|RM|Ansgar Knauff
+8|CM|Djibril Sow
+17|CM|Sebastian Rode
+10|LM|Filip Kostić
+29|AM|Jesper Lindstrøm
+15|AM|Daichi Kamada
+19|CF|Rafael Santos Borré
+
+@sev2023el|SEV|2022|نهائي الدوري الأوروبي 2023|إشبيلية 1–1 روما (4–1 ركلات ترجيح)|2023-05-31|4-2-3-1|match|kb
+> توج بالدوري الأوروبي للمرة السابعة رغم موسم صعب محليًا، مع خوسيه لويس مينديليبار
+13|GK|Yassine Bounou
+16|RB|Jesús Navas
+22|CB|Loïc Badé
+6|CB|Nemanja Gudelj
+19|LB|Alex Telles
+20|DM|Fernando Reges
+10|DM|Ivan Rakitić
+5|RW|Lucas Ocampos
+21|AM|Óliver Torres
+17|LW|Erik Lamela
+15|CF|Youssef En-Nesyri
+
+@rom2023el|ROM|2022|نهائي الدوري الأوروبي 2023|روما 1–1 إشبيلية (1–4 ركلات ترجيح)|2023-05-31|3-4-2-1|match|kb
+> بلغ نهائي الدوري الأوروبي بعد عام من تتويجه بدوري المؤتمر الأوروبي مع مورينيو، وخسره بركلات الترجيح
+1|GK|Rui Patrício
+23|CB|Gianluca Mancini
+6|CB|Chris Smalling
+3|CB|Roger Ibañez
+19|RM|Zeki Çelik
+4|CM|Bryan Cristante
+8|CM|Nemanja Matić
+37|LM|Leonardo Spinazzola
+7|AM|Lorenzo Pellegrini
+21|AM|Paulo Dybala
+9|CF|Tammy Abraham
+
+@ata2024el|ATA|2023|نهائي الدوري الأوروبي 2024|أتالانتا 3–0 باير ليفركوزن|2024-05-22|3-4-1-2|match|kb
+> توج بأول لقب أوروبي في تاريخه بثلاثية لوكمان، منهيًا سلسلة ليفركوزن بلا هزيمة (51 مباراة)، مع غاسبريني
+1|GK|Juan Musso
+19|CB|Berat Djimsiti
+4|CB|Isak Hien
+23|CB|Sead Kolašinac
+77|RM|Davide Zappacosta
+15|CM|Marten de Roon
+13|CM|Éderson
+22|LM|Matteo Ruggeri
+7|AM|Teun Koopmeiners
+11|CF|Ademola Lookman
+90|CF|Gianluca Scamacca
+
+@tot2025el|TOT|2024|نهائي الدوري الأوروبي 2025|توتنهام 1–0 مانشستر يونايتد|2025-05-21|4-3-3|match|kb
+> توج بالدوري الأوروبي، أول لقب كبير منذ 2008، رغم احتلاله المركز السابع عشر في الدوري، مع أنجي بوستيكوغلو
+1|GK|Guglielmo Vicario
+23|RB|Pedro Porro
+17|CB|Cristian Romero
+37|CB|Micky van de Ven
+13|LB|Destiny Udogie
+8|CM|Yves Bissouma
+30|CM|Rodrigo Bentancur
+29|CM|Pape Matar Sarr
+22|RW|Brennan Johnson
+19|CF|Dominic Solanke
+9|LW|Richarlison
+
+# ---------------- season generations (the usual starting XI of the season)
+@lee2000s|LEE|2000|دوري أبطال أوروبا 2000/01 — جيل ليدز التاريخي|التشكيلة الأساسية المعتادة للموسم|2001-05-08|4-4-2|season|kb
+> بلغ نصف نهائي دوري الأبطال 2001 بعد إقصاء لاتسيو وأندرلخت وديبورتيفو، وخرج أمام فالنسيا، ثم انهار ماليًا وهبط للدرجة الثانية عام 2004
+1|GK|Nigel Martyn
+18|RB|Danny Mills
+-|CB|Rio Ferdinand
+21|CB|Dominic Matteo
+3|LB|Ian Harte
+11|RM|Lee Bowyer
+23|CM|David Batty
+4|CM|Olivier Dacourt
+10|LM|Harry Kewell
+9|CF|Mark Viduka
+17|CF|Alan Smith
+
+@laz1999s|LAZ|1999|الدوري الإيطالي 1999/2000 — جيل لاتسيو الذهبي|التشكيلة الأساسية المعتادة للموسم|2000-05-14|4-4-2|season|kb
+> توج بالدوري الإيطالي (الثاني في تاريخه) وكأس إيطاليا وكأس السوبر الأوروبي، بعد كأس الكؤوس الأوروبية 1999، مع سفين غوران إريكسون
+-|GK|Luca Marchegiani
+-|RB|Paolo Negro
+13|CB|Alessandro Nesta
+11|CB|Siniša Mihajlović
+-|LB|Giuseppe Pancaro
+-|RM|Sérgio Conceição
+-|CM|Matías Almeyda
+-|CM|Juan Sebastián Verón
+18|LM|Pavel Nedvěd
+-|CF|Marcelo Salas
+-|CF|Simone Inzaghi
+
+@rom2000s|ROM|2000|الدوري الإيطالي 2000/01 — جيل روما|التشكيلة الأساسية المعتادة للموسم|2001-06-17|3-4-1-2|season|kb
+> توج بالدوري الإيطالي (الثالث في تاريخه) مع فابيو كابيلو بثلاثي توتي وباتيستوتا ومونتيلا، وحسم اللقب بالفوز 3-1 على بارما في الجولة الأخيرة
+-|GK|Francesco Antonioli
+-|CB|Jonathan Zebina
+-|CB|Walter Samuel
+-|CB|Antônio Carlos Zago
+2|RM|Cafu
+17|CM|Damiano Tommasi
+-|CM|Emerson
+32|LM|Vincent Candela
+10|AM|Francesco Totti
+-|CF|Marco Delvecchio
+18|CF|Gabriel Batistuta
+
+@aja2018s|AJA|2018|دوري أبطال أوروبا 2018/19 — جيل أياكس|التشكيلة الأساسية المعتادة للموسم|2019-05-08|4-2-3-1|season|kb
+> بلغ نصف نهائي دوري الأبطال بعد إقصاء ريال مدريد ويوفنتوس، وخرج بهدف في الدقيقة 96 أمام توتنهام، وتوج بالثنائية المحلية مع إريك تن هاغ
+24|GK|André Onana
+12|RB|Noussair Mazraoui
+4|CB|Matthijs de Ligt
+17|CB|Daley Blind
+31|LB|Nicolás Tagliafico
+20|DM|Lasse Schöne
+21|DM|Frenkie de Jong
+22|RW|Hakim Ziyech
+6|AM|Donny van de Beek
+7|LW|David Neres
+10|CF|Dušan Tadić
+
+@nap2022s|NAP|2022|الدوري الإيطالي 2022/23 — جيل سباليتي|التشكيلة الأساسية المعتادة للموسم|2023-05-04|4-3-3|season|kb
+> توج بالدوري الإيطالي لأول مرة منذ عهد مارادونا (1990) بفارق 16 نقطة، وبلغ ربع نهائي دوري الأبطال لأول مرة
+1|GK|Alex Meret
+22|RB|Giovanni Di Lorenzo
+13|CB|Amir Rrahmani
+3|CB|=sb43565
+6|LB|Mário Rui
+99|CM|André-Frank Zambo Anguissa
+68|CM|Stanislav Lobotka
+20|CM|Piotr Zieliński
+21|RW|Matteo Politano
+9|CF|Victor Osimhen
+77|LW|Khvicha Kvaratskhelia
+
+@mci2017s|MCI|2017|الدوري الإنجليزي 2017/18 — «المئويون»|التشكيلة الأساسية المعتادة للموسم|2018-05-13|4-3-3|season|kb
+> أول فريق يصل إلى 100 نقطة في تاريخ الدوري الإنجليزي، وسجل 106 أهداف، مع غوارديولا
+31|GK|Ederson
+2|RB|Kyle Walker
+5|CB|John Stones
+30|CB|Nicolás Otamendi
+18|LB|Fabian Delph
+17|CM|Kevin De Bruyne
+25|CM|Fernandinho
+21|CM|David Silva
+7|RW|Raheem Sterling
+10|CF|Sergio Agüero
+19|LW|Leroy Sané
+
+@liv2019s|LIV|2019|الدوري الإنجليزي 2019/20 — جيل كلوب|التشكيلة الأساسية المعتادة للموسم|2020-06-25|4-3-3|season|kb
+> توج بالدوري الإنجليزي لأول مرة منذ 30 عامًا بفارق 18 نقطة، بعد تتويجه بدوري الأبطال وكأس العالم للأندية
+1|GK|Alisson
+66|RB|Trent Alexander-Arnold
+12|CB|Joe Gomez
+4|CB|Virgil van Dijk
+26|LB|Andrew Robertson
+14|CM|Jordan Henderson
+3|CM|Fabinho
+5|CM|Georginio Wijnaldum
+11|RW|Mohamed Salah
+9|CF|Roberto Firmino
+10|LW|Sadio Mané
+
+@juv2011s|JUV|2011|الدوري الإيطالي 2011/12 — بداية جيل كونتي|التشكيلة الأساسية المعتادة للموسم|2012-05-13|3-5-2|season|kb
+> توج بالدوري الإيطالي دون أي هزيمة في أول مواسم كونتي وأول مواسمه على ملعبه الجديد، بداية تسعة ألقاب متتالية
+1|GK|Gianluigi Buffon
+15|CB|Andrea Barzagli
+19|CB|Leonardo Bonucci
+3|CB|Giorgio Chiellini
+26|RM|Stephan Lichtsteiner
+22|CM|Arturo Vidal
+21|CM|Andrea Pirlo
+8|CM|Claudio Marchisio
+-|LM|Paolo De Ceglie
+-|CF|Mirko Vučinić
+32|CF|Alessandro Matri
+
+@bvb2011s|BVB|2011|الدوري الألماني 2011/12 — جيل كلوب|التشكيلة الأساسية المعتادة للموسم|2012-05-12|4-2-3-1|season|kb
+> الثنائية المحلية برقم قياسي حينها (81 نقطة)، وفاز 5-2 على بايرن في نهائي الكأس، مع يورغن كلوب
+1|GK|Roman Weidenfeller
+26|RB|Łukasz Piszczek
+4|CB|Neven Subotić
+15|CB|Mats Hummels
+29|LB|Marcel Schmelzer
+5|DM|Sebastian Kehl
+6|DM|Sven Bender
+16|RW|Jakub Błaszczykowski
+23|AM|Shinji Kagawa
+19|LW|Kevin Großkreutz
+9|CF|Robert Lewandowski
+
+@dep1999s|DEP|1999|الدوري الإسباني 1999/2000 — «سوبر ديبور»|التشكيلة الأساسية المعتادة للموسم|2000-05-19|4-4-2|season|kb
+> توج بالدوري الإسباني لأول مرة في تاريخه مع خابيير إيروريتا، ثم بلغ نصف نهائي دوري الأبطال 2004
+-|GK|Jacques Songo'o
+-|RB|Manuel Pablo
+-|CB|Noureddine Naybet
+-|CB|Donato
+-|LB|Enrique Romero
+-|RM|Víctor Sánchez
+-|CM|Mauro Silva
+-|CM|Flávio Conceição
+-|LM|Fran
+-|CF|Djalminha
+-|CF|Roy Makaay
+
+@new1995s|NEW|1995|الدوري الإنجليزي 1995/96 — «الممتعون»|التشكيلة الأساسية المعتادة للموسم|1996-05-05|4-4-2|season|kb
+> تصدر الدوري بفارق 12 نقطة في يناير ثم خسر اللقب لمانشستر يونايتد، فريق «الممتعين» مع كيفن كيغان
+-|GK|Pavel Srníček
+-|RB|Warren Barton
+-|CB|Darren Peacock
+-|CB|Steve Howey
+-|LB|John Beresford
+-|RM|Keith Gillespie
+7|CM|Rob Lee
+-|CM|David Batty
+14|LM|David Ginola
+9|CF|Les Ferdinand
+-|CF|Faustino Asprilla
+
+@ars1997s|ARS|1997|الدوري الإنجليزي 1997/98 — ثنائية فينغر الأولى|التشكيلة الأساسية المعتادة للموسم|1998-05-16|4-4-2|season|kb
+> الثنائية (الدوري وكأس الاتحاد) في أول موسم كامل لأرسين فينغر، بعد تعويض فارق 12 نقطة عن مانشستر يونايتد
+1|GK|David Seaman
+2|RB|Lee Dixon
+6|CB|Tony Adams
+5|CB|Martin Keown
+3|LB|Nigel Winterburn
+15|RM|Ray Parlour
+4|CM|Patrick Vieira
+17|CM|Emmanuel Petit
+11|LM|Marc Overmars
+10|CF|Dennis Bergkamp
+9|CF|Nicolas Anelka
+
+@ars2001s|ARS|2001|الدوري الإنجليزي 2001/02 — الثنائية الثانية|التشكيلة الأساسية المعتادة للموسم|2002-05-11|4-4-2|season|kb
+> الثنائية الثانية مع فينغر، وحسم الدوري بالفوز في أولد ترافورد دون أي هزيمة خارج أرضه طوال الموسم
+1|GK|David Seaman
+12|RB|Lauren
+23|CB|Sol Campbell
+5|CB|Martin Keown
+3|LB|Ashley Cole
+8|RM|Freddie Ljungberg
+4|CM|Patrick Vieira
+15|CM|Ray Parlour
+7|LM|Robert Pires
+10|CF|Dennis Bergkamp
+14|CF|Thierry Henry
+
+@che2016s|CHE|2016|الدوري الإنجليزي 2016/17 — جيل كونتي|التشكيلة الأساسية المعتادة للموسم|2017-05-12|3-4-3|season|kb
+> توج بالدوري الإنجليزي برقم قياسي (30 فوزًا) في أول مواسم كونتي بخطة 3-4-3، بعد أن كان عاشرًا في الموسم السابق
+13|GK|Thibaut Courtois
+28|CB|César Azpilicueta
+30|CB|David Luiz
+24|CB|Gary Cahill
+15|RM|Victor Moses
+7|CM|N'Golo Kanté
+21|CM|Nemanja Matić
+3|LM|Marcos Alonso
+11|RW|Pedro
+19|CF|Diego Costa
+10|LW|Eden Hazard
+
+@int2020s|INT|2020|الدوري الإيطالي 2020/21 — جيل كونتي|التشكيلة الأساسية المعتادة للموسم|2021-05-02|3-5-2|season|kb
+> توج بالدوري الإيطالي منهيًا هيمنة يوفنتوس التي استمرت تسعة مواسم، مع أنطونيو كونتي
+1|GK|Samir Handanović
+37|CB|Milan Škriniar
+6|CB|Stefan de Vrij
+95|CB|Alessandro Bastoni
+2|RM|Achraf Hakimi
+23|CM|Nicolò Barella
+77|CM|Marcelo Brozović
+24|CM|Christian Eriksen
+14|LM|Ivan Perišić
+9|CF|Romelu Lukaku
+10|CF|Lautaro Martínez
+
+@mil2021s|MIL|2021|الدوري الإيطالي 2021/22 — جيل بيولي|التشكيلة الأساسية المعتادة للموسم|2022-05-22|4-2-3-1|season|kb
+> توج بالدوري الإيطالي لأول مرة منذ 11 عامًا مع ستيفانو بيولي، بقيادة لياو وأوليفييه جيرو
+16|GK|Mike Maignan
+2|RB|Davide Calabria
+20|CB|Pierre Kalulu
+23|CB|Fikayo Tomori
+19|LB|Theo Hernández
+8|DM|Sandro Tonali
+79|DM|Franck Kessié
+56|RW|Alexis Saelemaekers
+10|AM|Brahim Díaz
+17|LW|Rafael Leão
+9|CF|Olivier Giroud
+
+@asm2016s|ASM|2016|الدوري الفرنسي 2016/17 — جيل مبابي|التشكيلة الأساسية المعتادة للموسم|2017-05-17|4-4-2|season|kb
+> توج بالدوري الفرنسي منهيًا هيمنة باريس، وبلغ نصف نهائي دوري الأبطال، وسجل أكثر من 150 هدفًا في كل المسابقات، مع ليوناردو جارديم
+1|GK|Danijel Subašić
+19|RB|Djibril Sidibé
+25|CB|Kamil Glik
+5|CB|Jemerson
+23|LB|Benjamin Mendy
+10|RM|Bernardo Silva
+2|CM|Fabinho
+14|CM|Tiémoué Bakayoko
+27|LM|Thomas Lemar
+29|CF|Kylian Mbappé
+9|CF|Radamel Falcao
+
+@mun2012s|MUN|2012|الدوري الإنجليزي 2012/13 — وداع فيرغسون|التشكيلة الأساسية المعتادة للموسم|2013-04-22|4-4-2|season|kb
+> توج بالدوري الإنجليزي العشرين في آخر مواسم السير أليكس فيرغسون، وسجل فان بيرسي 26 هدفًا
+1|GK|David de Gea
+2|RB|Rafael
+5|CB|Rio Ferdinand
+15|CB|Nemanja Vidić
+3|LB|Patrice Evra
+25|RM|Antonio Valencia
+16|CM|Michael Carrick
+23|CM|Tom Cleverley
+19|LM|Danny Welbeck
+10|CF|Wayne Rooney
+20|CF|Robin van Persie
+
+@wob2008s|WOB|2008|الدوري الألماني 2008/09 — المعجزة الخضراء|التشكيلة الأساسية المعتادة للموسم|2009-05-23|4-4-2|season|kb
+> توج بالدوري الألماني لأول مرة في تاريخه مع فيليكس ماغات، وسجل الثنائي غرافيتي وجيكو 54 هدفًا (رقم قياسي لثنائي)
+1|GK|Diego Benaglio
+-|RB|Sascha Riether
+-|CB|Andrea Barzagli
+-|CB|Jan Šimůnek
+-|LB|Marcel Schäfer
+-|RM|Makoto Hasebe
+-|CM|Josué
+-|CM|Christian Gentner
+-|LM|Zvjezdan Misimović
+-|CF|Grafite
+-|CF|Edin Džeko
+
+@svw2003s|SVW|2003|الدوري الألماني 2003/04 — ثنائية بريمن|التشكيلة الأساسية المعتادة للموسم|2004-05-08|4-4-2|season|kb
+> الثنائية المحلية مع توماس شاف، وتوج أيلتون هدافًا للدوري بـ28 هدفًا
+1|GK|Andreas Reinke
+-|RB|Paul Stalteri
+-|CB|Valérien Ismaël
+-|CB|Mladen Krstajić
+-|LB|Christian Schulz
+-|RM|Krisztián Lisztes
+-|CM|Frank Baumann
+-|CM|Fabian Ernst
+-|LM|Johan Micoud
+-|CF|Ailton
+-|CF|Ivan Klasnić
+
+@lil2010s|LIL|2010|الدوري الفرنسي 2010/11 — ثنائية ليل|التشكيلة الأساسية المعتادة للموسم|2011-05-21|4-3-3|season|kb
+> الثنائية المحلية (الدوري والكأس) لأول مرة منذ 1954، مع رودي غارسيا وإيدين هازارد
+1|GK|Mickaël Landreau
+-|RB|Mathieu Debuchy
+-|CB|Adil Rami
+-|CB|Aurélien Chedjou
+-|LB|Franck Béria
+-|CM|Rio Mavuba
+-|CM|Florent Balmont
+-|CM|Yohan Cabaye
+-|RW|Gervinho
+-|CF|Moussa Sow
+26|LW|Eden Hazard
+
+@ol2004s|OL|2004|الدوري الفرنسي 2004/05 — جيل ليون|التشكيلة الأساسية المعتادة للموسم|2005-05-28|4-3-3|season|kb
+> رابع ألقابه السبعة المتتالية في الدوري الفرنسي (2002-2008)، وبلغ ربع نهائي دوري الأبطال، بقيادة جونينيو وركلاته الحرة
+1|GK|Grégory Coupet
+-|RB|Anthony Réveillère
+-|CB|Cris
+-|CB|Claudio Caçapa
+-|LB|Éric Abidal
+-|CM|Mahamadou Diarra
+-|CM|Michael Essien
+8|CM|Juninho Pernambucano
+-|RW|Sidney Govou
+-|CF|Sylvain Wiltord
+-|LW|Florent Malouda
+
+@psv2004s|PSV|2004|دوري أبطال أوروبا 2004/05 — جيل هيدينك|التشكيلة الأساسية المعتادة للموسم|2005-05-04|4-3-3|season|kb
+> الثنائية المحلية، وبلغ نصف نهائي دوري الأبطال وخرج أمام ميلان بفارق هدف خارج الأرض، مع غوس هيدينك
+1|GK|Heurelho Gomes
+-|RB|André Ooijer
+-|CB|=alex
+-|CB|Wilfred Bouma
+-|LB|=w46519
+-|CM|Mark van Bommel
+-|CM|Phillip Cocu
+-|CM|Johann Vogel
+-|RW|Jefferson Farfán
+-|CF|Jan Vennegoor of Hesselink
+-|LW|Park Ji-sung
+
+@val2001s|VAL|2001|الدوري الإسباني 2001/02 — جيل بينيتيز|التشكيلة الأساسية المعتادة للموسم|2002-05-04|4-4-1-1|season|kb
+> توج بالدوري الإسباني لأول مرة منذ 31 عامًا في أول مواسم رافائيل بينيتيز، ثم أضاف الثنائية (الدوري وكأس الاتحاد الأوروبي) عام 2004
+1|GK|Santiago Cañizares
+-|RB|Curro Torres
+-|CB|Roberto Ayala
+-|CB|Mauricio Pellegrino
+-|LB|Amedeo Carboni
+-|RM|Francisco Rufete
+-|CM|David Albelda
+-|CM|Rubén Baraja
+-|LM|Kily González
+-|AM|Pablo Aimar
+-|CF|John Carew
+
+@mil2010s|MIL|2010|الدوري الإيطالي 2010/11 — جيل إبراهيموفيتش|التشكيلة الأساسية المعتادة للموسم|2011-05-07|4-3-1-2|season|kb
+> توج بالدوري الإيطالي في أول مواسم ماسيميليانو أليغري، وكان آخر لقب دوري للنادي حتى 2022
+32|GK|Christian Abbiati
+20|RB|Ignazio Abate
+13|CB|Alessandro Nesta
+33|CB|Thiago Silva
+77|LB|Luca Antonini
+8|CM|Gennaro Gattuso
+4|CM|Mark van Bommel
+10|CM|Clarence Seedorf
+27|AM|Kevin-Prince Boateng
+70|CF|Robinho
+11|CF|Zlatan Ibrahimović
+
+@ata2019s|ATA|2019|الدوري الإيطالي 2019/20 — جيل غاسبريني|التشكيلة الأساسية المعتادة للموسم|2020-08-12|3-4-1-2|season|kb
+> ثالث الدوري الإيطالي بـ98 هدفًا، وبلغ ربع نهائي دوري الأبطال في أول مشاركة له، وخرج بهدفين متأخرين أمام باريس
+95|GK|Pierluigi Gollini
+2|CB|Rafael Tolói
+-|CB|José Luis Palomino
+19|CB|Berat Djimsiti
+33|RM|Hans Hateboer
+15|CM|Marten de Roon
+11|CM|Remo Freuler
+8|LM|Robin Gosens
+10|AM|Alejandro Gómez
+72|CF|Josip Iličić
+91|CF|Duván Zapata
+
+@che2009s|CHE|2009|الدوري الإنجليزي 2009/10 — ثنائية أنشيلوتي|التشكيلة الأساسية المعتادة للموسم|2010-05-09|4-3-3|season|kb
+> الثنائية المحلية (الدوري والكأس) مع كارلو أنشيلوتي، وسجل 103 أهداف في الدوري (رقم قياسي حينها)
+1|GK|Petr Čech
+2|RB|Branislav Ivanović
+33|CB|=alex
+26|CB|John Terry
+3|LB|Ashley Cole
+13|CM|Michael Ballack
+12|CM|John Obi Mikel
+8|CM|Frank Lampard
+39|RW|Nicolas Anelka
+11|CF|Didier Drogba
+15|LW|Florent Malouda
+
+@liv2013s|LIV|2013|الدوري الإنجليزي 2013/14 — جيل سواريز|التشكيلة الأساسية المعتادة للموسم|2014-04-27|4-3-3|season|kb
+> وصيف الدوري بفارق نقطتين بعد سقوط جيرارد الشهير أمام تشيلسي، وسجل الفريق 101 هدف، منها 31 لسواريز
+22|GK|Simon Mignolet
+2|RB|Glen Johnson
+37|CB|Martin Škrtel
+17|CB|Mamadou Sakho
+38|LB|Jon Flanagan
+14|CM|Jordan Henderson
+8|CM|Steven Gerrard
+10|CM|Philippe Coutinho
+31|RW|Raheem Sterling
+7|CF|Luis Suárez
+15|LW|Daniel Sturridge
+
+@nap2012s|NAP|2012|الدوري الإيطالي 2012/13 — جيل كافاني|التشكيلة الأساسية المعتادة للموسم|2013-05-19|3-4-2-1|season|kb
+> وصيف الدوري الإيطالي مع والتر ماتساري، وتوج كافاني هدافًا للدوري بـ29 هدفًا قبل رحيله إلى باريس
+1|GK|Morgan De Sanctis
+-|CB|Hugo Campagnaro
+-|CB|Paolo Cannavaro
+-|CB|Miguel Britos
+11|RM|Christian Maggio
+-|CM|Valon Behrami
+-|CM|Gökhan İnler
+-|LM|Juan Camilo Zúñiga
+17|AM|Marek Hamšík
+-|AM|Lorenzo Insigne
+7|CF|Edinson Cavani
+
+@psg2012s|PSG|2012|الدوري الفرنسي 2012/13 — بداية العصر القطري|التشكيلة الأساسية المعتادة للموسم|2013-05-12|4-3-3|season|kb
+> توج بالدوري الفرنسي لأول مرة منذ 19 عامًا في أول موسم كامل بعد الاستحواذ القطري، وسجل إبراهيموفيتش 30 هدفًا
+30|GK|Salvatore Sirigu
+26|RB|Christophe Jallet
+2|CB|Thiago Silva
+13|CB|=alex
+17|LB|Maxwell
+14|CM|Blaise Matuidi
+28|CM|Thiago Motta
+24|CM|Marco Verratti
+29|RW|Lucas Moura
+18|CF|Zlatan Ibrahimović
+22|LW|Ezequiel Lavezzi
+
+@ars2022s|ARS|2022|الدوري الإنجليزي 2022/23 — جيل أرتيتا|التشكيلة الأساسية المعتادة للموسم|2023-04-09|4-3-3|season|kb
+> تصدر الدوري الإنجليزي معظم الموسم ثم حل وصيفًا خلف مانشستر سيتي، بجيل ساكا وأوديغارد وساليبا
+1|GK|Aaron Ramsdale
+4|RB|Ben White
+12|CB|William Saliba
+6|CB|Gabriel Magalhães
+35|LB|Oleksandr Zinchenko
+5|CM|Thomas Partey
+34|CM|Granit Xhaka
+8|CM|Martin Ødegaard
+7|RW|Bukayo Saka
+9|CF|Gabriel Jesus
+11|LW|Gabriel Martinelli
+
+@liv2024s|LIV|2024|الدوري الإنجليزي 2024/25 — جيل سلوت|التشكيلة الأساسية المعتادة للموسم|2025-04-27|4-3-3|season|kb
+> توج بالدوري الإنجليزي (اللقب العشرين معادلًا رقم مانشستر يونايتد) في أول مواسم آرني سلوت، وسجل صلاح 29 هدفًا
+1|GK|Alisson
+66|RB|Trent Alexander-Arnold
+5|CB|Ibrahima Konaté
+4|CB|Virgil van Dijk
+26|LB|Andrew Robertson
+38|CM|Ryan Gravenberch
+10|CM|Alexis Mac Allister
+8|CM|Dominik Szoboszlai
+11|RW|Mohamed Salah
+7|CF|Luis Díaz
+18|LW|Cody Gakpo
+
+@bar2024s|BAR|2024|الدوري الإسباني 2024/25 — جيل فليك|التشكيلة الأساسية المعتادة للموسم|2025-05-15|4-2-3-1|season|kb
+> الثلاثية المحلية (الدوري والكأس والسوبر) في أول مواسم هانزي فليك، وبلغ نصف نهائي دوري الأبطال، بجيل يامال وبيدري ورافينيا
+25|GK|Wojciech Szczęsny
+23|RB|Jules Koundé
+2|CB|Pau Cubarsí
+5|CB|Iñigo Martínez
+3|LB|Alejandro Balde
+8|DM|Pedri
+21|DM|Frenkie de Jong
+19|RW|Lamine Yamal
+20|AM|Dani Olmo
+11|LW|Raphinha
+9|CF|Robert Lewandowski

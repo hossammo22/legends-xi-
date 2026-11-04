@@ -68,7 +68,7 @@ function facts(p, r) {
 }
 /** free-text card facts usable as clues (the texts never contain the player's own name — checked by build.py) */
 function cardSoft(p) {
-  const x = p.x; if (!x) return [];
+  const x = p.x; if (!x || LX.lang === 'en') return [];   // editorial card texts are Arabic only
   const out = LX.cardFacts(p).map(t => 'معلومة: ' + t);
   if (x.role) out.push(`مركزه المعروف: ${x.role}`);
   if (x.ind && x.ind.length) out.push(`من جوائزه الفردية: ${x.ind.slice(0, 2).join('، ')}`);

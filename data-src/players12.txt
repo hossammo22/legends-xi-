@@ -1,0 +1,17 @@
+# Country legends ("أسطورة بلده") added for nations with small football histories. Created by Dr HOSSAM Mo
+viduka|Mark Viduka|مارك فيدوكا|N-AUS|CF|1975-10-09|2|1994-2007|DZG 1995-1998; CEL 1998-2000; LEE 2000-2004; MID 2004-2007; NEW 2007-2009|-|viduka,فيدوكا
+cahill-t|Tim Cahill|تيم كاهيل|N-AUS|AM|1979-12-06|2|2004-2018|MLW 1997-2004; EVE 2004-2012; NYR 2012-2015|-|tim cahill,تيم كاهيل
+chilavert|José Luis Chilavert|خوسيه لويس تشيلافيرت|N-PAR|GK|1965-07-27|2|1989-2003|ZAR 1988-1991; VEL 1991-2000; RCS 2000-2002|LIB1994|chilavert,تشيلافيرت,شيلافيرت
+chabumkun|Cha Bum-kun|تشا بوم كون|N-KOR|CF|1953-05-22|2|1972-1986|SGE 1979-1983; B04 1983-1989|-|cha bum kun,bum kun cha,تشا بوم
+zagorakis|Theodoros Zagorakis|ثيودوروس زاغوراكيس|N-GRE|DM|1971-10-27|2|1994-2007|PAOK 1992-1998; LEI 1998-2000; AEK 2000-2004; PAOK 2005-2007|EURO2004|zagorakis,زاغوراكيس
+omarabdulrahman|Omar Abdulrahman|عمر عبد الرحمن (عموري)|N-UAE|AM|1991-09-20|2|2011-2022|AIN 2008-2018; HIL 2018-2019|-|amoory,omar abdulrahman,عموري
+figueroa|Elías Figueroa|إلياس فيغيروا|N-CHI|CB|1946-10-25|2|1966-1982|PEN 1967-1972; INTB 1972-1976|-|figueroa,فيغيروا
+cubillas|Teófilo Cubillas|تيوفيلو كوبياس|N-PER|AM|1949-03-08|2|1968-1982|ALI 1966-1973; BAS 1973-1974; POR 1974-1977; ALI 1977-1979|-|cubillas,كوبياس,el nene
+spencer|Alberto Spencer|ألبرتو سبنسر|N-ECU|CF|1937-12-06|2||PEN 1960-1971|LIB1960 LIB1961 LIB1966|spencer,سبنسر
+younis|Younis Mahmoud|يونس محمود|N-IRQ|CF|1983-02-03|2|2002-2016||-|younis mahmoud,يونس محمود,السفاح
+radebe|Lucas Radebe|لوكاس راديبي|N-RSA|CB|1969-04-12|2|1992-2003|KZC 1989-1994; LEE 1994-2005|-|radebe,راديبي
+aubameyang|Pierre-Emerick Aubameyang|بيير إيمريك أوباميانغ|N-GAB|CF|1989-06-18|2|2009-2022|ASSE 2011-2013; BVB 2013-2018; ARS 2018-2022; BAR 2021-2022; CHE 2022-2023; OM 2023-2024|-|auba,aubameyang,اوباميانج,أوباميانغ
+hamsik|Marek Hamšík|ماريك هامشيك|N-SVK|AM|1987-07-27|2|2007-2022|NAP 2007-2019|-|hamsik,هامشيك
+kanoute|Frédéric Kanouté|فريدريك كانوتيه|N-MLI|CF|1977-09-02|2|2004-2010|OL 1997-2000; WHU 2000-2003; TOT 2003-2005; SEV 2005-2012|-|kanoute,كانوتيه
+santacruz|Roque Santa Cruz|روكي سانتا كروز|N-PAR|CF|1981-08-16|2|1999-2016|BAY 1999-2007; BLB 2007-2009; MCI 2009-2011; MAL 2012-2013|-|santa cruz,سانتا كروز
+honda|Keisuke Honda|كيسوكي هوندا|N-JPN|AM|1986-06-13|2|2008-2018|CSKA 2010-2014; MIL 2014-2017|-|honda,هوندا

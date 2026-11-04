@@ -1,0 +1,198 @@
+# Players added with the knowledge-based club generations: English name|nation|Arabic name|position
+Aaron Wan-Bissaka|N-ENG|آرون وان بيساكا|RB
+Ademola Lookman|N-NGA|أديمولا لوكمان|LW
+Ailton|N-BRA|أيلتون|CF
+Ainsley Maitland-Niles|N-ENG|أينسلي مايتلاند نايلز|RB
+Aitor Karanka|N-ESP|أيتور كارانكا|CB
+Alan Thompson|N-ENG|آلان تومسون|MF
+Alejandro Gómez|N-ARG|أليخاندرو "بابو" غوميز|AM
+Alessandro Matri|N-ITA|أليساندرو ماتري|CF
+Alex Meret|N-ITA|أليكس ميريت|GK
+Alexis Saelemaekers|N-BEL|أليكسيس سايليميكرز|RW
+Amedeo Carboni|N-ITA|أميديو كاربوني|LB
+Amin Younes|N-GER|أمين يونس|LW
+Amir Rrahmani|N-KOS|أمير رحماني|CB
+Andreas Christensen|N-DEN|أندرياس كريستنسن|CB
+Andreas Reinke|N-GER|أندرياس راينكه|GK
+André-Frank Zambo Anguissa|N-CMR|أندريه فرانك زامبو أنغيسا|CM
+Ansgar Knauff|N-GER|أنسغار كناوف|RW
+Antônio Carlos Zago|N-BRA|أنطونيو كارلوس زاغو|CB
+Artur|N-BRA|أرتور (حارس بنفيكا)|GK
+Ben Chilwell|N-ENG|بن تشيلويل|LB
+Berat Djimsiti|N-ALB|برات جيمسيتي|CB
+Bertrand Traoré|N-BFA|برتران تراوري|RW
+Bobby Zamora|N-ENG|بوبي زامورا|CF
+Bobo Baldé|N-GUI|بوبو بالدي|CB
+Bouna Sarr|N-SEN|بونا سار|RB
+Brahim Díaz|N-MAR|إبراهيم دياز|AM
+Brede Hangeland|N-NOR|بريدي هانغلاند|CB
+Brennan Johnson|N-WAL|برينان جونسون|RW
+Bryan Cristante|N-ITA|براين كريستانتي|CM
+Capone|N-BRA|كابوني|RB
+Chris Baird|N-NIR|كريس بيرد|RB
+Chris Sutton|N-ENG|كريس ساتون|CF
+Christian Gentner|N-GER|كريستيان غينتنر|CM
+Christian Schulz|N-GER|كريستيان شولتس|LB
+Claudio Caçapa|N-BRA|كلاوديو كاسابا|CB
+Cristian Săpunaru|N-ROU|كريستيان سابونارو|RB
+Daichi Kamada|N-JPN|دايتشي كامادا|AM
+Daniel Bravo|N-FRA|دانيال برافو|MF
+Danny Murphy|N-ENG|داني مورفي|CM
+Darren Peacock|N-ENG|دارين بيكوك|CB
+David Ginola|N-FRA|ديفيد جينولا|LW
+David Neres|N-BRA|ديفيد نيريس|LW
+Davide Calabria|N-ITA|دافيدي كالابريا|RB
+Davide Zappacosta|N-ITA|دافيدي زاباكوستا|RB
+Destiny Udogie|N-ITA|ديستيني أودوجي|LB
+Didier Agathe|N-FRA|ديدييه أغات|RM
+Diego Benaglio|N-SUI|دييغو بيناليو|GK
+Diego Fuser|N-ITA|دييغو فوزر|RM
+Djalminha|N-BRA|جالمينيا|AM
+Djibril Sow|N-SUI|جبريل سو|CM
+Dominic Matteo|N-SCO|دومينيك ماتيو|CB
+Dominic Solanke|N-ENG|دومينيك سولانكي|CF
+Dominik Szoboszlai|N-HUN|دومينيك سوبوسلاي|CM
+Donato|N-ESP|دوناتو|CB
+Donny van de Beek|N-NED|دوني فان دي بيك|AM
+Duván Zapata|N-COL|دوفان زاباتا|CF
+Désiré Doué|N-FRA|ديزيريه دويه|RW
+Emerson Palmieri|N-ITA|إيمرسون بالميري|LB
+Evan Ndicka|N-CIV|إيفان نديكا|CB
+Fabian Ernst|N-GER|فابيان إرنست|CM
+Fikayo Tomori|N-ENG|فيكايو توموري|CB
+Filip Kostić|N-SRB|فيليب كوستيتش|LM
+Florent Balmont|N-FRA|فلوران بالمون|CM
+Florian Maurice|N-FRA|فلوريان موريس|CF
+Francesco Antonioli|N-ITA|فرانشيسكو أنتونيولي|GK
+Francisco Rufete|N-ESP|فرانسيسكو روفيتي|RM
+Franck Béria|N-FRA|فرانك بيريا|LB
+Franck Kessié|N-CIV|فرانك كيسييه|CM
+Franck Queudrue|N-FRA|فرانك كودرو|LB
+Fran|N-ESP|فران (ديبورتيفو)|LM
+Frédéric Brando|N-FRA|فريدريك براندو|CM
+Fábio Rochemback|N-BRA|فابيو روشيمباك|CM
+Gabriel Magalhães|N-BRA|غابرييل ماغاليش|CB
+Gary McAllister|N-SCO|غاري مكاليستر|CM
+Gerard López|N-ESP|جيرارد لوبيز|CM
+Gerardo|N-ESP|خيراردو (فالنسيا)|LB
+Gianluca Mancini|N-ITA|جانلوكا مانشيني|CB
+Gianluca Scamacca|N-ITA|جانلوكا سكاماكا|CF
+Giovanni Di Lorenzo|N-ITA|جيوفاني دي لورينزو|RB
+Giuseppe Pancaro|N-ITA|جوزيبي بانكارو|LB
+Guglielmo Vicario|N-ITA|غولييلمو فيكاريو|GK
+Gökhan İnler|N-SUI|غوكهان إينلر|CM
+Hans Hateboer|N-NED|هانز هاتيبور|RB
+Helton|N-BRA|إلتون (حارس بورتو)|GK
+Ian Harte|N-IRL|إيان هارت|LB
+Ian Maatsen|N-NED|إيان ماتسن|LB
+Isak Hien|N-SWE|إيساك هين|CB
+Jadon Sancho|N-ENG|جادون سانشو|RW
+Jairo Riedewald|N-NED|جايرو ريدوالد|LB
+James Morrison|N-SCO|جيمس موريسون|RM
+Jan Šimůnek|N-CZE|يان شيمونيك|CB
+Javier Farinós|N-ESP|خافيير فارينوس|CM
+Jefferson Farfán|N-PER|جيفرسون فارفان|RW
+Jemerson|N-BRA|جيمرسون|CB
+Jesper Lindstrøm|N-DEN|يسبر ليندستروم|AM
+Jocelyn Gourvennec|N-FRA|جوسلين غورفينيك|AM
+Johan Mjällby|N-SWE|يوهان ميالبي|CB
+Johann Vogel|N-SUI|يوهان فوغل|CM
+John Beresford|N-ENG|جون بيريسفورد|LB
+John Carew|N-NOR|جون كارو|CF
+Jon Flanagan|N-ENG|جون فلاناغان|LB
+Jonathan Zebina|N-FRA|جوناثان زيبينا|CB
+Joos Valgaeren|N-BEL|يوس فالغارين|CB
+Jordan Amavi|N-FRA|جوردان أمافي|LB
+José Luis Palomino|N-ARG|خوسيه لويس بالومينو|CB
+João Neves|N-POR|جواو نيفيش|CM
+Juan Bernat|N-ESP|خوان برنات|LB
+Juan Musso|N-ARG|خوان موسو|GK
+Kamil Glik|N-POL|كاميل غليك|CB
+Keith Gillespie|N-NIR|كيث غيلسبي|RM
+Krisztián Lisztes|N-HUN|كريستيان ليستيش|MF
+Lasse Schöne|N-DEN|لاسه شوني|CM
+Lee Dixon|N-ENG|لي ديكسون|RB
+Leonardo Spinazzola|N-ITA|ليوناردو سبينازولا|LB
+Lorenzo Melgarejo|N-PAR|لورينزو ميلغاريخو|LB
+Lorenzo Pellegrini|N-ITA|لورينزو بيليغريني|AM
+Loïc Badé|N-FRA|لويك باديه|CB
+Luca Antonini|N-ITA|لوكا أنتونيني|LB
+Luis Díaz|N-COL|لويس دياز|LW
+Makoto Hasebe|N-JPN|ماكوتو هاسيبي|MF
+Manuel Pablo|N-ESP|مانويل بابلو|RB
+Marcel Schäfer|N-GER|مارسيل شيفر|LB
+Mark Viduka|N-AUS|مارك فيدوكا|CF
+Martin Hinteregger|N-AUT|مارتن هينتيريغر|CB
+Mason Greenwood|N-ENG|ميسون غرينوود|RW
+Matteo Politano|N-ITA|ماتيو بوليتانو|RW
+Matteo Ruggeri|N-ITA|ماتيو روجيري|LB
+Mauricio Pellegrino|N-ARG|ماوريسيو بيليغرينو|CB
+Maxime Lopez|N-FRA|ماكسيم لوبيز|CM
+Micky van de Ven|N-NED|ميكي فان دي فين|CB
+Miguel Britos|N-URU|ميغيل بريتوس|CB
+Miguel Ángel Angulo|N-ESP|ميغيل أنخيل أنغولو|CF
+Mike Maignan|N-FRA|مايك ماينيان|GK
+Milan Škriniar|N-SVK|ميلان شكرينيار|CB
+Mirko Vučinić|N-MNE|ميركو فوتشينيتش|CF
+Mladen Krstajić|N-SRB|ملادن كرستايتش|CB
+Moussa Sow|N-SEN|موسى سو|CF
+Neil Lennon|N-NIR|نيل لينون|CM
+Nemanja Gudelj|N-SRB|نيمانيا غوديلي|CB
+Nicolás Gaitán|N-ARG|نيكولاس غايتان|LM
+Nigel Winterburn|N-ENG|نايجل وينتربيرن|LB
+Oleksandr Zinchenko|N-UKR|أولكسندر زينتشينكو|LB
+Olivier Dacourt|N-FRA|أوليفييه داكور|CM
+Paolo De Ceglie|N-ITA|باولو دي تشيليه|LB
+Paolo Negro|N-ITA|باولو نيغرو|RB
+Paolo Vanoli|N-ITA|باولو فانولي|LM
+Pape Matar Sarr|N-SEN|باب ماتار سار|CM
+Patrick Blondeau|N-FRA|باتريك بلوندو|RB
+Pau Cubarsí|N-ESP|باو كوبارسي|CB
+Paul Konchesky|N-ENG|بول كونشيسكي|LB
+Paul Stalteri|N-CAN|بول ستالتيري|RB
+Pavel Srníček|N-CZE|بافيل سرنيتشيك|GK
+Pedro Porro|N-ESP|بيدرو بورو|RB
+Pierluigi Gollini|N-ITA|بييرلويجي غوليني|GK
+Pierre Issa|N-RSA|بيير عيسى|CB
+Pierre Kalulu|N-FRA|بيير كالولو|CB
+Piotr Zieliński|N-POL|بيوتر زيلينسكي|CM
+Rab Douglas|N-SCO|راب دوغلاس|GK
+Rafael Santos Borré|N-COL|رافائيل سانتوس بوري|CF
+Rafael Tolói|N-ITA|رافائيل تولوي|CB
+Reece James|N-ENG|ريس جيمس|RB
+Remo Freuler|N-SUI|ريمو فرويلر|CM
+Roberto Gagliardini|N-ITA|روبرتو غالياردينيي|CM
+Roger Ibañez|N-BRA|روجر إيبانيز|CB
+Roy Makaay|N-NED|روي ماكاي|CF
+Ryan Gravenberch|N-NED|رايان غرافنبيرخ|CM
+Sander Westerveld|N-NED|ساندر فيسترفيلد|GK
+Sandro Tonali|N-ITA|ساندرو تونالي|CM
+Sascha Riether|N-GER|ساشا رايتر|RB
+Scott McTominay|N-SCO|سكوت مكتوميناي|CM
+Sebastian Rode|N-GER|سيباستيان رودي|CM
+Silvinho|N-BRA|سيلفينيو|LB
+Simon Davies|N-WAL|سايمون ديفيز|RM
+Simone Inzaghi|N-ITA|سيموني إنزاغي|CF
+Stanislav Lobotka|N-SVK|ستانيسلاف لوبوتكا|CM
+Steve Howey|N-ENG|ستيف هاوي|CB
+Stiliyan Petrov|N-BUL|ستيليان بيتروف|MF
+Stéphane Henchoz|N-SUI|ستيفان هينشوز|CB
+Stéphane Porato|N-FRA|ستيفان بوراتو|GK
+Suat Kaya|N-TUR|سوات كايا|CM
+Tammy Abraham|N-ENG|تامي أبراهام|CF
+Tiémoué Bakayoko|N-FRA|تيموي باكايوكو|CM
+Tuta|N-BRA|توتا|CB
+Valon Behrami|N-SUI|فالون بهرامي|CM
+Valérien Ismaël|N-FRA|فاليريان إسماعيل|CB
+Víctor Sánchez|N-ESP|فيكتور سانشيز (ديبورتيفو)|RM
+Warren Barton|N-ENG|وارن بارتون|RB
+Wilfred Bouma|N-NED|ويلفريد بوما|CB
+Willian Pacho|N-ECU|ويليان باتشو|CB
+Yann Sommer|N-SUI|يان سومر|GK
+Yves Bissouma|N-MLI|إيف بيسوما|CM
+Zeki Çelik|N-TUR|زكي تشيليك|RB
+Zoltán Gera|N-HUN|زولتان غيرا|MF
+Zvjezdan Misimović|N-BIH|زفيزدان ميسيموفيتش|AM
+Édouard Mendy|N-SEN|إدوارد ميندي|GK
+Óliver Torres|N-ESP|أوليفر توريس|CM
+Óscar Cardozo|N-PAR|أوسكار كاردوزو|CF

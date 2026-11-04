@@ -203,6 +203,7 @@ const ADJ = LX.ADJ = {};
   G.forEach((m, a) => { ADJ[a] = [...m]; });
   LX.linkCount = [...G.values()].reduce((n, m) => n + m.size, 0) / 2;
 })();
+LX.mates = a => (ADJ[a] || []).map(x => x[0]);
 LX.evidence = (a, b) => { const l = ADJ[a] || []; const f = l.find(x => x[0] === b); return f ? f[1] : null; };
 LX.edgeOK = (ev, opt) => {
   if (!ev) return false;

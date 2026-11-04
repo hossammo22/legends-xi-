@@ -19,7 +19,7 @@ LX.route(/^\/squads(?:\/(club|nt))?$/, (root, tab) => {
     <div class="tabs"><button data-t="club" class="${tab === 'club' ? 'on' : ''}">الأندية</button><button data-t="nt" class="${tab === 'nt' ? 'on' : ''}">المنتخبات</button></div>
     <div class="search" style="margin-top:10px">${I.search}<input id="q" placeholder="ابحث عن فريق…"></div>
     <div class="gens" id="cc"></div>
-    <div class="section-t">التشكيلات الموثقة ${era.id !== 'all' ? `<small>جيل ${esc(era.label)}</small>` : ''}</div>
+    <div class="section-t">${tab === 'club' ? 'أجيال الأندية — وإلى أين وصلت' : 'التشكيلات الموثقة'} ${era.id !== 'all' ? `<small>جيل ${esc(era.label)}</small>` : ''}</div>
     <div id="featured" class="plist"></div>
     <div class="section-t">كل الفرق <small id="cnt"></small></div>
     <div class="teamgrid" id="grid"></div>`);
@@ -51,7 +51,7 @@ LX.route(/^\/squads(?:\/(club|nt))?$/, (root, tab) => {
   q.oninput = draw; draw();
   main.querySelector('#grid').onclick = e => { const b = e.target.closest('[data-t]'); if (b) LX.go('/team/' + b.dataset.t); };
 });
-const squadRow = s => `<button class="prow" data-s="${s.id}">${LX.crest(s.team, 38)}<div class="grow"><div class="n">${esc(LX.teamName(s.team))} <span class="en gold">${s.date.slice(0, 4)}</span></div><div class="s">${esc(s.comp)} · ${LX.nums(esc(s.match))}</div></div><span class="verbadge ${s.ver}">${LX.verLabel(s.ver)}</span></button>`;
+const squadRow = s => `<button class="prow" data-s="${s.id}">${LX.crest(s.team, 38)}<div class="grow"><div class="n">${esc(LX.teamName(s.team))} <span class="en gold">${LX.seasonLabel(s.s)}</span></div><div class="s">${esc(s.comp)} · ${LX.nums(esc(s.match))}</div>${s.story ? `<div class="s story">🏁 ${LX.nums(esc(s.story[0]))}</div>` : ''}</div><span class="verbadge ${s.ver}">${LX.verLabel(s.ver)}</span></button>`;
 LX.squadRow = squadRow;
 
 /* ---------------- team page with chronological timeline */
@@ -118,9 +118,10 @@ LX.route(/^\/squad\/([^/]+)(?:\/(\w+))?$/, (root, sid, view) => {
   const xi = s.p.filter(x => x[3] === 'XI'), subs = s.p.filter(x => x[3] === 'SUB'), rest = s.p.filter(x => x[3] === 'SQ');
   const main = LX.page(root, { title: esc(t.ar) + ' ' + s.date.slice(0, 4), gen: false }, `
     <div class="sqhead" style="--c1:${t.c1}">${LX.crest(s.team, 54)}<div class="meta"><div class="t">${esc(s.comp)}</div><div class="m">${LX.nums(esc(s.match))}</div><div class="row" style="gap:6px;margin-top:4px"><span class="f">${esc(s.f)}</span><span class="muted" style="font-size:12px">${esc(s.date)}</span><span class="verbadge ${s.ver}">${s.ver === 'src' ? 'موثقة من سجل المباراة' : s.ver === 'wcdb' ? 'قاعدة بيانات كأس العالم' : 'معرفة تاريخية'}</span></div></div></div>
+    ${s.story ? `<div class="genstory"><div class="h">🏁 إلى أين وصل هذا الجيل؟</div>${s.story.map(x => `<p>${LX.nums(esc(x))}</p>`).join('')}</div>` : ''}
     <div class="tabs" style="margin-top:12px">${VIEWS.map(([k, l]) => `<button data-v="${k}" class="${k === view ? 'on' : ''}">${l}</button>`).join('')}</div>
     <div id="v"></div>
-    <p class="muted" style="font-size:11.5px;margin-top:12px">${s.kind === 'season' ? 'أرقام قمصان ثابتة للموسم. التشكيلة الأساسية تمثيلية للموسم وليست مباراة بعينها.' : 'تشكيلة مباراة واحدة بأرقامها في تلك المباراة. "غ.م" = غير موثق.'}</p>`);
+    <p class="muted" style="font-size:11.5px;margin-top:12px">${s.kind === 'season' ? 'أرقام قمصان ثابتة للموسم. التشكيلة الأساسية تمثيلية للموسم وليست مباراة بعينها.' : s.kind === 'gen' ? 'تشكيلة مباراة حقيقية من الموسم اختيرت لأنها الأقرب إلى التشكيلة الأساسية المعتادة لهذا الجيل (المصدر: StatsBomb Open Data).' : 'تشكيلة مباراة واحدة بأرقامها في تلك المباراة. "غ.م" = غير موثق.'}</p>`);
   main.querySelectorAll('.tabs button').forEach(b => b.onclick = () => location.replace('#/squad/' + sid + '/' + b.dataset.v));
   const v = main.querySelector('#v');
   const pg = x => LX.posGroup(x[1]);
@@ -194,6 +195,7 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
       ${p.cl.length || !p.wc ? `<div class="fact"><b>${p.yr ? LX.iso(p.yr[0] + '–' + (p.yr[1] >= LX.NOW ? 'الآن' : p.yr[1])) : '–'}</b><small>سنوات النشاط</small></div>` : `<div class="fact"><b>${p.wc.length}</b><small>مشاركات في كأس العالم</small></div>`}
       <div class="fact"><b>${p.nt ? LX.iso(p.nt[0] + '–' + (p.nt[1] >= LX.NOW ? 'الآن' : p.nt[1])) : 'غير موثق'}</b><small>دوليًا مع ${esc(LX.natName(p))}</small></div>
     </div>
+    <button class="btn block" id="story" style="margin-top:10px">${I.info} اقرأ حكايته</button>
     ${cardHtml(p)}
     ${Object.keys(hon).length ? `<div class="section-t">أبرز الإنجازات</div><div class="honours">${Object.entries(hon).map(([k, ys]) => `<span class="chip gold">${LX.HONIC[k]} ${esc(LX.HONAR[k])}${ys.length > 1 ? ` ×${ys.length}` : ''} <span class="en" style="opacity:.8">${ys.join('، ')}</span></span>`).join('')}</div>` : ''}
     <div class="actions">
@@ -215,6 +217,7 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
   main.querySelector('.tl') && (main.querySelector('.tl').onclick = e => { const b = e.target.closest('[data-t]'); if (b) LX.go('/team/' + b.dataset.t); });
   main.addEventListener('click', e => { const s = e.target.closest('[data-s]'); if (s) return LX.go('/squad/' + s.dataset.s); const q = e.target.closest('.prow[data-p]'); if (q) LX.go('/player/' + q.dataset.p); });
   main.querySelector('#a1').onclick = () => LX.go('/connect/build/' + pid);
+  main.querySelector('#story').onclick = () => LX.go('/story/' + pid);
   main.querySelector('#a2').onclick = () => { S.set('guessRel', pid); LX.go('/guess/play/rel'); };
   main.querySelector('#a3').onclick = () => LX.addToDream(pid);
   const more = main.querySelector('#more');

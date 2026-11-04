@@ -23,7 +23,7 @@ Boavista FC|بوافيستا
 Hannover 96|هانوفر 96
 SC Freiburg|فرايبورغ
 Vitória Guimarães SC|فيتوريا غيماريش
-RC Strasbourg Alsace|ستراسبورغ
+RC Strasbourg Alsace||=RCS
 Swansea City|سوانزي سيتي
 Vitesse Arnhem|فيتيس أرنهيم
 Deportivo Alavés|ديبورتيفو ألافيس
@@ -110,7 +110,7 @@ Arsenal Tula|أرسنال تولا
 Hércules CF|هيركوليس
 UD Almería|ألميريا
 SC Beira-Mar|بيرا مار
-PAOK Salonika|باوك سالونيك
+PAOK Salonika||=PAOK
 Cádiz CF|قادش
 MSV Duisburg|دويسبورغ
 Doncaster Rovers|دونكاستر روفرز
@@ -160,7 +160,7 @@ Amiens SC|أميان
 Tom Tomsk|توم تومسك
 Clermont Foot 63|كليرمون فوت
 Torpedo Moscow|توربيدو موسكو
-AEK Athens|أيك أثينا
+AEK Athens||=AEK
 CSKA Sofia|سيسكا صوفيا
 Scunthorpe United|سكانثورب يونايتد
 Al-Wakrah SC|الوكرة
@@ -172,7 +172,7 @@ Bristol City|بريستول سيتي
 Benevento Calcio|بينيفينتو
 FC St. Gallen|سانت غالن
 Olivais|أوليفايش
-Millwall FC|ميلوول
+Millwall FC||=MLW
 Kayserispor|قيصري سبور
 AIK|إيه آي كيه سولنا
 UAG Tecos|تيكوس

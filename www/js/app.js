@@ -5,7 +5,9 @@ const LX = window.LX;
 const C = window.Capacitor, P = C && C.Plugins;
 async function native() {
   if (!(C && C.isNativePlatform && C.isNativePlatform())) return;
-  try { P.StatusBar && await P.StatusBar.setBackgroundColor({ color: '#101827' }); P.StatusBar && await P.StatusBar.setStyle({ style: 'DARK' }); } catch (e) {}
+  LX.statusBar = async () => { try { const bg = getComputedStyle(document.documentElement).getPropertyValue('--navy').trim() || '#101827'; const light = document.documentElement.getAttribute('data-theme') === 'light';
+    P.StatusBar && await P.StatusBar.setBackgroundColor({ color: bg }); P.StatusBar && await P.StatusBar.setStyle({ style: light ? 'LIGHT' : 'DARK' }); } catch (e) {} };
+  LX.statusBar();
   try { P.SplashScreen && await P.SplashScreen.hide(); } catch (e) {}
   try {
     if (P.App) {

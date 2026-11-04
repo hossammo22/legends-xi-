@@ -38,8 +38,10 @@ LX.route(/^\/home$/, root => {
       <button class="smallcard" data-g="/dream"><span class="ic">${I.star}</span><span class="t">فريق أحلامك</span><span class="d">DREAM XI</span></button>
       <button class="smallcard" data-g="/era"><span class="ic">${I.clock}</span><span class="t">ذاكرة الأجيال</span><span class="d">FOOTBALL TIME MACHINE</span></button>
       <button class="smallcard" data-g="/daily"><span class="ic">${I.cal}</span><span class="t">التحدي اليومي</span><span class="d">DAILY LEGEND CHALLENGE</span></button>
+      <button class="smallcard" data-g="/legends"><span class="ic">${I.trophy}</span><span class="t">أسطورة بلده</span><span class="d">NATIONAL ICONS</span></button>
+      <button class="smallcard" data-g="/story"><span class="ic">${I.info}</span><span class="t">حكاية لاعب</span><span class="d">PLAYER STORY</span></button>
     </div>
-    <button class="prow" style="margin-top:12px" data-g="/search">${I.search.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">ابحث عن أي لاعب</div><div class="s">${st.players} لاعب · ${st.squads} تشكيلة · ${Math.round(LX.linkCount).toLocaleString('ar-EG')} رابط زمالة موثق</div></div></button>
+    <button class="prow" style="margin-top:12px" data-g="/search">${I.search.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">ابحث عن أي لاعب</div><div class="s">${st.players} لاعب · ${st.squads} تشكيلة · ${Math.round(LX.linkCount).toLocaleString(LX.lang === 'en' ? 'en-US' : 'ar-EG')} رابط زمالة موثق</div></div></button>
     <button class="prow" style="margin-top:8px" data-g="/achievements">${I.trophy.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">إنجازاتي</div><div class="s">${Object.keys(S.get('ach', {})).length} من ${LX.ACH.length} إنجاز</div></div></button>
     ${SIGHTML()}`);
   root.querySelector('.topbar h1').innerHTML = `<span class="en" style="letter-spacing:.14em;font-size:15px">LEGENDS <span class="gold">XI</span></span>`;
@@ -71,6 +73,9 @@ LX.route(/^\/achievements$/, root => {
 });
 
 /* ---------------- settings */
+const THEMES = [['gold', 'ذهبي ليلي', ['#101827', '#1f2c4a', '#D4AF37']], ['pitch', 'أخضر الملعب', ['#0c1f16', '#1a4031', '#e8c547']], ['royal', 'أزرق ملكي', ['#0b1736', '#1c2f63', '#5fb4ff']],
+  ['fire', 'أحمر ناري', ['#1a0d10', '#3a1c21', '#ff6b4a']], ['violet', 'بنفسجي', ['#150f26', '#2c2150', '#c48bff']], ['classic', 'أبيض وأسود كلاسيكي', ['#1b1b1b', '#303030', '#f2f2f2']], ['light', 'نهاري فاتح', ['#f3f5f9', '#ffffff', '#b8860b']]];
+const FONTS = ['Cairo', 'Tajawal', 'Almarai', 'Changa', 'El Messiri', 'Noto Kufi Arabic'];
 LX.route(/^\/settings$/, root => {
   const sw = (k, def) => `<button class="switch ${S.get(k, def) ? 'on' : ''}" data-sw="${k}" data-def="${def}"></button>`;
   const main = LX.page(root, { title: 'الإعدادات', gen: false }, `
@@ -80,6 +85,13 @@ LX.route(/^\/settings$/, root => {
       <div class="setrow"><div class="t">الاهتزاز<small>اهتزاز خفيف عند الإجابات</small></div>${sw('vibe', true)}</div>
       <div class="setrow"><div class="t">وضع المسؤول<small>يتيح استبدال صور اللاعبين الخاطئة أو المفقودة</small></div>${sw('admin', false)}</div>
     </div>
+    <div class="section-t">المظهر</div>
+    <div class="card" style="padding:0"><div class="themegrid" id="th">${THEMES.map(([k, l, c]) => `<button data-th="${k}" class="${S.get('theme', 'gold') === k ? 'on' : ''}"><span class="sw">${c.map(x => `<i style="background:${x}"></i>`).join('')}</span>${l}</button>`).join('')}</div></div>
+    <div class="section-t">الخط</div>
+    <div class="card" style="padding:0"><div class="fontgrid" id="fo">${FONTS.map(f => `<button data-fo="${f}" class="${S.get('font', 'Cairo') === f ? 'on' : ''}" style="font-family:'${f}'"><span class="smp">أساطير الكرة</span><small>${f}</small></button>`).join('')}</div>
+    <div class="segs" id="fs">${[['s', 'صغير'], ['m', 'عادي'], ['l', 'كبير'], ['xl', 'كبير جدًا']].map(([k, l]) => `<button data-fs="${k}" class="${S.get('fsize', 'm') === k ? 'on' : ''}">${l}</button>`).join('')}</div></div>
+    <div class="section-t">اللغة</div>
+    <div class="card" style="padding:0"><div class="segs" id="lg"><button data-lg="ar" class="${S.get('lang', 'ar') === 'ar' ? 'on' : ''}">العربية</button><button data-lg="en" class="${S.get('lang', 'ar') === 'en' ? 'on' : ''}">English</button></div></div>
     <div class="card" style="padding:0;margin-top:12px">
       <button class="setrow" style="width:100%;text-align:start" data-g="/about"><div class="t">عن التطبيق</div></button>
       <button class="setrow" style="width:100%;text-align:start" data-g="/credits"><div class="t">الحقوق والتراخيص والمصادر</div></button>
@@ -90,6 +102,11 @@ LX.route(/^\/settings$/, root => {
       <button class="setrow" style="width:100%;text-align:start;color:#ff9b9e" id="rst"><div class="t">إعادة ضبط النتائج والإنجازات</div></button>
     </div>
     ${SIGHTML()}`);
+  const R = document.documentElement;
+  main.querySelector('#th').onclick = e => { const b = e.target.closest('[data-th]'); if (!b) return; S.set('theme', b.dataset.th); R.setAttribute('data-theme', b.dataset.th); main.querySelectorAll('#th button').forEach(x => x.classList.toggle('on', x === b)); LX.statusBar && LX.statusBar(); };
+  main.querySelector('#fo').onclick = e => { const b = e.target.closest('[data-fo]'); if (!b) return; S.set('font', b.dataset.fo); R.style.setProperty('--font', `'${b.dataset.fo}'`); main.querySelectorAll('#fo button').forEach(x => x.classList.toggle('on', x === b)); };
+  main.querySelector('#fs').onclick = e => { const b = e.target.closest('[data-fs]'); if (!b) return; S.set('fsize', b.dataset.fs); R.setAttribute('data-fsize', b.dataset.fs); main.querySelectorAll('#fs button').forEach(x => x.classList.toggle('on', x === b)); };
+  main.querySelector('#lg').onclick = e => { const b = e.target.closest('[data-lg]'); if (!b || S.get('lang', 'ar') === b.dataset.lg) return; S.set('lang', b.dataset.lg); location.reload(); };
   main.querySelectorAll('[data-sw]').forEach(b => b.onclick = () => { const k = b.dataset.sw; const v = !S.get(k, b.dataset.def === 'true'); S.set(k, v); b.classList.toggle('on', v); });
   main.querySelector('#era').onclick = () => LX.eraSheet();
   main.addEventListener('click', e => { const g = e.target.closest('[data-g]'); if (g) LX.go(g.dataset.g); });
@@ -124,11 +141,13 @@ LX.route(/^\/credits$/, root => {
     <div class="section-t">مصادر البيانات</div>
     <div class="card" style="font-size:13px;line-height:1.8">سجلات المباريات النهائية (التشكيلات وأرقام القمصان والبدلاء) روجعت مقابل صفحات المباريات المنشورة على ويكيبيديا ونسخها المؤرشفة، وسجل نادي ليفربول التاريخي (lfchistory.net). مسيرات اللاعبين مُدخلة على مستوى المواسم ويمكن تصحيحها وتوسيعها في ملفات المصدر.</div>
     <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px">بيانات كأس العالم (القوائم، أرقام القمصان، المراكز، تواريخ الميلاد، تشكيلات المباريات): <b>The Fjelstul World Cup Database</b> — Joshua C. Fjelstul — مرخصة بموجب <span class="ltr">CC-BY-SA 4.0</span>.</div>
+    <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px">تشكيلات أجيال الأندية ذات شارة "موثقة" (الدوريات الكبرى 2003–2024 وبعض نهائيات دوري الأبطال) مأخوذة من <b>StatsBomb Open Data</b> (<span class="ltr">github.com/statsbomb/open-data</span>) — البيانات مقدمة من StatsBomb. وتشكيلات الأجيال ذات شارة "معرفة تاريخية" مكتوبة من المعرفة التاريخية بانتظار مراجعة مصدر ثانٍ، والرقم غير المؤكد يظهر "غير موثق".</div>
+    <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px">مسيرات أندية لاعبي كأس العالم: سجلات انتقالات <b>Transfermarkt</b> المنشورة في مستودع <span class="ltr">ewenme/transfers</span>. البطاقات التعريفية وحكايات اللاعبين وصفحات "أسطورة بلده": نصوص تحريرية من المعرفة التاريخية العامة.</div>
     <div class="section-t">صور اللاعبين <small>${cr.length} صورة محفوظة</small></div>
     <div class="card" style="font-size:12.5px">تُجلب الصور من ويكيبيديا / ويكيميديا كومنز. قبل العرض يتحقق التطبيق من أن الصفحة للاعب كرة قدم وأن ترخيص الملف ليس "غير حر"، ويحفظ اسم الملف والترخيص والمصوّر. الصور ملك أصحابها وفق تراخيصها المذكورة.</div>
     <div class="plist">${cr.map(c => { const p = LX.P(c.pid); return p ? `<a class="prow" href="${esc(c.src)}" target="_blank" rel="noopener">${LX.ph(p.id, 40)}<div class="grow"><div class="n">${esc(p.ar)}</div><div class="s ltr" style="text-align:right">${esc(c.lic)}${c.art ? ' · ' + esc(c.art) : ''}</div></div></a>` : ''; }).join('') || '<div class="empty">لم تُحفظ صور بعد — تصفح التشكيلات وستظهر هنا مع تراخيصها</div>'}</div>
     <div class="section-t">الخطوط</div>
-    <div class="card" style="font-size:12.5px">Cairo و Oswald — مرخصة بموجب SIL Open Font License 1.1.</div>
+    <div class="card" style="font-size:12.5px">الخطوط Cairo وTajawal وAlmarai وChanga وEl Messiri وNoto Kufi Arabic وOswald — مرخصة بموجب SIL Open Font License 1.1 (عبر Fontsource).</div>
     ${SIGHTML()}`);
 });
 })();

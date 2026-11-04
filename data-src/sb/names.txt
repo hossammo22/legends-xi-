@@ -1,0 +1,508 @@
+# StatsBomb players added with the club generations: sbId|English display name|Arabic name
+sb3517|Aaron Ramsey|آرون رامزي
+sb3437|Francis Coquelin|فرانسيس كوكلان
+sb6746|Gabriel Paulista|غابرييل باوليستا
+sb3511|Héctor Bellerín|هيكتور بيليرين
+sb5581|Joel Campbell|جويل كامبل
+sb3374|Andrea Raggi|أندريا راجي
+sb18243|Ivan Cavaleiro|إيفان كافاليرو
+sb18953|Vágner Love|فاغنر لوف
+sb8277|Wallace|والاس
+sb3606|Ander Herrera|أندير هيريرا
+sb6388|Ander Iturraspe|أندير إيتوراسبي
+sb26031|Andoni Iraola|أندوني إيراولا
+sb6394|Aritz Aduriz|أريتز أدوريز
+sb6396|Beñat Etxebarria|بينيات إتشيباريا
+sb26028|Fernando Amorebieta|فرناندو أموريبييتا
+sb6576|Gorka Iraizoz|غوركا إيرايثوث
+sb6842|Iker Muniain|إيكر مونياين
+sb6393|Iñaki Williams|إينياكي ويليامز
+sb26788|Jon Aurtenetxe|جون أورتينيتشي
+sb6390|Markel Susaeta|ماركيل سوسايتا
+sb6789|Mikel Balenziaga|ميكيل بالينثياغا
+sb6389|Mikel San José|ميكيل سان خوسيه
+sb6788|Xabier Etxeita|تشابي إتشيتا
+sb6649|Óscar de Marcos|أوسكار دي ماركوس
+sb11094|Arda Turan|أردا توران
+sb5551|João Miranda|جواو ميراندا
+sb6790|Mario Hermoso|ماريو هيرموسو
+sb10336|Álex Grimaldo|أليكس غريمالدو
+sb33401|Amine Adli|أمين عدلي
+sb15581|Bernd Leno|بيرند لينو
+sb30606|Edmond Tapsoba|إدموند تابسوبا
+sb3500|Granit Xhaka|غرانيت تشاكا
+sb8221|Jonathan Tah|جوناثان تاه
+sb8213|Karim Bellarabi|كريم بلعربي
+sb8222|Kevin Kampl|كيفن كامبل
+sb8667|Lukáš Hrádecký|لوكاش هراديتسكي
+sb27133|Odilon Kossounou|أوديلون كوسونو
+sb9195|Robert Andrich|روبرت أندريش
+sb8212|Wendell|ويندل
+sb8573|Ömer Toprak|عمر طوبراك
+sb10802|André Gomes|أندريه غوميش
+sb4691|Claudio Bravo|كلاوديو برافو
+sb6826|Clément Lenglet|كليمان لونغليه
+sb6374|Nélson Semedo|نيلسون سيميدو
+sb6379|Sergi Roberto|سيرجي روبرتو
+sb21881|Sergiño Dest|سيرجينيو ديست
+sb43728|Óscar Mingueza|أوسكار مينغيثا
+sb13014|Anatoliy Tymoshchuk|أناتولي تيموشتشوك
+sb4628|Diego Contento|دييغو كونتينتو
+sb8506|Konrad Laimer|كونراد لايمر
+sb43565|Kim Min-jae|كيم مين جاي
+sb8208|Sven Ulreich|سفين أولرايش
+sb17974|Gregor Kobel|غريغور كوبيل
+sb161995|Jamie Gittens|جيمي غيتنز
+sb12387|Julian Ryerson|جوليان رايرسون
+sb8518|Marcel Sabitzer|مارسيل زابيتزر
+sb9410|Marius Wolf|ماريوس فولف
+sb18105|Adrian Mutu|أدريان موتو
+sb5594|Branislav Ivanović|برانيسلاف إيفانوفيتش
+sb40261|Geremi|جيريمي
+sb3456|Kurt Zouma|كورت زوما
+sb20281|Mario Melchiot|ماريو ميلكيوت
+sb3381|Nemanja Matić|نيمانيا ماتيتش
+sb26159|Albert Riera|ألبرت ريرا
+sb26102|Ferran Corominas|فيران كوروميناس
+sb26170|Javi Chica|خافي تشيكا
+sb26105|Iván de la Peña|إيفان دي لا بينيا
+sb26088|Jesús Lacruz|خيسوس لاكروث
+sb26162|Moisés Hurtado|مويسيس أورتادو
+sb26109|Raúl Tamudo|راؤول تامودو
+sb6984|Danilo D'Ambrosio|دانيلو دامبروسيو
+sb16453|Gary Medel|غاري ميديل
+sb6589|Geoffrey Kondogbia|جيفري كوندوغبيا
+sb6987|Mauro Icardi|ماورو إيكاردي
+sb7001|Samir Handanović|سمير هاندانوفيتش
+sb3434|Stevan Jovetić|ستيفان يوفيتيتش
+sb5690|Yuto Nagatomo|يوتو ناغاتومو
+sb5541|Stephan Lichtsteiner|ستيفان ليشتشتاينر
+sb40267|Alan Smith|آلان سميث
+sb40269|Lamine Sakho|الأمين ساخو
+sb40264|Michael Bridges|مايكل بريدجز
+sb40263|Zoumana Camara|زومانا كامارا
+sb3812|Christian Fuchs|كريستيان فوكس
+sb3662|Danny Drinkwater|داني درينكووتر
+sb3270|Danny Simpson|داني سيمبسون
+sb3815|Kasper Schmeichel|كاسبر شمايكل
+sb3307|Marc Albrighton|مارك ألبرايتون
+sb3810|Shinji Okazaki|شينجي أوكازاكي
+sb3813|Wes Morgan|ويس مورغان
+sb3375|Adrien Thomasson|أدريان توماسون
+sb3548|Angelo Fulgini|أنجيلو فولجيني
+sb4893|Brice Samba|بريس سامبا
+sb27473|Deiver Machado|ديفير ماتشادو
+sb30415|Facundo Medina|فاكوندو ميدينا
+sb7324|Jonathan Gradit|جوناثان غراديت
+sb11820|Kevin Danso|كيفن دانسو
+sb7979|Przemysław Frankowski|بشيميسواف فرانكوفسكي
+sb31029|Salis Abdul Samed|ساليس عبد الصمد
+sb7791|Seko Fofana|سيكو فوفانا
+sb3515|Alberto Moreno|ألبرتو مورينو
+sb3493|Emre Can|إمري جان
+sb40254|Igor Bišćan|إيغور بيشتشان
+sb3630|Loris Karius|لوريس كاريوس
+sb7780|Lucas Leiva|لوكاس ليفا
+sb18872|Martin Škrtel|مارتن شكرتل
+sb4590|Nathaniel Clyne|ناثانيال كلاين
+sb10798|Eliseu|إليسيو
+sb8234|Ignacio Camacho|إغناثيو كاماتشو
+sb26783|Roque Santa Cruz|روكي سانتا كروز
+sb6904|Sergio Sánchez|سيرخيو سانشيز
+sb26669|Weligton|ويلينغتون
+sb5596|Aleksandar Kolarov|ألكسندر كولاروف
+sb7458|Alessio Romagnoli|أليسيو رومانيولي
+sb7026|Giacomo Bonaventura|جاكومو بونافنتورا
+sb10919|Juraj Kucka|يوراي كوتسكا
+sb5683|Keisuke Honda|كيسوكي هوندا
+sb8874|Luca Antonelli|لوكا أنتونيلي
+sb20039|Anthony Martial|أنتوني مارسيال
+sb10779|Cameron Borthwick-Jackson|كاميرون بورثويك جاكسون
+sb40364|Roy Carroll|روي كارول
+sb7035|Allan|آلان
+sb7031|Elseid Hysaj|إلسيد هيساي
+sb7024|Jorginho|جورجينيو
+sb5675|Kalidou Koulibaly|كاليدو كوليبالي
+sb7025|Marek Hamšík|ماريك هامشيك
+sb20059|Aaron Hughes|آرون هيوز
+sb40225|Andy O'Brien|آندي أوبراين
+sb40227|Laurent Robert|لوران روبير
+sb40233|Olivier Bernard|أوليفييه برنار
+sb20446|Shay Given|شاي غيفن
+sb40230|Titus Bramble|تيتوس برامبل
+sb3230|Alassane Pléa|ألاسان بليا
+sb16462|Hatem Ben Arfa|حاتم بن عرفة
+sb3359|Jean Michaël Seri|جان ميكاييل سيري
+sb4270|Jérémy Pied|جيريمي بييه
+sb3229|Maxime Le Marchand|ماكسيم لو مارشان
+sb4506|Nampalys Mendy|نامباليس ميندي
+sb4443|Paul Baysse|بول بايس
+sb3210|Valère Germain|فاليري جيرمان
+sb4264|Vincent Koziello|فنسان كوزييلو
+sb4257|Yoan Cardinale|يوان كاردينال
+sb3451|Alexandre Lacazette|ألكسندر لاكازيت
+sb4410|Christophe Jallet|كريستوف جاليه
+sb3118|Jordan Ferri|جوردان فيري
+sb2983|Jérémy Morel|جيريمي موريل
+sb4463|Mapou Yanga-Mbiwa|مابو يانغا مبيوا
+sb6982|Maxime Gonalons|ماكسيم غونالون
+sb4433|Boubacar Kamara|بوبكر كامارا
+sb6971|Cengiz Ünder|جنكيز أوندر
+sb6981|Gerson|جيرسون
+sb22203|Luan Peres|لوان بيريس
+sb21026|Pape Gueye|باب غي
+sb3365|Valentin Rongier|فالنتان رونجييه
+sb6655|Fabián Ruiz|فابيان رويث
+sb7029|José Callejón|خوسيه كاليخون
+sb26021|Mahamadou Diarra|محمدو ديارا
+sb6878|Miguel Torres|ميغيل توريس
+sb21568|Royston Drenthe|رويستون درينتي
+sb6964|Alessandro Florenzi|أليساندرو فلورينزي
+sb7048|Kostas Manolas|كوستاس مانولاس
+sb6962|Radja Nainggolan|رادجا ناينغولان
+sb5669|Wojciech Szczęsny|فويتشيخ شتشيسني
+sb25950|Aitor Ocio|أيتور أوثيو
+sb20368|Aleksandr Kerzhakov|ألكسندر كيرجاكوف
+sb25946|Andrés Palop|أندريس بالوب
+sb27483|Benoît Trémoulinas|بونوا تريمولينا
+sb25956|David Castedo|ديفيد كاستيدو
+sb25960|Frédéric Kanouté|فريدريك كانوتيه
+sb3637|Grzegorz Krychowiak|غجيغوج كريهوفياك
+sb25952|Ivica Dragutinović|إيفيتسا دراغوتينوفيتش
+sb6672|Coke|كوكي (إشبيلية)
+sb6401|Kévin Gameiro|كيفن غاميرو
+sb26015|Renato|ريناتو (إشبيلية)
+sb10476|Timothée Kolodziejczak|تيموتيه كولودزيتشاك
+sb3497|Vicente Iborra|فيسنتي إيبورا
+sb6841|Vitolo|فيتولو
+sb3831|Dušan Tadić|دوشان تاديتش
+sb11062|Graziano Pellè|غراتسيانو بيليه
+sb5109|Paulo Gazzaniga|باولو غاتسانيغا
+sb3828|Steven Davis|ستيفن ديفيس
+sb3098|Victor Wanyama|فيكتور وانياما
+sb3585|Erik Lamela|إريك لاميلا
+sb6614|Alexis Ruano|أليكسيس رويانو
+sb20070|Miguel Monteiro|ميغيل مونتيرو
+sb20662|Alexander Nübel|ألكسندر نوبل
+sb20947|Atakan Karazor|أتاكان كارازور
+sb23614|Chris Führich|كريس فوريش
+sb131243|Deniz Undav|دنيز أونداف
+sb45115|Enzo Millot|إنزو ميلو
+sb95272|Hiroki Ito|هيروكي إيتو
+sb28805|Jamie Leweling|جيمي ليفيلينغ
+sb29227|Leonidas Stergiou|ليونيداس ستيرجيو
+sb12407|Maximilian Mittelstädt|ماكسيميليان ميتلشتيت
+sb9102|Serhou Guirassy|سيرهو غيراسي
+sb8538|Waldemar Anton|فالديمار أنطون
+sb22819|Bruno Soriano|برونو سوريانو
+sb6862|Cédric Bakambu|سيدريك باكامبو
+sb3324|Eric Bailly|إريك بايي
+sb26196|Fabricio Fuentes|فابريسيو فوينتيس
+sb26198|Guillermo Franco|غييرمو فرانكو
+sb6771|Manu Trigueros|مانو تريغيروس
+sb25936|Sebastián Viera|سيباستيان فييرا
+sb26194|Pascal Cygan|باسكال سيغان
+sb26009|Roberto Soldado|روبرتو سولدادو
+sb25921|Cani|كاني
+sb6829|Samu Castillejo|سامو كاستييخو
+sb6752|Víctor Ruiz|فيكتور رويث
+sb3062|Aaron Cresswell|آرون كريسويل
+sb3623|Adrián|أدريان (حارس وست هام)
+sb4271|Andy Carroll|آندي كارول
+sb3843|Angelo Ogbonna|أنجيلو أوغبونا
+sb3684|Cheikhou Kouyaté|شيخو كوياتي
+sb3962|Diafra Sakho|ديافرا ساخو
+sb3491|Dimitri Payet|ديميتري باييه
+sb3595|Manuel Lanzini|مانويل لانزيني
+sb3874|Mark Noble|مارك نوبل
+sb3349|Michail Antonio|ميكايل أنطونيو
+sb4280|Winston Reid|وينستون ريد
+sb3329|Cédric Soares|سيدريك سواريش
+sb40228|Lee Bowyer|لي باوير
+sb40266|Seth Johnson|سيث جونسون
+sb6609|Denis Suárez|دينيس سواريز
+sb6772|Mario Gaspar|ماريو غاسبار
+sb6828|Jaume Costa|خاومي كوستا
+sb6823|Sergio Rico|سيرخيو ريكو
+sb25924|Guti|غوتي
+sb26110|Dani Jarque|داني خاركي
+sb25937|Javi Venta|خافي فينتا
+sb18620|Sergio Reguilón|سيرخيو ريغيلون
+sb3804|Ferland Mendy|فيرلاند ميندي
+sb6585|Jeison Murillo|جيسون موريو
+sb3372|Rachid Ghezzal|رشيد غزال
+sb6792|Pau López|باو لوبيز
+sb6723|Wissam Ben Yedder|وسام بن يدر
+sb6855|Guillermo Maripán|غييرمو ماريبان
+sb10463|Sofiane Diop|سفيان ديوب
+sb25295|Caio Henrique|كايو هنريكي
+sb3179|Nolan Roux|نولان رو
+sb3200|Renaud Cohade|رونو كوهاد
+sb3413|Kévin Théophile-Catherine|كيفن تيوفيل كاترين
+sb4254|Valentin Eysseric|فالنتان إيسيريك
+sb4263|Loïc Perrin|لويك بيران
+sb4382|Kévin Malcuit|كيفن مالكوي
+sb7200|Fabien Lemoine|فابيان لوموان
+sb7442|Jérémy Clément|جيريمي كليمان
+sb401468|Moustapha Sall|مصطفى سال
+sb19731|Tomáš Ujfaluši|توماش أويفالوشي
+sb26120|Luis Perea|لويس بيريا
+sb26502|Paulo Assunção|باولو أسونساو
+sb26677|Álvaro Domínguez|ألفارو دومينغيز
+sb4394|Peter Whittingham|بيتر ويتينغهام
+sb15761|Olof Mellberg|أولوف ميلبيرغ
+sb20180|Marcus Allbäck|ماركوس ألبيك
+sb40359|Jlloyd Samuel|جيلويد صامويل
+sb40361|Mark Delaney|مارك ديلاني
+sb40362|Juan Pablo Ángel|خوان بابلو أنخيل
+sb40363|Lee Hendrie|لي هندري
+sb5671|Alfred N'Diaye|ألفريد ندياي
+sb6593|Martín Montoya|مارتن مونتويا
+sb6654|Antonio Adán|أنطونيو أدان
+sb6697|Dani Ceballos|داني سيبايوس
+sb6832|Rubén Castro|روبين كاسترو
+sb6872|Bruno González|برونو غونزاليس
+sb26723|Álvaro Cejudo|ألفارو سيخودو
+sb27346|Petros|بيتروس
+sb27349|Heiko Westermann|هايكو فيسترمان
+sb9353|Nicky Hunt|نيكي هانت
+sb21540|Kevin Nolan|كيفن نولان
+sb40383|Émerson Thome|إيمرسون تومي
+sb40385|Jussi Jääskeläinen|يوسي ياسكيلاينن
+sb40388|Kevin Davies|كيفن ديفيز
+sb40390|Simon Charlton|سايمون تشارلتون
+sb40391|Ricardo Gardner|ريكاردو غاردنر
+sb3712|Pierre-Emerick Aubameyang|بيير إيمريك أوباميانغ
+sb8225|Roman Bürki|رومان بوركي
+sb8244|Sokratis Papastathopoulos|سقراطيس باباستاثوبولوس
+sb9475|Moritz Leitner|موريتز لايتنر
+sb6724|Nolito|نوليتو
+sb6794|Gustavo Cabral|غوستافو كابرال
+sb6801|Pablo Hernández (Celta)|بابلو هيرنانديز (سيلتا)
+sb6802|Jonny Castro|جوني كاسترو
+sb6804|Sergi Gómez|سيرجي غوميز
+sb6805|Hugo Mallo|هوغو مايو
+sb6884|Sergio Álvarez|سيرخيو ألفاريز
+sb7105|Fabián Orellana|فابيان أوريانا
+sb27341|Marcelo Díaz|مارسيلو دياز
+sb3407|Scott Dann|سكوت دان
+sb3443|Joel Ward|جويل وارد
+sb3464|James McArthur|جيمس مكارثر
+sb3488|Wayne Hennessey|واين هينيسي
+sb3589|Yannick Bolasie|يانيك بولاسي
+sb3693|Damien Delaney|داميان ديلاني
+sb4884|Pape Souaré|باب سواري
+sb5489|Mile Jedinak|ميلي يديناك
+sb19688|Jason Puncheon|جيسون بانشون
+sb20641|Connor Wickham|كونور ويكهام
+sb20189|Tobias Linderoth|توبياس ليندروث
+sb38558|Steve Watson|ستيف واتسون
+sb40280|Richard Wright|ريتشارد رايت
+sb40281|David Unsworth|ديفيد أنسوورث
+sb40283|Nick Chadwick|نيك تشادويك
+sb40284|Alessandro Pistone|أليساندرو بيستوني
+sb40285|Alan Stubbs|آلان ستابس
+sb40286|Tomasz Radzinski|توماس رادزينسكي
+sb40289|Mark Pembridge|مارك بيمبريدج
+sb3607|James McCarthy|جيمس مكارثي
+sb3683|Tom Cleverley|توم كليفرلي
+sb4589|Séamus Coleman|شيموس كولمان
+sb4629|Ramiro Funes Mori|راميرو فونيس موري
+sb5836|Bryan Oviedo|براين أوفييدو
+sb16309|Joel Robles|جويل روبليس
+sb3112|Ciprian Tătărușanu|تشيبريان تاتاروشانو
+sb3964|Marcos Alonso|ماركوس ألونسو
+sb6830|Facundo Roncaglia|فاكوندو رونكاليا
+sb7139|Josip Iličić|يوسيب إيليتشيتش
+sb7777|Federico Bernardeschi|فيديريكو برناردسكي
+sb8275|Davide Astori|دافيدي أستوري
+sb9109|Jonas Föhrenbach|يوناس فورنباخ
+sb9201|Nikola Dovedan|نيكولا دوفيدان
+sb9203|Norman Theuerkauf|نورمان تويركاوف
+sb9205|Kevin Müller|كيفن مولر
+sb10303|Patrick Mainka|باتريك ماينكا
+sb11382|Tim Kleindienst|تيم كلايندينست
+sb31310|Jan-Niklas Beste|يان نيكلاس بيستي
+sb46430|Tim Siersleben|تيم زيرسليبن
+sb48959|Omar Traoré|عمر تراوري
+sb67007|Eren Dinkçi|إيرين دينكجي
+sb133483|Lennard Maloney|لينارد مالوني
+sb3588|Wesley Hoedt|ويسلي هودت
+sb5589|Sergej Milinković-Savić|سيرغي ميلينكوفيتش سافيتش
+sb7778|Ștefan Radu|ستيفان رادو
+sb7785|Senad Lulić|سيناد لوليتش
+sb8443|Dušan Basta|دوشان باستا
+sb9939|Maurício (Lazio)|ماوريسيو
+sb11427|Filip Đorđević|فيليب ديورديفيتش
+sb3677|Adama Soumaoro|أداما سوماورو
+sb6716|Sébastien Corchia|سيباستيان كورشيا
+sb11332|Ibrahim Amadou|إبراهيم أمادو
+sb29057|Renato Civelli|ريناتو سيفيلي
+sb40486|Éric Bauthéac|إيريك بوتياك
+sb40697|Mounir Obbadi|منير عبادي
+sb2990|Benjamin André|بنيامين أندريه
+sb3377|Timothy Weah|تيموثي وايا
+sb4256|Jonathan Bamba|جوناثان بامبا
+sb22148|Bafodé Diakité|بافودي دياكيتي
+sb22343|Angel Gomes|أنخيل غوميز
+sb23640|Jonathan David|جوناثان ديفيد
+sb29992|Tiago Djaló|تياغو جالو
+sb39600|Lucas Chevalier|لوكاس شوفالييه
+sb4788|Jesús Gámez|خيسوس غاميز
+sb19636|Paul Bosvelt|باول بوسفيلت
+sb38552|Joey Barton|جوي بارتون
+sb40215|Sun Jihai|صن جيهاي
+sb40218|Sylvain Distin|سيلفان ديستان
+sb40220|David Sommeil|ديفيد سوميي
+sb40223|Antoine Sibierski|أنطوان سيبيرسكي
+sb40322|Mark Schwarzer|مارك شفارتزر
+sb40324|George Boateng|جورج بواتينغ
+sb40327|Szilárd Németh|سيلارد نيميث
+sb40330|Chris Riggott|كريس ريغوت
+sb40402|Stuart Parnaby|ستيوارت بارنابي
+sb40403|Malcolm Christie|مالكولم كريستي
+sb40404|Alan Wright|آلان رايت
+sb40405|Colin Cooper|كولين كوبر
+sb3360|Walter Benítez|والتر بينيتيز
+sb4435|Amine Gouiri|أمين غويري
+sb6302|Kasper Dolberg|كاسبر دولبيرغ
+sb8063|Justin Kluivert|جاستن كلويفرت
+sb8534|Pablo Rosario|بابلو روساريو
+sb11532|Jean-Clair Todibo|جان كلير توديبو
+sb22072|Khéphren Thuram|كيفرين تورام
+sb33221|Melvin Bard|ملفين بارد
+sb39120|Flavius Daniliuc|فلافيوس دانيليوك
+sb3510|Sead Kolašinac|سياد كولاشيناتس
+sb16557|Ruslan Malinovskyi|رسلان مالينوفسكي
+sb30040|Nuno Tavares|نونو تافاريس
+sb33233|Leonardo Balerdi|ليوناردو باليردي
+sb8769|Xaver Schlager|كزافير شلاغر
+sb15155|Janis Blaswich|يانيس بلاسفيتش
+sb30360|Mohamed Simakan|محمد سيماكان
+sb38759|Benjamin Šeško|بنيامين شيشكو
+sb39460|Nicolas Seiwald|نيكولاس زايفالد
+sb40185|Castello Lukeba|كاستيو لوكيبا
+sb2950|Jonas Martin|يوناس مارتن
+sb3190|Gaëtan Laborde|غايتان لابورد
+sb3248|Hamari Traoré|حماري تراوري
+sb3426|Benjamin Bourigeaud|بنيامين بوريجو
+sb3550|Flavien Tait|فلافيان تيت
+sb4420|Martin Terrier|مارتن تيرييه
+sb8870|Alfred Gomis|ألفريد غوميس
+sb16353|Birger Meling|بيرغر ميلينغ
+sb35658|Kamaldeen Sulemana|كمال الدين سليمانا
+sb39265|Warmed Omari|وارمد عمري
+sb3023|Yuri Berchiche|يوري برشيش
+sb5560|Carlos Vela|كارلوس فيلا
+sb6665|Íñigo Martínez|إينييغو مارتينيز
+sb6679|Aritz Elustondo|أريتز إلوستوندو
+sb6685|Mikel Oyarzabal|ميكيل أويارزابال
+sb6690|Xabi Prieto|تشابي برييتو
+sb6899|Rubén Pardo|روبين باردو
+sb8584|Jonathas|جوناثاس
+sb16539|Diego Reyes|دييغو رييس
+sb6859|Nicola Sansone|نيكولا سانسوني
+sb7113|Simone Missiroli|سيموني ميسيرولي
+sb7118|Federico Peluso|فيديريكو بيلوسو
+sb7127|Francesco Magnanelli|فرانشيسكو ماغنانيلي
+sb7131|Domenico Berardi|دومينيكو بيراردي
+sb7132|Andrea Consigli|أندريا كونسيلي
+sb7457|Grégoire Defrel|غريغوار ديفريل
+sb7698|Alfred Duncan|ألفريد دانكن
+sb8848|Paolo Cannavaro|باولو كانافارو
+sb25948|José Martí|خوسيه مارتي
+sb25954|Enzo Maresca|إنزو ماريسكا
+sb25958|Jordi López|جوردي لوبيز
+sb6913|Fernando Navarro|فرناندو نافارو
+sb26018|Julien Escudé|جوليان إيسكوديه
+sb26254|Lolo|لولو
+sb26681|Marius Stankevičius|ماريوس ستانكيفيتشيوس
+sb26683|Abdoulay Konko|عبد الله كونكو
+sb26694|José Carlos|خوسيه كارلوس
+sb26695|Marc Valiente|مارك فالينتي
+sb6861|Juan Cala|خوان كالا
+sb6925|Jairo Samperio|خايرو سامبيريو
+sb7154|Sebastián Cristóforo|سيباستيان كريستوفورو
+sb6400|Aleix Vidal|أليكس فيدال
+sb6825|Daniel Carriço|دانيال كاريسو
+sb7909|Nicolás Pareja|نيكولاس باريخا
+sb10881|Diogo Figueiras|ديوغو فيغيراس
+sb3325|Marko Arnautović|ماركو أرناوتوفيتش
+sb3467|Erik Pieters|إريك بيترز
+sb3480|Geoff Cameron|جيف كاميرون
+sb3533|Xherdan Shaqiri|جيردان شاكيري
+sb4035|Ryan Shawcross|رايان شوكروس
+sb9625|Glenn Whelan|غلين ويلان
+sb40121|Philipp Wollscheid|فيليب فولشايد
+sb3095|Bruno Saltor|برونو سالتور
+sb4711|Pablo Hernández|بابلو هيرنانديز
+sb26645|Ángel Dealbert|أنخيل ديالبيرت
+sb26646|Alejandro Domínguez|أليخاندرو دومينغيز
+sb6763|Pablo Piatti|بابلو بياتي
+sb10609|Jérémy Mathieu|جيريمي ماتيو
+sb17083|Jonas|جوناس
+sb26728|Tino Costa|تينو كوستا
+sb6587|Toni Lato|توني لاتو
+sb6590|Neto|نيتو
+sb6595|Dani Parejo|داني باريخو
+sb6797|Daniel Wass|دانيال فاس
+sb11634|Cristiano Piccini|كريستيانو بيتشيني
+sb6997|Borja Valero|بورخا فاليرو
+sb7034|Mateo Musacchio|ماتيو موساكيو
+sb7141|Giuseppe Rossi|جوزيبي روسي
+sb26765|José Manuel Catalá|خوسيه مانويل كاتالا
+sb23916|Luis García (Espanyol)|لويس غارسيا (إسبانيول)
+sb26163|Marc Torrejón|مارك توريخون
+sb25426|Marco Ruben|ماركو روبين
+sb11167|Felipe|فيليبي
+sb26532|Renan Lodi|رينان لودي
+sb6718|Sergio Escudero|سيرخيو إسكوديرو
+sb6719|Franco Vázquez|فرانكو فاسكيز
+sb6744|Luciano Vietto|لوسيانو فييتو
+sb20253|Samir Nasri|سمير نصري
+sb21210|Mariano|ماريانو
+sb3366|Diego Carlos|دييغو كارلوس
+sb4345|Lucas Ocampos|لوكاس أوكامبوس
+sb6701|Joan Jordán|جوان جوردان
+sb7022|Suso|سوسو
+sb16003|Fernando Reges|فرناندو ريجيس
+sb6402|Paco Alcácer|باكو ألكاسير
+sb6755|Sergio Asenjo|سيرخيو أسينخو
+sb6766|Gerard Moreno|جيرارد مورينو
+sb11675|Moi Gómez|موي غوميز
+sb16335|Samuel Chukwueze|صامويل تشوكويزي
+sb24085|Pervis Estupiñán|بيرفيس إستوبينيان
+sb25931|Gonzalo Rodríguez|غونزالو رودريغيز
+sb26121|Ariel Ibagaza|أرييل إيباغازا
+sb26191|Joseba Llorente|خوسيبا يورينتي
+sb3042|Mikel Merino|ميكيل ميرينو
+sb6582|Portu|بورتو
+sb6605|Joseba Zaldúa|خوسيبا زالدوا
+sb6676|Igor Zubeldia|إيغور زوبيلديا
+sb6713|Diego Llorente|دييغو يورينتي
+sb8819|Alexander Isak|ألكسندر إيزاك
+sb24236|Ander Guevara|أندير غيفارا
+sb32185|Álex Remiro|أليكس ريميرو
+sb6397|Unai Núñez|أوناي نونيز
+sb6667|Mikel Vesga|ميكيل فيسغا
+sb6699|Ander Capa|أندير كابا
+sb35473|Unai Vencedor|أوناي فينسيدور
+sb4546|Dimitri Foulquier|ديميتري فولكييه
+sb6611|Ángel Rodríguez|أنخيل رودريغيز
+sb6619|Vitorino Antunes|فيتورينو أنتونيش
+sb6627|Damián Suárez|داميان سواريز
+sb6634|Djené Dakonam|دجيني داكونام
+sb6635|Leandro Cabrera|لياندرو كابريرا
+sb6722|David Soria|ديفيد سوريا
+sb6863|Mauro Arambarri|ماورو أرامباري
+sb6873|Francisco Portillo|فرانسيسكو بورتيو
+sb6901|Nemanja Maksimović|نيمانيا ماكسيموفيتش
+sb6663|Antonio Barragán|أنطونيو باراغان
+sb27480|Lucas Orbán|لوكاس أوربان
+sb6796|Nemanja Radoja|نيمانيا رادويا
+sb23785|Théo Bongonda|تيو بونغوندا
+sb6656|Mikel Rico|ميكيل ريكو
+sb26087|Carlos Gurpegui|كارلوس غوربيغي
+sb25144|Diego Alves|دييغو ألفيش
+sb11550|Jaime Mata|خايمي ماتا
+sb6751|Javi Fuego|خافي فويغو

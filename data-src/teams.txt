@@ -300,3 +300,20 @@ N-PRK|North Korea|كوريا الشمالية|nt|KP|#ED1C27|#FFFFFF
 N-QAT|Qatar|قطر|nt|QA|#8A1538|#FFFFFF
 N-SCG|Serbia and Montenegro|صربيا والجبل الأسود|nt|RS|#0C4076|#FFFFFF
 N-SLV|El Salvador|السلفادور|nt|SV|#0F47AF|#FFFFFF
+N-ALB|Albania|ألبانيا|nt|al|#E41E20|#000000
+N-BFA|Burkina Faso|بوركينا فاسو|nt|bf|#EF2B2D|#009E49
+N-CTA|Central African Republic|أفريقيا الوسطى|nt|cf|#003082|#FFCE00
+N-KEN|Kenya|كينيا|nt|ke|#006600|#BB0000
+N-MAD|Madagascar|مدغشقر|nt|mg|#FC3D32|#007E3A
+SAS|Sassuolo|ساسولو|club|it|#00A752|#000000
+HEI|1. FC Heidenheim|هايدنهايم|club|de|#E30613|#003B79
+GET|Getafe|خيتافي|club|es|#005999|#FFFFFF
+N-KOS|Kosovo|كوسوفو|nt|xk|#244AA5|#D0A650
+PAOK|PAOK|باوك سالونيك|club|gr|#000000|#FFFFFF
+AEK|AEK Athens|أيك أثينا|club|gr|#FFD700|#000000
+MLW|Millwall|ميلوول|club|gb|#001D5E|#FFFFFF
+RCS|RC Strasbourg|ستراسبورغ|club|fr|#0055A4|#FFFFFF
+AIN|Al Ain|العين|club|ae|#6A1B9A|#FFFFFF
+ALI|Alianza Lima|أليانزا ليما|club|pe|#002D72|#FFFFFF
+KZC|Kaizer Chiefs|كايزر تشيفز|club|za|#FFC72C|#000000
+GHR|Al-Gharafa|الغرافة|club|qa|#0072BC|#FFD100
