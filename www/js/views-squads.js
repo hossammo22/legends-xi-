@@ -37,7 +37,9 @@ LX.route(/^\/squads(?:\/(club|nt))?$/, (root, tab) => {
   else ccEl.remove();
   ccEl.onclick = e => { const b = e.target.closest('[data-c]'); if (!b) return; cc = b.dataset.c; ccEl.querySelectorAll('.gen').forEach(x => x.classList.toggle('on', x === b)); draw(); };
   const featured = D.squads.filter(s => LX.squadInEra(s, era) && (tab === 'nt') === (LX.T(s.team).type === 'nt')).sort((a, b) => b.s - a.s);
-  main.querySelector('#featured').innerHTML = featured.length ? featured.map(s => squadRow(s)).join('') : '<div class="empty">لا توجد تشكيلات موثقة في هذا الجيل</div>';
+  const drawF = n => { main.querySelector('#featured').innerHTML = featured.length ? featured.slice(0, n).map(s => squadRow(s)).join('') + (featured.length > n ? `<button class="btn block" id="fmore" style="margin-top:6px">عرض كل التشكيلات (${featured.length})</button>` : '') : '<div class="empty">لا توجد تشكيلات موثقة في هذا الجيل</div>'; LX.loadPhotos(main); };
+  drawF(25);
+  main.querySelector('#featured').addEventListener('click', e => { if (e.target.id === 'fmore') { e.stopPropagation(); drawF(9999); } }, true);
   main.querySelector('#featured').onclick = e => { const b = e.target.closest('[data-s]'); if (b) LX.go('/squad/' + b.dataset.s); };
   const q = main.querySelector('#q');
   const draw = () => {
@@ -49,7 +51,7 @@ LX.route(/^\/squads(?:\/(club|nt))?$/, (root, tab) => {
   q.oninput = draw; draw();
   main.querySelector('#grid').onclick = e => { const b = e.target.closest('[data-t]'); if (b) LX.go('/team/' + b.dataset.t); };
 });
-const squadRow = s => `<button class="prow" data-s="${s.id}">${LX.crest(s.team, 38)}<div class="grow"><div class="n">${esc(LX.teamName(s.team))} <span class="en gold">${s.date.slice(0, 4)}</span></div><div class="s">${esc(s.comp)} · ${LX.nums(esc(s.match))}</div></div><span class="verbadge ${s.ver}">${s.ver === 'src' ? 'موثقة' : 'معرفة تاريخية'}</span></button>`;
+const squadRow = s => `<button class="prow" data-s="${s.id}">${LX.crest(s.team, 38)}<div class="grow"><div class="n">${esc(LX.teamName(s.team))} <span class="en gold">${s.date.slice(0, 4)}</span></div><div class="s">${esc(s.comp)} · ${LX.nums(esc(s.match))}</div></div><span class="verbadge ${s.ver}">${LX.verLabel(s.ver)}</span></button>`;
 LX.squadRow = squadRow;
 
 /* ---------------- team page with chronological timeline */
@@ -58,7 +60,7 @@ LX.route(/^\/team\/([^/]+)(?:\/(\d{4}))?$/, (root, tid, yr) => {
   const era = LX.era();
   const sqs = (TEAMSQ[tid] || []).slice().sort((a, b) => a.s - b.s);
   let members;
-  if (t.type === 'nt') members = LX.allPlayers.filter(p => p.nat === tid).map(p => [p.id, p.nt ? p.nt[0] : p.yr[0], p.nt ? p.nt[1] + 1 : p.yr[1]]);
+  if (t.type === 'nt') members = LX.allPlayers.filter(p => p.nat === tid).flatMap(p => p.nt ? [[p.id, p.nt[0], p.nt[1] + 1]] : (p.wc && p.wc.length ? p.wc.map(w => [p.id, w[0], w[0] + 1]) : [[p.id, p.yr[0], p.yr[1] + 1]]));
   else members = TEAMP[tid] || [];
   let ys = members.flatMap(m => [m[1]]).concat(sqs.map(s => s.s));
   let y0 = Math.max(Math.min(...ys), era.a, 1955), y1 = Math.min(Math.max(...members.map(m => m[2] - 1), ...sqs.map(s => s.s)), era.b - 1, LX.NOW);
@@ -78,7 +80,7 @@ LX.route(/^\/team\/([^/]+)(?:\/(\d{4}))?$/, (root, tid, yr) => {
   body.innerHTML = `
     ${ySq.length ? `<div class="section-t">تشكيلات ${sel}</div><div class="plist">${ySq.map(squadRow).join('')}</div>` : ''}
     ${sqs.length ? `<div class="section-t">كل التشكيلات الموثقة</div><div class="plist">${sqs.filter(s => LX.squadInEra(s, era)).map(squadRow).join('') || '<div class="empty">لا توجد في هذا الجيل</div>'}</div>` : ''}
-    <div class="section-t">${t.type === 'nt' ? `لاعبون دوليون نشطون في ${sel}` : `لاعبو الفريق الأول في موسم ${LX.season(sel, sel + 1)}`}<small>${uniq.length}</small></div>
+    <div class="section-t">${t.type === 'nt' ? `لاعبون دوليون في ${sel}` : `لاعبو الفريق الأول في موسم ${LX.season(sel, sel + 1)}`}<small>${uniq.length}</small></div>
     <p class="muted" style="font-size:12px;margin:-4px 2px 6px">قائمة مستخرجة من المسيرات الموثقة في قاعدة البيانات، وليست تشكيلة مباراة بعينها.</p>
     <div class="plist">${uniq.map(p => LX.prow(p)).join('') || '<div class="empty">لا يوجد لاعبون مسجلون لهذا الموسم في القاعدة بعد</div>'}</div>`;
   body.onclick = e => { const s = e.target.closest('[data-s]'); if (s) return LX.go('/squad/' + s.dataset.s); const p = e.target.closest('[data-p]'); if (p) LX.go('/player/' + p.dataset.p); };
@@ -115,7 +117,7 @@ LX.route(/^\/squad\/([^/]+)(?:\/(\w+))?$/, (root, sid, view) => {
   const t = LX.T(s.team);
   const xi = s.p.filter(x => x[3] === 'XI'), subs = s.p.filter(x => x[3] === 'SUB'), rest = s.p.filter(x => x[3] === 'SQ');
   const main = LX.page(root, { title: esc(t.ar) + ' ' + s.date.slice(0, 4), gen: false }, `
-    <div class="sqhead" style="--c1:${t.c1}">${LX.crest(s.team, 54)}<div class="meta"><div class="t">${esc(s.comp)}</div><div class="m">${LX.nums(esc(s.match))}</div><div class="row" style="gap:6px;margin-top:4px"><span class="f">${esc(s.f)}</span><span class="muted" style="font-size:12px">${esc(s.date)}</span><span class="verbadge ${s.ver}">${s.ver === 'src' ? 'موثقة من سجل المباراة' : 'معرفة تاريخية'}</span></div></div></div>
+    <div class="sqhead" style="--c1:${t.c1}">${LX.crest(s.team, 54)}<div class="meta"><div class="t">${esc(s.comp)}</div><div class="m">${LX.nums(esc(s.match))}</div><div class="row" style="gap:6px;margin-top:4px"><span class="f">${esc(s.f)}</span><span class="muted" style="font-size:12px">${esc(s.date)}</span><span class="verbadge ${s.ver}">${s.ver === 'src' ? 'موثقة من سجل المباراة' : s.ver === 'wcdb' ? 'قاعدة بيانات كأس العالم' : 'معرفة تاريخية'}</span></div></div></div>
     <div class="tabs" style="margin-top:12px">${VIEWS.map(([k, l]) => `<button data-v="${k}" class="${k === view ? 'on' : ''}">${l}</button>`).join('')}</div>
     <div id="v"></div>
     <p class="muted" style="font-size:11.5px;margin-top:12px">${s.kind === 'season' ? 'أرقام قمصان ثابتة للموسم. التشكيلة الأساسية تمثيلية للموسم وليست مباراة بعينها.' : 'تشكيلة مباراة واحدة بأرقامها في تلك المباراة. "غ.م" = غير موثق.'}</p>`);
@@ -150,7 +152,7 @@ LX.route(/^\/squad\/([^/]+)(?:\/(\w+))?$/, (root, sid, view) => {
 /* collectible card */
 LX.card = (pid, no, pos, s) => {
   const p = LX.P(pid); const team = s ? LX.teamName(s.team) : (p.cl.length ? LX.teamName(p.cl[p.cl.length - 1][0]) : '');
-  const period = s ? s.date.slice(0, 4) : (p.yr ? `${LX.iso(p.yr[0] + '–' + Math.min(p.yr[1], LX.NOW))}` : '');
+  const period = s ? s.date.slice(0, 4) : LX.yearsLabel(p);
   return `<button class="pcard t${p.t}" data-p="${pid}"><span class="num ${no == null ? 'u' : ''}">${no ?? 'غير موثق'}</span><span class="pos en">${esc(pos || p.pos)}</span>${LX.ph(pid, 86)}<div class="nm">${esc(p.ar)}</div><div class="en">${esc(p.en)}</div><div class="meta"><span>${LX.flag((LX.T(p.nat) || {}).cc)} ${esc(LX.natName(p))}</span><span>${esc(team)}</span><span class="en">${esc(period)}</span></div><div class="sig">${LX.SIG}</div></button>`;
 };
 
@@ -168,7 +170,7 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
       <div class="row wrap" style="justify-content:center;gap:6px;margin-top:8px"><span class="chip">${LX.flag(t && t.cc)} ${esc(LX.natName(p))}</span><span class="chip gold">${esc(LX.POSDETAIL[p.pos] || p.pos)}</span>${p.t === 1 ? '<span class="chip green">أسطورة</span>' : ''}</div></div>
     <div class="facts">
       <div class="fact"><b>${p.b ? esc(p.b.length > 4 ? p.b : p.b) : 'غير موثق'}</b><small>تاريخ الميلاد</small></div>
-      <div class="fact"><b>${p.yr ? LX.iso(p.yr[0] + '–' + (p.yr[1] >= LX.NOW ? 'الآن' : p.yr[1])) : '–'}</b><small>سنوات النشاط</small></div>
+      ${p.cl.length || !p.wc ? `<div class="fact"><b>${p.yr ? LX.iso(p.yr[0] + '–' + (p.yr[1] >= LX.NOW ? 'الآن' : p.yr[1])) : '–'}</b><small>سنوات النشاط</small></div>` : `<div class="fact"><b>${p.wc.length}</b><small>مشاركات في كأس العالم</small></div>`}
       <div class="fact"><b>${p.nt ? LX.iso(p.nt[0] + '–' + (p.nt[1] >= LX.NOW ? 'الآن' : p.nt[1])) : 'غير موثق'}</b><small>دوليًا مع ${esc(LX.natName(p))}</small></div>
     </div>
     ${Object.keys(hon).length ? `<div class="section-t">أبرز الإنجازات</div><div class="honours">${Object.entries(hon).map(([k, ys]) => `<span class="chip gold">${LX.HONIC[k]} ${esc(LX.HONAR[k])}${ys.length > 1 ? ` ×${ys.length}` : ''} <span class="en" style="opacity:.8">${ys.join('، ')}</span></span>`).join('')}</div>` : ''}
@@ -177,8 +179,9 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
       <button class="btn" id="a2">${I.q}خمن زملاءه</button>
       <button class="btn gold" id="a3">${I.star}فريق الأحلام</button>
     </div>
+    ${p.wc && p.wc.length ? `<div class="section-t">المشاركة في كأس العالم <small>مع ${esc(LX.natName(p))}</small></div><div class="card" style="padding:4px 10px"><table class="numtable">${p.wc.map(w => { const sq = (LX.squadsOf[pid] || []).find(s => s.s === w[0] && s.team === p.nat); return `<tr ${sq ? `data-s="${sq.id}"` : ''}><td class="n">${w[1] ?? '<span style="font-size:11px">غ.م</span>'}</td><td><b>كأس العالم ${w[0]}</b><div class="muted" style="font-size:11.5px">${esc(LX.POSDETAIL[w[2]] || w[2])}${sq ? ' · عرض التشكيلة' : ''}</div></td></tr>`; }).join('')}</table></div>` : ''}
     <div class="section-t">المسيرة مع الأندية <small>بالترتيب الزمني</small></div>
-    ${p.cl.length ? `<div class="tl">${p.cl.map(c => `<button class="tli" data-t="${c[0]}" style="display:block;width:100%;text-align:start"><div class="row">${LX.crest(c[0], 30)}<div class="grow"><div style="font-weight:800">${esc(LX.teamName(c[0]))}</div><div class="y">${LX.span(c[1], Math.min(c[2], LX.NOW))}</div></div></div></button>`).join('')}</div>` : '<div class="empty">المسيرة الكاملة غير موثقة في القاعدة بعد</div>'}
+    ${p.cl.length ? `<div class="tl">${p.cl.map(c => `<button class="tli" data-t="${c[0]}" style="display:block;width:100%;text-align:start"><div class="row">${LX.crest(c[0], 30)}<div class="grow"><div style="font-weight:800">${esc(LX.teamName(c[0]))}</div><div class="y">${LX.span(c[1], Math.min(c[2], LX.NOW))}</div></div></div></button>`).join('')}</div>` : (p.wc ? '<div class="empty">مسيرة الأندية لهذا اللاعب غير مضافة بعد — بياناته الموثقة حاليًا هي مشاركاته في كأس العالم</div>' : '<div class="empty">المسيرة الكاملة غير موثقة في القاعدة بعد</div>')}
     ${nums.length ? `<div class="section-t">أرقام القميص الموثقة</div><div class="card" style="padding:4px 10px"><table class="numtable">${nums.map(n => `<tr data-s="${n.s.id}"><td class="n">${n.no ?? '<span style="font-size:11px">غير موثق</span>'}</td><td><b>${esc(LX.teamName(n.s.team))}</b> · ${esc(n.s.comp)}<div class="muted" style="font-size:11.5px">${esc(n.pos)} · ${n.role === 'XI' ? 'أساسي' : n.role === 'SUB' ? 'بديل شارك' : 'ضمن القائمة'}</div></td></tr>`).join('')}</table></div>` : ''}
     ${sqs.length ? `<div class="section-t">ظهوره في التشكيلات التاريخية</div><div class="plist">${sqs.map(LX.squadRow).join('')}</div>` : ''}
     <div class="section-t">زملاء تاريخيون <small>${mates.length} زميل موثق</small></div>

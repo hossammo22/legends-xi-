@@ -123,7 +123,7 @@ chiellini|Giorgio Chiellini|جورجيو كيليني|N-ITA|CB|1984-08-14|2|2004
 chivu|Cristian Chivu|كريستيان كيفو|N-ROU|LB|1980-10-26|3|1999-2011|AJA 1999-2003; ROM 2003-2007; INT 2007-2014|CL2010|chivu
 cisse|Djibril Cissé|جبريل سيسيه|N-FRA|CF|1981-08-12|3|2002-2011|AUX 1998-2004; LIV 2004-2007; OM 2007-2008; PAN 2009-2011; LAZ 2011-2012; QPR 2011-2013|CL2005|cisse
 clichy|Gaël Clichy|غايل كليشي|N-FRA|LB|1985-07-26|3|2008-2015|ARS 2003-2011; MCI 2011-2017|-|clichy
-clodoaldo|Clodoaldo|كلودوالدو|N-BRA|CM|1949-09-25|3|1969-1974|SAN 1966-1980|WC1970|clodoaldo
+clodoaldo|Clodoaldo|كلودوالدو|N-BRA|CM|1949-09-26|3|1969-1974|SAN 1966-1980|WC1970|clodoaldo
 cole-a|Andy Cole|آندي كول|N-ENG|CF|1971-10-15|2|1995-2001|NEW 1993-1995; MUN 1994-2002; BLB 2001-2004; FUL 2004-2005; MCI 2005-2006; POM 2006-2007|CL1999|andy cole,andrew cole
 cole-ashley|Ashley Cole|آشلي كول|N-ENG|LB|1980-12-20|1|2001-2014|ARS 1999-2006; CHE 2006-2014; ROM 2014-2016; LAG 2016-2019|CL2012|ashley cole,اشلي كول
 cole-j|Joe Cole|جو كول|N-ENG|AM|1981-11-08|2|2001-2010|WHU 1998-2003; CHE 2003-2010; LIV 2010-2013; WHU 2012-2014; AVL 2014-2015|-|joe cole

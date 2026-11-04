@@ -140,6 +140,7 @@ img{display:block;max-width:100%}
 .sheet h3{margin:4px 0 12px;font-size:17px}
 .verbadge{font-size:11px;padding:3px 8px;border-radius:8px;font-weight:700}
 .verbadge.src{background:rgba(47,191,113,.14);color:#7fe0ad}
+.verbadge.wcdb{background:rgba(80,160,255,.14);color:#9cc8ff}
 .verbadge.kb{background:rgba(212,175,55,.14);color:var(--gold2)}
 
 /* ---------- photo */

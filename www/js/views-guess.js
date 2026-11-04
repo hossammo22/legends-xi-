@@ -33,14 +33,24 @@ function facts(p, r) {
   });
   if (p.nt) F.push({ c: 'nat', g: 'nat', x: `لعب دوليًا مع ${nat} منذ ${p.nt[0]}`, t: q => q.nat === p.nat && q.nt && Math.abs(q.nt[0] - p.nt[0]) <= 1 });
   if (yr(p)) F.push({ c: 'career', x: `وُلد عام ${yr(p)}`, t: q => yr(q) === yr(p) });
-  if (p.yr) F.push({ c: 'career', x: `جيله: نشط بين ${p.yr[0]} و${Math.min(p.yr[1], LX.NOW) >= LX.NOW ? 'اليوم' : p.yr[1]}`, t: q => q.yr && Math.abs(q.yr[0] - p.yr[0]) <= 2, w: 1 });
+  if (p.yr && p.cl.length) F.push({ c: 'career', x: `جيله: نشط بين ${p.yr[0]} و${Math.min(p.yr[1], LX.NOW) >= LX.NOW ? 'اليوم' : p.yr[1]}`, t: q => q.yr && q.cl.length && Math.abs(q.yr[0] - p.yr[0]) <= 2, w: 1 });
+  // World Cup participations (Fjelstul World Cup Database)
+  const W = p.wc || [], wy = W.map(w => w[0]);
+  if (W.length) {
+    const qy = q => (q.wc || []).map(w => w[0]);
+    F.push({ c: 'career', g: 'wcn', x: W.length === 1 ? `شارك في كأس العالم مرة واحدة` : `شارك في ${W.length} نسخ من كأس العالم`, t: q => (q.wc || []).length === W.length });
+    const y1 = LX.pick(wy, r);
+    F.push({ c: 'career', g: 'wcy' + y1, x: `كان ضمن قائمة ${nat} في كأس العالم ${y1}`, t: q => q.nat === p.nat && qy(q).includes(y1) });
+    if (W.length > 1) F.push({ c: 'career', g: 'wcs', x: `شارك في كأس العالم ${wy.join(' و')}`, t: q => qy(q).join() === wy.join() });
+    W.filter(w => w[1] != null).forEach(w => F.push({ c: 'shirt', g: 'wcno' + w[0], x: `ارتدى القميص رقم ${w[1]} في كأس العالم ${w[0]}`, t: q => (q.wc || []).some(z => z[0] === w[0] && z[1] === w[1]) }));
+  }
   // teammates (prefer famous ones)
   const mates = (LX.ADJ[p.id] || []).map(([id, ev]) => ({ m: LX.P(id), ev: LX.bestEv(ev) })).filter(o => o.m.t <= 2);
   LX.shuffle(mates, r).slice(0, 4).forEach(o => {
-    F.push({ c: 'mates', x: `زامل ${o.m.ar} في ${LX.teamName(o.ev.t)}`, t: q => { const ev = LX.evidence(q.id, o.m.id); return !!ev && ev.some(e => e.t === o.ev.t); } });
+    F.push({ c: 'mates', x: `زامل ${o.m.ar} في ${(LX.T(o.ev.t) || {}).type === 'nt' ? 'منتخب ' : ''}${LX.teamName(o.ev.t)}${o.ev.w ? ` (كأس العالم ${o.ev.w})` : ''}`, t: q => { const ev = LX.evidence(q.id, o.m.id); return !!ev && ev.some(e => e.t === o.ev.t); } });
   });
   // shirt numbers & squads
-  (LX.squadsOf[p.id] || []).forEach(s => {
+  (LX.squadsOf[p.id] || []).filter(s => !(s.ver === 'wcdb' && W.length)).forEach(s => {   // WC squads are already covered by the World Cup facts
     const x = s.p.find(z => z[2] === p.id);
     if (x[0] != null) F.push({ c: 'shirt', x: `ارتدى القميص رقم ${x[0]} مع ${LX.teamName(s.team)} في ${s.comp}`, t: q => s.p.some(z => z[2] === q.id && z[0] === x[0]) });
     F.push({ c: 'squad', x: `كان ضمن تشكيلة ${LX.teamName(s.team)} في ${s.comp}`, t: q => s.p.some(z => z[2] === q.id) });
@@ -52,11 +62,12 @@ const POOLMAP = { 1: [1], 2: [2, 1], 3: [3, 2], 4: [4, 3] };
 LX.makeQuestion = (opts) => {
   const r = opts.r || Math.random, d = LX.diff(opts.diff);
   const era = opts.era || LX.era();
-  let base = (opts.pool ? opts.pool.map(LX.P) : LX.allPlayers).filter(p => p.cl.length && !p.pa);
+  let base = (opts.pool ? opts.pool.map(LX.P) : LX.allPlayers).filter(p => (p.cl.length && !p.pa) || (p.wc && p.wc.length));
   if (!opts.pool) base = base.filter(p => LX.inEra(p, era));
   const tiers = POOLMAP[d.id];
   let pool = opts.pool ? base : base.filter(p => tiers.includes(p.t));
-  if (opts.cat === 'shirt' || opts.cat === 'squad') pool = pool.filter(p => (LX.squadsOf[p.id] || []).length);
+  if (opts.cat === 'squad') pool = pool.filter(p => (LX.squadsOf[p.id] || []).length);
+  if (opts.cat === 'shirt') pool = pool.filter(p => (LX.squadsOf[p.id] || []).length || (p.wc || []).some(w => w[1] != null));
   if (opts.cat === 'hon') pool = pool.filter(p => p.h.length);
   if (pool.length < 4) pool = base;
   const recent = opts.recent || new Set();
@@ -70,12 +81,21 @@ LX.makeQuestion = (opts) => {
       const pref = F.filter(f => f.c === opts.cat); if (!pref.length) continue;
     }
     // medium: avoid obscure-only facts; legendary: avoid giveaway facts (BDO, WC)
-    if (d.id === 4) F = F.filter(f => !/الكرة الذهبية|كأس العالم/.test(f.x));
+    if (d.id === 4) F = F.filter(f => !(f.c === 'hon' && /الكرة الذهبية|كأس العالم/.test(f.x)));   // no give-away titles
     const N = d.clues;
     const cand = list => LX.allPlayers.filter(q => list.every(f => f.t(q)));
     let chosen = [];
+    // World-Cup-only players: anchor the question to one of their COMPLETE squads, so that being unique
+    // in the database also means being unique in reality
+    if (!p.cl.length && p.wc) {
+      const full = (LX.squadsOf[p.id] || []).filter(s => s.ver === 'wcdb' && s.team === p.nat);
+      if (!full.length) continue;
+      const fs = LX.pick(full, r), ay = fs.s;
+      chosen.push({ c: 'career', g: 'wcy' + ay, x: `كان ضمن قائمة ${LX.natName(p)} في كأس العالم ${ay}`, t: q => fs.p.some(z => z[2] === q.id) });
+      F = F.filter(f => f.g !== 'nat' && !String(f.g || '').startsWith('wcy'));
+    }
     if (opts.cat && opts.cat !== 'mix' && opts.cat !== 'photo') {
-      const pref = LX.shuffle(F.filter(f => f.c === opts.cat), r)[0]; chosen.push(pref);
+      const pref = LX.shuffle(F.filter(f => f.c === opts.cat), r)[0]; if (!pref) continue; chosen.push(pref);
     }
     if (d.id === 1) { const nf = F.find(f => f.c === 'nat'); if (nf && !chosen.includes(nf)) chosen.push(nf); }
     if (d.id <= 2) { const big = F.find(f => f.big); if (big && !chosen.includes(big) && chosen.length < N) chosen.push(big); }
@@ -90,6 +110,7 @@ LX.makeQuestion = (opts) => {
       const f = scored[k][1]; chosen.push(f); C = C.filter(q => f.t(q));
     }
     if (C.length !== 1 || C[0].id !== p.id) continue;
+    if (chosen.every(f => f.c === 'pos' || /^وُلد/.test(f.x))) continue;   // never identify a player only by position + birth year
     // order: vaguest first
     chosen = chosen.map(f => [LX.allPlayers.filter(q => f.t(q)).length, f]).sort((a, b) => b[0] - a[0]).map(x => x[1]);
     const extras = LX.shuffle(F.filter(f => !chosen.includes(f)), r).slice(0, 4);

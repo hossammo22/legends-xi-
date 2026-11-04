@@ -64,9 +64,9 @@ dasayev|Rinat Dasayev|رينات داساييف|N-URS|GK|1957-06-13|2|1979-1990|
 demyanenko|Anatoliy Demyanenko|أناتولي ديميانينكو|N-URS|DF|1959-02-19|3|1981-1990|DYK 1979-1991|-|demyanenko
 aleinikov|Sergei Aleinikov|سيرغي أليينيكوف|N-URS|MF|1961-11-07|3|1981-1992|JUV 1989-1990|-|aleinikov
 khidiyatullin|Vagiz Khidiyatullin|فاغيز خيدياتولين|N-URS|DF|1959-03-03|4|1978-1990|SPA 1976-1981|-|khidiyatullin
-rats|Vasyl Rats|فاسيل راتس|N-URS|LB|1961-03-25|4|1986-1990|DYK 1981-1989|-|rats
+rats|Vasyl Rats|فاسيل راتس|N-URS|LB|1961-04-25|4|1986-1990|DYK 1981-1989|-|rats
 lytovchenko|Hennadiy Lytovchenko|غينادي ليتوفتشينكو|N-URS|MF|1963-09-11|4|1984-1990|DYK 1986-1990|-|lytovchenko
-zavarov|Oleksandr Zavarov|أولكسندر زافاروف|N-URS|AM|1961-04-26|3|1985-1990|DYK 1983-1988; JUV 1988-1990|-|zavarov
+zavarov|Oleksandr Zavarov|أولكسندر زافاروف|N-URS|AM|1961-04-20|3|1985-1990|DYK 1983-1988; JUV 1988-1990|-|zavarov
 mykhaylychenko|Oleksiy Mykhaylychenko|أوليكسي ميخايليتشينكو|N-URS|MF|1963-03-30|4|1987-1996|DYK 1981-1990; SAM 1990-1991; RAN 1991-1996|-|mikhailichenko
 gotsmanov|Sergey Gotsmanov|سيرغي غوتسمانوف|N-URS|MF|1959-03-27|4|1984-1990||-|gotsmanov
 protasov|Oleh Protasov|أوليه بروتاسوف|N-URS|CF|1964-02-04|3|1984-1994|DYK 1987-1990; OLY 1990-1994|-|protasov

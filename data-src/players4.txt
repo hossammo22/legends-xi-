@@ -79,7 +79,7 @@ schweinsteiger|Bastian Schweinsteiger|باستيان شفاينشتايغر|N-GE
 seedorf|Clarence Seedorf|كلارنس سيدورف|N-NED|MF|1976-04-01|1|1994-2008|AJA 1992-1995; SAM 1995-1996; RMA 1996-2000; INT 1999-2002; MIL 2002-2012; BOT 2012-2014|CL1995 CL1998 CL2003 CL2007|seedorf,سيدورف
 sensini|Roberto Sensini|روبرتو سينسيني|N-ARG|DF|1966-10-12|3|1987-2000|NOB 1986-1989; UDI 1989-1993; PAR 1993-1999; LAZ 1999-2001|-|sensini
 serginho|Serginho|سيرجينيو|N-BRA|LM|1971-06-27|3|1998-2002|SPFC 1996-1999; MIL 1999-2008|CL2003 CL2007|serginho
-serrizuela|José Serrizuela|خوسيه سيريزويلا|N-ARG|DF|1962-06-10|4|1989-1990||-|serrizuela
+serrizuela|José Serrizuela|خوسيه سيريزويلا|N-ARG|DF|1962-06-16|4|1989-1990||-|serrizuela
 sheringham|Teddy Sheringham|تيدي شيرينغهام|N-ENG|CF|1966-04-02|2|1993-2002|NFO 1991-1992; TOT 1992-1997; MUN 1997-2001; TOT 2001-2003; POM 2003-2004; WHU 2004-2007|CL1999|sheringham
 shevchenko|Andriy Shevchenko|أندريه شيفتشينكو|N-UKR|CF|1976-09-29|1|1995-2012|DYK 1994-1999; MIL 1999-2006; CHE 2006-2009; MIL 2008-2009; DYK 2009-2012|CL2003 BDO2004|sheva,shevchenko,شيفتشينكو
 silooy|Sonny Silooy|سوني سيلوي|N-NED|RB|1963-08-31|4|1987-1988|AJA 1980-1987; AJA 1990-1996|CL1995|silooy

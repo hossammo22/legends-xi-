@@ -1,0 +1,2701 @@
+P-86290|ARG|Roberto Abbondanzieri
+P-25906|ARG|Pablo Aimar
+P-56659|ARG|Thiago Almada
+P-88203|ARG|Matías Almeyda
+P-55451|ARG|Mariano Andújar
+P-64424|ARG|Cristian Ansaldi
+P-39788|ARG|Franco Armani
+P-67181|ARG|Leonardo Astrada
+P-83403|ARG|Roberto Ayala
+P-66433|ARG|Éver Banega
+P-38424|ARG|José María Basanta
+P-70099|ARG|Sergio Berti
+P-06108|ARG|Mario Bolatti
+P-12056|ARG|Roberto Bonano
+P-56532|ARG|Nicolás Burdisso
+P-56385|ARG|Germán Burgos
+P-17853|ARG|Willy Caballero
+P-69606|ARG|Hugo Campagnaro
+P-60052|ARG|Pablo Cavallero
+P-78133|ARG|Fabricio Coloccini
+P-38198|ARG|Julio Cruz
+P-16541|ARG|Leandro Cufré
+P-45030|ARG|Marcelo Delgado
+P-00981|ARG|Federico Fazio
+P-72244|ARG|Federico Fernández
+P-00652|ARG|Juan Foyth
+P-27047|ARG|Leo Franco
+P-94002|ARG|Marcelo Gallardo
+P-05459|ARG|Ariel Garcé
+P-48161|ARG|Lucho González
+P-11130|ARG|Kily González
+P-56859|ARG|Jonás Gutiérrez
+P-18444|ARG|Nahuel Guzmán
+P-10231|ARG|Papu Gómez
+P-64352|ARG|Gabriel Heinze
+P-26200|ARG|Claudio Husaín
+P-16352|ARG|Giovani Lo Celso
+P-60203|ARG|Claudio López
+P-45985|ARG|Gustavo López
+P-23070|ARG|Lisandro Martínez
+P-32508|ARG|Gabriel Mercado
+P-95278|ARG|Maximiliano Meza
+P-91357|ARG|Gabriel Milito
+P-86028|ARG|Agustín Orión
+P-40147|ARG|Exequiel Palacios
+P-60592|ARG|Martín Palermo
+P-91484|ARG|Javier Pastore
+P-85116|ARG|Cristian Pavón
+P-43717|ARG|Pablo Paz
+P-28597|ARG|Mauricio Pineda
+P-02174|ARG|Diego Placente
+P-31684|ARG|Mauricio Pochettino
+P-70815|ARG|Diego Pozo
+P-81085|ARG|Carlos Roa
+P-03265|ARG|Guido Rodríguez
+P-93262|ARG|Clemente Rodríguez
+P-33570|ARG|Maxi Rodríguez
+P-36188|ARG|Gerónimo Rulli
+P-22992|ARG|Eduardo Salvio
+P-38901|ARG|Javier Saviola
+P-73619|ARG|Lionel Scaloni
+P-60914|ARG|Juan Pablo Sorín
+P-66580|ARG|Óscar Ustari
+P-62209|ARG|Juan Sebastián Verón
+P-65019|ARG|Nelson Vivas
+P-58741|ARG|Ricky Álvarez
+P-13975|BEL|Michy Batshuayi
+P-55762|BEL|Sammy Bossut
+P-85472|BEL|Dedryck Boyata
+P-56069|BEL|Timothy Castagne
+P-88715|BEL|Koen Casteels
+P-69919|BEL|Nacer Chadli
+P-33520|BEL|Laurent Ciman
+P-15154|BEL|Philippe Clement
+P-12959|BEL|Bertrand Crasson
+P-94736|BEL|Glen De Boeck
+P-61810|BEL|Charles De Ketelaere
+P-48592|BEL|Geert De Vlieger
+P-56669|BEL|Zeno Debast
+P-17071|BEL|Éric Deflandre
+P-03735|BEL|Steven Defour
+P-12533|BEL|Mousa Dembélé
+P-73834|BEL|Leander Dendoncker
+P-29578|BEL|Jérémy Doku
+P-42565|BEL|Gaëtan Englebert
+P-61413|BEL|Wout Faes
+P-63363|BEL|Marouane Fellaini
+P-34376|BEL|Bart Goor
+P-74337|BEL|Thorgan Hazard
+P-44716|BEL|Frédéric Herpoel
+P-15896|BEL|Adnan Januzaj
+P-95269|BEL|Vincent Kompany
+P-35334|BEL|Nicolas Lombaerts
+P-84852|BEL|Dries Mertens
+P-22930|BEL|Thomas Meunier
+P-10313|BEL|Simon Mignolet
+P-25209|BEL|Kevin Mirallas
+P-90633|BEL|Mbo Mpenza
+P-01706|BEL|Émile Mpenza
+P-00109|BEL|Luís Oliveira
+P-21652|BEL|Amadou Onana
+P-70691|BEL|Loïs Openda
+P-12842|BEL|Jacky Peeters
+P-80262|BEL|Timmy Simons
+P-64922|BEL|Wesley Sonck
+P-03038|BEL|Branko Strupar
+P-75820|BEL|Arthur Theate
+P-88716|BEL|Bernd Thijs
+P-47906|BEL|Youri Tielemans
+P-95312|BEL|Leandro Trossard
+P-28883|BEL|Nico Van Kerckhoven
+P-02977|BEL|Peter Van der Heyden
+P-81997|BEL|Hans Vanaken
+P-18623|BEL|Philippe Vande Walle
+P-17974|BEL|Anthony Vanden Borre
+P-12777|BEL|Franky Vandendriessche
+P-46499|BEL|Yves Vanderhaeghe
+P-52358|BEL|Gert Verheyen
+P-92866|BEL|Thomas Vermaelen
+P-91831|BEL|Sven Vermant
+P-39573|BEL|Mike Verstraeten
+P-86884|BEL|Gordan Vidović
+P-03447|BEL|Johan Walem
+P-53048|BEL|Axel Witsel
+P-41316|BGR|Georgi Bachev
+P-11736|BGR|Gosho Ginchev
+P-28549|BGR|Marian Hristov
+P-57696|BGR|Ilian Iliev
+P-67598|BGR|Georgi Ivanov
+P-26718|BGR|Rosen Kirilov
+P-14982|BGR|Radostin Kishishev
+P-16713|BGR|Anatoli Nankov
+P-99418|BGR|Lyuboslav Penev
+P-25506|BGR|Milen Petkov
+P-84375|BGR|Ivaylo Petkov
+P-05818|BGR|Stoycho Stoilov
+P-01256|BGR|Adalbert Zafirov
+P-39700|BGR|Zdravko Zdravkov
+P-20372|BRA|Adriano
+P-37860|BRA|Antony
+P-49997|BRA|Renato Augusto
+P-29075|BRA|Júlio Baptista
+P-86163|BRA|Michel Bastos
+P-50663|BRA|Bernard
+P-14060|BRA|Bremer
+P-01939|BRA|Rogério Ceni
+P-47627|BRA|Cicinho
+P-17082|BRA|Douglas Costa
+P-37171|BRA|Philippe Coutinho
+P-74340|BRA|Cris
+P-99966|BRA|André Cruz
+P-66815|BRA|Cássio
+P-61927|BRA|Doni
+P-64142|BRA|Doriva
+P-26695|BRA|Edílson
+P-78264|BRA|Elano
+P-52008|BRA|Emerson
+P-98528|BRA|Luís Fabiano
+P-97493|BRA|Fagner
+P-41758|BRA|Fernandinho
+P-54042|BRA|Fred
+P-74941|BRA|Fred
+P-70594|BRA|Carlos Germano
+P-77556|BRA|Pedro Geromel
+P-30363|BRA|Gilberto
+P-10812|BRA|Giovanni
+P-27402|BRA|Heurelho Gomes
+P-93839|BRA|Gonçalves
+P-82456|BRA|Grafite
+P-74688|BRA|Bruno Guimarães
+P-43410|BRA|Luiz Gustavo
+P-68649|BRA|Henrique
+P-02974|BRA|Hernanes
+P-86524|BRA|Hulk
+P-41422|BRA|Jefferson
+P-92004|BRA|Gabriel Jesus
+P-74066|BRA|Josué
+P-98607|BRA|Juan
+P-37372|BRA|Jô
+P-29601|BRA|Júnior
+P-32968|BRA|Luisão
+P-89804|BRA|Luizão
+P-76060|BRA|Marquinhos
+P-70483|BRA|Gabriel Martinelli
+P-47180|BRA|Maxwell
+P-58840|BRA|Felipe Melo
+P-55590|BRA|Éder Militão
+P-87223|BRA|Mineiro
+P-25449|BRA|Nilmar
+P-37239|BRA|Oscar
+P-05164|BRA|Lucas Paquetá
+P-54013|BRA|Paulinho
+P-15197|BRA|Pedro
+P-37735|BRA|Juninho Pernambucano
+P-09454|BRA|Ânderson Polga
+P-86499|BRA|Ramires
+P-83169|BRA|Raphinha
+P-42740|BRA|Éverton Ribeiro
+P-57975|BRA|Ricardinho
+P-68016|BRA|Richarlison
+P-13354|BRA|Robinho
+P-32798|BRA|Thiago Silva
+P-87266|BRA|Taison
+P-26953|BRA|Alex Telles
+P-06280|BRA|Vampeta
+P-94095|BRA|Victor
+P-66020|BRA|Weverton
+P-62621|BRA|Willian
+P-63053|BRA|Zé Carlos
+P-39545|BRA|Zé Roberto
+P-48722|CIV|Kanga Akalé
+P-42905|CIV|Jean-Daniel Akpa Akpro
+P-19422|CIV|Benjamin Angoua
+P-43440|CIV|Serge Aurier
+P-55416|CIV|Sol Bamba
+P-30753|CIV|Boubacar Barry
+P-08544|CIV|Arthur Boka
+P-23169|CIV|Mathis Bolly
+P-84532|CIV|Wilfried Bony
+P-75763|CIV|Guy Demel
+P-93241|CIV|Aruna Dindane
+P-07076|CIV|Ismaël Diomandé
+P-54100|CIV|Serey Dié
+P-75959|CIV|Constant Djakpa
+P-20335|CIV|Cyril Domoraud
+P-63253|CIV|Seydou Doumbia
+P-14259|CIV|Emerse Faé
+P-25845|CIV|Sylvain Gbohouo
+P-33586|CIV|Gervinho
+P-51266|CIV|Gérard Gnanhouan
+P-04746|CIV|Steve Gohouri
+P-50281|CIV|Jean-Jacques Gosso
+P-10731|CIV|Max Gradel
+P-98071|CIV|Abdul Kader Keïta
+P-67250|CIV|Bonaventure Kalou
+P-77484|CIV|Emmanuel Koné
+P-14175|CIV|Arouna Koné
+P-64184|CIV|Bakari Koné
+P-80902|CIV|Blaise Kouassi
+P-89713|CIV|Sayouba Mandé
+P-12127|CIV|Abdoulaye Méïté
+P-55581|CIV|Romaric
+P-33115|CIV|Giovanni Sio
+P-19801|CIV|Cheick Tioté
+P-31283|CIV|Jean-Jacques Tizié
+P-59702|CIV|Siaka Tiéné
+P-65804|CIV|Ousmane Viera
+P-20974|CIV|Didier Ya Konan
+P-58634|CIV|Gilles Yapi Yapo
+P-64945|CIV|Daniel Yeboah
+P-77464|CIV|Aristide Zogbo
+P-48968|CIV|Didier Zokora
+P-97294|CIV|Marco Zoro
+P-35138|CMR|Patrice Abanda
+P-53452|CMR|Vincent Aboubakar
+P-63567|CMR|Nicolas Alnoudji
+P-44460|CMR|William Andem
+P-06511|CMR|Didier Angibeaud
+P-44116|CMR|Benoît Assou-Ekotto
+P-68512|CMR|Sébastien Bassong
+P-97635|CMR|Henri Bedimo
+P-47081|CMR|Gaëtan Bong
+P-41783|CMR|Alioum Boukar
+P-86625|CMR|Aurélien Chedjou
+P-06117|CMR|Eric Maxim Choupo-Moting
+P-56970|CMR|Eric Djemba-Djemba
+P-75443|CMR|Cédric Djeugoué
+P-97878|CMR|Joseph Elanga
+P-96890|CMR|Achille Emaná
+P-48455|CMR|Eyong Enoh
+P-60079|CMR|Joël Epalle
+P-36230|CMR|Loïc Feudjou
+P-86465|CMR|Geremi
+P-44262|CMR|Souleymanou Hamidou
+P-53593|CMR|Mohammadou Idrissou
+P-45873|CMR|Samuel Ipoua
+P-28726|CMR|Charles Itandje
+P-14458|CMR|Joseph-Désiré Job
+P-59683|CMR|Carlos Kameni
+P-18536|CMR|Daniel Kome
+P-18804|CMR|Patrick M'Boma
+P-87968|CMR|Marcel Mahouvé
+P-67012|CMR|Jean Makoun
+P-48097|CMR|Georges Mandjeck
+P-48783|CMR|Stéphane Mbia
+P-83436|CMR|Lucien Mettomo
+P-65896|CMR|Benjamin Moukandjo
+P-78387|CMR|Joseph N'Do
+P-88732|CMR|Landry N'Guémo
+P-94440|CMR|Guy N'dy Assembé
+P-67466|CMR|Pius Ndiefi
+P-44581|CMR|Sammy Ndjock
+P-53197|CMR|Pierre Njanka
+P-93209|CMR|Nicolas Nkoulou
+P-89372|CMR|Dany Nounkeu
+P-05805|CMR|Allan Nyom
+P-84152|CMR|Salomon Olembé
+P-81999|CMR|Fabrice Olinga
+P-07577|CMR|Michel Pensée
+P-72737|CMR|Edgar Salli
+P-33623|CMR|Augustine Simo
+P-99407|CMR|Alex Song
+P-99681|CMR|Patrick Suffo
+P-60766|CMR|Bill Tchato
+P-10830|CMR|Pierre Webó
+P-67168|CMR|Pierre Womé
+P-76705|COL|Abel Aguilar
+P-01505|COL|Santiago Arias
+P-95402|COL|Pablo Armero
+P-12476|COL|Carlos Bacca
+P-17988|COL|Wilmar Barrios
+P-71020|COL|Jorge Bermúdez
+P-77800|COL|Jorge Bolaño
+P-59950|COL|Miguel Borja
+P-18252|COL|Miguel Calero
+P-76077|COL|Carlos Carbonero
+P-29212|COL|José Fernando Cuadrado
+P-09175|COL|Iván Córdoba
+P-37614|COL|Farid Díaz
+P-00522|COL|Andrés Estrada
+P-66638|COL|Fredy Guarín
+P-77705|COL|Teófilo Gutiérrez
+P-99957|COL|Víctor Ibarbo
+P-75090|COL|José Izquierdo
+P-61424|COL|Jefferson Lerma
+P-01068|COL|Jackson Martínez
+P-01538|COL|Alexander Mejía
+P-43196|COL|Yerry Mina
+P-07796|COL|Johan Mojica
+P-75570|COL|Luis Antonio Moreno
+P-16245|COL|Luis Muriel
+P-26542|COL|Óscar Murillo
+P-94838|COL|David Ospina
+P-00848|COL|Ever Palacios
+P-64415|COL|Léider Preciado
+P-51932|COL|John Wilmar Pérez
+P-14499|COL|Juan Fernando Quintero
+P-73564|COL|Adrián Ramos
+P-30514|COL|Hámilton Ricard
+P-21571|COL|José Santa
+P-38594|COL|Davinson Sánchez
+P-66228|COL|Carlos Sánchez
+P-07807|COL|Mateus Uribe
+P-77916|COL|Carlos Valdés
+P-27327|COL|Camilo Vargas
+P-92771|COL|Mario Yepes
+P-78745|COL|Cristián Zapata
+P-61178|COL|Juan Camilo Zúñiga
+P-86404|COL|Éder Álvarez Balanta
+P-05901|DEU|Karim Adeyemi
+P-04201|DEU|Dennis Aogo
+P-73157|DEU|Frank Baumann
+P-69200|DEU|Armel Bella-Kotchap
+P-08154|DEU|Tim Borowski
+P-50679|DEU|Julian Brandt
+P-42820|DEU|Jörg Böhme
+P-10713|DEU|Cacau
+P-21524|DEU|Julian Draxler
+P-46023|DEU|Erik Durm
+P-94904|DEU|Steffen Freund
+P-43481|DEU|Arne Friedrich
+P-46246|DEU|Niclas Füllkrug
+P-36126|DEU|Matthias Ginter
+P-75989|DEU|Serge Gnabry
+P-79409|DEU|Leon Goretzka
+P-63385|DEU|Christian Günter
+P-27261|DEU|Mike Hanke
+P-77743|DEU|Kai Havertz
+P-77118|DEU|Jonas Hector
+P-30693|DEU|Timo Hildebrand
+P-73973|DEU|Thomas Hitzlsperger
+P-18188|DEU|Jonas Hofmann
+P-27557|DEU|Robert Huth
+P-50326|DEU|Marcell Jansen
+P-51287|DEU|Sebastian Kehl
+P-11933|DEU|Thilo Kehrer
+P-88148|DEU|Stefan Kießling
+P-89863|DEU|Lukas Klostermann
+P-97093|DEU|Marko Marin
+P-62028|DEU|Olaf Marschall
+P-04137|DEU|Youssoufa Moukoko
+P-67414|DEU|Shkodran Mustafi
+P-94304|DEU|Jens Nowotny
+P-24324|DEU|David Odonkor
+P-69785|DEU|Marvin Plattenhardt
+P-36287|DEU|Lukas Podolski
+P-20804|DEU|David Raum
+P-71726|DEU|Marko Rehmer
+P-62162|DEU|Sebastian Rudy
+P-71859|DEU|Nico Schlotterbeck
+P-48737|DEU|Niklas Süle
+P-03879|DEU|Serdar Tasci
+P-81947|DEU|Kevin Trapp
+P-47324|DEU|Piotr Trochowski
+P-19339|DEU|Timo Werner
+P-68199|DEU|Tim Wiese
+P-53262|DEU|Christian Wörns
+P-41334|DEU|Ron-Robert Zieler
+P-83165|DNK|Stephan Andersen
+P-45005|DNK|Mikkel Beckmann
+P-38862|DNK|Nicklas Bendtner
+P-05337|DNK|Kasper Bøgelund
+P-21988|DNK|Jesper Christiansen
+P-90473|DNK|Søren Colding
+P-41303|DNK|Thomas Enevoldsen
+P-02695|DNK|Per Frandsen
+P-04448|DNK|Bjarne Goldbæk
+P-24031|DNK|Thomas Gravesen
+P-63778|DNK|Jesper Grønkjær
+P-72404|DNK|Thomas Helveg
+P-86345|DNK|René Henriksen
+P-11000|DNK|Jes Høgh
+P-13831|DNK|Lars Jacobsen
+P-26759|DNK|Claus Jensen
+P-34389|DNK|Niclas Jensen
+P-18657|DNK|Daniel Jensen
+P-68055|DNK|Martin Jørgensen
+P-47232|DNK|Thomas Kahlenberg
+P-25541|DNK|Peter Kjær
+P-14988|DNK|Simon Kjær
+P-66859|DNK|Mogens Krogh
+P-83625|DNK|Per Krøldrup
+P-93951|DNK|William Kvist
+P-05707|DNK|Søren Larsen
+P-28133|DNK|Brian Laudrup
+P-27808|DNK|Martin Laursen
+P-01514|DNK|Jacob Laursen
+P-94452|DNK|Steven Lustü
+P-41271|DNK|Peter Løvenkrands
+P-06985|DNK|Peter Madsen
+P-89928|DNK|Jan Michaelsen
+P-75330|DNK|Miklos Molnar
+P-23395|DNK|Patrick Mtiliga
+P-87668|DNK|Peter Møller
+P-62564|DNK|Allan Nielsen
+P-89870|DNK|Simon Poulsen
+P-46718|DNK|Christian Poulsen
+P-67264|DNK|Jakob Poulsen
+P-77711|DNK|Marc Rieper
+P-80170|DNK|Dennis Rommedahl
+P-80289|DNK|Ebbe Sand
+P-57898|DNK|Michael Schjønberg
+P-04393|DNK|Brian Steen Nielsen
+P-00212|DNK|Thomas Sørensen
+P-37132|DNK|Stig Tøfting
+P-87412|DNK|Morten Wieghorst
+P-94880|DZA|Djamel Abdoun
+P-00957|DZA|Nadir Belhadj
+P-41251|DZA|Essaïd Belkalem
+P-92503|DZA|Habib Bellaïd
+P-96340|DZA|Nabil Bentaleb
+P-70903|DZA|Ryad Boudebouz
+P-21116|DZA|Madjid Bougherra
+P-24983|DZA|Yacine Brahimi
+P-98016|DZA|Liassine Cadamuro-Bentaïba
+P-17205|DZA|Faouzi Chaouchi
+P-59147|DZA|Abdelmoumene Djabou
+P-10693|DZA|Rafik Djebbour
+P-12165|DZA|Sofiane Feghouli
+P-98886|DZA|Lounès Gaouaoui
+P-22008|DZA|Abdelkader Ghezzal
+P-31598|DZA|Nabil Ghilas
+P-55717|DZA|Faouzi Ghoulam
+P-37702|DZA|Adlène Guedioura
+P-19453|DZA|Rafik Halliche
+P-46257|DZA|Foued Kadir
+P-23484|DZA|Mehdi Lacen
+P-09837|DZA|Abdelkader Laïfaoui
+P-00596|DZA|Raïs M'Bolhi
+P-58383|DZA|Aïssa Mandi
+P-30221|DZA|Yazid Mansouri
+P-63647|DZA|Karim Matmour
+P-21704|DZA|Carl Medjani
+P-09059|DZA|Djamel Mesbah
+P-09673|DZA|Mehdi Mostefa
+P-44112|DZA|Rafik Saïfi
+P-96937|DZA|Cédric Si Mohamed
+P-59199|DZA|Islam Slimani
+P-63360|DZA|Hillal Soudani
+P-83421|DZA|Saphir Taïder
+P-77742|DZA|Antar Yahia
+P-70560|DZA|Hassan Yebda
+P-52593|DZA|Mohamed Zemmamouche
+P-42107|DZA|Karim Ziani
+P-02028|EGY|Ayman Ashraf
+P-49027|EGY|Sherif Ekramy
+P-74320|EGY|Abdallah El Said
+P-86080|EGY|Mohamed El Shenawy
+P-13030|EGY|Omar Gaber
+P-83293|EGY|Ali Gabr
+P-41789|EGY|Mahmoud Hamdy
+P-77754|EGY|Tarek Hamed
+P-81689|EGY|Ahmed Hegazi
+P-24653|EGY|Kahraba
+P-37703|EGY|Marwan Mohsen
+P-50801|EGY|Sam Morsy
+P-08628|EGY|Saad Samir
+P-96547|EGY|Shikabala
+P-91291|EGY|Ramadan Sobhi
+P-99805|EGY|Amr Warda
+P-54003|ENG|Tony Adams
+P-40570|ENG|Darren Anderton
+P-94649|ENG|Leighton Baines
+P-48443|ENG|Ross Barkley
+P-69235|ENG|Gareth Barry
+P-92367|ENG|David Batty
+P-91486|ENG|Wayne Bridge
+P-38372|ENG|Jack Butland
+P-57447|ENG|Scott Carson
+P-76287|ENG|Conor Coady
+P-06000|ENG|Michael Dawson
+P-42890|ENG|Jermain Defoe
+P-16053|ENG|Fabian Delph
+P-86227|ENG|Stewart Downing
+P-34406|ENG|Kieron Dyer
+P-89205|ENG|Les Ferdinand
+P-61105|ENG|Tim Flowers
+P-07038|ENG|Fraser Forster
+P-31138|ENG|Ben Foster
+P-10663|ENG|Robbie Fowler
+P-46540|ENG|Conor Gallagher
+P-84201|ENG|Robert Green
+P-64443|ENG|Joe Hart
+P-08307|ENG|Emile Heskey
+P-15550|ENG|Paul Ince
+P-20585|ENG|Phil Jagielka
+P-59324|ENG|David James
+P-17428|ENG|Jermaine Jenas
+P-06851|ENG|Phil Jones
+P-16073|ENG|Ledley King
+P-22075|ENG|Adam Lallana
+P-70595|ENG|Rickie Lambert
+P-26320|ENG|Graeme Le Saux
+P-43959|ENG|Rob Lee
+P-64864|ENG|Aaron Lennon
+P-63620|ENG|Jesse Lingard
+P-84745|ENG|Ruben Loftus-Cheek
+P-95181|ENG|James Maddison
+P-02465|ENG|Harry Maguire
+P-93674|ENG|Nigel Martyn
+P-69168|ENG|Paul Merson
+P-68164|ENG|Danny Mills
+P-90012|ENG|Mason Mount
+P-36639|ENG|Alex Oxlade-Chamberlain
+P-43567|ENG|Kalvin Phillips
+P-70618|ENG|Jordan Pickford
+P-89070|ENG|Nick Pope
+P-62368|ENG|Aaron Ramsdale
+P-72859|ENG|Paul Robinson
+P-36400|ENG|Luke Shaw
+P-53590|ENG|Trevor Sinclair
+P-87661|ENG|Chris Smalling
+P-79943|ENG|Gareth Southgate
+P-06678|ENG|Daniel Sturridge
+P-41152|ENG|Matthew Upson
+P-74242|ENG|Jamie Vardy
+P-00447|ENG|Darius Vassell
+P-24015|ENG|Theo Walcott
+P-44282|ENG|Stephen Warnock
+P-50943|ENG|Danny Welbeck
+P-50034|ENG|Ben White
+P-39063|ENG|Jack Wilshere
+P-22844|ENG|Callum Wilson
+P-48335|ENG|Shaun Wright-Phillips
+P-09246|ENG|Ashley Young
+P-08700|ESP|Carlos Aguilera
+P-01416|ESP|Jordi Alba
+P-21683|ESP|David Albelda
+P-24647|ESP|Raúl Albiol
+P-00034|ESP|Alfonso
+P-61706|ESP|Guillermo Amor
+P-60583|ESP|Agustín Aranzábal
+P-51443|ESP|Kepa Arrizabalaga
+P-60554|ESP|Iago Aspas
+P-60716|ESP|César Azpilicueta
+P-49008|ESP|Alejandro Balde
+P-23800|ESP|Rubén Baraja
+P-22620|ESP|Iván Campo
+P-98074|ESP|Santi Cazorla
+P-08262|ESP|Albert Celades
+P-95116|ESP|Pedro Contreras
+P-93745|ESP|Joseba Etxeberria
+P-33854|ESP|Ansu Fati
+P-37420|ESP|Eric García
+P-87958|ESP|Hugo Guillamón
+P-73344|ESP|Pablo Ibáñez
+P-70144|ESP|Joaquín
+P-29082|ESP|Juanfran
+P-51440|ESP|Juanito
+P-64962|ESP|Kiko
+P-99025|ESP|Aymeric Laporte
+P-86871|ESP|Marcos Llorente
+P-23336|ESP|Albert Luque
+P-13964|ESP|Antonio López
+P-15314|ESP|Carlos Marchena
+P-37161|ESP|Gaizka Mendieta
+P-57289|ESP|José Molina
+P-11593|ESP|Nacho Monreal
+P-76837|ESP|Álvaro Odriozola
+P-40007|ESP|Dani Olmo
+P-28485|ESP|Mariano Pernía
+P-46898|ESP|Yeremy Pino
+P-75598|ESP|Juan Antonio Pizzi
+P-33433|ESP|David Raya
+P-45039|ESP|Ricardo
+P-00339|ESP|Rodrigo
+P-40852|ESP|Enrique Romero
+P-81427|ESP|Pablo Sarabia
+P-82549|ESP|Marcos Senna
+P-14456|ESP|Sergio
+P-64102|ESP|David Silva
+P-94271|ESP|Unai Simón
+P-30405|ESP|Carlos Soler
+P-92513|ESP|Robert Sánchez
+P-92520|ESP|Thiago
+P-19229|ESP|Curro Torres
+P-31301|ESP|Ferran Torres
+P-16333|ESP|Pau Torres
+P-71130|ESP|Diego Tristán
+P-76612|ESP|Juan Carlos Valerón
+P-68218|ESP|Nico Williams
+P-52217|ESP|David de Gea
+P-24963|ESP|Javier de Pedro
+P-81466|FRA|Alphonse Areola
+P-74952|FRA|Laurent Blanc
+P-63176|FRA|Jean-Alain Boumsong
+P-67867|FRA|Yohan Cabaye
+P-79882|FRA|Rémy Cabella
+P-22876|FRA|Vincent Candela
+P-38004|FRA|Cédric Carrasso
+P-75179|FRA|Lionel Charbonnier
+P-43681|FRA|Pascal Chimbonda
+P-62062|FRA|Philippe Christanval
+P-57021|FRA|Grégory Coupet
+P-43350|FRA|Mathieu Debuchy
+P-51388|FRA|Vikash Dhorasoo
+P-82555|FRA|Abou Diaby
+P-67129|FRA|Lucas Digne
+P-54985|FRA|Bernard Diomède
+P-20754|FRA|Nabil Fekir
+P-42706|FRA|André-Pierre Gignac
+P-72795|FRA|Yoann Gourcuff
+P-31668|FRA|Sidney Govou
+P-32431|FRA|Matteo Guendouzi
+P-17174|FRA|Presnel Kimpembe
+P-91114|FRA|Laurent Koscielny
+P-30371|FRA|Bernard Lama
+P-30652|FRA|Mickaël Landreau
+P-07153|FRA|Thomas Lemar
+P-69594|FRA|Steve Mandanda
+P-08834|FRA|Eliaquim Mangala
+P-98143|FRA|Rio Mavuba
+P-71816|FRA|Benjamin Mendy
+P-57906|FRA|Johan Micoud
+P-13394|FRA|Marc Planus
+P-40789|FRA|Adil Rami
+P-59735|FRA|Ulrich Ramé
+P-01560|FRA|Stéphane Ruffier
+P-21776|FRA|Loïc Rémy
+P-94643|FRA|Anthony Réveillère
+P-69530|FRA|Bacary Sagna
+P-48944|FRA|Louis Saha
+P-71633|FRA|Mamadou Sakho
+P-07089|FRA|William Saliba
+P-45182|FRA|Morgan Schneiderlin
+P-73306|FRA|Djibril Sidibé
+P-71285|FRA|Florian Thauvin
+P-09884|FRA|Jérémy Toulalan
+P-84312|FRA|Mathieu Valbuena
+P-00465|FRA|Jordan Veretout
+P-63370|GHA|Afriyie Acquah
+P-40630|GHA|Stephen Adams
+P-23846|GHA|Otto Addo
+P-77757|GHA|Eric Addo
+P-56284|GHA|Lee Addy
+P-65216|GHA|Dominic Adiyiah
+P-17027|GHA|Sammy Adjei
+P-67189|GHA|Albert Adomah
+P-05368|GHA|Harrison Afful
+P-79898|GHA|Daniel Agyei
+P-89904|GHA|Emmanuel Agyemang-Badu
+P-27915|GHA|Issah Ahmed
+P-29011|GHA|Stephen Ahorlu
+P-79316|GHA|Matthew Amoah
+P-50270|GHA|Anthony Annan
+P-09728|GHA|Stephen Appiah
+P-39956|GHA|Kwadwo Asamoah
+P-48310|GHA|Christian Atsu
+P-79884|GHA|Ibrahim Ayew
+P-31765|GHA|Jordan Ayew
+P-01945|GHA|André Ayew
+P-66316|GHA|Kevin-Prince Boateng
+P-49882|GHA|Derek Boateng
+P-06024|GHA|John Boye
+P-24689|GHA|Fatau Dauda
+P-51458|GHA|Haminu Draman
+P-38556|GHA|Asamoah Gyan
+P-43176|GHA|Samuel Inkoom
+P-81778|GHA|Richard Kingson
+P-84116|GHA|Adam Larsen Kwarasey
+P-93750|GHA|Jonathan Mensah
+P-29967|GHA|John Mensah
+P-00384|GHA|Habib Mohamed
+P-04420|GHA|Daniel Opare
+P-97589|GHA|George Owu
+P-06223|GHA|Quincy Owusu-Abeyie
+P-25083|GHA|John Paintsil
+P-03949|GHA|Emmanuel Pappoe
+P-70474|GHA|Razak Pimpong
+P-23035|GHA|Daniel Quaye
+P-96497|GHA|Mohammed Rabiu
+P-24586|GHA|Hans Sarpei
+P-52437|GHA|Illiasu Shilla
+P-20971|GHA|Rashid Sumaila
+P-98986|GHA|Alex Tachie-Mensah
+P-69641|GHA|Prince Tagoe
+P-56448|GHA|Isaac Vorsah
+P-31813|GHA|Mubarak Wakaso
+P-24388|GHA|Abdul Majeed Waris
+P-21803|HRV|Aljoša Asanović
+P-13539|HRV|Marko Babić
+P-77789|HRV|Milan Badelj
+P-53874|HRV|Boško Balaban
+P-95766|HRV|Borna Barišić
+P-85355|HRV|Slaven Bilić
+P-15428|HRV|Ivan Bošnjak
+P-57763|HRV|Filip Bradarić
+P-99461|HRV|Ante Budimir
+P-99830|HRV|Tomislav Butina
+P-59970|HRV|Joey Didulica
+P-15665|HRV|Eduardo
+P-01196|HRV|Martin Erlić
+P-32870|HRV|Ivo Grbić
+P-94815|HRV|Ivica Ivušić
+P-86466|HRV|Kristijan Jakić
+P-65146|HRV|Tin Jedvaj
+P-65367|HRV|Nikica Jelavić
+P-16484|HRV|Josip Juranović
+P-44332|HRV|Goran Jurić
+P-76217|HRV|Krunoslav Jurčić
+P-12763|HRV|Nikola Kalinić
+P-89113|HRV|Lovre Kalinić
+P-38099|HRV|Ivan Klasnić
+P-84378|HRV|Niko Kovač
+P-61666|HRV|Robert Kovač
+P-07670|HRV|Mateo Kovačić
+P-93377|HRV|Ardian Kozniku
+P-76289|HRV|Niko Kranjčar
+P-43142|HRV|Petar Krpan
+P-52310|HRV|Dražen Ladić
+P-92627|HRV|Jerko Leko
+P-31316|HRV|Ivan Leko
+P-31643|HRV|Marko Livaja
+P-99988|HRV|Dominik Livaković
+P-64353|HRV|Lovro Majer
+P-59881|HRV|Zoran Mamić
+P-18926|HRV|Silvio Marić
+P-96358|HRV|Marjan Mrmić
+P-26942|HRV|Mislav Oršić
+P-89948|HRV|Mario Pašalić
+P-46461|HRV|Bruno Petković
+P-89420|HRV|Josip Pivarić
+P-85818|HRV|Stipe Pletikosa
+P-52946|HRV|Danijel Pranjić
+P-55293|HRV|Milan Rapaić
+P-39138|HRV|Sammir
+P-33855|HRV|Gordon Schildenfeld
+P-37461|HRV|Zvonimir Soldo
+P-84190|HRV|Borna Sosa
+P-97008|HRV|Darijo Srna
+P-75377|HRV|Mario Stanić
+P-91350|HRV|Josip Stanišić
+P-67668|HRV|Luka Sučić
+P-36053|HRV|Mario Tokić
+P-87187|HRV|Stjepan Tomas
+P-94668|HRV|Vladimir Vasilj
+P-96110|HRV|Goran Vlaović
+P-22160|HRV|Nikola Vlašić
+P-91190|HRV|Jurica Vranješ
+P-10638|HRV|Davor Vugrinec
+P-02932|HRV|Ognjen Vukojević
+P-02919|HRV|Oliver Zelenika
+P-57922|HRV|Duje Ćaleta-Car
+P-08916|HRV|Vedran Ćorluka
+P-36689|HRV|Daniel Šarić
+P-31857|HRV|Anthony Šerić
+P-41724|HRV|Dario Šimić
+P-29621|HRV|Josip Šimunić
+P-98512|HRV|Igor Štimac
+P-57417|HRV|Josip Šutalo
+P-70100|HRV|Boris Živković
+P-75462|ITA|Ignazio Abate
+P-81393|ITA|Christian Abbiati
+P-69103|ITA|Marco Amelia
+P-01292|ITA|Alberto Aquilani
+P-16785|ITA|Mario Balotelli
+P-97154|ITA|Simone Barone
+P-36764|ITA|Salvatore Bocchetti
+P-35850|ITA|Antonio Candreva
+P-04221|ITA|Antonio Cassano
+P-39774|ITA|Alessio Cerci
+P-35079|ITA|Enrico Chiesa
+P-15450|ITA|Francesco Coco
+P-98757|ITA|Sandro Cois
+P-54694|ITA|Domenico Criscito
+P-19910|ITA|Morgan De Sanctis
+P-67615|ITA|Mattia De Sciglio
+P-17035|ITA|Marco Delvecchio
+P-42659|ITA|Luigi Di Biagio
+P-07951|ITA|Roberto Di Matteo
+P-75306|ITA|Antonio Di Natale
+P-68818|ITA|Cristiano Doni
+P-11109|ITA|Christian Maggio
+P-30116|ITA|Federico Marchetti
+P-01311|ITA|Vincenzo Montella
+P-37678|ITA|Riccardo Montolivo
+P-69680|ITA|Francesco Moriero
+P-32717|ITA|Thiago Motta
+P-73649|ITA|Gabriel Paletta
+P-06005|ITA|Angelo Palombo
+P-61270|ITA|Marco Parolo
+P-27627|ITA|Giampaolo Pazzini
+P-47246|ITA|Simone Pepe
+P-60769|ITA|Mattia Perin
+P-01045|ITA|Fabio Quagliarella
+P-60016|ITA|Salvatore Sirigu
+P-53723|ITA|Francesco Toldo
+P-26847|ITA|Damiano Tommasi
+P-14267|ITA|Cristian Zaccardo
+P-57378|ITA|Cristiano Zanetti
+P-26616|KOR|Jung-hwan Ahn
+P-89943|KOR|Ji-hoon Baek
+P-39884|KOR|Du-ri Cha
+P-55485|KOR|Won-hee Cho
+P-16580|KOR|Yong-hyung Cho
+P-20248|KOR|Jae-jin Cho
+P-17666|KOR|Sung-yong Choi
+P-37114|KOR|Tae-uk Choi
+P-72495|KOR|Yong-soo Choi
+P-07865|KOR|Jin-cheul Choi
+P-42690|KOR|Eun-sung Choi
+P-04977|KOR|Kyung-ho Chung
+P-26659|KOR|Young-min Hyun
+P-75418|KOR|Dae-il Jang
+P-64908|KOR|Hyung-seok Jang
+P-88939|KOR|Sung-ryong Jung
+P-15739|KOR|Min-soo Kang
+P-48433|KOR|Sung-yueng Ki
+P-96457|KOR|Hyung-il Kim
+P-61550|KOR|Dong-jin Kim
+P-56299|KOR|Sang-sik Kim
+P-76780|KOR|Jin-kyu Kim
+P-16139|KOR|Bo-kyung Kim
+P-08539|KOR|Young-kwang Kim
+P-84722|KOR|Byung-ji Kim
+P-54653|KOR|Do-keun Kim
+P-50318|KOR|Yong-dae Kim
+P-65040|KOR|Do-heon Kim
+P-94594|KOR|Young-chul Kim
+P-47942|KOR|Jung-woo Kim
+P-51785|KOR|Nam-il Kim
+P-02853|KOR|Do-hoon Kim
+P-96267|KOR|Tae-young Kim
+P-30708|KOR|Jae-sung Kim
+P-64624|KOR|Jong-soo Ko
+P-07494|KOR|Jung-soo Lee
+P-65241|KOR|Lim-saeng Lee
+P-60562|KOR|Eul-yong Lee
+P-46519|KOR|Young-pyo Lee
+P-47809|KOR|Seung-yeoul Lee
+P-92775|KOR|Ho Lee
+P-22338|KOR|Chun-soo Lee
+P-66219|KOR|Min-sung Lee
+P-40927|KOR|Chung-yong Lee
+P-54130|KOR|Sang-hun Lee
+P-85453|KOR|Dong-gook Lee
+P-61649|KOR|Beom-seok Oh
+P-06608|KOR|Chu-young Park
+P-56801|KOR|Dong-myung Seo
+P-56626|KOR|Ki-hyeon Seol
+P-83544|KOR|Chong-gug Song
+P-32822|KOR|Ki-hun Yeom
+P-75255|KOR|Sang-chul Yoo
+P-68095|KOR|Jong-hwan Yoon
+P-48295|MAR|Zakaria Aboukhlal
+P-51300|MAR|Lahcen Abrami
+P-47490|MAR|Nayef Aguerd
+P-23330|MAR|Selim Amallah
+P-71023|MAR|Sofyan Amrabat
+P-37696|MAR|Nordin Amrabat
+P-28649|MAR|Gharib Amzine
+P-91543|MAR|Yahia Attiyat Allah
+P-58822|MAR|Youssef Aït Bennasser
+P-87059|MAR|Salaheddine Bassir
+P-64125|MAR|Younès Belhanda
+P-53270|MAR|Medhi Benatia
+P-00597|MAR|Badr Benoun
+P-20094|MAR|Driss Benzekri
+P-59033|MAR|Sofiane Boufal
+P-60872|MAR|Aziz Bouhaddouz
+P-46553|MAR|Mbark Boussoufa
+P-15199|MAR|Khalid Boutaïb
+P-54137|MAR|Mehdi Carcela
+P-89078|MAR|Mustapha Chadili
+P-87409|MAR|Ilias Chair
+P-05216|MAR|Walid Cheddira
+P-76158|MAR|Saïd Chiba
+P-78077|MAR|Youssef Chippo
+P-52013|MAR|Achraf Dari
+P-98153|MAR|Nabil Dirar
+P-62364|MAR|Karim El Ahmadi
+P-62026|MAR|Abdelkader El Brazi
+P-46107|MAR|Ayoub El Kaabi
+P-80656|MAR|Bilal El Khannous
+P-14026|MAR|Jawad El Yamiq
+P-80057|MAR|Ali Elkhattabi
+P-42517|MAR|Youssef En-Nesyri
+P-21052|MAR|Abde Ezzalzouli
+P-46039|MAR|Fayçal Fajr
+P-14349|MAR|Abdeljalil Hadda
+P-90423|MAR|Abderrazak Hamdallah
+P-87199|MAR|Amine Harit
+P-86644|MAR|Yahya Jabrane
+P-09614|MAR|Noussair Mazraoui
+P-54550|MAR|Hamza Mendyl
+P-15566|MAR|Munir Mohamedi
+P-56643|MAR|Abderrahim Ouakili
+P-40619|MAR|Azzedine Ounahi
+P-03706|MAR|Rachid Rokki
+P-66082|MAR|Youssef Rossi
+P-16954|MAR|Abdelilah Saber
+P-05265|MAR|Abdelhamid Sabiri
+P-26068|MAR|Romain Saïss
+P-32237|MAR|Jamal Sellami
+P-88869|MAR|Ahmed Reda Tagnaouti
+P-94093|MAR|Anass Zaroury
+P-99089|MAR|Manuel da Costa
+P-40312|MEX|Andrés Guardado
+P-80826|MEX|Guillermo Ochoa
+P-75724|NGA|Shehu Abdullahi
+P-42799|NGA|Dele Adeleye
+P-55727|NGA|Rabiu Afolabi
+P-53035|NGA|Chigozie Agbim
+P-74228|NGA|Julius Aghahowa
+P-73175|NGA|Dele Aiyenugba
+P-83020|NGA|Daniel Akpeyi
+P-48288|NGA|Benedict Akwuegbu
+P-22192|NGA|Efe Ambrose
+P-03886|NGA|Shola Ameobi
+P-27669|NGA|Chidozie Awaziem
+P-78347|NGA|Ramon Azeez
+P-02360|NGA|Tijani Babangida
+P-66596|NGA|Michael Babatunde
+P-91148|NGA|Celestine Babayaro
+P-65978|NGA|Leon Balogun
+P-35031|NGA|Abiodun Baruwa
+P-03331|NGA|Justice Christopher
+P-12630|NGA|Tyronne Ebuehi
+P-45065|NGA|Elderson Echiéjilé
+P-40374|NGA|Azubuike Egwuekwe
+P-47983|NGA|Austin Ejide
+P-22123|NGA|Eric Ejiofor
+P-95567|NGA|Emmanuel Emenike
+P-39249|NGA|Vincent Enyeama
+P-62455|NGA|Peter Etebo
+P-96711|NGA|Dickson Etuhu
+P-51723|NGA|Ikechukwu Ezenwa
+P-94823|NGA|Reuben Gabriel
+P-98826|NGA|Lukman Haruna
+P-39485|NGA|Brown Ideye
+P-01347|NGA|Brian Idowu
+P-14651|NGA|Odion Ighalo
+P-08253|NGA|Kelechi Iheanacho
+P-27347|NGA|Pius Ikedia
+P-40578|NGA|Alex Iwobi
+P-34118|NGA|Sani Kaita
+P-76542|NGA|Garba Lawal
+P-52510|NGA|Obafemi Martins
+P-26900|NGA|Victor Moses
+P-19591|NGA|Ahmed Musa
+P-61893|NGA|Wilfred Ndidi
+P-55236|NGA|Simeon Nwankwo
+P-97867|NGA|Uche Nwofor
+P-62448|NGA|Chinedu Obasi
+P-33715|NGA|Joel Obi
+P-04567|NGA|Victor Obinna
+P-52108|NGA|James Obiorah
+P-14952|NGA|Godfrey Oboabona
+P-70006|NGA|Peter Odemwingie
+P-65327|NGA|Chidi Odiah
+P-37901|NGA|Kunle Odunlami
+P-48550|NGA|Bartholomew Ogbeche
+P-40341|NGA|John Ogu
+P-19121|NGA|Isaac Okoronkwo
+P-79585|NGA|Willy Okpara
+P-71220|NGA|Godwin Okpara
+P-98806|NGA|Kenneth Omeruo
+P-94774|NGA|Ogenyi Onazi
+P-52099|NGA|Femi Opabunmi
+P-01364|NGA|Mobi Oparaku
+P-89782|NGA|Wilson Oruma
+P-79048|NGA|Juwon Oshaniwa
+P-24770|NGA|Danny Shittu
+P-22507|NGA|Ike Shorunmu
+P-06935|NGA|Efe Sodje
+P-51705|NGA|Taye Taiwo
+P-15870|NGA|William Troost-Ekong
+P-98626|NGA|Kalu Uche
+P-15097|NGA|Michael Uchebo
+P-03741|NGA|Ifeanyi Udeze
+P-64893|NGA|John Utaka
+P-28119|NGA|Ejike Uzoenyi
+P-07594|NGA|Francis Uzoho
+P-79669|NGA|Taribo West
+P-98373|NGA|Yakubu
+P-64104|NGA|Joseph Yobo
+P-04333|NGA|Ayila Yussuf
+P-17967|NLD|Ryan Babel
+P-10326|NLD|Steven Berghuis
+P-44799|NLD|Steven Bergwijn
+P-15282|NLD|Justin Bijlow
+P-39861|NLD|Daley Blind
+P-66870|NLD|Sander Boschker
+P-46895|NLD|Khalid Boulahrouz
+P-68395|NLD|Jasper Cillessen
+P-27533|NLD|Jordy Clasie
+P-42224|NLD|Phillip Cocu
+P-20877|NLD|Leroy Fer
+P-70227|NLD|Jeremie Frimpong
+P-30015|NLD|Jimmy Floyd Hasselbaink
+P-55197|NLD|Ruud Hesp
+P-64344|NLD|Klaas-Jan Huntelaar
+P-81414|NLD|Kew Jaliens
+P-21790|NLD|Daryl Janmaat
+P-57087|NLD|Vincent Janssen
+P-42078|NLD|Davy Klaassen
+P-70414|NLD|Terence Kongolo
+P-35705|NLD|Teun Koopmeiners
+P-65694|NLD|Jan Kromkamp
+P-42745|NLD|Tim Krul
+P-18113|NLD|Denny Landzaat
+P-57903|NLD|Noa Lang
+P-62029|NLD|Jeremain Lens
+P-66598|NLD|Hedwiges Maduro
+P-78630|NLD|Tyrell Malacia
+P-69329|NLD|Bruno Martins Indi
+P-82000|NLD|Andries Noppert
+P-96131|NLD|André Ooijer
+P-18921|NLD|Remko Pasveer
+P-03298|NLD|Stijn Schaars
+P-34458|NLD|Xavi Simons
+P-95763|NLD|Kenneth Taylor
+P-74111|NLD|Jurriën Timber
+P-03558|NLD|Henk Timmer
+P-91472|NLD|Joël Veltman
+P-63856|NLD|Jan Vennegoor of Hesselink
+P-26380|NLD|Paul Verhaegh
+P-21798|NLD|Ron Vlaar
+P-32095|NLD|Michel Vorm
+P-95036|NLD|Wout Weghorst
+P-13377|NLD|Tim de Cler
+P-93667|NLD|Jonathan de Guzmán
+P-64551|NLD|Luuk de Jong
+P-55965|NLD|Marten de Roon
+P-70280|NLD|Stefan de Vrij
+P-93449|NLD|Demy de Zeeuw
+P-88340|NLD|Pierre van Hooijdonk
+P-03013|NLD|Ruud van Nistelrooy
+P-75772|PRT|André Almeida
+P-14428|PRT|Hugo Almeida
+P-76960|PRT|Bruno Alves
+P-11629|PRT|Rúben Amorim
+P-82191|PRT|Jorge Andrade
+P-06162|PRT|Pedro Barbosa
+P-91925|PRT|Paulo Bento
+P-37140|PRT|Beto
+P-27059|PRT|Beto
+P-68375|PRT|Luís Boa Morte
+P-16736|PRT|João Cancelo
+P-48643|PRT|Marco Caneira
+P-07559|PRT|Capucho
+P-44689|PRT|William Carvalho
+P-88800|PRT|Sérgio Conceição
+P-54827|PRT|Diogo Costa
+P-23927|PRT|Fernando Couto
+P-46272|PRT|Cédric
+P-41603|PRT|Diogo Dalot
+P-95172|PRT|Danny
+P-08069|PRT|Duda
+P-20926|PRT|Eder
+P-37990|PRT|Eduardo
+P-06977|PRT|Daniel Fernandes
+P-99900|PRT|Manuel Fernandes
+P-18665|PRT|José Fonte
+P-11424|PRT|Nuno Frechaut
+P-17931|PRT|João Félix
+P-57631|PRT|Nuno Gomes
+P-65199|PRT|Gonçalo Guedes
+P-67578|PRT|Raphaël Guerreiro
+P-05304|PRT|Ricardo Horta
+P-61068|PRT|Rui Jorge
+P-28404|PRT|Liédson
+P-93586|PRT|Anthony Lopes
+P-63951|PRT|Gelson Martins
+P-53943|PRT|Fernando Meira
+P-88101|PRT|Raul Meireles
+P-87003|PRT|Nuno Mendes
+P-28497|PRT|Miguel
+P-89743|PRT|João Moutinho
+P-31133|PRT|João Mário
+P-05377|PRT|Luís Neto
+P-22983|PRT|Rúben Neves
+P-57759|PRT|Matheus Nunes
+P-78787|PRT|Otávio
+P-46583|PRT|João Palhinha
+P-72028|PRT|Rui Patrício
+P-57982|PRT|Pauleta
+P-35081|PRT|Ricardo Pereira
+P-98929|PRT|Danilo Pereira
+P-67041|PRT|Nélson Pereira
+P-17971|PRT|João Pereira
+P-92307|PRT|Petit
+P-70698|PRT|João Pinto
+P-83900|PRT|Hélder Postiga
+P-95670|PRT|Ricardo Quaresma
+P-86534|PRT|Quim
+P-41647|PRT|Gonçalo Ramos
+P-45712|PRT|Ricardo
+P-04367|PRT|Rolando
+P-00521|PRT|Mário Rui
+P-55784|PRT|Paulo Santos
+P-72710|PRT|Adrien Silva
+P-05289|PRT|António Silva
+P-33280|PRT|André Silva
+P-82734|PRT|Rafa Silva
+P-32279|PRT|Simão
+P-85204|PRT|José Sá
+P-25600|PRT|Silvestre Varela
+P-98693|PRT|Miguel Veloso
+P-83823|PRT|Hugo Viana
+P-23990|PRT|Vieirinha
+P-89266|PRT|Vitinha
+P-39199|PRT|Abel Xavier
+P-16780|ROU|Liviu Ciobotariu
+P-43055|ROU|Gheorghe Craioveanu
+P-06854|ROU|Anton Doboș
+P-65453|ROU|Cristian Dulca
+P-48638|ROU|Iulian Filipescu
+P-70680|ROU|Adrian Ilie
+P-66588|ROU|Lucian Marinescu
+P-27750|ROU|Radu Niculescu
+P-53546|ROU|Gabriel Popescu
+P-75836|ROU|Dumitru Stângaciu
+P-95453|RUS|Igor Akinfeev
+P-43675|RUS|Denis Cheryshev
+P-69896|RUS|Alan Dzagoev
+P-37840|RUS|Artem Dzyuba
+P-17872|RUS|Mário Fernandes
+P-33785|RUS|Vladimir Gabulov
+P-20571|RUS|Yury Gazinsky
+P-22778|RUS|Aleksandr Golovin
+P-11462|RUS|Vladimir Granat
+P-79763|RUS|Sergei Ignashevich
+P-47851|RUS|Fyodor Kudryashov
+P-82792|RUS|Ilya Kutepov
+P-17415|RUS|Daler Kuzyayev
+P-37265|RUS|Andrey Lunyov
+P-23559|RUS|Anton Miranchuk
+P-11064|RUS|Aleksei Miranchuk
+P-06356|RUS|Aleksandr Samedov
+P-36787|RUS|Andrei Semyonov
+P-64597|RUS|Igor Smolnikov
+P-18383|RUS|Fyodor Smolov
+P-20163|RUS|Aleksandr Yerokhin
+P-51786|RUS|Yuri Zhirkov
+P-05922|RUS|Roman Zobnin
+P-73110|SAU|Hussein Abdulghani
+P-77199|SAU|Hussein Abdulghani
+P-08125|SAU|Saud Abdulhamid
+P-76864|SAU|Nawaf Al-Abed
+P-45581|SAU|Abdulrahman Al-Aboud
+P-12335|SAU|Abdulelah Al-Amri
+P-45367|SAU|Tisir Al-Antaif
+P-67035|SAU|Nawaf Al-Aqidi
+P-58952|SAU|Ahmed Al-Bahri
+P-60833|SAU|Mohamed Al-Bishi
+P-94422|SAU|Mohammed Al-Breik
+P-87284|SAU|Ali Al-Bulaihi
+P-89845|SAU|Firas Al-Buraikan
+P-10907|SAU|Nasser Al-Dawsari
+P-70583|SAU|Salem Al-Dawsari
+P-53448|SAU|Ahmed Al-Dokhi
+P-17941|SAU|Khamis Al-Dosari
+P-85019|SAU|Obeid Al-Dosari
+P-93688|SAU|Salman Al-Faraj
+P-00585|SAU|Omar Al-Ghamdi
+P-06789|SAU|Sultan Al-Ghannam
+P-91707|SAU|Mansoor Al-Harbi
+P-81321|SAU|Ibrahim Al-Harbi
+P-16522|SAU|Mohsin Al-Harthi
+P-88984|SAU|Saad Al-Harthi
+P-45413|SAU|Ali Al-Hassan
+P-55518|SAU|Mohammed Al-Jahani
+P-28313|SAU|Abdulaziz Al-Janoubi
+P-66636|SAU|Taisir Al-Jassim
+P-26868|SAU|Abdullah Al-Jumaan
+P-82537|SAU|Abdullah Al-Khaibari
+P-04434|SAU|Abdulmalek Al-Khaibri
+P-76946|SAU|Abdulaziz Al-Khathran
+P-29107|SAU|Mohammed Al-Khojali
+P-20216|SAU|Abdulellah Al-Malki
+P-61496|SAU|Abdullah Al-Mayouf
+P-77853|SAU|Housain Al-Mogahwi
+P-48279|SAU|Hamad Al-Montashari
+P-40442|SAU|Yasser Al-Mosailem
+P-24301|SAU|Fahad Al-Muwallad
+P-87569|SAU|Sami Al-Najei
+P-85438|SAU|Mohammed Al-Owais
+P-84226|SAU|Naif Al-Qadi
+P-87114|SAU|Yasser Al-Qahtani
+P-06659|SAU|Mohammed Al-Rubaie
+P-83734|SAU|Mohammad Al-Sahlawi
+P-92151|SAU|Ibrahim Al-Shahrani
+P-45457|SAU|Yasser Al-Shahrani
+P-11262|SAU|Mohammad Al-Shalhoub
+P-37308|SAU|Saleh Al-Shehri
+P-48349|SAU|Fouzi Al-Shehri
+P-23568|SAU|Yahya Al-Shehri
+P-93173|SAU|Hassan Al-Tambakti
+P-20886|SAU|Nawaf Al-Temyat
+P-12568|SAU|Mansour Al-Thagafi
+P-30161|SAU|Yousuf Al-Thunayan
+P-75813|SAU|Abdullah Al-Waked
+P-00683|SAU|Al Hasan Al-Yami
+P-21753|SAU|Mohammed Ameen
+P-40487|SAU|Haitham Asiri
+P-36522|SAU|Muhannad Assiri
+P-66016|SAU|Khaled Aziz
+P-84563|SAU|Hattan Bahebri
+P-31004|SAU|Omar Hawsawi
+P-95345|SAU|Osama Hawsawi
+P-30394|SAU|Motaz Hawsawi
+P-91268|SAU|Mohamed Kanno
+P-50973|SAU|Saud Kariri
+P-95677|SAU|Mohammad Khouja
+P-20388|SAU|Abdullah Madu
+P-33367|SAU|Mohammad Massad
+P-69611|SAU|Malek Mouath
+P-90435|SAU|Mohammed Noor
+P-99177|SAU|Abdullah Otayf
+P-06750|SAU|Riyadh Sharahili
+P-90725|SAU|Redha Tukar
+P-99270|SAU|Mabrouk Zaid
+P-35489|SEN|Habib Beye
+P-01462|SEN|Henri Camara
+P-05029|SEN|Souleymane Camara
+P-58665|SEN|Kalidou Cissokho
+P-95302|SEN|Aliou Cissé
+P-37924|SEN|Ferdinand Coly
+P-27229|SEN|Omar Daf
+P-02673|SEN|Omar Diallo
+P-35019|SEN|Salif Diao
+P-16046|SEN|Lamine Diatta
+P-82212|SEN|Papa Bouba Diop
+P-84943|SEN|El Hadji Diouf
+P-62977|SEN|Khalilou Fadiga
+P-42976|SEN|Amdy Faye
+P-50303|SEN|Pape Malick Diop
+P-64668|SEN|Makhtar N'Diaye
+P-62939|SEN|Moussa N'Diaye
+P-35460|SEN|Sylvain N'Diaye
+P-82601|SEN|Alassane N'Dour
+P-81968|SEN|Pape Sarr
+P-91308|SEN|Pape Thiaw
+P-75923|SEN|Amara Traoré
+P-30993|SWE|Ludwig Augustinsson
+P-82967|SWE|Marcus Berg
+P-78477|SWE|Viktor Claesson
+P-73907|SWE|Jimmy Durmaz
+P-20019|SWE|Albin Ekdal
+P-04686|SWE|Emil Forsberg
+P-34998|SWE|Andreas Granqvist
+P-89934|SWE|John Guidetti
+P-42015|SWE|Filip Helander
+P-15887|SWE|Oscar Hiljemark
+P-46506|SWE|Pontus Jansson
+P-46890|SWE|Karl-Johan Johnsson
+P-08312|SWE|Isaac Kiese Thelin
+P-28801|SWE|Emil Krafth
+P-74946|SWE|Sebastian Larsson
+P-31431|SWE|Victor Lindelöf
+P-29833|SWE|Mikael Lustig
+P-08714|SWE|Kristoffer Nordfeldt
+P-26943|SWE|Robin Olsen
+P-90129|SWE|Martin Olsson
+P-24357|SWE|Marcus Rohdén
+P-19366|SWE|Gustav Svensson
+P-10221|SWE|Ola Toivonen
+P-40581|TUN|Anis Ayari
+P-10094|TUN|Khaled Badra
+P-22242|TUN|Zoubeir Baya
+P-58954|TUN|Hassen Bejaoui
+P-49604|TUN|Faysal Ben Ahmed
+P-54768|TUN|Chaouki Ben Saada
+P-88921|TUN|Mehdi Ben Slimane
+P-90120|TUN|Imed Ben Younes
+P-99847|TUN|Selim Benachour
+P-89154|TUN|Riadh Bouazizi
+P-25497|TUN|Mounir Boukadida
+P-52641|TUN|Ali Boumnijel
+P-87702|TUN|Raouf Bouzaiene
+P-63068|TUN|Adel Chedli
+P-28789|TUN|Sirajeddine Chihi
+P-27618|TUN|Yassine Chikhaoui
+P-48736|TUN|Ferid Chouchane
+P-44011|TUN|José Clayton
+P-23480|TUN|Chokri El Ouaer
+P-56293|TUN|Ahmed El-Jaouachi
+P-31347|TUN|Karim Essediri
+P-15858|TUN|Hassen Gabsi
+P-41620|TUN|Kaies Ghodhbane
+P-33293|TUN|Haykel Guemamdia
+P-72448|TUN|Karim Haggui
+P-16851|TUN|Sabri Jaballah
+P-00640|TUN|Ziad Jaziri
+P-76769|TUN|Radhi Jaïdi
+P-89922|TUN|Riadh Jelassi
+P-69430|TUN|David Jemmali
+P-79202|TUN|Hamdi Kasraoui
+P-55391|TUN|Hamdi Marzouki
+P-00668|TUN|Mourad Melki
+P-91602|TUN|Sofiane Melliti
+P-72780|TUN|Imed Mhedhebi
+P-44407|TUN|Mohamed Mkacher
+P-32986|TUN|Emir Mkademi
+P-61850|TUN|Jawhar Mnari
+P-69034|TUN|Mehdi Nafti
+P-61670|TUN|Hamed Namouchi
+P-66577|TUN|Adel Nefzi
+P-08678|TUN|Karim Saidi
+P-12180|TUN|Radhouane Salhi
+P-09041|TUN|Francileudo Santos
+P-15025|TUN|Adel Sellimi
+P-58711|TUN|Skander Souayah
+P-47506|TUN|Tarek Thabet
+P-73316|TUN|Sami Trabelsi
+P-82870|TUN|Hatem Trabelsi
+P-96363|TUN|Alaeddine Yahia
+P-63935|TUN|Ali Zitouni
+P-79130|TUR|Fatih Akyel
+P-52032|TUR|Emre Aşık
+P-21108|TUR|Yıldıray Baştürk
+P-46497|TUR|Emre Belözoğlu
+P-31907|TUR|Okan Buruk
+P-31566|TUR|Ümit Davala
+P-58069|TUR|Abdullah Ercan
+P-37782|TUR|Arif Erdem
+P-16859|TUR|Tayfur Havutçu
+P-59617|TUR|Muzzy Izzet
+P-98680|TUR|Nihat Kahveci
+P-63089|TUR|Tugay Kerimoğlu
+P-94559|TUR|Bülent Korkmaz
+P-41133|TUR|İlhan Mansız
+P-65298|TUR|Ergün Penbe
+P-61478|TUR|Rüştü Reçber
+P-49485|TUR|Ömer Çatkıç
+P-44850|TUR|Alpay Özalan
+P-04455|TUR|Ümit Özat
+P-05081|TUR|Zafer Özgültekin
+P-78533|TUR|Hakan Ünsal
+P-23883|TUR|Hasan Şaş
+P-58212|TUR|Hakan Şükür
+P-64372|URY|Sebastián Abreu
+P-89869|URY|Ronald Araújo
+P-80668|URY|Egidio Arévalo Ríos
+P-58791|URY|Rodrigo Bentancur
+P-87205|URY|Joe Bizera
+P-46020|URY|Martín Campaña
+P-24667|URY|Agustín Canobbio
+P-91888|URY|Fabián Carini
+P-91301|URY|Juan Castillo
+P-20051|URY|Sebastián Coates
+P-62594|URY|Giorgian De Arrascaeta
+P-50741|URY|Sebastián Eguren
+P-54429|URY|Federico Elduayen
+P-99965|URY|Álvaro Fernández
+P-88751|URY|Sebastián Fernández
+P-86087|URY|Diego Forlán
+P-95196|URY|Jorge Fucile
+P-76244|URY|Pablo García
+P-78735|URY|Walter Gargano
+P-21702|URY|Álvaro González
+P-46031|URY|Ignacio González
+P-45056|URY|Gianni Guigou
+P-70671|URY|Maxi Gómez
+P-94155|URY|Abel Hernández
+P-83211|URY|Diego Laxalt
+P-31352|URY|Alejandro Lembo
+P-36662|URY|Nicolás Lodeiro
+P-89878|URY|Diego Lugano
+P-95938|URY|Federico Magallanes
+P-48761|URY|Richard Morales
+P-79836|URY|Gustavo Munúa
+P-10014|URY|Fernando Muslera
+P-18230|URY|Rodrigo Muñoz
+P-17321|URY|Gustavo Méndez
+P-85532|URY|Nahitan Nández
+P-18885|URY|Darwin Núñez
+P-30094|URY|Fabián O'Neill
+P-90796|URY|Mathías Olivera
+P-22489|URY|Nicolás Olivera
+P-95062|URY|Facundo Pellistri
+P-11075|URY|Álvaro Pereira
+P-41944|URY|Maxi Pereira
+P-53254|URY|Diego Pérez
+P-79723|URY|Gastón Ramírez
+P-66684|URY|Álvaro Recoba
+P-46554|URY|Mario Regueiro
+P-00232|URY|Sergio Rochet
+P-55597|URY|José Luis Rodríguez
+P-49428|URY|Darío Rodríguez
+P-03231|URY|Marcelo Romero
+P-87316|URY|Andrés Scotti
+P-39902|URY|Gastón Silva
+P-59802|URY|Martín Silva
+P-74863|URY|Darío Silva
+P-03960|URY|Gonzalo Sorondo
+P-19914|URY|Sebastián Sosa
+P-25776|URY|Cristhian Stuani
+P-13847|URY|Carlos Sánchez
+P-47386|URY|Lucas Torreira
+P-68430|URY|Facundo Torres
+P-94091|URY|Manuel Ugarte
+P-33500|URY|Jonathan Urretaviscaya
+P-41694|URY|Gustavo Varela
+P-78932|URY|Guillermo Varela
+P-46785|URY|Matías Vecino
+P-92649|URY|Mauricio Victorino
+P-18564|URY|Matías Viña
+P-86878|URY|Nicolás de la Cruz
+P-97963|URY|Gonzalo de los Santos
+P-72797|USA|Jeff Agoos
+P-59999|USA|Chris Albright
+P-07475|USA|Jozy Altidore
+P-91976|USA|DaMarcus Beasley
+P-09888|USA|Gregg Berhalter
+P-12548|USA|Carlos Bocanegra
+P-56817|USA|Jonathan Bornstein
+P-97258|USA|Michael Bradley
+P-15091|USA|Edson Buddle
+P-77238|USA|Steve Cherundolo
+P-71080|USA|Brian Ching
+P-64198|USA|Ricardo Clark
+P-83190|USA|Jimmy Conrad
+P-42535|USA|Bobby Convey
+P-78640|USA|Jay DeMerit
+P-18539|USA|Chad Deering
+P-18672|USA|Clint Dempsey
+P-05728|USA|Landon Donovan
+P-48341|USA|Maurice Edu
+P-09461|USA|Benny Feilhaber
+P-36179|USA|Robbie Findley
+P-72039|USA|Herculez Gomez
+P-01212|USA|Clarence Goodson
+P-58476|USA|Brad Guzan
+P-92673|USA|Marcus Hahnemann
+P-34695|USA|Frankie Hejduk
+P-88370|USA|Stuart Holden
+P-50522|USA|Tim Howard
+P-80859|USA|Eddie Johnson
+P-97784|USA|Eddie Lewis
+P-49219|USA|Carlos Llamosa
+P-36074|USA|Brian Maisonneuve
+P-58649|USA|Pablo Mastroeni
+P-38074|USA|Clint Mathis
+P-60597|USA|Brian McBride
+P-88043|USA|John O'Brien
+P-60945|USA|Ben Olsen
+P-87765|USA|Oguchi Onyewu
+P-02842|USA|Eddie Pope
+P-25779|USA|Predrag Radosavljević
+P-68379|USA|David Regis
+P-92064|USA|Tony Sanneh
+P-71113|USA|Jonathan Spector
+P-55538|USA|José Francisco Torres
+P-78068|USA|Josh Wolff
+P-15547|YUG|Branko Brnović
+P-57880|YUG|Ljubinko Drulović
+P-40701|YUG|Dejan Govedarica
+P-27338|YUG|Slaviša Jokanović
+P-43392|YUG|Slobodan Komljenović
+P-33080|YUG|Darko Kovačević
+P-69448|YUG|Ivica Kralj
+P-48250|YUG|Savo Milošević
+P-12268|YUG|Zoran Mirković
+P-85140|YUG|Perica Ognjenović
+P-11960|YUG|Željko Petrović
+P-35544|YUG|Niša Saveljić
+P-45323|YUG|Miroslav Stević
+P-80898|YUG|Goran Đorović
+P-72969|YUG|Miroslav Đukić
+P-53430|ARE|Fahad Abdulrahman
+P-17103|ARE|Abdulrahman Al-Haddad
+P-11032|ARE|Adnan Al-Talyani
+P-17799|ARE|Zuhair Bakheet
+P-36777|ARE|Mubarak Ghanim
+P-23285|ARE|Khalil Ghanim
+P-16899|ARE|Hussain Ghuloum
+P-42685|ARE|Abdulqadir Hassan
+P-50458|ARE|Yousuf Hussain
+P-90097|ARE|Khalid Ismaïl
+P-56780|ARE|Ali Thani Jumaa
+P-27017|ARE|Fahad Khamees
+P-77154|ARE|Nasir Khamees
+P-99834|ARE|Ibrahim Meer
+P-27206|ARE|Eissa Meer
+P-91477|ARE|Abdulaziz Mohamed
+P-35056|ARE|Abdulrahman Mohamed
+P-96771|ARE|Hassan Mohamed
+P-95570|ARE|Abdullah Musa
+P-00234|ARE|Muhsin Musabah
+P-16918|ARE|Mohamed Salim
+P-52938|ARE|Abdualla Sultan
+P-07031|ARG|Abel Balbo
+P-06684|ARG|Edgardo Bauza
+P-55916|ARG|Jorge Borelli
+P-15632|ARG|Fabián Cancelarich
+P-28816|ARG|José Chamot
+P-41616|ARG|Fernando Cáceres
+P-69852|ARG|Hernán Díaz
+P-64003|ARG|Néstor Fabbri
+P-93732|ARG|Alejandro Mancuso
+P-16961|ARG|Ramón Medina Bello
+P-00065|ARG|Ariel Ortega
+P-15142|ARG|Hugo Pérez
+P-27629|ARG|Leonardo Rodríguez
+P-87458|ARG|Norberto Scoponi
+P-06370|ARG|Diego Simeone
+P-53817|ARG|Sergio Vázquez
+P-22801|AUT|Ernst Aigner
+P-67942|AUT|Peter Artner
+P-11735|AUT|Michael Baur
+P-16277|AUT|Gerald Glatzmayer
+P-46897|AUT|Andi Herzog
+P-06378|AUT|Alfred Hörtnagl
+P-68014|AUT|Christian Keglevits
+P-91339|AUT|Otto Konrad
+P-80487|AUT|Michael Konsel
+P-52446|AUT|Manfred Linzmaier
+P-07284|AUT|Andreas Ogris
+P-57468|AUT|Robert Pecl
+P-46006|AUT|Anton Pfeffer
+P-67358|AUT|Heimo Pfeifenberger
+P-16938|AUT|Toni Polster
+P-67426|AUT|Andreas Reisinger
+P-79953|AUT|Gerhard Rodax
+P-76884|AUT|Kurt Russ
+P-77198|AUT|Peter Schöttel
+P-57682|AUT|Michael Streiter
+P-69681|AUT|Manfred Zsak
+P-43307|BEL|Philippe Albert
+P-33197|BEL|Danny Boffin
+P-10129|BEL|Vital Borkelmans
+P-11791|BEL|Jean-François De Sart
+P-72937|BEL|Filip De Wilde
+P-28230|BEL|Marc Degryse
+P-35636|BEL|Marc Emmers
+P-72736|BEL|Dirk Medved
+P-51869|BEL|Luc Nilis
+P-37431|BEL|Pascal Plovie
+P-00531|BEL|Michel Preud'homme
+P-48499|BEL|Pascal Renier
+P-61846|BEL|Rudi Smidts
+P-33618|BEL|Lorenzo Staelens
+P-03300|BEL|Marc Van Der Linden
+P-71601|BEL|Eric Van Meir
+P-54160|BEL|Dany Verlinden
+P-51650|BEL|Bruno Versavel
+P-83199|BEL|Josip Weber
+P-69659|BEL|Marc Wilmots
+P-90526|BEL|Stéphane van der Heyden
+P-96679|BGR|Petar Aleksandrov
+P-33264|BGR|Ivaylo Andonov
+P-22562|BGR|Krasimir Balakov
+P-40793|BGR|Daniel Borimirov
+P-67920|BGR|Boncho Genchev
+P-36178|BGR|Georgi Georgiev
+P-07517|BGR|Petar Hubchev
+P-40749|BGR|Nikolay Iliev
+P-47670|BGR|Trifon Ivanov
+P-48990|BGR|Iliyan Kiryakov
+P-23633|BGR|Emil Kostadinov
+P-88510|BGR|Emil Kremenliev
+P-19567|BGR|Yordan Letchkov
+P-24215|BGR|Petar Mihtarski
+P-31099|BGR|Plamen Nikolov
+P-06964|BGR|Tsanko Tsvetanov
+P-56496|BGR|Zlatko Yankov
+P-99271|BGR|Ivaylo Yordanov
+P-51016|BGR|Velko Yotov
+P-84079|BOL|Julio César Baldivieso
+P-92800|BOL|Carlos Borja
+P-90575|BOL|Ramiro Castillo
+P-26034|BOL|Luis Cristaldo
+P-22812|BOL|Marco Etcheverry
+P-59235|BOL|José Milton Melgar
+P-11058|BOL|Jaime Moreno
+P-20960|BOL|Álvaro Peña
+P-06645|BOL|Juan Manuel Peña
+P-44632|BOL|Mario Pinedo
+P-74977|BOL|Gustavo Quinteros
+P-97920|BOL|William Ramallo
+P-09423|BOL|Mauricio Ramos
+P-49642|BOL|Miguel Rimba
+P-23356|BOL|Darío Rojas
+P-47593|BOL|Marco Sandy
+P-61814|BOL|Vladimir Soria
+P-70512|BOL|Modesto Soruco
+P-77469|BOL|Óscar Sánchez
+P-09978|BOL|Erwin Sánchez
+P-66585|BOL|Marcelo Torrico
+P-83061|BOL|Carlos Trucco
+P-12036|BRA|Acácio
+P-66554|BRA|Bismarck
+P-52379|BRA|Renato Gaúcho
+P-88506|BRA|Ricardo Gomes
+P-93386|BRA|Raí
+P-12835|BRA|Gilmar Rinaldi
+P-61247|BRA|Ricardo Rocha
+P-74676|BRA|Ronaldão
+P-86509|BRA|Paulo Sérgio
+P-69952|BRA|Tita
+P-02858|BRA|Zetti
+P-73607|BRA|Zé Carlos
+P-10499|CHE|Thomas Bickel
+P-26437|CHE|Georges Bregy
+P-31551|CHE|Martin Brunner
+P-12283|CHE|André Egli
+P-94720|CHE|Sébastien Fournier
+P-02900|CHE|Alain Geiger
+P-43247|CHE|Marco Grassi
+P-94830|CHE|Dominique Herr
+P-06183|CHE|Marc Hottiger
+P-01678|CHE|Adrian Knup
+P-91107|CHE|Stephan Lehmann
+P-92672|CHE|Christophe Ohrel
+P-09954|CHE|Marco Pascolo
+P-14226|CHE|Yvan Quentin
+P-71232|CHE|Martin Rueda
+P-78318|CHE|Ciriaco Sforza
+P-82747|CHE|Jürg Studer
+P-76790|CHE|Nestor Subiat
+P-56818|CHE|Alain Sutter
+P-80695|CHE|Patrick Sylvestre
+P-16251|CHE|Thomas Wyss
+P-68499|CMR|Hans Agbo
+P-36769|CMR|Bonaventure Djonkep
+P-31884|CMR|Bertin Ebwellé
+P-33542|CMR|Samuel Ekemé
+P-41084|CMR|Eugène Ekéké
+P-43560|CMR|David Embé
+P-19849|CMR|Roger Feutmba
+P-01632|CMR|Jean-Pierre Fiala
+P-63522|CMR|Marc-Vivien Foé
+P-07520|CMR|Raymond Kalla
+P-84420|CMR|André Kana-Biyik
+P-94752|CMR|Thomas Libiih
+P-06434|CMR|Paul Loga
+P-59402|CMR|Louis-Paul M'Fédé
+P-03377|CMR|Emmanuel Maboang
+P-64478|CMR|Cyrille Makanaky
+P-31657|CMR|Benjamin Massing
+P-12458|CMR|Émile Mbouh
+P-49445|CMR|Georges Mouyémé
+P-53341|CMR|Victor N'Dip
+P-77989|CMR|François Omam-Biyik
+P-56577|CMR|Jules Onana
+P-81131|CMR|Jean-Claude Pagal
+P-98173|CMR|Rigobert Song
+P-93402|CMR|Jacques Songo'o
+P-08703|CMR|Stephen Tataw
+P-63012|CMR|Alphonse Tchami
+P-79721|CMR|Alphonse Yombi
+P-76247|COL|Víctor Aristizábal
+P-10444|COL|Faustino Asprilla
+P-13552|COL|Wílmer Cabrera
+P-96992|COL|Geovanis Cassiani
+P-28003|COL|Óscar Cortés
+P-24621|COL|Óscar Córdoba
+P-70177|COL|Andrés Escobar
+P-53398|COL|Carlos Estrada
+P-75417|COL|Luis Fajardo
+P-42991|COL|Hermán Gaviria
+P-43732|COL|Miguel Guerrero
+P-14496|COL|Gildardo Gómez
+P-31825|COL|Gabriel Gómez
+P-07687|COL|Rubén Darío Hernández
+P-43980|COL|Luis Fernando Herrera
+P-41062|COL|Carlos Hoyos
+P-82012|COL|Arnoldo Iguarán
+P-19743|COL|John Harold Lozano
+P-33086|COL|Alexis Mendoza
+P-02080|COL|Faryd Mondragón
+P-65731|COL|Eduardo Niño
+P-41894|COL|Néstor Ortiz
+P-42369|COL|José María Pazo
+P-92695|COL|Luis Carlos Perea
+P-06957|COL|Wilson Pérez
+P-31126|COL|José Ricardo Pérez
+P-02405|COL|Bernardo Redín
+P-69504|COL|Freddy Rincón
+P-80178|COL|Mauricio Serna
+P-55994|COL|Adolfo Valencia
+P-27157|COL|Iván Valenciano
+P-39384|COL|León Villa
+P-23692|COL|Antony de Ávila
+P-10890|COL|Leonel Álvarez
+P-81990|CRI|Hermidio Barrantes
+P-18941|CRI|Juan Cayasso
+P-13444|CRI|Germán Chavarría
+P-78926|CRI|José Carlos Chaves
+P-62978|CRI|Luis Gabelo Conejo
+P-64783|CRI|Miguel Davis
+P-59912|CRI|Róger Flores
+P-74237|CRI|Rónald González Brenes
+P-35501|CRI|Alexandre Guimarães
+P-16382|CRI|Róger Gómez
+P-73174|CRI|José Jaikel
+P-01259|CRI|Claudio Jara
+P-73643|CRI|Geovanny Jara
+P-37790|CRI|Héctor Marchena
+P-49136|CRI|Rónald Marín
+P-02273|CRI|Hernán Medford
+P-48788|CRI|Mauricio Montero
+P-87653|CRI|Roy Myers
+P-50080|CRI|Marvin Obando
+P-65985|CRI|Vladimir Quesada
+P-27437|CRI|Oscar Ramírez
+P-39680|CRI|Miguel Segura
+P-20237|CSK|Július Bielik
+P-08239|CSK|Michal Bílek
+P-52500|CSK|Jozef Chovanec
+P-17800|CSK|Peter Fieber
+P-71732|CSK|Stanislav Griga
+P-73737|CSK|Ivan Hašek
+P-58445|CSK|Viliam Hýravý
+P-40265|CSK|Miroslav Kadlec
+P-28182|CSK|Vladimír Kinier
+P-65434|CSK|Ivo Knoflíček
+P-57995|CSK|Ján Kocian
+P-16313|CSK|Luboš Kubík
+P-99987|CSK|Milan Luhový
+P-22231|CSK|Luděk Mikloško
+P-85306|CSK|Ľubomír Moravčík
+P-82871|CSK|Jiří Němec
+P-48690|CSK|Václav Němeček
+P-14432|CSK|Peter Palúch
+P-71260|CSK|Tomáš Skuhravý
+P-76459|CSK|Jan Stejskal
+P-20647|CSK|František Straka
+P-78227|CSK|Vladimír Weiss
+P-70770|DEU|Raimond Aumann
+P-60022|DEU|Uwe Bein
+P-48681|DEU|Maurizio Gaudino
+P-87830|DEU|Thomas Helmer
+P-46363|DEU|Günter Hermann
+P-09705|DEU|Ulf Kirsten
+P-71595|DEU|Stefan Kuntz
+P-45405|DEU|Andreas Köpke
+P-03526|DEU|Frank Mill
+P-25067|DEU|Paul Steiner
+P-47227|DEU|Thomas Strunz
+P-68490|DEU|Martin Wagner
+P-26446|EGY|Adel Abdel Rahman
+P-73679|EGY|Gamal Abdel-Hamid
+P-62193|EGY|Magdi Abdelghani
+P-62807|EGY|Taher Abouzeid
+P-10496|EGY|Saber Eid
+P-97395|EGY|Thabet El-Batal
+P-41648|EGY|Ahmed El-Kass
+P-41175|EGY|Ibrahim Hassan
+P-17383|EGY|Ashraf Kasem
+P-47911|EGY|Alaa Maihoub
+P-83361|EGY|Osama Orabi
+P-53055|EGY|Ahmed Ramzy
+P-11562|EGY|Hany Ramzy
+P-01224|EGY|Ayman Shawky
+P-42749|EGY|Ahmed Shobair
+P-57839|EGY|Tarek Soliman
+P-72591|EGY|Ayman Taher
+P-07223|EGY|Magdy Tolba
+P-31758|EGY|Hesham Yakan
+P-51328|EGY|Rabie Yassin
+P-54444|EGY|Ismail Youssef
+P-00081|ENG|Steve Bull
+P-10265|ENG|Tony Dorigo
+P-27404|ENG|Steve McMahon
+P-96960|ENG|Paul Parker
+P-67307|ENG|Stuart Pearce
+P-34450|ENG|David Platt
+P-13285|ENG|David Seaman
+P-55650|ENG|Des Walker
+P-17303|ENG|Neil Webb
+P-68510|ENG|Mark Wright
+P-24945|ESP|Abelardo
+P-76590|ESP|Rafael Alkorta
+P-75527|ESP|Genar Andrinúa
+P-23403|ESP|Txiki Begiristain
+P-80697|ESP|Paco Camarasa
+P-97666|ESP|José Luis Caminero
+P-16059|ESP|Santiago Cañizares
+P-84197|ESP|Fernando
+P-60964|ESP|Julen Guerrero
+P-82189|ESP|Alberto Górriz
+P-80363|ESP|Manuel Jiménez
+P-18572|ESP|Juanele
+P-60604|ESP|Julen Lopetegui
+P-61411|ESP|Manolo
+P-97482|ESP|Felipe Miñambres
+P-03307|ESP|Miguel Ángel Nadal
+P-49442|ESP|José Manuel Ochotorena
+P-20256|ESP|Jorge Otero
+P-46166|ESP|Miguel Pardeza
+P-10514|ESP|Rafael Paz
+P-61508|ESP|Roberto
+P-96053|ESP|Sergi
+P-90670|ESP|Quique Sánchez Flores
+P-81270|ESP|Francisco Villarroya
+P-74638|ESP|Voro
+P-40929|ESP|Rafael Martín Vázquez
+P-80966|GRC|Alexis Alexandris
+P-20597|GRC|Alexis Alexiou
+P-98623|GRC|Alexis Alexoudis
+P-54632|GRC|Stratos Apostolakis
+P-24277|GRC|Elias Atmatsidis
+P-11986|GRC|Vasilis Dimitriadis
+P-38731|GRC|Minas Hantzidis
+P-59135|GRC|Ioannis Kalitzakis
+P-35810|GRC|Vaios Karagiannis
+P-68585|GRC|Kyriakos Karataidis
+P-70338|GRC|Christos Karkamanis
+P-87563|GRC|Savvas Kofidis
+P-86801|GRC|Thanasis Kolitsidakis
+P-16110|GRC|Nikos Machlas
+P-43850|GRC|Stelios Manolas
+P-83956|GRC|Spiros Marangos
+P-07892|GRC|Antonis Minou
+P-12695|GRC|Tasos Mitropoulos
+P-68233|GRC|Nikos Nioplias
+P-68230|GRC|Dimitris Saravakos
+P-06459|GRC|Panagiotis Tsalouchidis
+P-75239|GRC|Nikos Tsiantakis
+P-42603|IRL|John Aldridge
+P-28514|IRL|Phil Babb
+P-67839|IRL|Pat Bonner
+P-61238|IRL|John Byrne
+P-94106|IRL|Tony Cascarino
+P-90357|IRL|Tommy Coyne
+P-95491|IRL|Ray Houghton
+P-66543|IRL|Chris Hughton
+P-91106|IRL|Roy Keane
+P-07683|IRL|Gary Kelly
+P-98535|IRL|David Kelly
+P-33377|IRL|Alan Kelly
+P-20706|IRL|Alan Kernaghan
+P-15705|IRL|Jason McAteer
+P-08289|IRL|Mick McCarthy
+P-11747|IRL|Eddie McGoldrick
+P-96122|IRL|Paul McGrath
+P-87036|IRL|Alan McLoughlin
+P-15882|IRL|Kevin Moran
+P-24199|IRL|Chris Morris
+P-64796|IRL|David O'Leary
+P-57771|IRL|Gerry Peyton
+P-99685|IRL|Terry Phelan
+P-51629|IRL|Niall Quinn
+P-72379|IRL|Kevin Sheedy
+P-52963|IRL|John Sheridan
+P-56580|IRL|Bernie Slaven
+P-90888|IRL|Frank Stapleton
+P-69817|IRL|Steve Staunton
+P-28854|IRL|Andy Townsend
+P-14001|ITA|Luca Bucci
+P-49269|ITA|Andrea Carnevale
+P-26730|ITA|Pierluigi Casiraghi
+P-35719|ITA|Luigi De Agostini
+P-47366|ITA|Riccardo Ferri
+P-75545|ITA|Giuseppe Giannini
+P-93900|ITA|Luca Marchegiani
+P-13438|ITA|Giancarlo Marocchi
+P-98192|ITA|Lorenzo Minotti
+P-76544|ITA|Salvatore Schillaci
+P-32071|ITA|Giuseppe Signori
+P-35590|KOR|Ik-soo An
+P-52179|KOR|Jin-ho Cho
+P-57959|KOR|Dae-shik Choi
+P-20285|KOR|In-young Choi
+P-64379|KOR|Moon-sik Choi
+P-51868|KOR|Young-il Choi
+P-35322|KOR|Kang-hee Choi
+P-93017|KOR|Jong-son Chung
+P-43076|KOR|Hae-won Chung
+P-90303|KOR|Sang-bum Gu
+P-55350|KOR|Seok-ju Ha
+P-55097|KOR|Myung-bo Hong
+P-15222|KOR|Sun-hong Hwang
+P-76411|KOR|Kwan Hwangbo
+P-53258|KOR|Pan-keun Kim
+P-39863|KOR|Jeong-woon Ko
+P-68563|KOR|Jong-hwa Lee
+P-50333|KOR|Young-jin Lee
+P-95122|KOR|Woon-jae Lee
+P-47850|KOR|Sang-yoon Lee
+P-09742|KOR|Jung-yoon Noh
+P-92215|KOR|Jung-bae Park
+P-34573|KOR|Chul-woo Park
+P-65525|KOR|Jung-won Seo
+P-97902|KOR|Hong-gi Shin
+P-99575|KOR|Deok-yeo Yoon
+P-61342|MAR|Nacer Abdellah
+P-62567|MAR|Zakaria Alaoui
+P-74924|MAR|Khalil Azmi
+P-84885|MAR|Rachid Azzouzi
+P-61219|MAR|Ahmed Bahja
+P-91608|MAR|Abdelmajid Bouyboud
+P-09278|MAR|Mohammed Chaouch
+P-08730|MAR|Rachid Daoudi
+P-58464|MAR|Said Dghay
+P-19991|MAR|Abdelkrim El Hadrioui
+P-82124|MAR|Tahar El Khalej
+P-48036|MAR|El Arbi Hababi Hababi
+P-96488|MAR|Hassan Kachloul
+P-33746|MAR|Abdeslam Laghrissi
+P-39021|MAR|Ahmed Masbahi
+P-89133|MAR|Hassan Nader
+P-96824|MAR|Noureddine Naybet
+P-36579|MAR|Rachid Neqrouz
+P-16451|MAR|Mohamed Samadi
+P-77110|MAR|Smahi Triki
+P-28217|MEX|Ignacio Ambríz
+P-40627|MEX|Marcelino Bernal
+P-50787|MEX|Jorge Campos
+P-70776|MEX|Juan Carlos Chávez
+P-10416|MEX|Adrián Chávez
+P-93217|MEX|Missael Espinoza
+P-53503|MEX|Félix Fernández
+P-82483|MEX|Benjamín Galindo
+P-21495|MEX|Alberto García Aspe
+P-46904|MEX|Luis García Postigo
+P-74788|MEX|Raúl Gutiérrez
+P-21741|MEX|Ramón Ramírez
+P-35042|MEX|Jorge Rodríguez
+P-81177|MEX|José Luis Salgado
+P-87112|MEX|Luis Miguel Salvador
+P-78308|MEX|Claudio Suárez
+P-16030|MEX|Luis Antonio Valdéz
+P-97279|MEX|Zague
+P-09363|MEX|Juan de Dios Ramírez Perales
+P-97610|MEX|Joaquín del Olmo
+P-56969|NGA|Mutiu Adepoju
+P-77276|NGA|Wilfred Agbonavbare
+P-25342|NGA|Alloysius Agu
+P-84893|NGA|Daniel Amokachi
+P-22820|NGA|Emmanuel Amunike
+P-39450|NGA|Augustine Eguavoen
+P-95888|NGA|Efan Ekoku
+P-74911|NGA|Michael Emenalo
+P-26103|NGA|Emeka Ezeugo
+P-25715|NGA|Victor Ikpeba
+P-72134|NGA|Benedict Iroha
+P-46986|NGA|Stephen Keshi
+P-91949|NGA|Chidi Nwanu
+P-34180|NGA|Uche Okafor
+P-74808|NGA|Uche Okechukwu
+P-91871|NGA|Thompson Oliha
+P-41790|NGA|Sunday Oliseh
+P-75277|NGA|Peter Rufai
+P-72487|NGA|Samson Siasia
+P-98228|NGA|Rashidi Yekini
+P-04823|NLD|John Bosman
+P-77764|NLD|Henk Fraser
+P-53103|NLD|Joop Hiele
+P-27957|NLD|Wim Jonk
+P-30771|NLD|Stanley Menzo
+P-92458|NLD|Arthur Numan
+P-03942|NLD|Bryan Roy
+P-88192|NLD|Graeme Rutjes
+P-22351|NLD|Theo Snelders
+P-20827|NLD|Gaston Taument
+P-61116|NLD|Stan Valckx
+P-42249|NLD|Aron Winter
+P-47334|NLD|Richard Witschge
+P-51357|NLD|Rob Witschge
+P-15829|NLD|Ed de Goey
+P-25693|NLD|John de Wolf
+P-52936|NLD|John van 't Schip
+P-49163|NLD|Ulrich van Gobbel
+P-84043|NLD|John van Loen
+P-99166|NLD|Peter van Vossen
+P-25644|NOR|Henning Berg
+P-52878|NOR|Stig Inge Bjørnebye
+P-50065|NOR|Lars Bohinen
+P-90792|NOR|Rune Bratseth
+P-48304|NOR|Ola By Rise
+P-59890|NOR|Dan Eggen
+P-73648|NOR|Jan Åge Fjørtoft
+P-94465|NOR|Jostein Flo
+P-14379|NOR|Frode Grodås
+P-83152|NOR|Gunnar Halle
+P-93679|NOR|Alf-Inge Håland
+P-31031|NOR|Mini Jakobsen
+P-02163|NOR|Erland Johnsen
+P-61579|NOR|Øyvind Leonhardsen
+P-24240|NOR|Karl Petter Løken
+P-48934|NOR|Erik Mykland
+P-47297|NOR|Roger Nilsen
+P-72296|NOR|Kjetil Rekdal
+P-96984|NOR|Sigurd Rushfeldt
+P-21663|NOR|Roar Strand
+P-63024|NOR|Gøran Sørloth
+P-03090|NOR|Erik Thorstvedt
+P-42321|ROU|Ioan Andone
+P-83265|ROU|Iulian Chiriță
+P-58563|ROU|Rodion Cămătaru
+P-54322|ROU|Ilie Dumitrescu
+P-17898|ROU|Constantin Gâlcă
+P-00266|ROU|Marian Ivan
+P-99719|ROU|Michael Klein
+P-63813|ROU|Gheorghe Liliac
+P-86528|ROU|Ioan Lupescu
+P-49988|ROU|Dănuț Lupu
+P-34184|ROU|Dorin Mateuț
+P-81047|ROU|Gheorghe Mihali
+P-67833|ROU|Viorel Moldovan
+P-04888|ROU|Dorinel Munteanu
+P-78546|ROU|Zsolt Muzsnay
+P-11979|ROU|Basarab Panduru
+P-42028|ROU|Corneliu Papură
+P-25437|ROU|Adrian Popescu
+P-19537|ROU|Gheorghe Popescu
+P-47501|ROU|Ștefan Preda
+P-87995|ROU|Daniel Prodan
+P-29644|ROU|Florin Prunea
+P-94011|ROU|Mircea Rednic
+P-69340|ROU|Florin Răducioiu
+P-83453|ROU|Ioan Sabău
+P-79864|ROU|Tibor Selymes
+P-44978|ROU|Bogdan Stelea
+P-44448|ROU|Ovidiu Stîngă
+P-42807|ROU|Emil Săndoi
+P-40531|ROU|Daniel Timofte
+P-15773|ROU|Ion Vlădoiu
+P-76498|RUS|Vladimir Beschastnykh
+P-82210|RUS|Stanislav Cherchesov
+P-95639|RUS|Dmitri Galiamin
+P-48249|RUS|Valeri Karpin
+P-54805|RUS|Dmitri Kharine
+P-69635|RUS|Dmitri Khlestov
+P-88486|RUS|Igor Korneev
+P-82492|RUS|Dmitri Kuznetsov
+P-93191|RUS|Igor Lediakhov
+P-76220|RUS|Aleksandr Mostovoi
+P-70700|RUS|Yuri Nikiforov
+P-83394|RUS|Viktor Onopko
+P-46886|RUS|Dmitri Popov
+P-08785|RUS|Andrey Pyatnitsky
+P-42532|RUS|Dmitri Radchenko
+P-73354|RUS|Oleg Salenko
+P-66957|RUS|Vladislav Ternavsky
+P-01806|RUS|Omari Tetradze
+P-65049|RUS|Ilya Tsymbalar
+P-46493|RUS|Sergei Yuran
+P-29132|SAU|Mohamed Abd Al-Jawad
+P-03048|SAU|Majed Abdullah
+P-22789|SAU|Awad Al-Anazi
+P-23379|SAU|Fahad Al-Bishi
+P-77098|SAU|Saleh Al-Dawod
+P-12996|SAU|Mohamed Al-Deayea
+P-60332|SAU|Abdullah Al-Dosari
+P-39267|SAU|Fahad Al-Ghesheyan
+P-36914|SAU|Ibrahim Al-Helwah
+P-44462|SAU|Mohammed Al-Khilaiwi
+P-89920|SAU|Fahad Al-Mehallel
+P-78753|SAU|Khalid Al-Muwallid
+P-41428|SAU|Saeed Al-Owairan
+P-43829|SAU|Hussein Al-Sadiq
+P-02755|SAU|Yassir Al-Taifi
+P-21550|SAU|Fuad Anwar
+P-60814|SAU|Hamzah Idris
+P-51472|SAU|Ahmed Jamil Madani
+P-75079|SAU|Talal Jebreen
+P-61224|SAU|Hamzah Saleh
+P-50171|SAU|Abdullah Sulaiman Zubromawi
+P-39646|SCO|John Collins
+P-39265|SCO|Gordon Durie
+P-17223|SCO|Mo Johnston
+P-10435|SCO|Murdo MacLeod
+P-49470|SCO|Stuart McCall
+P-10580|SCO|Ally McCoist
+P-76645|SCO|Stewart McKimmie
+P-95626|SCO|David McPherson
+P-99207|SUN|Aleksandr Borodyuk
+P-10577|SUN|Valeri Broshin
+P-77250|SUN|Igor Dobrovolski
+P-45890|SUN|Sergei Fokin
+P-06372|SUN|Sergei Gorlukovich
+P-35793|SUN|Volodymyr Lyutyi
+P-10165|SUN|Igor Shalimov
+P-15788|SUN|Akhrik Tsveiba
+P-77395|SUN|Aleksandr Uvarov
+P-05885|SUN|Andrei Zygmantovich
+P-60371|SWE|Kennet Andersson
+P-63774|SWE|Patrik Andersson
+P-83613|SWE|Sven Andersson
+P-39860|SWE|Joachim Björklund
+P-26281|SWE|Tomas Brolin
+P-63429|SWE|Martin Dahlin
+P-60456|SWE|Johnny Ekström
+P-02017|SWE|Leif Engqvist
+P-39219|SWE|Jan Eriksson
+P-41130|SWE|Lars Eriksson
+P-39634|SWE|Magnus Erlingmark
+P-27804|SWE|Mats Gren
+P-07902|SWE|Magnus Hedman
+P-31156|SWE|Glenn Hysén
+P-21234|SWE|Klas Ingesson
+P-75272|SWE|Ulrik Jansson
+P-72332|SWE|Pontus Kåmark
+P-22289|SWE|Peter Larsson
+P-59805|SWE|Anders Limpar
+P-75066|SWE|Roger Ljung
+P-30568|SWE|Teddy Lučić
+P-66178|SWE|Håkan Mild
+P-23360|SWE|Roland Nilsson
+P-71492|SWE|Joakim Nilsson
+P-34801|SWE|Mikael Nilsson
+P-26709|SWE|Niklas Nyhlén
+P-46228|SWE|Stefan Pettersson
+P-94051|SWE|Thomas Ravelli
+P-80132|SWE|Stefan Rehn
+P-63692|SWE|Stefan Schwarz
+P-67329|SWE|Glenn Strömberg
+P-92339|SWE|Jonas Thern
+P-77465|URY|Alfonso Domínguez
+P-30100|URY|Daniel Fonseca
+P-53299|URY|José Oscar Herrera
+P-68471|URY|Santiago Ostolaza
+P-69960|URY|José Perdomo
+P-80877|URY|Ruben Pereira
+P-68611|URY|Rubén Sosa
+P-58404|URY|Hugo de León
+P-95563|USA|Desmond Armstrong
+P-12470|USA|Marcelo Balboa
+P-85296|USA|Jimmy Banks
+P-44443|USA|Brian Bliss
+P-06020|USA|Mike Burns
+P-82723|USA|Paul Caligiuri
+P-34393|USA|Fernando Clavijo
+P-52133|USA|Neil Covone
+P-08863|USA|Thomas Dooley
+P-53572|USA|John Doyle
+P-72794|USA|Eric Eichmann
+P-76191|USA|Brad Friedel
+P-14008|USA|John Harkes
+P-05791|USA|Chris Henderson
+P-49258|USA|Cobi Jones
+P-07553|USA|Kasey Keller
+P-77685|USA|Frank Klopas
+P-17037|USA|Cle Kooiman
+P-86766|USA|Paul Krumpe
+P-79863|USA|Alexi Lalas
+P-76583|USA|Mike Lapper
+P-43736|USA|Tony Meola
+P-86464|USA|Joe-Max Moore
+P-93627|USA|Bruce Murray
+P-85613|USA|Hugo Pérez
+P-07720|USA|Tab Ramos
+P-97459|USA|Claudio Reyna
+P-83591|USA|Juergen Sommer
+P-09412|USA|Mike Sorber
+P-96178|USA|Earnie Stewart
+P-28894|USA|John Stollmeyer
+P-21609|USA|Christopher Sullivan
+P-28361|USA|Steve Trittschuh
+P-94232|USA|David Vanole
+P-88114|USA|Peter Vermes
+P-69356|USA|Roy Wegerle
+P-51936|USA|Mike Windischmann
+P-67232|USA|Eric Wynalda
+P-00153|YUG|Mirsad Baljić
+P-71107|YUG|Dragoljub Brnović
+P-85893|YUG|Faruk Hadžibegić
+P-94391|YUG|Tomislav Ivković
+P-26414|YUG|Robert Jarni
+P-01298|YUG|Davor Jozić
+P-39053|YUG|Dragoje Leković
+P-34572|YUG|Fahrudin Omerović
+P-93042|YUG|Andrej Panadić
+P-71342|YUG|Predrag Spasić
+P-63160|YUG|Vujadin Stanojković
+P-09094|YUG|Zoran Vulić
+P-83449|ARG|Sergio Almirón
+P-44317|ARG|Norberto Alonso
+P-30957|ARG|Rubén Ayala
+P-33365|ARG|Carlos Babington
+P-26050|ARG|Agustín Balbuena
+P-45593|ARG|Héctor Baley
+P-99392|ARG|Juan Barbas
+P-56518|ARG|Ángel Bargas
+P-60363|ARG|Ricardo Bochini
+P-45025|ARG|Claudio Borghi
+P-79103|ARG|Miguel Ángel Brindisi
+P-53390|ARG|Daniel Carnevali
+P-37370|ARG|Jorge Carrascosa
+P-16804|ARG|Enrique Chazarreta
+P-61630|ARG|Néstor Clausen
+P-78111|ARG|Ramón Díaz
+P-21190|ARG|Rubén Galván
+P-69165|ARG|Oscar Garré
+P-64046|ARG|Rubén Glaria
+P-82218|ARG|Ramón Heredia
+P-79724|ARG|Patricio Hernández
+P-24755|ARG|Luis Islas
+P-30336|ARG|Daniel Killer
+P-66065|ARG|Ricardo La Volpe
+P-45194|ARG|Miguel Oviedo
+P-01736|ARG|Rubén Pagnanini
+P-12666|ARG|Pedro Pasculli
+P-94783|ARG|Roberto Perfumo
+P-49585|ARG|Aldo Poy
+P-33159|ARG|Santiago Santamaría
+P-81341|ARG|Miguel Ángel Santoro
+P-63462|ARG|Carlos Squeo
+P-16060|ARG|Francisco Sá
+P-98697|ARG|Carlos Tapia
+P-68438|ARG|Roberto Telch
+P-39768|ARG|Néstor Togneri
+P-29420|ARG|Enzo Trossero
+P-62351|ARG|José Daniel Valencia
+P-26142|ARG|José Van Tuyne
+P-12477|ARG|Ricardo Villa
+P-90840|ARG|Enrique Wolff
+P-82033|ARG|Héctor Yazalde
+P-64307|ARG|Héctor Zelada
+P-29893|AUT|Klaus Lindenberger
+P-53153|BEL|Marc Baecke
+P-47067|BEL|Gilbert Bodart
+P-93848|BEL|Hugo Broos
+P-25456|BEL|Jan Ceulemans
+P-47038|BEL|Nico Claesen
+P-05723|BEL|Leo Clijsters
+P-94036|BEL|Ludo Coeck
+P-77440|BEL|Theo Custers
+P-88070|BEL|Alexandre Czerniatynski
+P-53789|BEL|Jos Daerden
+P-79995|BEL|Maurits De Schrijver
+P-39297|BEL|Michel De Wolf
+P-95299|BEL|Stéphane Demol
+P-13042|BEL|Philippe Desmet
+P-99499|BEL|Georges Grün
+P-86900|BEL|Walter Meeuws
+P-07663|BEL|Luc Millecamps
+P-52742|BEL|Marc Millecamps
+P-87975|BEL|Raymond Mommens
+P-38187|BEL|Jacky Munaron
+P-47416|BEL|Gerard Plessers
+P-88903|BEL|Michel Renquin
+P-97414|BEL|Enzo Scifo
+P-43941|BEL|François Van Der Elst
+P-43888|BEL|Leo Van Der Elst
+P-47829|BEL|Wilfried Van Moer
+P-08623|BEL|Franky Van der Elst
+P-06736|BEL|Erwin Vandenbergh
+P-71806|BEL|René Vandereycken
+P-07477|BEL|Guy Vandersmissen
+P-26401|BEL|Franky Vercauteren
+P-17433|BEL|René Verheyen
+P-92384|BEL|Patrick Vervoort
+P-24703|BEL|Daniel Veyt
+P-94024|BGR|Borislav Mihaylov
+P-05061|BGR|Nasko Sirakov
+P-01172|BGR|Dobromir Zhechev
+P-99390|BRA|Abel
+P-47010|BRA|Ado
+P-76896|BRA|Alemão
+P-06277|BRA|Alfredo
+P-54171|BRA|Amaral
+P-15663|BRA|Marco Antônio
+P-87388|BRA|Baldocchi
+P-99975|BRA|Batista
+P-65181|BRA|Caju
+P-90635|BRA|Careca
+P-43781|BRA|Carlos
+P-07188|BRA|Carpegiani
+P-19190|BRA|Casagrande
+P-81415|BRA|Marinho Chagas
+P-53581|BRA|Chicão
+P-05820|BRA|Júlio César
+P-73846|BRA|César
+P-03810|BRA|Dario
+P-86942|BRA|Roberto Dinamite
+P-89519|BRA|Dirceu
+P-71619|BRA|Edevaldo
+P-12950|BRA|Edinho
+P-30573|BRA|Edivaldo
+P-49805|BRA|Edu
+P-17395|BRA|Fontana
+P-06573|BRA|Mauro Galvão
+P-34545|BRA|Gil
+P-06098|BRA|Paulo Isidoro
+P-34222|BRA|Joel
+P-79755|BRA|Josimar
+P-70038|BRA|Juninho
+P-83096|BRA|Júnior
+P-65003|BRA|Leandro
+P-50358|BRA|Leivinha
+P-06015|BRA|Leão
+P-45267|BRA|Luizinho
+P-23407|BRA|Jorge Mendonça
+P-01779|BRA|Mirandinha
+P-60969|BRA|Müller
+P-48382|BRA|Nelinho
+P-67433|BRA|Rodrigues Neto
+P-69644|BRA|Oscar
+P-66932|BRA|Pedrinho
+P-87744|BRA|Luís Pereira
+P-89772|BRA|Marinho Peres
+P-60866|BRA|Waldir Peres
+P-70909|BRA|Polozzi
+P-84320|BRA|Reinaldo
+P-60490|BRA|Renato
+P-56757|BRA|Renato
+P-97113|BRA|Roberto
+P-20664|BRA|Serginho
+P-12049|BRA|Paulo Silas
+P-49168|BRA|Paulo Sérgio
+P-52658|BRA|Toninho
+P-10596|BRA|Valdo
+P-89117|BRA|Valdomiro
+P-34958|BRA|Paulo Vítor
+P-72683|BRA|Zé Maria
+P-04940|BRA|Zé Sérgio
+P-41064|BRA|Ademir da Guia
+P-39132|BRA|Éder
+P-33125|BRA|Édson
+P-17774|CMR|Joseph-Antoine Bell
+P-44016|CMR|Emmanuel Kundé
+P-95667|CMR|Thomas N'Kono
+P-64134|DEU|Rüdiger Abramczik
+P-65532|DEU|Karl Allgöwer
+P-17092|DEU|Thomas Allofs
+P-20874|DEU|Erich Beer
+P-96776|DEU|Dieter Burdenski
+P-44313|DEU|Bernhard Cullmann
+P-09958|DEU|Peter Dietrich
+P-55894|DEU|Bernard Dietz
+P-39771|DEU|Stephan Engels
+P-63982|DEU|Klaus Fichtel
+P-15681|DEU|Heinz Flohe
+P-85181|DEU|Bernd Franke
+P-36307|DEU|Wilfried Hannes
+P-66165|DEU|Matthias Herget
+P-89218|DEU|Dieter Herzog
+P-79006|DEU|Jupp Heynckes
+P-25464|DEU|Holger Hieronymus
+P-84364|DEU|Eike Immel
+P-25938|DEU|Jupp Kapellmann
+P-39513|DEU|Rudolf Kargus
+P-44327|DEU|Wolfgang Kleff
+P-11877|DEU|Harald Konopka
+P-48661|DEU|Helmut Kremers
+P-62529|DEU|Reinhard Libuda
+P-86015|DEU|Max Lorenz
+P-12863|DEU|Hannes Löhr
+P-89031|DEU|Manfred Manglitz
+P-34993|DEU|Dieter Müller
+P-66405|DEU|Günter Netzer
+P-07141|DEU|Norbert Nigbur
+P-83141|DEU|Bernd Patzke
+P-93701|DEU|Uwe Rahn
+P-40743|DEU|Uwe Reinders
+P-96946|DEU|Wolfgang Rolff
+P-47205|DEU|Rolf Rüssmann
+P-50033|DEU|Klaus-Dieter Sieloff
+P-71616|DEU|Uli Stein
+P-45408|DEU|Olaf Thon
+P-89257|DEU|Herbert Wimmer
+P-57908|DEU|Horst Wolter
+P-85977|DEU|Ronald Worm
+P-71765|DEU|Gerd Zewe
+P-03391|DEU|Herbert Zimmermann
+P-27328|ENG|Jeff Astle
+P-60826|ENG|Gary Bailey
+P-38921|ENG|John Barnes
+P-18335|ENG|Peter Beardsley
+P-77223|ENG|Colin Bell
+P-25979|ENG|Peter Bonetti
+P-04882|ENG|Trevor Brooking
+P-49962|ENG|Terry Butcher
+P-52978|ENG|Allan Clarke
+P-79390|ENG|Ray Clemence
+P-40921|ENG|Terry Cooper
+P-40179|ENG|Steve Coppell
+P-34569|ENG|Joe Corrigan
+P-08967|ENG|Kerry Dixon
+P-87821|ENG|Terry Fenwick
+P-19836|ENG|Steve Foster
+P-65174|ENG|Mark Hateley
+P-68542|ENG|Glenn Hoddle
+P-78807|ENG|Steve Hodge
+P-63494|ENG|Emlyn Hughes
+P-70457|ENG|Norman Hunter
+P-49952|ENG|Brian Labone
+P-88728|ENG|Francis Lee
+P-83210|ENG|Paul Mariner
+P-29522|ENG|Alvin Martin
+P-31450|ENG|Terry McDermott
+P-47197|ENG|Mick Mills
+P-62668|ENG|Alan Mullery
+P-79568|ENG|Keith Newton
+P-11917|ENG|Peter Osgood
+P-53735|ENG|Peter Reid
+P-72479|ENG|Graham Rix
+P-59016|ENG|Kenny Sansom
+P-76340|ENG|Trevor Steven
+P-23718|ENG|Gary Stevens
+P-49130|ENG|Gary Stevens
+P-68823|ENG|Phil Thompson
+P-34141|ENG|Ray Wilkins
+P-81883|ENG|Chris Woods
+P-22176|ENG|Tommy Wright
+P-98382|ESP|Juan Carlos Ablanedo
+P-40490|ESP|Periko Alonso
+P-84380|ESP|Luis Arconada
+P-57837|ESP|Juan Manuel Asensi
+P-70869|ESP|Antonio Biosca
+P-14296|ESP|Ramón Calderé
+P-38692|ESP|Rubén Cano
+P-28881|ESP|Julio Cardeñosa
+P-31693|ESP|Chendo
+P-40352|ESP|Dani
+P-74307|ESP|Eloy
+P-02901|ESP|Francisco
+P-86323|ESP|Ricardo Gallego
+P-93792|ESP|Andoni Goikoetxea
+P-12922|ESP|Antonio Guzmán
+P-14310|ESP|Manuel Jiménez
+P-89298|ESP|Joaquín
+P-15195|ESP|Eugenio Leal
+P-42410|ESP|Antonio Maceda
+P-87767|ESP|Marañón
+P-50273|ESP|Marcelino
+P-40419|ESP|Antonio Olmo
+P-99707|ESP|Quini
+P-78126|ESP|Carles Rexach
+P-91175|ESP|Hipólito Rincón
+P-26030|ESP|Isidoro San José
+P-37218|ESP|Jesús María Satrústegui
+P-24553|ESP|Enrique Saura
+P-95106|ESP|Quique Setién
+P-32414|ESP|Juan Antonio Señor
+P-70703|ESP|Tente Sánchez
+P-35214|ESP|Miguel Tendillo
+P-72141|ESP|Tomás
+P-65283|ESP|Roberto López Ufarte
+P-57343|ESP|Pedro Uralde
+P-25980|ESP|Santiago Urquiaga
+P-29981|ESP|Francisco Javier Uría
+P-92317|ESP|Jesús María Zamora
+P-26973|ESP|Antonio de la Cruz
+P-23912|ESP|Miguel Ángel
+P-29650|FRA|William Ayache
+P-41870|FRA|Dominique Baratelli
+P-19199|FRA|Dominique Bathenay
+P-51570|FRA|Joël Bats
+P-12738|FRA|Patrick Battiston
+P-12716|FRA|Bruno Bellone
+P-27315|FRA|Marc Berdoll
+P-51538|FRA|Philippe Bergeroo
+P-32988|FRA|Jean-Paul Bertrand-Demanes
+P-27495|FRA|Michel Bibard
+P-03719|FRA|Maxime Bossis
+P-86043|FRA|François Bracci
+P-17626|FRA|Jean Castaneda
+P-13150|FRA|Alain Couriol
+P-83674|FRA|Christian Dalger
+P-80046|FRA|Dominique Dropsy
+P-98948|FRA|Jean-Luc Ettori
+P-00643|FRA|Luis Fernández
+P-80821|FRA|Jean-Marc Ferreri
+P-05511|FRA|Bernard Genghini
+P-32542|FRA|René Girard
+P-65887|FRA|Jean-Marc Guillou
+P-34605|FRA|Gérard Janvion
+P-16067|FRA|Bernard Lacombe
+P-14107|FRA|Jean-François Larios
+P-94723|FRA|Yvon Le Roux
+P-90883|FRA|Christian Lopez
+P-81366|FRA|Philippe Mahut
+P-48925|FRA|Henri Michel
+P-50374|FRA|Claude Papi
+P-54760|FRA|Jean Petit
+P-56255|FRA|Patrice Rio
+P-99991|FRA|Dominique Rocheteau
+P-67442|FRA|Olivier Rouyer
+P-87726|FRA|Albert Rust
+P-74565|FRA|Didier Six
+P-06095|FRA|Gérard Soler
+P-22982|FRA|Yannick Stopyra
+P-54040|FRA|Marius Trésor
+P-52595|FRA|Thierry Tusseau
+P-88945|FRA|Daniel Xuereb
+P-32265|ITA|Pietro Anastasi
+P-88467|ITA|Giancarlo Antognoni
+P-49669|ITA|Salvatore Bagni
+P-55733|ITA|Giuseppe Baresi
+P-12030|ITA|Romeo Benetti
+P-93703|ITA|Fabio Capello
+P-65172|ITA|Luciano Castellini
+P-74017|ITA|Giorgio Chinaglia
+P-37637|ITA|Paolo Conti
+P-05902|ITA|Antonello Cuccureddu
+P-32608|ITA|Fernando De Napoli
+P-69913|ITA|Antonio Di Gennaro
+P-72980|ITA|Giuseppe Dossena
+P-28851|ITA|Ugo Ferrante
+P-05329|ITA|Giuseppe Furino
+P-45432|ITA|Giuseppe Galderisi
+P-86117|ITA|Sergio Gori
+P-84137|ITA|Aldo Maldera
+P-78456|ITA|Lionello Manfredonia
+P-06193|ITA|Giampiero Marini
+P-72137|ITA|Francesco Morini
+P-99684|ITA|Sebastiano Nela
+P-77413|ITA|Comunardo Niccolai
+P-34868|ITA|Eraldo Pecci
+P-56668|ITA|Fabrizio Poletti
+P-63857|ITA|Pierino Prati
+P-03206|ITA|Giorgio Puia
+P-29600|ITA|Paolo Pulici
+P-58264|ITA|Luciano Re Cecconi
+P-31389|ITA|Giuseppe Sabadini
+P-80851|ITA|Claudio Sala
+P-39505|ITA|Patrizio Sala
+P-89106|ITA|Franco Selvaggi
+P-35253|ITA|Aldo Serena
+P-39619|ITA|Luciano Spinosi
+P-50344|ITA|Franco Tancredi
+P-24028|ITA|Roberto Tricella
+P-68967|ITA|Lido Vieri
+P-97066|ITA|Giuseppe Wilson
+P-17293|ITA|Renato Zaccarelli
+P-57440|ITA|Walter Zenga
+P-95664|KOR|Joo-sung Kim
+P-37917|MAR|Mustafa El Haddaoui
+P-59792|MEX|Javier Aguirre
+P-63828|MEX|Rafael Amador
+P-62984|MEX|Tomás Boy
+P-83744|MEX|Francisco Javier Cruz
+P-56743|MEX|Felix Cruz
+P-03454|MEX|Alejandro Domínguez
+P-19791|MEX|Miguel España
+P-85837|MEX|Luis Flores
+P-83083|MEX|Olaf Heredia
+P-22941|MEX|Carlos Hermosillo
+P-93110|MEX|Javier Hernández
+P-96913|MEX|Pablo Larios
+P-38416|MEX|Armando Manzo
+P-67053|MEX|Carlos Muñoz
+P-66199|MEX|Manuel Negrete
+P-10248|MEX|Cristóbal Ortega
+P-28996|MEX|Fernando Quirarte
+P-43570|MEX|Ignacio Rodríguez
+P-89412|MEX|Raúl Servín
+P-47178|MEX|Mario Trejo
+P-10537|MEX|Carlos de los Cobos
+P-55099|NLD|Johan Boskamp
+P-60714|NLD|Pim Doesburg
+P-76357|NLD|Ruud Geels
+P-23888|NLD|Hugo Hovenkamp
+P-74745|NLD|Rinus Israël
+P-91947|NLD|Harry Lubse
+P-60031|NLD|Dick Schoenaker
+P-35622|NLD|Piet Schrijvers
+P-00036|NLD|Pleun Strik
+P-89818|NLD|Eddy Treijtel
+P-44945|NLD|Harry Vos
+P-46710|NLD|Piet Wildschut
+P-29733|NLD|Kees van Ierssel
+P-37179|NLD|Adrie van Kraay
+P-90440|POL|Mirosław Bulzacki
+P-40684|POL|Andrzej Buncol
+P-91411|POL|Włodzimierz Ciołek
+P-29548|POL|Kazimierz Deyna
+P-88971|POL|Tadeusz Dolny
+P-58729|POL|Jan Domarski
+P-17208|POL|Marek Dziuba
+P-96371|POL|Andrzej Fischer
+P-20188|POL|Robert Gadocha
+P-95634|POL|Jerzy Gorgoń
+P-17846|POL|Zbigniew Gut
+P-18317|POL|Andrzej Iwan
+P-45208|POL|Roman Jakóbczak
+P-43189|POL|Paweł Janas
+P-46254|POL|Jan Jałocha
+P-99151|POL|Mirosław Justek
+P-62487|POL|Zygmunt Kalinowski
+P-28931|POL|Zdzisław Kapka
+P-97548|POL|Henryk Kasperczak
+P-71920|POL|Jacek Kazimierski
+P-26520|POL|Kazimierz Kmiecik
+P-19443|POL|Zdzisław Kostrzewa
+P-09868|POL|Zygmunt Kukla
+P-15890|POL|Janusz Kupcewicz
+P-69383|POL|Marek Kusto
+P-21597|POL|Grzegorz Lato
+P-67962|POL|Włodzimierz Lubański
+P-56499|POL|Henryk Maculewicz
+P-01165|POL|Stefan Majewski
+P-65840|POL|Zygmunt Maszczyk
+P-37521|POL|Bohdan Masztaler
+P-02493|POL|Waldemar Matysik
+P-60895|POL|Włodzimierz Mazur
+P-76784|POL|Piotr Mowlik
+P-39234|POL|Adam Musiał
+P-42824|POL|Adam Nawałka
+P-98924|POL|Andrzej Pałasz
+P-32819|POL|Wojciech Rudy
+P-51539|POL|Piotr Skrobowski
+P-57931|POL|Włodzimierz Smolarek
+P-92867|POL|Andrzej Szarmach
+P-89521|POL|Antoni Szymanowski
+P-06667|POL|Jan Tomaszewski
+P-57366|POL|Henryk Wieczorek
+P-22126|POL|Roman Wójcicki
+P-07479|POL|Lesław Ćmikiewicz
+P-48883|POL|Władysław Żmuda
+P-03000|PRT|José António
+P-94871|PRT|Fernando Bandeirinha
+P-98161|PRT|Manuel Bento
+P-37242|PRT|Vítor Damas
+P-88661|PRT|Diamantino
+P-29698|PRT|Frederico
+P-31762|PRT|Fernando Gomes
+P-81444|PRT|Carlos Manuel
+P-34980|PRT|Jorge Martins
+P-94216|PRT|António Morato
+P-48881|PRT|António Oliveira
+P-97302|PRT|Jaime Pacheco
+P-63783|PRT|José Ribeiro
+P-87641|PRT|Luís Sobrinho
+P-85003|SCO|Jim Leighton
+P-76618|SUN|Valentin Afonin
+P-33189|SUN|Kakhi Asatiani
+P-64968|SUN|Volodymyr Bezsonov
+P-02102|SUN|Anatoliy Byshovets
+P-90721|SUN|Viktor Chanov
+P-70748|SUN|Revaz Dzodzuashvili
+P-17002|SUN|Vladimir Kaplichny
+P-79597|SUN|Anzor Kavazashvili
+P-98262|SUN|Vitaly Khmelnitsky
+P-90524|SUN|Murtaz Khurtsilava
+P-79846|SUN|Nikolay Kiselyov
+P-86826|SUN|Oleh Kuznetsov
+P-70408|SUN|Gennady Logofet
+P-52906|SUN|Evgeny Lovchev
+P-19936|SUN|Slava Metreveli
+P-50044|SUN|Vladimir Muntyan
+P-43733|SUN|Givi Nodia
+P-53800|SUN|Valeriy Porkujan
+P-59828|SUN|Anatoliy Puzach
+P-60181|SUN|Viktor Serebryanikov
+P-28651|SUN|Albert Shesternyov
+P-99794|SUN|Leonid Shmuts
+P-34497|SUN|Ivan Yaremchuk
+P-72049|SUN|Gennady Yevriuzhikin
+P-97724|SUN|Valery Zykov
+P-47978|URY|Atilio Ancheta
+P-51410|URY|Rúben Bareño
+P-30744|URY|Omar Caetano
+P-81455|URY|Walter Corbo
+P-82186|URY|Julio César Cortés
+P-81929|URY|Luis Cubilla
+P-58801|URY|Francisco Cámera
+P-99710|URY|Víctor Espárrago
+P-48169|URY|Dagoberto Fontes
+P-95376|URY|Alberto Gómez
+P-08424|URY|Julio Losada
+P-40429|URY|Ildo Maneiro
+P-83747|URY|Roberto Matosas
+P-53140|URY|Ladislao Mazurkiewicz
+P-83931|URY|Julio Montero Castillo
+P-93811|URY|Julio Morales
+P-50162|URY|Juan Mujica
+P-47892|URY|Pedro Rocha
+P-90366|URY|Rodolfo Sandoval
+P-51832|URY|Héctor Santos
+P-63224|URY|Luis Ubiña
+P-02662|URY|Oscar Zubia
+P-74361|YUG|Safet Sušić
+P-83693|YUG|Zlatko Vujović

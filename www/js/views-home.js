@@ -39,7 +39,7 @@ LX.route(/^\/home$/, root => {
       <button class="smallcard" data-g="/era"><span class="ic">${I.clock}</span><span class="t">ذاكرة الأجيال</span><span class="d">FOOTBALL TIME MACHINE</span></button>
       <button class="smallcard" data-g="/daily"><span class="ic">${I.cal}</span><span class="t">التحدي اليومي</span><span class="d">DAILY LEGEND CHALLENGE</span></button>
     </div>
-    <button class="prow" style="margin-top:12px" data-g="/search">${I.search.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">ابحث عن أي لاعب</div><div class="s">${st.players} لاعب · ${st.squads} تشكيلة · ${st.edges.toLocaleString('ar-EG')} رابط زمالة موثق</div></div></button>
+    <button class="prow" style="margin-top:12px" data-g="/search">${I.search.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">ابحث عن أي لاعب</div><div class="s">${st.players} لاعب · ${st.squads} تشكيلة · ${Math.round(LX.linkCount).toLocaleString('ar-EG')} رابط زمالة موثق</div></div></button>
     <button class="prow" style="margin-top:8px" data-g="/achievements">${I.trophy.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">إنجازاتي</div><div class="s">${Object.keys(S.get('ach', {})).length} من ${LX.ACH.length} إنجاز</div></div></button>
     ${SIGHTML()}`);
   root.querySelector('.topbar h1').innerHTML = `<span class="en" style="letter-spacing:.14em;font-size:15px">LEGENDS <span class="gold">XI</span></span>`;
@@ -99,18 +99,19 @@ LX.route(/^\/settings$/, root => {
 
 /* ---------------- about */
 LX.route(/^\/about$/, root => {
-  const st = D.built; const src = D.squads.filter(s => s.ver === 'src').length;
+  const st = D.built; const src = D.squads.filter(s => s.ver === 'src' || s.ver === 'wcdb').length;
   LX.page(root, { title: 'عن التطبيق', gen: false }, `
     <div class="hero">${LX.logo(110)}<h2 class="en">LEGENDS <b>XI</b></h2><div class="tag en">FOOTBALL TIME MACHINE</div><div class="signature">Created by <b>Dr HOSSAM Mo</b></div><div class="muted en" style="font-size:12px;margin-top:4px">v1.0.0</div></div>
     <div class="card" style="margin-top:14px;font-size:14px">موسوعة تاريخية لكرة القدم وألعاب معرفة تجمع بين حنين الكرة الكلاسيكية وتقنيات الألعاب الحديثة. كل الأقسام تعتمد على قاعدة بيانات واحدة، فاللاعب نفسه يظهر بنفس السجل في التشكيلات والألعاب والوصلات.</div>
-    <div class="rgrid"><div><b>${st.players}</b><small>لاعب</small></div><div><b>${st.squads}</b><small>تشكيلة</small></div><div><b>${st.edges.toLocaleString('en')}</b><small>رابط زمالة</small></div><div><b>${st.full}</b><small>مسيرة كاملة</small></div><div><b>${Object.keys(D.teams).length}</b><small>فريق ومنتخب</small></div><div><b>${src}</b><small>تشكيلة مراجعة</small></div></div>
+    <div class="rgrid"><div><b>${st.players}</b><small>لاعب</small></div><div><b>${st.squads}</b><small>تشكيلة</small></div><div><b>${Math.round(LX.linkCount).toLocaleString('en')}</b><small>رابط زمالة</small></div><div><b>${st.full}</b><small>مسيرة أندية كاملة</small></div><div><b>${Object.keys(D.teams).length}</b><small>فريق ومنتخب</small></div><div><b>${src}</b><small>تشكيلة مراجعة</small></div></div>
     <div class="section-t">منهجية التوثيق</div>
     <div class="card" style="font-size:13px;line-height:1.8">
       • <b>تشكيلات المباريات</b> تُعرض كما سُجلت في تلك المباراة بأرقامها؛ الرقم غير المعروف يظهر "غير موثق" ولا يُخمَّن.<br>
       • شارة <span class="verbadge src">موثقة</span> تعني أن التشكيلة روجعت مقابل سجل المباراة المنشور أثناء البناء، و<span class="verbadge kb">معرفة تاريخية</span> تعني أنها من المعرفة التاريخية بانتظار مراجعة مصدر ثانٍ.<br>
       • <b>رابط الزمالة بين الأندية</b> لا يُقبل إلا إذا تداخلت فترتا اللاعبين في الفريق الأول موسمًا كاملًا على الأقل؛ اللعب لنفس النادي في سنوات مختلفة لا يكفي.<br>
       • <b>روابط المنتخبات</b> تُستخرج فقط من تشكيلات موثقة، ولا تُستنتج من تداخل السنوات.<br>
-      • لا يُعرض أي تحدٍ في الوصلات قبل التحقق من وجود حل موثق تحت نفس القيود.
+      • لا يُعرض أي تحدٍ في الوصلات قبل التحقق من وجود حل موثق تحت نفس القيود.<br>
+      • لاعبو كأس العالم وقوائم المنتخبات وتشكيلات آخر مباراة لكل منتخب (1962–2022) مأخوذة من قاعدة بيانات Fjelstul المفتوحة لكأس العالم، وتحمل شارة <span class="verbadge wcdb">قاعدة كأس العالم</span>. مسيرة الأندية لهؤلاء اللاعبين لم تُضف بعد، فلا تُعرض لهم سنوات أندية غير موثقة.
     </div>
     ${SIGHTML()}`);
 });
@@ -122,6 +123,7 @@ LX.route(/^\/credits$/, root => {
     <div class="card" style="font-size:13px;line-height:1.8"><b>LEGENDS XI</b> — Football Time Machine<br>Created by <b class="gold">Dr HOSSAM Mo</b><br>الشعار والهوية البصرية تصميم أصلي للتطبيق. شارات الفرق داخل التطبيق رموز مولدة بالألوان والحروف وليست شعارات الأندية الرسمية.</div>
     <div class="section-t">مصادر البيانات</div>
     <div class="card" style="font-size:13px;line-height:1.8">سجلات المباريات النهائية (التشكيلات وأرقام القمصان والبدلاء) روجعت مقابل صفحات المباريات المنشورة على ويكيبيديا ونسخها المؤرشفة، وسجل نادي ليفربول التاريخي (lfchistory.net). مسيرات اللاعبين مُدخلة على مستوى المواسم ويمكن تصحيحها وتوسيعها في ملفات المصدر.</div>
+    <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px">بيانات كأس العالم (القوائم، أرقام القمصان، المراكز، تواريخ الميلاد، تشكيلات المباريات): <b>The Fjelstul World Cup Database</b> — Joshua C. Fjelstul — مرخصة بموجب <span class="ltr">CC-BY-SA 4.0</span>.</div>
     <div class="section-t">صور اللاعبين <small>${cr.length} صورة محفوظة</small></div>
     <div class="card" style="font-size:12.5px">تُجلب الصور من ويكيبيديا / ويكيميديا كومنز. قبل العرض يتحقق التطبيق من أن الصفحة للاعب كرة قدم وأن ترخيص الملف ليس "غير حر"، ويحفظ اسم الملف والترخيص والمصوّر. الصور ملك أصحابها وفق تراخيصها المذكورة.</div>
     <div class="plist">${cr.map(c => { const p = LX.P(c.pid); return p ? `<a class="prow" href="${esc(c.src)}" target="_blank" rel="noopener">${LX.ph(p.id, 40)}<div class="grow"><div class="n">${esc(p.ar)}</div><div class="s ltr" style="text-align:right">${esc(c.lic)}${c.art ? ' · ' + esc(c.art) : ''}</div></div></a>` : ''; }).join('') || '<div class="empty">لم تُحفظ صور بعد — تصفح التشكيلات وستظهر هنا مع تراخيصها</div>'}</div>

@@ -41,6 +41,12 @@ LX.T = id => D.teams[id];
 LX.squadById = {}; D.squads.forEach(s => LX.squadById[s.id] = s);
 LX.squadsOf = {}; D.squads.forEach(s => s.p.forEach(x => (LX.squadsOf[x[2]] = LX.squadsOf[x[2]] || []).push(s)));
 LX.allPlayers = Object.values(D.players);
+LX.wcYears = p => (p.wc || []).map(w => w[0]);
+LX.yearsLabel = p => {
+  if (p.cl.length || !p.wc) return p.yr ? LX.iso(p.yr[0] + '–' + (p.yr[1] >= LX.NOW ? 'الآن' : p.yr[1])) : '';
+  return 'مونديال ' + LX.wcYears(p).join('، ');
+};
+LX.verLabel = v => ({ src: 'موثقة', kb: 'معرفة تاريخية', wcdb: 'قاعدة كأس العالم' }[v] || v);
 LX.posGroup = pos => {
   pos = (pos || '').toUpperCase();
   if (pos === 'GK') return 'GK';
@@ -145,8 +151,39 @@ LX.search = (q, limit = 30, filter) => {
 };
 
 /* ---------------- teammate graph */
+/* links: club overlaps ship pre-computed; squad & match links are rebuilt here from the verified squads */
 const ADJ = LX.ADJ = {};
-D.edges.forEach(([a, b, ev]) => { (ADJ[a] = ADJ[a] || []).push([b, ev]); (ADJ[b] = ADJ[b] || []).push([a, ev]); });
+(() => {
+  const G = new Map();
+  const add = (a, b, e) => {
+    if (a === b) return;
+    for (const [x, y] of [[a, b], [b, a]]) {
+      let m = G.get(x); if (!m) G.set(x, m = new Map());
+      let l = m.get(y); if (!l) m.set(y, l = []);
+      if (x === a) l.push(e);
+    }
+  };
+  const addPair = (a, b, e) => {
+    add(a, b, e);
+    const l = G.get(a).get(b); G.get(b).set(a, l);
+  };
+  D.edges.forEach(([a, b, ev]) => ev.forEach(e => addPair(a, b, e)));
+  D.squads.forEach(s => {
+    const ids = s.p.map(x => x[2]), played = new Set(s.p.filter(x => x[3] !== 'SQ').map(x => x[2]));
+    for (let i = 0; i < ids.length; i++) for (let j = i + 1; j < ids.length; j++)
+      addPair(ids[i], ids[j], { k: played.has(ids[i]) && played.has(ids[j]) ? 'M' : 'S', t: s.team, s: s.id, y: [s.s, s.s + 1] });
+  });
+  (D.wcsq || []).forEach(w => {
+    const ids = w.p.map(x => x[1]);
+    for (let i = 0; i < ids.length; i++) for (let j = i + 1; j < ids.length; j++) {
+      const ex = G.get(ids[i]) && G.get(ids[i]).get(ids[j]);
+      if (ex && ex.some(e => e.t === w.team && e.y[0] === w.y)) continue;   // already linked by a full squad of the same tournament
+      addPair(ids[i], ids[j], { k: 'S', t: w.team, w: w.y, y: [w.y, w.y + 1] });
+    }
+  });
+  G.forEach((m, a) => { ADJ[a] = [...m]; });
+  LX.linkCount = [...G.values()].reduce((n, m) => n + m.size, 0) / 2;
+})();
 LX.evidence = (a, b) => { const l = ADJ[a] || []; const f = l.find(x => x[0] === b); return f ? f[1] : null; };
 LX.edgeOK = (ev, opt) => {
   if (!ev) return false;
@@ -200,6 +237,7 @@ LX.evText = e => {
   const t = LX.T(e.t), tn = t ? t.ar : e.t;
   if (e.k === 'M' || e.k === 'S') {
     const s = LX.squadById[e.s];
+    if (e.w) return { kind: 'زملاء في قائمة كأس العالم', team: tn, years: String(e.w), ev: `قائمة منتخب ${tn} في كأس العالم ${e.w}` };
     return { kind: e.k === 'M' ? 'زملاء في مباراة موثقة' : 'زملاء في قائمة موثقة', team: tn, years: s ? s.date.slice(0, 4) : '', ev: s ? `${s.comp} — ${s.match}` : '' };
   }
   return { kind: 'زملاء في الفريق الأول', team: tn, years: LX.span(e.y[0], e.y[1]), ev: 'تداخل فترتي اللعب في الفريق الأول لموسم كامل على الأقل' };

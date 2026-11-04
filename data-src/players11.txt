@@ -32,7 +32,7 @@ moratalla|Josep Moratalla|جوسيب موراتايا|N-ESP|MF|1957-01-01|4||BAR
 pichialonso|Pichi Alonso|بيتشي ألونسو|N-ESP|FW|1954-09-26|4||ESP 1979-1982; BAR 1982-1986|-|pichi alonso
 mlynarczyk|Józef Młynarczyk|يوزيف مليناركزيك|N-POL|GK|1953-09-20|4|1979-1986|POR 1986-1989|-|mlynarczyk
 joaopinto|João Pinto|جواو بينتو|N-POR|RB|1961-11-21|3|1983-1996|POR 1981-1997|-|joao pinto
-inacio|Augusto Inácio|أوغوستو إيناسيو|N-POR|LB|1955-02-28|4||POR 1986-1987|-|inacio
+inacio|Augusto Inácio|أوغوستو إيناسيو|N-POR|LB|1955-02-01|4||POR 1986-1987|-|inacio
 eduardoluis|Eduardo Luís|إدواردو لويس|N-POR|CB|1956-01-01|4||POR 1986-1987|-|eduardo luis
 celso|Celso|سيلسو|N-BRA|CB|1956-01-01|4||POR 1986-1987|-|celso
 quim|Quim|كيم|N-POR|MF|1959-01-01|4||POR 1986-1987|-|quim

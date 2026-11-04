@@ -181,7 +181,7 @@ LX.pickPlayer = opts => {
   });
   return sh;
 };
-LX.prow = (p, extra = '') => `<button class="prow" data-p="${p.id}">${LX.ph(p.id, 40)}<div class="grow"><div class="n">${esc(p.ar)}</div><div class="s"><span class="ltr">${esc(p.en)}</span> · ${LX.flag((LX.T(p.nat) || {}).cc)} ${esc(LX.POSAR[LX.posGroup(p.pos)])}${p.yr ? ` · ${LX.iso(p.yr[0] + '–' + Math.min(p.yr[1], LX.NOW))}` : ''}</div></div>${extra}</button>`;
+LX.prow = (p, extra = '') => `<button class="prow" data-p="${p.id}">${LX.ph(p.id, 40)}<div class="grow"><div class="n">${esc(p.ar)}</div><div class="s"><span class="ltr">${esc(p.en)}</span> · ${LX.flag((LX.T(p.nat) || {}).cc)} ${esc(LX.POSAR[LX.posGroup(p.pos)])}${LX.yearsLabel(p) ? ` · ${LX.yearsLabel(p)}` : ''}</div></div>${extra}</button>`;
 
 /* ---------------- share / export */
 LX.shareCanvas = async (canvas, name, text) => {

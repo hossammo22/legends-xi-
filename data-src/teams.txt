@@ -283,3 +283,20 @@ N-RSA|South Africa|جنوب أفريقيا|nt|ZA|#007A4D|#FFB612
 N-COD|DR Congo|الكونغو الديمقراطية|nt|CD|#007FFF|#CE1021
 N-MNE|Montenegro|الجبل الأسود|nt|ME|#C40308|#D3AE3B
 N-SMR|San Marino|سان مارينو|nt|SM|#5EB6E4|#FFFFFF
+N-AGO|Angola|أنغولا|nt|AO|#CC092F|#000000
+N-UAE|United Arab Emirates|الإمارات|nt|AE|#FFFFFF|#00732F
+N-BOL|Bolivia|بوليفيا|nt|BO|#007934|#D52B1E
+N-CHN|China|الصين|nt|CN|#DE2910|#FFDE00
+N-GDR|East Germany|ألمانيا الشرقية|nt|DE|#FFFFFF|#0055A4
+N-HON|Honduras|هندوراس|nt|HN|#FFFFFF|#0073CF
+N-HAI|Haiti|هايتي|nt|HT|#00209F|#D21034
+N-IRQ|Iraq|العراق|nt|IQ|#FFFFFF|#007A3D
+N-ISR|Israel|إسرائيل|nt|IL|#FFFFFF|#0038B8
+N-JAM|Jamaica|جامايكا|nt|JM|#FED100|#009B3A
+N-KUW|Kuwait|الكويت|nt|KW|#007A3D|#FFFFFF
+N-NZL|New Zealand|نيوزيلندا|nt|NZ|#FFFFFF|#000000
+N-PAN|Panama|بنما|nt|PA|#DA121A|#FFFFFF
+N-PRK|North Korea|كوريا الشمالية|nt|KP|#ED1C27|#FFFFFF
+N-QAT|Qatar|قطر|nt|QA|#8A1538|#FFFFFF
+N-SCG|Serbia and Montenegro|صربيا والجبل الأسود|nt|RS|#0C4076|#FFFFFF
+N-SLV|El Salvador|السلفادور|nt|SV|#0F47AF|#FFFFFF
