@@ -20,7 +20,7 @@ function facts(p, r) {
   p.cl.forEach((c, i) => {
     const tn = LX.teamName(c[0]);
     F.push({ c: 'clubs', g: 'c' + c[0], x: `لعب لنادي ${tn}`, t: q => q.cl.some(z => z[0] === c[0]), big: BIG.has(c[0]) });
-    F.push({ c: 'career', g: 'c' + c[0], x: `لعب لـ${tn} في الفترة ${LX.span(c[1], Math.min(c[2], LX.NOW))}`, t: q => q.cl.some(z => z[0] === c[0] && Math.min(z[2], c[2]) - Math.max(z[1], c[1]) >= 1) });
+    F.push({ c: 'career', g: 'c' + c[0], x: c[5] ? `انضم إلى ${tn} عام ${c[1]}` : `لعب لـ${tn} في الفترة ${LX.span(c[1], Math.min(c[2], LX.NOW))}`, t: q => q.cl.some(z => z[0] === c[0] && Math.min(z[2], c[2]) - Math.max(z[1], c[1]) >= 1) });
     const nx = p.cl[i + 1];
     if (nx && nx[0] !== c[0]) F.push({ c: 'career', x: `انتقل من ${tn} إلى ${LX.teamName(nx[0])}${Math.abs(nx[1] - c[2]) <= 1 ? ` عام ${nx[1]}` : ''}`, t: q => q.cl.some((z, k) => z[0] === c[0] && q.cl.slice(k + 1).some(w => w[0] === nx[0])) });
   });
@@ -33,7 +33,7 @@ function facts(p, r) {
   });
   if (p.nt) F.push({ c: 'nat', g: 'nat', x: `لعب دوليًا مع ${nat} منذ ${p.nt[0]}`, t: q => q.nat === p.nat && q.nt && Math.abs(q.nt[0] - p.nt[0]) <= 1 });
   if (yr(p)) F.push({ c: 'career', x: `وُلد عام ${yr(p)}`, t: q => yr(q) === yr(p) });
-  if (p.yr && p.cl.length) F.push({ c: 'career', x: `جيله: نشط بين ${p.yr[0]} و${Math.min(p.yr[1], LX.NOW) >= LX.NOW ? 'اليوم' : p.yr[1]}`, t: q => q.yr && q.cl.length && Math.abs(q.yr[0] - p.yr[0]) <= 2, w: 1 });
+  if (p.yr && p.cl.length && p.cs !== 'tm') F.push({ c: 'career', x: `جيله: نشط بين ${p.yr[0]} و${Math.min(p.yr[1], LX.NOW) >= LX.NOW ? 'اليوم' : p.yr[1]}`, t: q => q.yr && q.cl.length && Math.abs(q.yr[0] - p.yr[0]) <= 2, w: 1 });
   // World Cup participations (Fjelstul World Cup Database)
   const W = p.wc || [], wy = W.map(w => w[0]);
   if (W.length) {
@@ -87,7 +87,7 @@ LX.makeQuestion = (opts) => {
     let chosen = [];
     // World-Cup-only players: anchor the question to one of their COMPLETE squads, so that being unique
     // in the database also means being unique in reality
-    if (!p.cl.length && p.wc) {
+    if (p.id[0] === 'w' && p.wc) {
       const full = (LX.squadsOf[p.id] || []).filter(s => s.ver === 'wcdb' && s.team === p.nat);
       if (!full.length) continue;
       const fs = LX.pick(full, r), ay = fs.s;

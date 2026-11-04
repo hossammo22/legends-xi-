@@ -1,0 +1,340 @@
+# Transfermarkt club name | Arabic name | =ALIAS (existing team id or another TM name to merge into)
+FC Internazionale||=INT
+El Ahly||=AHL
+GZ Evergrande||=GZE
+Newell's||=NOB
+Genoa 1893||=GEN
+América||=CAM
+Bröndby IF||=BRB
+FC Empoli||=Empoli FC
+AC Venezia 1907||=Venezia FC
+Dordrecht'90||=FC Dordrecht
+Spartak-Alania Vladikavkaz||=Alania Vladikavkaz
+Spartak Vladikavkaz||=Alania Vladikavkaz
+Getafe CF|خيتافي
+Lokomotiv Moscow|لوكوموتيف موسكو
+FC Metz|ميتز
+Levante UD|ليفانتي
+FC Lorient|لوريان
+FC Toulouse|تولوز
+Real Valladolid CF|بلد الوليد
+SC Bastia|باستيا
+Boavista FC|بوافيستا
+Hannover 96|هانوفر 96
+SC Freiburg|فرايبورغ
+Vitória Guimarães SC|فيتوريا غيماريش
+RC Strasbourg Alsace|ستراسبورغ
+Swansea City|سوانزي سيتي
+Vitesse Arnhem|فيتيس أرنهيم
+Deportivo Alavés|ديبورتيفو ألافيس
+Racing Santander|راسينغ سانتاندير
+AFC Bournemouth|بورنموث
+Rubin Kazan|روبين كازان
+Norwich City|نوريتش سيتي
+Anzhi Makhachkala ( -2022)|أنجي محج قلعة
+VfL Bochum|بوخوم
+FC Sochaux-Montbéliard|سوشو
+Granada CF|غرناطة
+Chievo Verona|كييفو فيرونا
+AS Nancy-Lorraine|نانسي
+RKC Waalwijk|فالفيك
+CS Sedan-Ardennes|سيدان
+Vitória Setúbal FC|فيتوريا سيتوبال
+CD Leganés|ليغانيس
+SD Eibar|إيبار
+Sheffield United|شيفيلد يونايتد
+NAC Breda|بريدا
+CF Os Belenenses|بيليننسيش
+Reading FC|ريدينغ
+AC Cesena|تشيزينا
+UD Las Palmas|لاس بالماس
+Roda JC Kerkrade|رودا كيركراده
+Rayo Vallecano|رايو فاييكانو
+SC Farense|فارينسي
+União de Leiria|ليريا
+Sparta Rotterdam|سبارتا روتردام
+NEC Nijmegen|نايميخن
+US Lecce|ليتشي
+TSV 1860 Munich|ميونخ 1860
+CD Tenerife|تينيريفي
+Empoli FC|إمبولي
+Valenciennes FC|فالنسيان
+CS Marítimo|ماريتيمو
+Krylya Sovetov Samara|كريليا سوفيتوف سامارا
+FK Rostov|روستوف
+FK Krasnodar|كراسنودار
+Gil Vicente FC|جيل فيسنتي
+ESTAC Troyes|تروا
+AC Siena|سيينا
+Cardiff City|كارديف سيتي
+Fortuna Düsseldorf|فورتونا دوسلدورف
+FC Évian Thonon Gaillard|إيفيان
+Real Murcia CF|ريال مورسيا
+CD Logroñés|لوغرونيس
+AC Reggiana|ريجيانا
+Huddersfield Town|هيدرسفيلد تاون
+VVV-Venlo|فينلو
+FC Utrecht|أوتريخت
+AC Ajaccio|أجاكسيو
+Elche CF|إلتشي
+Albacete Balompié|ألباسيتي
+Clube Futebol Estrela da Amadora|إستريلا دا أمادورا
+SM Caen|كان (نورماندي)
+FC Augsburg|أوغسبورغ
+Le Mans Union Club 72|لو مان
+AC Le Havre|لوهافر
+FC Istres Ouest Provence|إيستر
+1.FSV Mainz 05|ماينز 05
+Go Ahead Eagles|غو أهيد إيغلز
+Angers SCO|أنجيه
+Delfino Pescara 1936|بيسكارا
+Stade Brestois 29|بريست
+Sporting Gijón|سبورتينغ خيخون
+US Salernitana 1919|ساليرنيتانا
+FC Paços de Ferreira|باسوش دي فيريرا
+Académica Coimbra|أكاديميكا كويمبرا
+AS Livorno|ليفورنو
+Ascoli Calcio 1898|أسكولي
+Trabzonspor|طرابزون سبور
+Recreativo Huelva|ريكرياتيفو هويلفا
+Arminia Bielefeld|أرمينيا بيليفيلد
+UD Salamanca|سالامانكا
+US Sassuolo|ساسولو
+Catania SSD|كاتانيا
+Heracles Almelo|هيراكليس ألميلو
+Dijon FCO|ديجون
+Bradford City|برادفورد سيتي
+Desportivo Aves (- 2020)|ديسبورتيفو أفيش
+Kuban Krasnodar (-2018)|كوبان كراسنودار
+Arsenal Tula|أرسنال تولا
+Hércules CF|هيركوليس
+UD Almería|ألميريا
+SC Beira-Mar|بيرا مار
+PAOK Salonika|باوك سالونيك
+Cádiz CF|قادش
+MSV Duisburg|دويسبورغ
+Doncaster Rovers|دونكاستر روفرز
+CA Felgueiras|فيلغيراش
+FC Penafiel|بينافيل
+Foggia Calcio|فودجا
+FC Martigues|مارتيغ
+Real Oviedo|ريال أوفييدو
+SG Dynamo Dresden|دينامو دريسدن
+Spezia Calcio|سبيزيا
+Gimnàstic de Tarragona|خيمناستيك تاراغونا
+1.FC Union Berlin|أونيون برلين
+Moreirense FC|موريرينسي
+Excelsior Rotterdam|إكسلسيور روتردام
+Stade Reims|ريمس
+FC Famalicão|فاماليكاو
+Girona FC|جيرونا
+ADO Den Haag|أدو دن هاخ
+Rosario Central|روساريو سنترال
+Reggina Calcio|ريجينا
+Helsingborg|هيلسينغبورغ
+SC Olhanense|أولهانينسي
+Bursaspor|بورصة سبور
+GD Estoril Praia|إستوريل
+Rio Ave FC|ريو آفي
+Blackpool FC|بلاكبول
+CD Numancia|نومانسيا
+SC Salgueiros|سالغيروس
+Calcio Padova|بادوفا
+Swindon Town|سويندون تاون
+Modena FC|مودينا
+SD Compostela|كومبوستيلا
+CP Mérida|ميريدا
+Metalist|ميتاليست خاركيف
+Brentford FC|برينتفورد
+CD Fátima|فاطيما
+De Graafschap Doetinchem|دي خرافسخاب
+Burton Albion|بيرتون ألبيون
+Preston North End|بريستون نورث إند
+FC Moscow|إف سي موسكو
+Dnipro|دنيبرو
+FC Crotone|كروتوني
+Casa Pia AC|كازا بيا
+GD Chaves|شافيش
+Alanyaspor|ألانيا سبور
+Amiens SC|أميان
+Tom Tomsk|توم تومسك
+Clermont Foot 63|كليرمون فوت
+Torpedo Moscow|توربيدو موسكو
+AEK Athens|أيك أثينا
+CSKA Sofia|سيسكا صوفيا
+Scunthorpe United|سكانثورب يونايتد
+Al-Wakrah SC|الوكرة
+Leixões SC|ليشويش
+FC Den Bosch|دن بوش
+Al-Ain FC|العين
+Nîmes Olympique|نيم أولمبيك
+Bristol City|بريستول سيتي
+Benevento Calcio|بينيفينتو
+FC St. Gallen|سانت غالن
+Olivais|أوليفايش
+Millwall FC|ميلوول
+Kayserispor|قيصري سبور
+AIK|إيه آي كيه سولنا
+UAG Tecos|تيكوس
+Fortuna Sittard|فورتونا سيتارد
+FC Volendam|فولندام
+MVV Maastricht|ماستريخت
+Suwon Bluewings|سوون بلووينغز
+FC Alverca|ألفيركا
+Saturn Ramenskoe|ساتورن رامنسكوي
+Alania Vladikavkaz|ألانيا فلاديكافكاز
+LB Châteauroux|شاتورو
+Gamba Osaka|غامبا أوساكا
+RBC Roosendaal|روزندال
+SC Campomaiorense (- 2001)|كامبومايورينسي
+Xamax|نوشاتيل زاماكس
+FC Hansa Rostock|هانزا روستوك
+Plymouth Argyle|بليموث أرغايل
+Ipswich Town|إيبسويتش تاون
+FC Tirsense|تيرسينسي
+Sokol Saratov|سوكول ساراتوف
+Torpedo-ZiL Moscow|توربيدو زيل موسكو
+КАМАЗ-Чаллы Набережные Челны|كاماز نابيريجني تشيلني
+Lierse SK|ليرس
+Cercle Brugge|سيركل بروج
+SpVgg Greuther Fürth|غرويتر فورت
+CD Lugo|لوغو
+KV Oostende|أوستند
+Zulte Waregem|زولتي فاريغيم
+Aberdeen FC|أبردين
+Indep. Medellín|إندبندينتي ميديين
+FC Dordrecht|دوردريخت
+DL Yifang|داليان ييفانغ
+CFR Cluj|كلوج
+Amkar Perm|أمكار بيرم
+Cheltenham|تشيلتنهام
+Barnsley FC|بارنسلي
+SD Huesca|هويسكا
+FC Sochi|سوتشي
+Venezia FC|فينيسيا
+Ankaragücü|أنقرة غوجو
+Ponferradina|بونفيرادينا
+FK Khimki|خيمكي
+Tours FC|تور
+Al-Ahli (UAE)|الأهلي الإماراتي
+Ural Yekaterinburg|أورال يكاترينبورغ
+Chita|تشيتا
+Zhemchuzhina Sochi|جيمتشوجينا سوتشي
+Tigres UANL|تيغريس
+Maccabi Haifa|مكابي حيفا
+Brommapojkarna|بروما بويكارنا
+EC Vitória|فيتوريا (البرازيل)
+GFC Ajaccio|غازيليك أجاكسيو
+Portimonense SC|بورتيموننسي
+Bayonne|بايون
+Xerez CD|شيريز
+Qatar SC|قطر الرياضي
+Belenenses SAD|بيليننسيش إس إيه دي
+AO Kavala|كافالا
+Kidderminster|كيدرمينستر
+Córdoba CF|قرطبة
+Ittihad Kalba|اتحاد كلباء
+HB CFFC|خبي تشاينا فورتشن
+M. Tel Aviv|مكابي تل أبيب
+Antalyaspor|أنطاليا سبور
+AGOVV|أغوف أبيلدورن
+Entente SSG|أنتنت سانا
+AC Monza|مونزا
+Piacenza FC|بياتشنزا
+Stade Lavallois|لافال
+FC Cartagena|قرطاجنة
+Athlétic Club Arlésien|آرل أفينيون
+Apol. Limassol|أبولون ليماسول
+Atl. Kolkata|أتلتيكو كولكاتا
+Al-Arabi SC|العربي القطري
+PFK Tambov|تامبوف
+Atl. Nacional|أتلتيكو ناسيونال
+SV Darmstadt 98|دارمشتات
+San Jose|سان خوسيه إيرثكويكس
+Huracán|هوراكان
+OFI Crete FC|أوفي كريت
+Panthrakikos|بانثراكيكوس
+Novara Calcio 1908|نوفارا
+New England|نيو إنغلاند ريفولوشن
+Gillingham FC|جيلينغهام
+Frosinone Calcio|فروزينوني
+Milton Keynes Dons|ميلتون كينز دونز
+SKA Khabarovsk|سكا خاباروفسك
+APO Levadiakos|ليفادياكوس
+Philadelphia|فيلادلفيا يونيون
+CD Cruz Azul|كروز أزول
+Mersin IY|مرسين
+Pohang Steelers|بوهانغ ستيلرز
+Atlético-PR|أتلتيكو بارانينسي
+La Louviere|لا لوفيير
+US Boulogne|بولوني
+KSC Lokeren|لوكيرين
+Slavia Prague|سلافيا براغ
+U. de Chile|جامعة تشيلي
+Sivasspor|سيواس سبور
+FC Energie Cottbus|كوتبوس
+Carpi FC 1909|كاربي
+Ulsan Hyundai|أولسان هيونداي
+Chunnam Dragons|تشونام دراغونز
+Varzim SC|فارزيم
+Germ. Beerschot|جيرمينال بيرشوت
+Grenoble Foot 38|غرونوبل
+Chesterfield FC|تشسترفيلد
+Genclerbirligi|غنتشلربيرليغي
+CF Extremadura (- 2010)|إكستريمادورا
+Real Jaén CF|ريال خاين
+Ciudad Murcia|سيوداد مورسيا
+FC Messina Peloro|ميسينا
+União Lamas|لاماش
+Treviso FBC 1993|تريفيزو
+SC Cambuur-Leeuwarden|كامبور
+Chamois Niort|نيور
+Ancona Calcio|أنكونا
+Lucchese|لوكيزي
+Leça FC|ليسا
+Lausanne-Sport|لوزان سبورت
+Defensor|ديفنسور سبورتينغ
+Qadsia SC|القادسية الكويتي
+Como Calcio|كومو
+Urawa Reds|أوراوا ريد دايموندز
+Ironi Ashdod|إيروني أشدود
+Oldham Athletic|أولدهام أتلتيك
+SpVgg Unterhaching|أونترهاخينغ
+Indep. Santa Fe|إندبندينتي سانتا في
+KFC Uerdingen 05|أويردينغن
+CD Toledo|طليطلة
+1.FC Saarbrücken|ساربروكن
+Levski Sofia|ليفسكي صوفيا
+Al-Wahda FC|الوحدة الإماراتي
+Radnicki 1923|رادنيتشكي
+APOEL Nicosia|أبويل نيقوسيا
+Chernomorets Novorossijsk|تشيرنوموريتس نوفوروسيسك
+Viking FK|فايكنغ
+FC Dinamo|دينامو (روسيا)
+UE Lleida|ليريدا
+Lokomotiv Nizhniy Novgorod|لوكوموتيف نيجني نوفغورود
+Wimbledon FC|ويمبلدون
+Vanguard Huandao|غوانغدونغ
+ФК Элиста|أوراليت إليستا
+SG Wattenscheid 09|فاتنشايد 09
+VfB Leipzig (- 2004)|فيه إف بي لايبزيغ
+Sturm Graz|شتورم غراتس
+Colorado|كولورادو رابيدز
+Sanf. Hiroshima|سانفريتشي هيروشيما
+Luton Town|لوتون تاون
+Sporting Club de Toulon et du Var|تولون
+Estudiantes||=EST
+Toronto||=TFC
+Kasimpasa|قاسم باشا
+Stockport|ستوكبورت كاونتي
+Paris FC|باريس إف سي
+Lourinhanense|لورينيانينسي
+Austria Vienna|أوستريا فيينا
+Al-Rayyan SC|الريان
+AC Fiorentina||=FIO
+US Salernitana||=US Salernitana 1919
+Seattle|سياتل ساوندرز
+Rotherham United|روثرهام يونايتد
+Los Angeles||=LAFC
+Rochdale|روتشديل
+KAA Gent|خنت

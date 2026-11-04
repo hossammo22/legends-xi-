@@ -1,0 +1,489 @@
+Valencia CF|64
+FC Porto|63
+FC Internazionale|60
+Sporting CP|60
+SL Benfica|58
+Ajax Amsterdam|54
+Olympique Marseille|53
+PSV Eindhoven|52
+Paris Saint-Germain|50
+Tottenham Hotspur|47
+Everton FC|46
+AS Roma|45
+Chelsea FC|44
+Atlético de Madrid|44
+FC Barcelona|43
+Manchester City|43
+Newcastle United|42
+Arsenal FC|41
+Liverpool FC|41
+AS Monaco|41
+West Ham United|40
+Sevilla FC|40
+Feyenoord Rotterdam|40
+Aston Villa|39
+Manchester United|38
+Villarreal CF|37
+Málaga CF|37
+FC Schalke 04|37
+UC Sampdoria|35
+SS Lazio|35
+Borussia Dortmund|34
+AC Milan|33
+SSC Napoli|33
+AZ Alkmaar|32
+Bayern Munich|32
+Stade Rennais FC|32
+Fulham FC|32
+RC Lens|32
+Real Madrid|31
+Bayer 04 Leverkusen|31
+Juventus FC|30
+AS Saint-Étienne|29
+Deportivo de La Coruña|29
+Olympique Lyon|28
+Southampton FC|28
+Blackburn Rovers|28
+FC Girondins Bordeaux|28
+ACF Fiorentina|27
+Sunderland AFC|26
+Leicester City|26
+VfL Wolfsburg|26
+Real Betis Balompié|25
+Hamburger SV|25
+Spartak Moscow|25
+AC Parma|25
+LOSC Lille|24
+SV Werder Bremen|24
+Cagliari Calcio|24
+Middlesbrough FC|24
+VfB Stuttgart|23
+Udinese Calcio|23
+Atalanta BC|22
+Wolverhampton Wanderers|22
+Eintracht Frankfurt|22
+Real Zaragoza|22
+Watford FC|21
+Leeds United|21
+RCD Mallorca|21
+FC Metz|21
+Queens Park Rangers|20
+RCD Espanyol Barcelona|20
+Torino FC|19
+Borussia Mönchengladbach|19
+Celta de Vigo|19
+Bologna FC 1909|19
+Hertha BSC|18
+SC Heerenveen|18
+Getafe CF|18
+Lokomotiv Moscow|18
+Genoa CFC|18
+Hannover 96|18
+1. FC Köln|18
+FC Lorient|17
+Fenerbahce|17
+OGC Nice|17
+FC Toulouse|17
+Zenit St. Petersburg|17
+West Bromwich Albion|17
+SC Bastia|17
+Bolton Wanderers|17
+Levante UD|17
+Wigan Athletic|17
+Boavista FC|17
+Derby County|17
+Milan AC|17
+Crystal Palace|16
+CSKA Moscow|16
+Real Valladolid CF|16
+Montpellier HSC|16
+Portsmouth FC|16
+1.FC Kaiserslautern|16
+Stoke City|15
+Twente Enschede FC|15
+TSG 1899 Hoffenheim|15
+Dinamo Moscow|15
+SC Freiburg|15
+Parma FC|15
+FC Nantes|15
+Birmingham City|15
+AJ Auxerre|15
+Swansea City|14
+Nottingham Forest|14
+CD Nacional|14
+Real Sociedad|14
+EA Guingamp|14
+SC Braga|13
+Deportivo Alavés|13
+RC Strasbourg Alsace|13
+Racing Santander|13
+1.FC Nuremberg|12
+Vitesse Arnhem|12
+Rubin Kazan|12
+CA Osasuna|12
+Vitória Guimarães SC|12
+Norwich City|12
+VfL Bochum|12
+FC Sochaux-Montbéliard|11
+Charlton Athletic|11
+Hellas Verona|11
+Anzhi Makhachkala ( -2022)|11
+Besiktas|10
+Brighton & Hove Albion|10
+Granada CF|10
+US Palermo|10
+AS Nancy-Lorraine|10
+RKC Waalwijk|10
+Brescia Calcio|10
+Coventry City|10
+AFC Bournemouth|9
+CD Leganés|9
+NAC Breda|9
+Chievo Verona|9
+Vitória Setúbal FC|8
+UD Las Palmas|8
+CF Os Belenenses|8
+Valenciennes FC|8
+Athletic Bilbao|8
+Rayo Vallecano|8
+Sheffield United|8
+União de Leiria|8
+ESTAC Troyes|8
+Galatasaray|8
+Sparta Rotterdam|8
+Rangers|8
+Celtic|8
+Cardiff City|8
+NEC Nijmegen|8
+US Lecce|8
+CS Sedan-Ardennes|8
+CD Tenerife|8
+AC Cesena|7
+FC Groningen|7
+CS Marítimo|7
+Elche CF|7
+Roda JC Kerkrade|7
+Krylya Sovetov Samara|7
+FK Rostov|7
+FK Krasnodar|7
+SC Farense|7
+AS Bari|7
+AC Siena|7
+Fortuna Düsseldorf|7
+Sheffield Wednesday|7
+FC Évian Thonon Gaillard|7
+TSV 1860 Munich|7
+Reading FC|7
+CD Logroñés|7
+AC Reggiana|7
+Huddersfield Town|6
+1.FSV Mainz 05|6
+VVV-Venlo|6
+Inter Milan|6
+FC Utrecht|6
+Olympiacos|6
+Albacete Balompié|6
+RSC Anderlecht|6
+Clube Futebol Estrela da Amadora|6
+SM Caen|6
+FC Augsburg|6
+Hull City|6
+Le Mans Union Club 72|6
+AC Le Havre|6
+Real Murcia CF|6
+AC Perugia|6
+Arminia Bielefeld|6
+FC Istres Ouest Provence|6
+Go Ahead Eagles|5
+RB Leipzig|5
+Angers SCO|5
+Empoli FC|5
+Delfino Pescara 1936|5
+Stade Brestois 29|5
+Sporting Gijón|5
+AC Ajaccio|5
+US Salernitana 1919|5
+Burnley FC|5
+Kuban Krasnodar (-2018)|5
+Gil Vicente FC|5
+Académica Coimbra|5
+AS Livorno|5
+Dynamo Kyiv|5
+Trabzonspor|5
+Panathinaikos|5
+Torino Calcio|5
+Standard Liège|5
+Vicenza Calcio|5
+UD Salamanca|5
+Heracles Almelo|4
+Dijon FCO|4
+Club Brugge|4
+Excelsior Rotterdam|4
+Bradford City|4
+ADO Den Haag|4
+Desportivo Aves (- 2020)|4
+Arsenal Tula|4
+Ascoli Calcio 1898|4
+Hércules CF|4
+PAOK Salonika|4
+Recreativo Huelva|4
+Boca Juniors|4
+Cádiz CF|4
+FC Copenhagen|4
+MSV Duisburg|4
+Partizan|4
+Doncaster Rovers|4
+CA Felgueiras|4
+FC Penafiel|4
+AS Cannes|4
+Foggia Calcio|4
+FC Martigues|4
+Real Oviedo|4
+AC Venezia 1907|4
+SG Dynamo Dresden|4
+Spezia Calcio|3
+US Sassuolo|3
+Gimnàstic de Tarragona|3
+Catania SSD|3
+Brentford FC|3
+Moreirense FC|3
+Stade Reims|3
+Preston North End|3
+Girona FC|3
+River Plate|3
+Rosario Central|3
+FC Paços de Ferreira|3
+Reggina Calcio|3
+Peñarol|3
+Helsingborg|3
+SC Olhanense|3
+Hajduk Split|3
+Bursaspor|3
+UD Almería|3
+GD Estoril Praia|3
+Rio Ave FC|3
+Blackpool FC|3
+SC Salgueiros|3
+Karlsruher SC|3
+Calcio Padova|3
+Swindon Town|3
+Modena FC|3
+SD Compostela|3
+Spartak Vladikavkaz|3
+CP Mérida|3
+Metalist|2
+1.FC Union Berlin|2
+Fluminense|2
+CD Fátima|2
+De Graafschap Doetinchem|2
+Flamengo|2
+FC Famalicão|2
+FC Crotone|2
+FC Moscow|2
+FC Empoli|2
+Dnipro|2
+Alanyaspor|2
+Amiens SC|2
+Tom Tomsk|2
+Independiente|2
+Clermont Foot 63|2
+Corinthians|2
+SD Eibar|2
+Torpedo Moscow|2
+AEK Athens|2
+Parma Calcio 1913|2
+Kasimpasa|2
+CSKA Sofia|2
+Stockport|2
+Al-Wakrah SC|2
+Leixões SC|2
+FC Den Bosch|2
+Al-Ain FC|2
+Nîmes Olympique|2
+Bristol City|2
+Benevento Calcio|2
+FC St. Gallen|2
+Olivais|2
+Millwall FC|2
+Kayserispor|2
+AIK|2
+UAG Tecos|2
+Fortuna Sittard|2
+FC Volendam|2
+São Paulo|2
+MVV Maastricht|2
+CD Numancia|2
+Suwon Bluewings|2
+SC Beira-Mar|2
+FC Alverca|2
+Saturn Ramenskoe|2
+Cruzeiro|2
+Alania Vladikavkaz|2
+LB Châteauroux|2
+Gamba Osaka|2
+RBC Roosendaal|2
+Xamax|2
+Plymouth Argyle|2
+AC Fiorentina|2
+Ipswich Town|2
+FC Tirsense|2
+Sokol Saratov|2
+Torpedo-ZiL Moscow|2
+КАМАЗ-Чаллы Набережные Челны|2
+Lierse SK|2
+Cercle Brugge|1
+SpVgg Greuther Fürth|1
+CD Lugo|1
+KV Oostende|1
+Zulte Waregem|1
+Dynamo Moscow|1
+Aberdeen FC|1
+Indep. Medellín|1
+FC Dordrecht|1
+DL Yifang|1
+Amkar Perm|1
+Cheltenham|1
+SD Huesca|1
+FC Sochi|1
+Venezia FC|1
+Ankaragücü|1
+Ponferradina|1
+FK Khimki|1
+Tours FC|1
+Al-Ahli (UAE)|1
+Ural Yekaterinburg|1
+Chita|1
+Zhemchuzhina Sochi|1
+Newell's|1
+Tigres UANL|1
+Maccabi Haifa|1
+Brommapojkarna|1
+El Ahly|1
+GFC Ajaccio|1
+GZ Evergrande|1
+Portimonense SC|1
+Bayonne|1
+Xerez CD|1
+Seattle|1
+Qatar SC|1
+Al-Ittihad Club|1
+Casa Pia AC|1
+Belenenses SAD|1
+AO Kavala|1
+Córdoba CF|1
+FC Basel|1
+Ittihad Kalba|1
+HB CFFC|1
+M. Tel Aviv|1
+Antalyaspor|1
+AGOVV|1
+Entente SSG|1
+AC Monza|1
+Piacenza FC|1
+Rotherham United|1
+Stade Lavallois|1
+FC Cartagena|1
+Athlétic Club Arlésien|1
+Apol. Limassol|1
+Atl. Kolkata|1
+Al-Arabi SC|1
+Santos FC|1
+Paris FC|1
+PFK Tambov|1
+Atl. Nacional|1
+SV Darmstadt 98|1
+San Jose|1
+Los Angeles|1
+Huracán|1
+Al-Sadd SC|1
+OFI Crete FC|1
+Panthrakikos|1
+Novara Calcio 1908|1
+New England|1
+Gillingham FC|1
+Frosinone Calcio|1
+Toronto|1
+Burton Albion|1
+APO Levadiakos|1
+Sparta Prague|1
+Philadelphia|1
+Grêmio|1
+San Lorenzo|1
+CD Cruz Azul|1
+América|1
+Mersin IY|1
+Bröndby IF|1
+Pohang Steelers|1
+Atlético-PR|1
+La Louviere|1
+US Boulogne|1
+Rochdale|1
+Slavia Prague|1
+US Salernitana|1
+U. de Chile|1
+Sivasspor|1
+FC Energie Cottbus|1
+Carpi FC 1909|1
+Ulsan Hyundai|1
+Chunnam Dragons|1
+Lourinhanense|1
+Dinamo Zagreb|1
+Varzim SC|1
+Al-Hilal SFC|1
+Germ. Beerschot|1
+Austria Vienna|1
+Grenoble Foot 38|1
+Chesterfield FC|1
+Genclerbirligi|1
+CF Extremadura (- 2010)|1
+Real Jaén CF|1
+Ciudad Murcia|1
+FC Messina Peloro|1
+KAA Gent|1
+Treviso FBC 1993|1
+SC Cambuur-Leeuwarden|1
+Chamois Niort|1
+Ancona Calcio|1
+Lucchese|1
+FC Hansa Rostock|1
+Spartak-Alania Vladikavkaz|1
+Leça FC|1
+Lausanne-Sport|1
+Defensor|1
+Qadsia SC|1
+Como Calcio|1
+Al-Rayyan SC|1
+Urawa Reds|1
+SC Campomaiorense (- 2001)|1
+Ironi Ashdod|1
+US Cremonese|1
+Oldham Athletic|1
+SpVgg Unterhaching|1
+Indep. Santa Fe|1
+KFC Uerdingen 05|1
+CD Toledo|1
+GD Chaves|1
+1.FC Saarbrücken|1
+Levski Sofia|1
+Al-Wahda FC|1
+Radnicki 1923|1
+Al-Nassr FC|1
+APOEL Nicosia|1
+Chernomorets Novorossijsk|1
+Viking FK|1
+FC Dinamo|1
+UE Lleida|1
+Lokomotiv Nizhniy Novgorod|1
+Wimbledon FC|1
+Vanguard Huandao|1
+ФК Элиста|1
+Dordrecht'90|1
+SG Wattenscheid 09|1
+Genoa 1893|1
+VfB Leipzig (- 2004)|1
+Sturm Graz|1
+Colorado|1
+Sanf. Hiroshima|1
+Botafogo|1
+Luton Town|1
+Sporting Club de Toulon et du Var|1

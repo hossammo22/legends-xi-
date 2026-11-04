@@ -82,6 +82,21 @@ for pid, p in wci['players'].items():
     if p['nat'] not in teams: errors.append(f'{pid}: unknown nation {p["nat"]}')
     players[pid] = dict(id=pid, en=p['en'], ar=p['ar'], nat=p['nat'], pos=p['pos'], b=p['b'], t=p['t'], nt=None, cl=[],
                         h=p['h'], al=p['al'], wc=p['wc'], partial=True)
+# ---------- club careers rebuilt from Transfermarkt transfer records (tm_careers.py + tm_apply.py)
+TMF = os.path.join(HERE, 'tm', 'final.json')
+tmf = json.load(open(TMF, encoding='utf-8')) if os.path.exists(TMF) and not os.environ.get('LXI_NO_WC') else dict(teams={}, careers={})
+for tid, t in tmf['teams'].items():
+    if tid in teams: errors.append(f'tm team id clash {tid}'); continue
+    h = sum(map(ord, tid)); pal = ['#1f6f8b', '#8b1f3b', '#2f7d32', '#6a3fa0', '#b5651d', '#1d4e89', '#7d6b1f', '#a01f6a']
+    teams[tid] = dict(id=tid, en=t['en'], ar=t['ar'], type='club', cc=t['cc'], c1=pal[h % len(pal)], c2='#FFFFFF')
+for pid, sp in tmf['careers'].items():
+    if pid not in players: continue
+    for x in sp:
+        if x[0] not in teams: errors.append(f'{pid}: unknown club {x[0]}')
+    players[pid]['cl'] = [[x[0], x[1], max(x[2], x[1] + 1), x[3], x[4], 1 if x[5] else 0] for x in sp]
+    players[pid]['cs'] = 'tm'
+    players[pid]['partial'] = False
+
 for pid, x in wci['extend'].items():
     if pid not in players: errors.append(f'wc extend: unknown {pid}'); continue
     players[pid]['wc'] = x['wc']
@@ -178,7 +193,8 @@ for s in squads:
 byclub = defaultdict(list)
 for pl in players.values():
     for c in pl['cl']:
-        byclub[c[0]].append((pl['id'], c[1], c[2]))
+        # precise (half-season) bounds when known from transfer windows
+        byclub[c[0]].append((pl['id'], c[3] if len(c) > 3 else c[1], c[4] if len(c) > 4 else c[2]))
 for club, lst in byclub.items():
     for i in range(len(lst)):
         a, a1, a2 = lst[i]
@@ -189,7 +205,7 @@ for club, lst in byclub.items():
                 k = '|'.join(sorted([a, b]))
                 if any(e['k'] in ('M', 'S') and e['t'] == club for e in edges.get(k, [])):
                     continue
-                add(a, b, dict(k='C', t=club, y=[lo, hi]))
+                add(a, b, dict(k='C', t=club, y=[int(lo), int(-(-hi // 1))]))
 
 # compact edges: only club-overlap evidence is shipped; squad & match links are rebuilt in the app
 E = []

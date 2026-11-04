@@ -41,9 +41,10 @@ LX.T = id => D.teams[id];
 LX.squadById = {}; D.squads.forEach(s => LX.squadById[s.id] = s);
 LX.squadsOf = {}; D.squads.forEach(s => s.p.forEach(x => (LX.squadsOf[x[2]] = LX.squadsOf[x[2]] || []).push(s)));
 LX.allPlayers = Object.values(D.players);
+LX.spell = c => c[5] ? `منذ ${LX.iso(String(c[1]))}` : LX.span(c[1], Math.min(c[2], LX.NOW));
 LX.wcYears = p => (p.wc || []).map(w => w[0]);
 LX.yearsLabel = p => {
-  if (p.cl.length || !p.wc) return p.yr ? LX.iso(p.yr[0] + '–' + (p.yr[1] >= LX.NOW ? 'الآن' : p.yr[1])) : '';
+  if (p.cl.length && p.cs !== 'tm' || !p.wc) return p.yr ? LX.iso(p.yr[0] + '–' + (p.yr[1] >= LX.NOW ? 'الآن' : p.yr[1])) : '';
   return 'مونديال ' + LX.wcYears(p).join('، ');
 };
 LX.verLabel = v => ({ src: 'موثقة', kb: 'معرفة تاريخية', wcdb: 'قاعدة كأس العالم' }[v] || v);
