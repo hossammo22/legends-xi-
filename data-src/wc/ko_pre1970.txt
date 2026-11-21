@@ -1,0 +1,89 @@
+# WC semi-finals and finals before 1970 (lineups: rsssf.org full match pages / Wikipedia). Goals cross-checked with Fjelstul goals.csv.
+## 1930 SF 1930-07-26 Montevideo | ARG 6-1 USA
+G: Monti 20, Scopelli 56, Stábile 69, Stábile 87, Peucelle 80, Peucelle 85 | Brown 89
+A: Botasso; Della Torre, Paternoster; J.Evaristo, Monti, Orlandini; Peucelle, Scopelli, Stábile, M.Ferreira (c), M.Evaristo
+B: Douglas; Wood, Moorhouse; Gallagher, Tracey, Auld; Gonsalves, Florie (c), Patenaude, Brown, McGhee
+## 1930 SF 1930-07-27 Montevideo | URU 6-1 YUG
+G: Cea 18, Anselmo 20, Anselmo 31, Iriarte 61, Cea 67, Cea 72 | Vujadinović 4
+A: Ballesteros; Nasazzi (c), Mascheroni; Andrade, L.Fernández, Gestido; Dorado, Scarone, Anselmo, Cea, Iriarte
+B: Jakšić; Ivković (c), D.Mihajlović; Arsenijević, Stefanović, Đokić; Tirnanić, Marjanović, Bek, Vujadinović, Sekulić
+## 1930 F 1930-07-30 Montevideo | URU 4-2 ARG
+G: Dorado 12, Cea 57, Iriarte 68, Castro 89 | Peucelle 20, Stábile 37
+A: Ballesteros; Nasazzi, Mascheroni; Andrade, L.Fernández, Gestido; Dorado, Scarone, H.Castro, Cea, Iriarte
+B: Botasso; Della Torre, Paternoster; J.Evaristo, Monti, A.Suárez; Peucelle, Varallo, Stábile, Ferreira (c), M.Evaristo
+## 1934 SF 1934-06-03 Milan | ITA 1-0 AUT
+G: Guaita 19 |
+A: Combi (c), Monzeglio, Allemandi, Ferraris, Monti, Bertolini, Guaita, Meazza, Schiavio, Ferrari, Orsi
+B: Platzer, Cisar, Sesta, Wagner, Smistik (c), Urbanek, Zischek, Bican, Sindelar, Schall, Viertl
+## 1934 SF 1934-06-03 Rome | CZE 3-1 GER
+G: Nejedlý 21, Nejedlý 69, Nejedlý 81 | Noack 59
+A: Plánička (c), Burgr, Čtyroký, Koštálek, Čambal, Krčil, Junek, Svoboda, Sobotka, Nejedlý, Puč
+B: Kreß, Busch, Haringer, Zielinski, Szepan (c), Bender, Lehner, Siffling, Conen, Noack, Kobierski
+## 1934 F 1934-06-10 Rome | ITA 2-1 CZE aet
+G: Orsi 81, Schiavio 95 | Puč 71
+A: Combi (c), Monzeglio, Allemandi, Ferraris, Monti, Bertolini, Guaita, Meazza, Schiavio, Ferrari, Orsi
+B: Plánička (c), Ženíšek, Čtyroký, Koštálek, Čambal, Krčil, Junek, Svoboda, Sobotka, Nejedlý, Puč
+## 1938 SF 1938-06-16 Paris | HUN 5-1 SWE
+G: Jacobsson 19 og, Titkos 26, Zsengellér 38, Sárosi 61, Zsengellér 78 | Nyberg 1
+A: Szabó; Korányi, S.Bíró; Szalay, Turay, Lázár; Sas, Zsengellér, G.Sárosi (c), Toldi, Titkos
+B: Abrahamsson; Eriksson, Källgren; Almgren, Jacobsson, Svanström; Wetterström, Keller (c), H.Andersson, Jonasson, Nyberg
+## 1938 SF 1938-06-16 Marseille | ITA 2-1 BRA
+G: Colaussi 51, Meazza 60 p | Romeu 87
+A: Olivieri; Foni, Rava; Serantoni, Andreolo, Locatelli; Biavati, Meazza (c), Piola, Ferrari, Colaussi
+B: Walter; Domingos, Machado; Zezé Procópio, Martim (c), Afonsinho; Lopes, Luisinho, Perácio, Romeu, Patesko
+## 1938 F 1938-06-19 Paris | ITA 4-2 HUN
+G: Colaussi 6, Piola 16, Colaussi 35, Piola 85 | Titkos 8, Sárosi 70
+A: Olivieri; Foni, Rava; Serantoni, Andreolo, Locatelli; Biavati, Meazza (c), Piola, Ferrari, Colaussi
+B: Szabó; Polgár, S.Bíró; Szalay, Szűcs, Lázár; Sas, Vincze, G.Sárosi (c), Zsengellér, Titkos
+## 1950 F 1950-07-16 Rio de Janeiro (Maracanã) | URU 2-1 BRA
+G: Schiaffino 66, Ghiggia 79 | Friaça 47
+A: Máspoli, M.González, Tejera, Gambetta, O.Varela (c), Rodríguez Andrade, Ghiggia, J.Pérez, Míguez, Schiaffino, Morán
+B: Barbosa, Augusto (c), Juvenal, Bauer, Danilo, Bigode, Friaça, Zizinho, Ademir, Jair, Chico
+## 1954 SF 1954-06-30 Lausanne | HUN 4-2 URU aet
+G: Czibor 12, Hidegkuti 47, Kocsis 109, Kocsis 117 | Hohberg 76, Hohberg 87
+A: Grosics; Buzánszky, Lantos, Bozsik (c); Lóránt, Zakariás; Budai, Kocsis, Hidegkuti, Czibor, Palotás
+B: Máspoli; Martínez (c), Santamaría, Andrade; Carballo, Cruz; Souto, Ambrois, Hohberg, Schiaffino, Borges
+## 1954 SF 1954-06-30 Basel | FRG 6-1 AUT
+G: Schäfer 31, Morlock 47, F.Walter 54 p, O.Walter 61, F.Walter 64 p, O.Walter 89 | Probst 51
+A: Turek; Posipal, Kohlmeyer, Eckel; Liebrich, Mai; Rahn, Morlock, O.Walter, F.Walter (c), Schäfer
+B: Zeman; Hanappi, Schleger, Ocwirk (c); Happel, Koller; R.Körner, Wagner, Stojaspal, Probst, A.Körner
+## 1954 F 1954-07-04 Bern | FRG 3-2 HUN
+G: Morlock 10, Rahn 18, Rahn 84 | Puskás 6, Czibor 8
+A: Turek; Posipal, Kohlmeyer, Eckel; Liebrich, Mai; Rahn, Morlock, O.Walter, F.Walter (c), Schäfer
+B: Grosics; Buzánszky, Lantos, Bozsik; Lóránt, Zakariás; Czibor, Kocsis, Hidegkuti, Puskás (c), M.Tóth
+## 1958 SF 1958-06-24 Solna | BRA 5-2 FRA
+G: Vavá 2, Didi 39, Pelé 52, Pelé 64, Pelé 75 | Fontaine 9, Piantoni 83
+A: Gilmar; De Sordi, N.Santos; Zito, Bellini (c), Orlando; Garrincha, Didi, Vavá, Pelé, Zagallo
+B: Abbes; Kaelbel, Lerond; Penverne, Jonquet (c), Marcel; Wisnieski, Fontaine, Kopa, Piantoni, Vincent
+## 1958 SF 1958-06-24 Gothenburg | SWE 3-1 FRG
+G: Skoglund 32, Gren 81, Hamrin 88 | Schäfer 24
+R: Juskowiak (FRG) 58
+A: K.Svensson; Bergmark, Axbom; Börjesson, Gustavsson, Parling; Hamrin, Gren, Simonsson, Liedholm (c), Skoglund
+B: Herkenrath; Stollenwerk, Juskowiak; Eckel, Erhardt, Szymaniak; Rahn, F.Walter, Seeler, Schäfer (c), Cieslarczyk
+## 1958 F 1958-06-29 Solna | BRA 5-2 SWE
+G: Vavá 9, Vavá 32, Pelé 55, Zagallo 68, Pelé 90 | Liedholm 4, Simonsson 80
+A: Gilmar; D.Santos, N.Santos; Zito, Bellini (c), Orlando; Garrincha, Didi, Vavá, Pelé, Zagallo
+B: K.Svensson; Bergmark, Axbom; Börjesson, Gustavsson, Parling; Hamrin, Gren, Simonsson, Liedholm (c), Skoglund
+## 1962 SF 1962-06-13 Santiago | BRA 4-2 CHI
+G: Garrincha 9, Garrincha 32, Vavá 47, Vavá 78 | Toro 42, L.Sánchez 61 p
+R: Landa (CHI) 80, Garrincha (BRA) 83
+A: Gilmar; D.Santos, Mauro (c), Zózimo, N.Santos; Zito, Didi; Garrincha, Vavá, Amarildo, Zagallo
+B: Escuti; Eyzaguirre, Contreras, R.Sánchez, Rodríguez; Toro (c), Rojas; Ramírez, Landa, Tobar, L.Sánchez
+## 1962 SF 1962-06-13 Viña del Mar | CZE 3-1 YUG
+G: Kadraba 48, Scherer 80, Scherer 84 p | Jerković 69
+A: Schrojf; Lála, Novák (c), Pluskal, Popluhár; Masopust, Pospíchal; Scherer, Kvašňák, Kadraba, Jelínek
+B: Šoškić; Durković, Jusufi, Radaković, Marković; Popović, Sijaković; Šekularac, Jerković, Galić (c), Skoblar
+## 1962 F 1962-06-17 Santiago | BRA 3-1 CZE
+G: Amarildo 17, Zito 69, Vavá 78 | Masopust 15
+A: Gilmar; D.Santos, Mauro (c), Zózimo, N.Santos; Zito, Didi; Garrincha, Vavá, Amarildo, Zagallo
+B: Schrojf; Tichý, Novák (c), Pluskal, Popluhár; Masopust, Pospíchal; Scherer, Kvašňák, Kadraba, Jelínek
+## 1966 SF 1966-07-25 Liverpool (Goodison Park) | FRG 2-1 URS
+G: Haller 43, Beckenbauer 67 | Porkujan 88
+R: Chislenko (URS) 44
+A: Tilkowski; Lutz, Weber, Schulz, Schnellinger; Beckenbauer, Haller, Overath; Seeler (c), Held, Emmerich
+B: Yashin; Ponomaryov, Shesternyov (c), Voronin, Danilov; Sabo, Khusainov; Chislenko, Banishevskiy, Malofeyev, Porkujan
+## 1966 SF 1966-07-26 London (Wembley) | ENG 2-1 POR
+G: Bobby Charlton 30, Bobby Charlton 80 | Eusébio 82 p
+A: Banks; Cohen, Wilson, Stiles, Jack Charlton; Moore (c), Ball, Bobby Charlton; Hurst, Hunt, Peters
+B: J.Pereira; Festa, Baptista, Carlos, Hilário; Graça, Coluna (c), Augusto; Eusébio, Torres, Simões
+## 1966 F 1966-07-30 London (Wembley) | ENG 4-2 FRG aet  (existing squad lineups)

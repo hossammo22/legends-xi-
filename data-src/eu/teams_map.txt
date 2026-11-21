@@ -1,0 +1,148 @@
+# raw name in eu/raw|team code
+1. FC Kaiserslautern|KAI
+1. FC Köln|KOE
+AC Fiorentina|FIO
+ACF Fiorentina|FIO
+AC Milan|MIL
+Milan AC|MIL
+AEK Athens|AEK
+AFC Ajax|AJA
+AJ Auxerre|AUX
+AS Monaco|ASM
+AS Roma|ROM
+AS Saint-Étienne|ASSE
+AZ Alkmaar|AZ
+Arsenal|ARS
+Aston Villa|AVL
+Atalanta|ATA
+Athletic Club|ATH
+Atletico Madrid|ATM
+Atlético Madrid|ATM
+Austria Salzburg|SAL
+Red Bull Salzburg|SAL
+Austria Wien|XAUSTRIAVIE
+BSC Young Boys|YB
+Bayer Leverkusen|B04
+Bayern Munich|BAY
+Boavista|XBOAVISTAFC
+Bohemians Praha|BOH
+Bologna|BLG
+Borussia Dortmund|BVB
+Borussia Mönchengladbach|BMG
+Brøndby IF|BRB
+CA Osasuna|OSA
+CD Tenerife|XCDTENERIFE
+CSKA Moscow|CSKA
+CSKA Sofia|XCSKASOFIA
+Cagliari|CAG
+Celtic|CEL
+Chelsea|CHE
+Club Brugge|BRU
+Crvena Zvezda|RSB
+Red Star (Belgrade)|RSB
+Deportivo Alavés|XDEPORTIVOA
+Deportivo de La Coruña|DEP
+Derby County|DER
+Dinamo București|DINB
+Dnipro Dnipropetrovsk|XDNIPRO
+Dukla Prague|DUK
+Dundee|DUN
+Dundee United|DUU
+Dynamo Dresden|XSGDYNAMODR
+Dynamo Kyiv|DYK
+Eintracht Frankfurt|SGE
+FC Barcelona|BAR
+FC Basel|BAS
+FC Nantes|NAN
+FC Porto|POR
+FC Sochaux|XFCSOCHAUXM
+FC Swarovski Tirol|TIR
+FC Twente|TWE
+FC Zürich|ZUR
+FK Bodø/Glimt|BOD
+FK Partizan (Belgrade)|PTZ
+Fenerbahçe|FEN
+Ferencváros|FER
+Feyenoord|FEY
+Fulham|FUL
+Galatasaray|GAL
+Genoa|GEN
+Girondins de Bordeaux|BOR
+Grasshopper Club Zürich|GCZ
+Hajduk Split|HAJ
+Hamburger SV|HSV
+Hertha BSC|HER
+Hibernian|HIB
+IFK Göteborg|IFK
+Internazionale|INT
+Ipswich Town|XIPSWICHTOW
+Juventus|JUV
+KSV Waregem|KSVW
+Karlsruher SC|KSC
+Leeds United|LEE
+Legia Warsaw|LEG
+Liverpool|LIV
+Lokomotive Leipzig|LOK
+MSV Duisburg|XMSVDUISBUR
+Malmö FF|MAL2
+Manchester City|MCI
+Manchester United|MUN
+Middlesbrough|MID
+Newcastle United|NEW
+Nottingham Forest|NFO
+Olympique Lyonnais|OL
+Olympique de Marseille|OM
+PSV Eindhoven|PSV
+Panathinaikos|PAN
+Paris Saint-Germain|PSG
+PSG|PSG
+Parma|PAR
+RB Leipzig|RBL
+RC Celta|CLT
+RC Lens|LEN
+RCD Espanyol|ESP
+RSC Anderlecht|AND
+RWD Molenbeek|RWDM
+Radnički Niš|RNIS
+Rangers|RAN
+Real Madrid|RMA
+Real Sociedad|RSO
+SC Bastia|XSCBASTIA
+SC Braga|BRG
+SC Freiburg|XSCFREIBURG
+SK Rapid Vienna|RAP
+SL Benfica|BEN
+SS Lazio|LAZ
+SSC Napoli|NAP
+Schalke 04|S04
+Sevilla FC|SEV
+Shakhtar Donetsk|SHK
+Slavia Prague|XSLAVIAPRAG
+Spartak Moscow|SPA
+Spartak Trnava|TRN
+Sporting CP|SCP
+Stade de Reims|XSTADEREIMS
+Standard CL (Liège)|STL
+Standard CL|STL
+Steaua București|STE
+Torino|TOR
+Tottenham Hotspur|TOT
+UC Sampdoria|SAM
+Universitatea Craiova|UCV
+Valencia CF|VAL
+Vasas ETO Győr|ETO
+Vasas SC|VASAS
+VfB Stuttgart|VFB
+Videoton|VID
+Villarreal CF|VIL
+Werder Bremen|SVW
+West Ham United|WHU
+Widzew Łódź|WID
+Wolverhampton Wanderers|WOL
+Zenit Saint Petersburg|ZEN
+Újpesti Dózsa|UJP
+Željezničar Sarajevo|ZEL
+Bayern|BAY
+Liverpool FC|LIV
+Steaua|STE
+Juve|JUV

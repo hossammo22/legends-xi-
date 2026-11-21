@@ -56,7 +56,7 @@ const T = {
 'نفس التحدي لكل اللاعبين اليوم · سلسلة الأيام': 'Same challenge for everyone today · streak', 'أكملت هذا الجزء اليوم': 'You completed this part today',
 'من سماته:': 'Trait:', 'قدّم أفضل مواسمه مع': 'Had his best season with', 'ارتدى القميص رقم': 'Wore shirt number', 'مع': 'with', 'موسم': 'season', 'عام': 'in', 'منتخب': '', 'معلومة:': 'Fact:',
 'مركزه المعروف': 'Known position', 'من جوائزه الفردية': 'Individual awards', 'من ألقابه': 'Titles', 'يُلقب بـ«': 'Nicknamed «', 'جنسيته:': 'Nationality:', 'لعب لنادي': 'Played for', 'في الفترة': 'in', 'انضم إلى': 'Joined',
-'انتقل من': 'Moved from', 'إلى': 'to', 'وُلد عام': 'Born in', 'وُلد في': 'born on', 'كان ضمن قائمة': 'Was in the squad of', 'في كأس العالم': 'at the World Cup', 'شارك في كأس العالم': 'Played at the World Cup',
+'انتقل من': 'Moved from', 'وُلد عام': 'Born in', 'وُلد في': 'born on', 'كان ضمن قائمة': 'Was in the squad of', 'في كأس العالم': 'at the World Cup', 'شارك في كأس العالم': 'Played at the World Cup',
 'لعب دوليًا مع': 'Capped by', 'مثّل منتخب': 'Represented', 'زامل': 'Played alongside', 'فاز بـ': 'Won ', 'توّج بـ': 'Won ', 'لعب لـ': 'Played for ', 'في': 'in', 'فرصة': 'life', 'و': 'and', 'مركزه الأساسي': 'Main position', 'يلعب غالبًا في مركز': 'Usually plays as',
 'جيله: نشط بين': 'Era: active between', 'أندية في مسيرته المسجلة': 'clubs in his recorded career', 'مثّل': 'Represented', 'رقم القميص': 'Shirt number',
 'السمات والحكايات': 'Traits & stories', 'الصورة': 'Photo', 'التشكيلة التاريخية': 'Historic line-up', 'المسيرة مع الأندية': 'Club career', 'الجنسية': 'Nationality', 'المركز': 'Position', 'متنوع': 'Mixed', 'نوع الأسئلة': 'Question type',
@@ -278,6 +278,37 @@ const T = {
 'سجلات المباريات النهائية (التشكيلات وأرقام القمصان والبدلاء) روجعت مقابل صفحات المباريات المنشورة على ويكيبيديا ونسخها المؤرشفة، وسجل نادي ليفربول التاريخي (lfchistory.net). مسيرات اللاعبين مُدخلة على مستوى المواسم ويمكن تصحيحها وتوسيعها في ملفات المصدر.': 'Final match records (line-ups, numbers, substitutes) were checked against published match pages on Wikipedia and their archives, and lfchistory.net. Careers are entered by season and can be corrected in the source files.',
 'الحد الأقصى': 'Maximum', 'وسطاء': 'intermediates', 'حلول بأقصر طول': 'shortest solutions', 'وصلات مكتملة': 'completed connections', 'إجابات صحيحة': 'correct answers', 'أفضل نتيجة شخصية': 'Personal best', 'بدون أدلة إضافية': 'without extra clues'
 };
+/* v4: tournaments, match centre, filters, PWA */
+Object.assign(T, {
+'البطولات الكبرى': 'Major tournaments', 'البطولات': 'Tournaments', 'الرئيسية': 'Home', 'التشكيلات': 'Line-ups', 'العب': 'Play', 'البحث': 'Search',
+'البطولات الكبرى: نصف النهائي والنهائي': 'Major tournaments: semi-finals & finals',
+'كأس العالم منذ 1930، ودوري الأبطال منذ 1956، والدوري الأوروبي منذ 1972: التشكيلات والهدافون وأبرز الأحداث.': 'World Cup since 1930, Champions League since 1956, Europa League since 1972: line-ups, scorers and key moments.',
+'نصف النهائي والنهائي: من سجل الهدف، ومن طُرد، وكيف حُسمت المباراة، بتشكيلتي الفريقين على أرض الملعب.': 'Semi-finals and finals: who scored, who was sent off and how it was decided, with both line-ups on the pitch.',
+'نصف النهائي والنهائي في كل النسخ منذ 1930 بالتشكيلات والهدافين.': 'Semi-finals and finals of every edition since 1930, with line-ups and scorers.',
+'كل النهائيات منذ 1956 بالتشكيلات والهدافين، ونتائج نصف النهائي.': 'Every final since 1956 with line-ups and scorers, plus semi-final results.',
+'كل النهائيات منذ 1972 (ذهابًا وإيابًا حتى 1997) ونتائج نصف النهائي.': 'Every final since 1972 (two legs until 1997) plus semi-final results.',
+'مباريات خالدة': 'Unforgettable matches', 'نسخة': 'editions', 'آخر بطل:': 'Latest champion:', 'الأكثر تتويجًا': 'Most titles', 'في النسخ المسجلة': 'in recorded editions',
+'كل النسخ': 'All editions', 'نسخة في القاعدة': 'editions in the database', 'البطل': 'Champion', 'الوصيف:': 'Runner-up:', '(مجموع)': '(agg.)', 'ترجيح': 'pens', 'تمديد': 'a.e.t.',
+'النهائي': 'Final', 'نصف النهائي': 'Semi-final', 'النهائي — الذهاب': 'Final — 1st leg', 'النهائي — الإياب': 'Final — 2nd leg', 'النهائي — المباراة المعادة': 'Final — replay',
+'النهائي — مباراتا الذهاب والإياب': 'Final — both legs', 'النهائي والمباراة المعادة': 'Final and replay', 'النتائج': 'results', 'مجموع المباراتين:': 'Aggregate:', 'لصالح': 'for',
+'مباراة واحدة': 'single match', 'الذهاب · الإياب · المجموع': '1st leg · 2nd leg · aggregate', 'لم يُلعب نصف نهائي هذا الموسم: تأهل متصدرا المجموعتين إلى النهائي.': 'No semi-finals this season: the two group winners reached the final.',
+'لم يُقم دور نصف نهائي في هذه النسخة (نظام المجموعات النهائية).': 'No semi-finals in this edition (final group stage format).', 'لا توجد بيانات لنصف النهائي.': 'No semi-final data.',
+'بعد التمديد': 'after extra time', 'بالهدف الذهبي': 'golden goal', 'بالهدف الفضي': 'silver goal', 'ركلات الترجيح': 'penalties', 'مجموع المباراتين': 'aggregate', '(بفارق الأهداف خارج الأرض)': '(away goals)',
+'بفارق الأهداف خارج الأرض': 'away goals', 'مباراة فاصلة': 'play-off', 'كأس العالم': 'World Cup', 'دوري أبطال أوروبا': 'Champions League', 'كأس أوروبا للأندية البطلة': 'European Cup', 'كأس الاتحاد الأوروبي': 'UEFA Cup', 'الدوري الأوروبي': 'Europa League',
+'أبرز أحداث المباراة': 'Key moments', 'مجريات الأهداف': 'Goals', 'التشكيلتان على أرض الملعب': 'Both line-ups on the pitch', 'البدلاء المشاركون': 'Substitutes used',
+'لم تُسجل أهداف في الوقت الأصلي والإضافي.': 'No goals in normal or extra time.', '(جزاء)': '(pen.)', '(في مرماه)': '(o.g.)', 'تشكيلة': 'Line-up:', 'بالبطاقات': 'as cards',
+'نصف النهائي الآخر': 'The other semi-final', 'مباريات النهائي الأخرى': 'Other final matches', 'كل مباريات نسخة': 'All matches of', 'المصدر:': 'Source:',
+'الدقائق كما وردت في المصدر؛ قد تختلف دقيقة أو اثنتين بين المراجع. اللاعبون غير المسجلين في قاعدة التطبيق يظهرون بأسمائهم فقط.': 'Minutes as given by the source; references can differ by a minute or two. Players who are not in the app database are shown by name only.',
+'في نصف النهائي والنهائي': 'In semi-finals and finals', 'مباراة': 'matches', '(ق)': '(c)',
+'بحث متقدم: الجنسية · الفترة · النادي · المنتخب · الطول · المركز': 'Advanced search: nationality · period · club · national team · height · position',
+'الجنسية': 'Nationality', 'الكل': 'All', 'المنتخب (لعب دوليًا له)': 'National team (capped for)', 'أي منتخب (دولي موثق)': 'Any national team (verified)', 'لم يُوثق له لعب دولي': 'No verified caps',
+'النادي': 'Club', 'اكتب اسم النادي': 'Type a club name', 'الفترة الزمنية': 'Period', 'من سنة': 'from year', 'إلى سنة': 'to year', 'المركز': 'Position', 'كل المراكز': 'All positions',
+'مدافع (كل الخط)': 'Defender (all)', 'وسط (كل الخط)': 'Midfielder (all)', 'هجوم (كل الخط)': 'Forward (all)', 'الطول (سم)': 'Height (cm)', 'أقل من 175': 'under 175', '190 فأكثر': '190 and over',
+'نطاق مخصص…': 'Custom range…', 'نطاق الطول': 'Height range', 'إلى': 'to', 'الترتيب': 'Sort', 'الأشهر أولًا': 'Most famous first', 'الاسم': 'Name', 'الأطول أولًا': 'Tallest first', 'الأقدم أولًا': 'Oldest first',
+'مسح الفلاتر': 'Clear filters', 'عرض المزيد': 'Show more', 'لا نتائج مطابقة — جرّب توسيع الفلاتر': 'No matches — try widening the filters', 'دولي': 'international', 'غير دولي': 'not capped', 'منتخب': 'national team', 'الطول': 'Height', 'سم': 'cm',
+'ثبّت التطبيق على جهازك': 'Install the app on your device', 'يعمل على اللابتوب والموبايل حتى دون إنترنت': 'Works on laptop and phone, even offline',
+'موسم': 'seasons', 'أندية': 'clubs', 'ألقاب': 'titles', 'مونديال': 'World Cups'
+});
 /* team names written inside data captions ("ريال مدريد 1–0 يوفنتوس") */
 Object.entries(TEAMAR).forEach(([a, e]) => { if (a && !T[a] && a.replace(/[^\u0600-\u06FF]/g, '').length > 3) T[a] = e; });   // short names like «كان» are also common words
 const keys = Object.keys(T).filter(k => /[؀-ۿ]/.test(k)).sort((a, b) => b.length - a.length);
@@ -286,7 +317,7 @@ const RE = new RegExp('(?<![\\u0600-\\u06FF])(?:' + keys.map(esc).join('|') + ')
 const AR = /[؀-ۿ]/;
 const tr = s => s.replace(RE, m => T[m]).replace(/ {2,}/g, ' ');
 LX.t = tr;
-const SKIP = '.storytext,.genstory p,.story,.bdesc,.bitem > div:not(.bt),.legtop p,.pcardx .kv .v:not(.tags),.pcardx .honours';
+const SKIP = '.notes p,.storytext,.genstory p,.story,.bdesc,.bitem > div:not(.bt),.legtop p,.pcardx .kv .v:not(.tags),.pcardx .honours';
 const attrs = el => ['placeholder', 'title', 'aria-label'].forEach(a => { const v = el.getAttribute && el.getAttribute(a); if (v && AR.test(v)) el.setAttribute(a, tr(v)); });
 const fixText = n => { if (AR.test(n.nodeValue) && !(n.parentElement && n.parentElement.closest(SKIP))) { const v = tr(n.nodeValue); if (v !== n.nodeValue) n.nodeValue = v; } };
 const fix = node => {

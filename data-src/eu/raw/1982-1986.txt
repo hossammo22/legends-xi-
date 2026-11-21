@@ -1,0 +1,113 @@
+## 1982
+CL-SEMI: Aston Villa | RSC Anderlecht | 1-0 | 0-0 | 1-0
+CL-SEMI: CSKA Sofia | Bayern Munich | 4-3 | 0-4 | 4-7
+CL-FINAL: 26 May 1982 | De Kuip, Rotterdam | Aston Villa 1-0 Bayern Munich | none
+G: 67 | Aston Villa | Withe
+A: Rimmer (Spink 9); Swain, Evans, McNaught, Williams; Bremner, Cowans, Mortimer; Shaw, Withe, Morley
+B: Müller; Dremmler, Weiner, Augenthaler, Horsmann; Mathy (Güttler 51), Breitner, Kraus (Niedermayer 78), Dürnberger; Rummenigge, D.Hoeneß
+RED: none
+UEFA-SEMI: 1. FC Kaiserslautern | IFK Göteborg | 1-1 | 1-2 | 2-3 (aet)
+UEFA-SEMI: Radnički Niš | Hamburger SV | 2-1 | 1-5 | 3-6
+UEFA-FINAL-1: 5 May 1982 | Nya Ullevi, Gothenburg | IFK Göteborg 1-0 Hamburger SV | none
+G: 87 | IFK Göteborg | Tord Holmgren
+A: Wernersson; Svensson, Hysén, C.Karlsson, Fredriksson; Tord Holmgren, J.Karlsson, Strömberg; Corneliusson, Nilsson (Sandberg 19), Tommy Holmgren (Schiller 46)
+B: Stein; Kaltz, Jakobs, Hieronymus, Groh; Hartwig, Wehmeyer, Magath; Von Heesen (Memering 82), Bastrup, Hrubesch
+RED: none
+UEFA-FINAL-2: 19 May 1982 | Volksparkstadion, Hamburg | Hamburger SV 0-3 IFK Göteborg | agg 0-4
+G: 26 | IFK Göteborg | Corneliusson
+G: 61 | IFK Göteborg | Nilsson
+G: 63 | IFK Göteborg | Fredriksson (pen)
+A: Stein; Kaltz (Hidien 75), Hieronymus, Groh, Wehmeyer; Hartwig, Memering, Magath, Von Heesen; Hrubesch, Bastrup
+B: Wernersson; Svensson, Hysén (Schiller 19), C.Karlsson, Fredriksson; Tord Holmgren, Strömberg, J.Karlsson; Corneliusson (Sandberg 67), Nilsson, Tommy Holmgren
+RED: none
+## 1983
+CL-SEMI: Real Sociedad | Hamburger SV | 1-1 | 1-2 | 2-3
+CL-SEMI: Juventus | Widzew Łódź | 2-0 | 2-2 | 4-2
+CL-FINAL: 25 May 1983 | Olympic Stadium, Athens | Hamburger SV 1-0 Juventus | none
+G: 7 | Hamburger SV | Magath
+A: Stein; Kaltz, Hieronymus, Jakobs, Wehmeyer; Groh, Rolff, Magath, Milewski; Bastrup (Von Heesen 55), Hrubesch
+B: Zoff; Gentile, Brio, Scirea, Cabrini; Bonini, Tardelli, Bettega; Platini, Rossi (Marocchino 55), Boniek
+RED: none
+UEFA-SEMI: Bohemians Praha | RSC Anderlecht | 0-1 | 1-3 | 1-4
+UEFA-SEMI: SL Benfica | Universitatea Craiova | 0-0 | 1-1 | 1-1 (away goals)
+UEFA-FINAL-1: 4 May 1983 | Heysel Stadium, Brussels | RSC Anderlecht 1-0 SL Benfica | none
+G: 29 | RSC Anderlecht | Brylle
+A: Munaron; Hofkens, Peruzović, Olsen, De Groote; Frimann, Coeck, Vercauteren, Lozano; Vandenbergh (Czerniatynski 78), Brylle
+B: Bento; Pietra, Álvaro, Humberto Coelho, José Luís; Shéu, Frederico (Bastos Lopes 78), Carlos Manuel, Chalana; Filipović (Nené 68), Diamantino
+RED: José Luís (BEN) 75
+UEFA-FINAL-2: 18 May 1983 | Estádio da Luz, Lisbon | SL Benfica 1-1 RSC Anderlecht | agg 1-2
+G: 36 | SL Benfica | Shéu
+G: 38 | RSC Anderlecht | Lozano
+A: Bento; Pietra, Humberto Coelho, Bastos Lopes, Veloso (Alves 62); Carlos Manuel, Strömberg, Shéu (Filipović 50), Chalana; Nené, Diamantino
+B: Munaron; Peruzović, De Greef, Broos, Olsen, De Groote; Frimann, Lozano, Coeck, Vercauteren; Vandenbergh (Brylle 78)
+RED: none
+## 1984
+CL-SEMI: Liverpool | Dinamo București | 1-0 | 2-1 | 3-1
+CL-SEMI: Dundee United | AS Roma | 2-0 | 0-3 | 2-3
+CL-FINAL: 30 May 1984 | Stadio Olimpico, Rome | Liverpool 1-1 AS Roma | aet, Liverpool 4-2 pens
+G: 13 | Liverpool | Neal
+G: 42 | AS Roma | Pruzzo
+A: Grobbelaar; Neal, Lawrenson, Hansen, A.Kennedy; Johnston (Nicol 72), Lee, Souness, Whelan; Dalglish (Robinson 94), Rush
+B: Tancredi; Nappi, Bonetti, Righetti, Nela; Di Bartolomei, Falcão, Cerezo (Strukelj 115); Conti, Pruzzo (Chierico 64), Graziani
+RED: none
+UEFA-SEMI: Hajduk Split | Tottenham Hotspur | 2-1 | 0-1 | 2-2 (away goals)
+UEFA-SEMI: Nottingham Forest | RSC Anderlecht | 2-0 | 0-3 | 2-3
+UEFA-FINAL-1: 9 May 1984 | Constant Vanden Stock Stadium, Brussels | RSC Anderlecht 1-1 Tottenham Hotspur | none
+G: 57 | Tottenham Hotspur | Miller
+G: 85 | RSC Anderlecht | Olsen
+A: Munaron; Grün, De Greef, Olsen, De Groote; Hofkens, Vandereycken, Scifo, Brylle; Vandenbergh (Arnesen 82), Czerniatynski (Vercauteren 64)
+B: Parks; Thomas, Roberts, Hughton, Perryman; Miller, Stevens (Mabbutt 81), Hazard, Galvin; Archibald, Falco
+RED: none
+UEFA-FINAL-2: 23 May 1984 | White Hart Lane, London | Tottenham Hotspur 1-1 RSC Anderlecht | aet, agg 2-2, Tottenham 4-3 pens
+G: 60 | RSC Anderlecht | Czerniatynski
+G: 84 | Tottenham Hotspur | Roberts
+A: Parks; Thomas, Hughton, Roberts, Miller (Ardiles 73); Mabbutt (Dick 77), Hazard, Stevens, Galvin; Archibald, Falco
+B: Munaron; Hofkens, Grün, De Greef, Olsen, De Groote; Arnesen (Gudjohnsen 77), Vercauteren, Scifo; Czerniatynski (Brylle 103), Vandereycken
+RED: none
+## 1985
+CL-SEMI: Juventus | Girondins de Bordeaux | 3-0 | 0-2 | 3-2
+CL-SEMI: Liverpool | Panathinaikos | 4-0 | 1-0 | 5-0
+CL-FINAL: 29 May 1985 | Heysel Stadium, Brussels | Juventus 1-0 Liverpool | none
+G: 56 | Juventus | Platini (pen)
+A: Tacconi; Favero, Cabrini, Brio, Scirea; Bonini, Platini, Tardelli; Briaschi (Prandelli 84), Rossi (Vignola 89), Boniek
+B: Grobbelaar; Neal, Beglin, Lawrenson (Gillespie 4), Hansen; Nicol, Dalglish, Whelan, Wark; Rush, Walsh (Johnston 46)
+RED: none
+UEFA-SEMI: Internazionale | Real Madrid | 2-0 | 0-3 | 2-3
+UEFA-SEMI: Videoton | Željezničar Sarajevo | 3-1 | 1-2 | 4-3
+UEFA-FINAL-1: 8 May 1985 | Sóstói Stadion, Székesfehérvár | Videoton 0-3 Real Madrid | none
+G: 31 | Real Madrid | Míchel
+G: 77 | Real Madrid | Santillana
+G: 89 | Real Madrid | Valdano
+A: P.Disztl; Borsányi, L.Disztl, Csuhay, Horváth; Palkovics, Végh, Wittmann, Vadász; Novath (Gyenti 62), Burcsa
+B: Miguel Ángel; Chendo, Sanchís, Stielike, Camacho; San José, Míchel, Gallego; Butragueño (Juanito 80), Santillana (Salguero 86), Valdano
+RED: none
+UEFA-FINAL-2: 22 May 1985 | Santiago Bernabéu, Madrid | Real Madrid 0-1 Videoton | agg 3-1
+G: 86 | Videoton | Májer
+A: Miguel Ángel; Chendo, Sanchís, Stielike, Camacho; San José, Míchel, Gallego; Butragueño, Santillana, Valdano (Juanito 57)
+B: P.Disztl; Csuhay, L.Disztl, Végh, Horváth; Burcsa, Csongrádi (Palkovics 57), Vadász; Szabó, Májer, Novath (Wittmann 51)
+RED: none
+## 1986
+CL-SEMI: RSC Anderlecht | Steaua București | 1-0 | 0-3 | 1-3
+CL-SEMI: IFK Göteborg | FC Barcelona | 3-0 | 0-3 | 3-3 (Barcelona 5-4 pens)
+CL-FINAL: 7 May 1986 | Ramón Sánchez Pizjuán, Seville | Steaua București 0-0 FC Barcelona | aet, Steaua 2-0 pens
+A: Duckadam; Iovan, Belodedici, Bumbescu, Bărbulescu; Bălint, Balan (Iordănescu 72), Boloni, Majearu; Lăcătuș, Pițurcă (Radu 111)
+B: Urruti; Gerardo, Migueli, Alesanco, Julio Alberto; Víctor, Marcos, Schuster (Moratalla 85), Pedraza; Archibald (Pichi Alonso 106), Carrasco
+RED: none
+UEFA-SEMI: Internazionale | Real Madrid | 3-1 | 1-5 | 4-6 (aet)
+UEFA-SEMI: 1. FC Köln | KSV Waregem | 4-0 | 3-3 | 7-3
+UEFA-FINAL-1: 30 Apr 1986 | Santiago Bernabéu, Madrid | Real Madrid 5-1 1. FC Köln | none
+G: 29 | 1. FC Köln | Allofs
+G: 38 | Real Madrid | Hugo Sánchez
+G: 42 | Real Madrid | Gordillo
+G: 51 | Real Madrid | Valdano
+G: 84 | Real Madrid | Valdano
+G: 89 | Real Madrid | Santillana
+A: Agustín; Salguero, Solana, Camacho; Martín Vázquez (Santillana 81), Míchel, Juanito, Gordillo; Butragueño, Hugo Sánchez, Valdano
+B: Schumacher; Geils, Gielchen, Steiner, Prestin; Geilenkirchen, Hönerbach; Bein (Häßler 70), Janßen; Littbarski (Dickel 83), Allofs
+RED: none
+UEFA-FINAL-2: 6 May 1986 | Olympiastadion, Berlin | 1. FC Köln 2-0 Real Madrid | agg 3-5
+G: 22 | 1. FC Köln | Bein
+G: 72 | 1. FC Köln | Geilenkirchen
+A: Schumacher; Prestin, Gielchen, Geils (Schmitz 83), Steiner; Geilenkirchen, Hönerbach, Bein; Janßen (Pisanti 58), Littbarski, Allofs
+B: Agustín; Chendo, Maceda, Solana, Camacho; Míchel, Gallego, Valdano, Gordillo; Butragueño (Juanito 88), Hugo Sánchez (Santillana 20)
+RED: none

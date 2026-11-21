@@ -1,0 +1,140 @@
+## 1987
+CL-SEMI: Bayern Munich | Real Madrid | 4-1 | 0-1 | 4-2
+CL-SEMI: FC Porto | Dynamo Kyiv | 2-1 | 2-1 | 4-2
+CL-FINAL: 27 May 1987 | Prater Stadium, Vienna | FC Porto 2-1 Bayern Munich | none
+G: 24 | Bayern Munich | Kögl
+G: 77 | FC Porto | Madjer
+G: 79 | FC Porto | Juary
+A: Młynarczyk; João Pinto, Eduardo Luís, Celso, Inácio (Frasco 66); Quim (Juary 46), Jaime Magalhães, Madjer, António Sousa, André; Futre
+B: Pfaff; Winklhofer, Nachtweih, Eder, Pflügler; Flick (Lunde 82), Brehme, Matthäus, M.Rummenigge; D.Hoeneß, Kögl
+RED: none
+UEFA-SEMI: Dundee United | Borussia Mönchengladbach | 0-0 | 2-0 | 2-0
+UEFA-SEMI: IFK Göteborg | FC Swarovski Tirol | 4-1 | 1-0 | 5-1
+UEFA-FINAL-1: 6 May 1987 | Nya Ullevi, Gothenburg | IFK Göteborg 1-0 Dundee United | none
+G: 38 | IFK Göteborg | Pettersson
+A: Wernersson; Carlsson, Hysén, Larsson, Fredriksson; Johansson (R.Nilsson 67), Tord Holmgren (Zetterlund 89), Andersson, Tommy Holmgren; Pettersson, L.Nilsson
+B: Thomson; Malpas, Narey, Hegarty (Clark 54), Holt; McInally, Kirkwood, Bowman, Bannon; Sturrock (Beaumont 89), Redford
+RED: none
+UEFA-FINAL-2: 20 May 1987 | Tannadice Park, Dundee | Dundee United 1-1 IFK Göteborg | agg 1-2
+G: 22 | IFK Göteborg | L.Nilsson
+G: 60 | Dundee United | Clark
+A: Thomson; Malpas, Clark, Narey, Holt (Hegarty 46); McInally, Ferguson, Kirkwood; Sturrock, Redford (Bannon 71), Gallacher
+B: Wernersson; Carlsson, Hysén, Larsson, Fredriksson; R.Nilsson (Johansson 69), Tord Holmgren, Andersson, Tommy Holmgren (Mordt 78); Pettersson, L.Nilsson
+RED: none
+## 1988
+CL-SEMI: Real Madrid | PSV Eindhoven | 1-1 | 0-0 | 1-1 (away goals)
+CL-SEMI: Steaua București | SL Benfica | 0-0 | 0-2 | 0-2
+CL-FINAL: 25 May 1988 | Neckarstadion, Stuttgart | PSV Eindhoven 0-0 SL Benfica | aet, PSV 6-5 pens
+A: Van Breukelen; Gerets, Van Aerle, R.Koeman, Nielsen, Heintze; Vanenburg, Linskens, Lerby; Kieft, Gillhaus (Janssen 107)
+B: Silvino; Veloso, Dito, Mozer, Álvaro; Elzo, Shéu, Chiquinho, Pacheco; Rui Águas (Vando 57), Magnusson (Hajry 111)
+RED: none
+UEFA-SEMI: Club Brugge | RCD Espanyol | 2-0 | 0-3 | 2-3 (aet)
+UEFA-SEMI: Bayer Leverkusen | Werder Bremen | 1-0 | 0-0 | 1-0
+UEFA-FINAL-1: 4 May 1988 | Estadi de Sarrià, Barcelona | RCD Espanyol 3-0 Bayer Leverkusen | none
+G: 45 | RCD Espanyol | Losada
+G: 49 | RCD Espanyol | Soler
+G: 56 | RCD Espanyol | Losada
+A: N'Kono; Job, Miguel Ángel, Gallart; Soler, Orejuela (Golobart 66), Urquiaga, Iñaki; Valverde, Pichi Alonso (Lauridsen 69), Losada
+B: Vollborn; Rolff, De Keyser, A.Reinhardt, Hinterberger; Cha Bum-kun (Götz 18), Tita, Buncol, Falkenmayer (K.Reinhardt 75); Waas, Täuber
+RED: none
+UEFA-FINAL-2: 18 May 1988 | Ulrich-Haberland-Stadion, Leverkusen | Bayer Leverkusen 3-0 RCD Espanyol | aet, agg 3-3, Leverkusen 3-2 pens
+G: 57 | Bayer Leverkusen | Tita
+G: 63 | Bayer Leverkusen | Götz
+G: 81 | Bayer Leverkusen | Cha Bum-kun
+A: Vollborn; Rolff, Seckler, A.Reinhardt, K.Reinhardt; Schreier (Waas 46), Buncol, Falkenmayer; Cha Bum-kun, Götz, Tita (Täuber 62)
+B: N'Kono; Miguel Ángel, Golobart (Zúñiga 73), Urquiaga; Job, Orejuela (Zubillaga 66), Iñaki, Soler; Pichi Alonso, Losada, Valverde
+RED: none
+## 1989
+CL-SEMI: Steaua București | Galatasaray | 4-0 | 1-1 | 5-1
+CL-SEMI: Real Madrid | AC Milan | 1-1 | 0-5 | 1-6
+CL-FINAL: 24 May 1989 | Camp Nou, Barcelona | AC Milan 4-0 Steaua București | none
+G: 17 | AC Milan | Gullit
+G: 26 | AC Milan | Van Basten
+G: 38 | AC Milan | Gullit
+G: 46 | AC Milan | Van Basten
+A: G.Galli; Tassotti, Costacurta (F.Galli 74), Baresi, Maldini; Colombo, Rijkaard, Ancelotti, Donadoni; Gullit (Virdis 60), Van Basten
+B: Lung; Iovan, Petrescu, Bumbescu, Ungureanu; Hagi, Stoica, Minea, Rotariu (Bălint 46); Lăcătuș, Pițurcă
+RED: none
+UEFA-SEMI: SSC Napoli | Bayern Munich | 2-0 | 2-2 | 4-2
+UEFA-SEMI: VfB Stuttgart | Dynamo Dresden | 1-0 | 1-1 | 2-1
+UEFA-FINAL-1: 3 May 1989 | Stadio San Paolo, Naples | SSC Napoli 2-1 VfB Stuttgart | none
+G: 17 | VfB Stuttgart | Gaudino
+G: 68 | SSC Napoli | Maradona (pen)
+G: 87 | SSC Napoli | Careca
+A: Giuliani; Renica, Ferrara, Francini, Corradini (Crippa 46); Alemão, Fusi, De Napoli; Careca, Maradona, Carnevale
+B: Immel; Allgöwer, N.Schmäler, Hartmann, Buchwald; Schäfer, Katanec, Sigurvinsson, Schröder; Walter (Zietsch 70), Gaudino
+RED: none
+UEFA-FINAL-2: 17 May 1989 | Neckarstadion, Stuttgart | VfB Stuttgart 3-3 SSC Napoli | agg 4-5
+G: 18 | SSC Napoli | Alemão
+G: 27 | VfB Stuttgart | Klinsmann
+G: 39 | SSC Napoli | Ferrara
+G: 62 | SSC Napoli | Careca
+G: 70 | VfB Stuttgart | De Napoli (og)
+G: 89 | VfB Stuttgart | O.Schmäler
+A: Immel; Allgöwer, N.Schmäler, Hartmann; Schäfer, Katanec, Sigurvinsson, Schröder; Walter (O.Schmäler 77), Klinsmann, Gaudino
+B: Giuliani; Renica, Ferrara, Francini, Corradini; Alemão (Carannante 30), Fusi, De Napoli; Careca (Bigliardi 70), Maradona, Carnevale
+RED: none
+## 1990
+CL-SEMI: Olympique de Marseille | SL Benfica | 2-1 | 0-1 | 2-2 (away goals)
+CL-SEMI: AC Milan | Bayern Munich | 1-0 | 1-2 | 2-2 (aet, away goals)
+CL-FINAL: 23 May 1990 | Prater Stadium, Vienna | AC Milan 1-0 SL Benfica | none
+G: 68 | AC Milan | Rijkaard
+A: G.Galli; Tassotti, Costacurta, Baresi (c), Maldini; Colombo (F.Galli 89), Rijkaard, Ancelotti (Massaro 72), Evani; Gullit, Van Basten
+B: Silvino; José Carlos, Aldair, Ricardo Gomes, Samuel; Vítor Paneira (Vata 76), Valdo, Thern, Hernâni; Magnusson, Pacheco (c) (Brito 60)
+RED: none
+## 1991
+CL-SEMI: Bayern Munich | Crvena Zvezda | 1-2 | 2-2 | 3-4
+CL-SEMI: Spartak Moscow | Olympique de Marseille | 1-3 | 1-2 | 2-5
+CL-FINAL: 29 May 1991 | Stadio San Nicola, Bari | Crvena Zvezda 0-0 Olympique de Marseille | aet, Crvena Zvezda 5-3 pens
+A: Stojanović; Belodedici, Najdoski, Šabanadžović, Jugović, Marović, Mihajlović; Binić, Savićević (Stošić 84), Prosinečki; Pančev
+B: Olmeta; Amoros, Boli, Mozer, Di Meco (Stojković 112); Fournier (Vercruysse 75), Germain, Casoni, Pelé; Papin, Waddle
+RED: none
+UEFA-SEMI: Brøndby IF | AS Roma | 0-0 | 1-2 | 1-2
+UEFA-SEMI: Sporting CP | Internazionale | 0-0 | 0-2 | 0-2
+UEFA-FINAL-1: 8 May 1991 | San Siro, Milan | Internazionale 2-0 AS Roma | none
+G: 55 | Internazionale | Matthäus (pen)
+G: 67 | Internazionale | Berti
+A: Zenga; Bergomi, Brehme, Battistini, Ferri; Paganin (Baresi 65), Bianchi, Berti, Matthäus; Klinsmann, Serena (Pizzi 90)
+B: Cervone; Tempestilli, Nela, Berthold, Aldair (Carboni 72); Comi (Muzzi 75), Gerolin, Di Mauro, Giannini; Völler, Rizzitelli
+RED: none
+UEFA-FINAL-2: 22 May 1991 | Stadio Olimpico, Rome | AS Roma 1-0 Internazionale | agg 1-2
+G: 81 | AS Roma | Rizzitelli
+A: Cervone; Tempestilli (Salsano 57), Gerolin, Berthold, Aldair; Nela, Desideri (Muzzi 69), Di Mauro, Giannini; Völler, Rizzitelli
+B: Zenga; Bergomi, Brehme, Battistini, Ferri; Paganin, Bianchi, Berti, Matthäus; Klinsmann, Pizzi (Mandorlini 67)
+RED: none
+## 1992
+CL-GROUP: FC Barcelona (Group B winner) | UC Sampdoria (Group A winner)
+CL-FINAL: 20 May 1992 | Wembley Stadium, London | FC Barcelona 1-0 UC Sampdoria | aet
+G: 112 | FC Barcelona | Koeman
+A: Zubizarreta; Eusebio, Ferrer, R.Koeman, Nando, Juan Carlos; Bakero, Guardiola (Alexanko 113), M.Laudrup; Julio Salinas (Goikoetxea 64), Stoichkov
+B: Pagliuca; Mannini, Lanna, Vierchowod, Katanec; Lombardo, Pari, Cerezo, I.Bonetti (Invernizzi 72); Vialli (Buso 100), Mancini
+RED: none
+UEFA-SEMI: Genoa | AFC Ajax | 2-3 | 1-1 | 3-4
+UEFA-SEMI: Real Madrid | Torino | 2-1 | 0-2 | 2-3
+UEFA-FINAL-1: 29 Apr 1992 | Stadio delle Alpi, Turin | Torino 2-2 AFC Ajax | none
+G: 17 | AFC Ajax | Jonk
+G: 65 | Torino | Casagrande
+G: 73 | AFC Ajax | Pettersson (pen)
+G: 82 | Torino | Casagrande
+A: Marchegiani; Bruno, Annoni, Cravero (Bresciani 80), Mussi (Sordo 83); Benedetti, Scifo, Martín Vázquez, Venturin; Lentini, Casagrande
+B: Menzo; Silooy, Blind, Jonk, De Boer; Winter, Kreek, Bergkamp; Van 't Schip, Pettersson, Roy (Groenendijk 82)
+RED: none
+UEFA-FINAL-2: 13 May 1992 | Olympisch Stadion, Amsterdam | AFC Ajax 0-0 Torino | agg 2-2 (Ajax on away goals)
+A: Menzo; Silooy, Blind, Jonk, De Boer; Winter, Kreek (Vink 80), Alflen; Van 't Schip, Pettersson, Roy (Van Loen 65)
+B: Marchegiani; Mussi, Cravero (Sordo 58), Benedetti, Fusi, Policano; Martín Vázquez, Scifo (Bresciani 62), Venturin; Casagrande, Lentini
+RED: none
+## 1990
+UEFA-SEMI: Juventus | 1. FC Köln | 3-2 | 0-0 | 3-2
+UEFA-SEMI: Werder Bremen | ACF Fiorentina | 1-1 | 0-0 | 1-1 (away goals)
+UEFA-FINAL-1: 2 May 1990 | Stadio Comunale, Turin | Juventus 3-1 ACF Fiorentina | none
+G: 3 | Juventus | Galia
+G: 10 | ACF Fiorentina | Buso
+G: 59 | Juventus | Casiraghi
+G: 73 | Juventus | De Agostini
+A: Tacconi; Napoli, De Agostini, Galia, Bruno (Alessio 46); Bonetti, Aleinikov, Barros, Marocchi; Casiraghi, Schillaci
+B: Landucci; Dell'Oglio, Volpecina, Pin, Battistini; Dunga, Nappi, Kubík (Malusci 87), R.Baggio; Buso, Di Chiara
+RED: none
+UEFA-FINAL-2: 16 May 1990 | Stadio Partenio, Avellino | ACF Fiorentina 0-0 Juventus | agg 1-3
+A: Landucci; Dell'Oglio, Volpecina, Pin, Battistini; Dunga, Nappi (Zironelli 71), Kubík, R.Baggio; Buso, Di Chiara
+B: Tacconi; Napoli, De Agostini, Galia, Bruno; Alessio, Aleinikov, Barros (Avallone 72), Marocchi; Casiraghi (Rosa 79), Schillaci
+RED: none

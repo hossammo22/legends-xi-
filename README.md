@@ -74,3 +74,16 @@
 - `tm/clubs_ar.txt`: الأسماء العربية للأندية الجديدة وربط الأسماء بأكواد الأندية الموجودة.
 
 لإعادة التوليد: `python3 data-src/tm_careers.py && python3 data-src/tm_apply.py && python3 data-src/build.py`
+
+## Web app (laptop + phone) — GitHub Pages / PWA
+The same `www/` app runs in any modern browser and installs as a PWA (offline app shell via `www/sw.js`).
+`.github/workflows/pages.yml` publishes it to the `gh-pages` branch on every push to `main`.
+
+## Tournaments (v4): World Cup semi-finals & finals, European finals
+- `data-src/matches_build.py` → `data-src/matches.json` (read by `build.py` into `db.matches` / `db.semis`).
+- World Cup: Fjelstul CSVs in `data-src/wc/` (goals, bookings, substitutions, penalty_kicks, player_appearances, CC-BY-SA 4.0)
+  + `wc/ko_pre1970.txt` (1930–1966 line-ups from RSSSF / Wikipedia, resolved against Fjelstul squads); Arabic names for non-app players in `wc/names_ko_ar.txt`.
+- Europe: `data-src/eu/raw/*.txt` transcribed from RSSSF season pages (2025-26 from UEFA.com reports); `eu/teams_map.txt` club codes;
+  `eu/names.txt` overrides (`= year|TEAM|raw|pid` or `~`) and plain Arabic names (`raw|English|Arabic`); `eu/notes.txt` curated notes.
+- Every stored XI has 11 players and every goal list adds up to the final score.
+- `data-src/heights.txt`: commonly cited heights (approximate) for the search filter.

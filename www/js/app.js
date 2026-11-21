@@ -16,6 +16,9 @@ async function native() {
     }
   } catch (e) {}
 }
+/* web: install prompt (PWA) */
+window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); LX.installEvt = e; document.dispatchEvent(new Event('lx:install')); });
+LX.install = async () => { const e = LX.installEvt; if (!e) return false; e.prompt(); try { await e.userChoice; } catch (x) {} LX.installEvt = null; return true; };
 document.addEventListener('DOMContentLoaded', async () => {
   native();
   if (!location.hash) location.replace('#/home');

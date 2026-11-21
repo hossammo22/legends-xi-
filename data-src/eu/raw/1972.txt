@@ -1,0 +1,24 @@
+## 1972
+CL-SEMI: AFC Ajax | SL Benfica | 1-0 | 0-0 | 1-0
+CL-SEMI: Internazionale | Celtic | 0-0 | 0-0 | 0-0 (Inter 5-4 pens)
+CL-FINAL: 31 May 1972 | De Kuip, Rotterdam | AFC Ajax 2-0 Internazionale | none
+G: 47 | AFC Ajax | Cruijff
+G: 78 | AFC Ajax | Cruijff
+A: (existing squad)
+B: (existing squad)
+RED: none
+UEFA-SEMI: Tottenham Hotspur | AC Milan | 2-1 | 1-1 | 3-2
+UEFA-SEMI: Ferencváros | Wolverhampton Wanderers | 2-2 | 1-2 | 3-4
+UEFA-FINAL-1: 3 May 1972 | Molineux, Wolverhampton | Wolverhampton Wanderers 1-2 Tottenham Hotspur | none
+G: 57 | Tottenham Hotspur | Chivers
+G: 72 | Wolverhampton Wanderers | McCalliog
+G: 87 | Tottenham Hotspur | Chivers
+A: Parkes; Shaw, Munro, McAlle, Taylor; McCalliog, Hibbitt, Hegan, Wagstaffe; Richards, Dougan
+B: Jennings; Kinnear, England, Beal, Knowles; Gilzean, Mullery, Perryman, Coates (Pratt 68); Chivers, Peters
+RED: none
+UEFA-FINAL-2: 17 May 1972 | White Hart Lane, London | Tottenham Hotspur 1-1 Wolverhampton Wanderers | agg 3-2
+G: 30 | Tottenham Hotspur | Mullery
+G: 41 | Wolverhampton Wanderers | Wagstaffe
+A: Jennings; Kinnear, England, Beal, Knowles; Gilzean, Mullery, Perryman, Coates; Chivers, Peters
+B: Parkes; Shaw, Munro, McAlle, Taylor; McCalliog, Hibbitt (Bailey 55), Hegan, Wagstaffe; Richards, Dougan (Curran 84)
+RED: none

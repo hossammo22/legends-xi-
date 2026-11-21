@@ -317,3 +317,25 @@ AIN|Al Ain|العين|club|ae|#6A1B9A|#FFFFFF
 ALI|Alianza Lima|أليانزا ليما|club|pe|#002D72|#FFFFFF
 KZC|Kaizer Chiefs|كايزر تشيفز|club|za|#FFC72C|#000000
 GHR|Al-Gharafa|الغرافة|club|qa|#0072BC|#FFD100
+YB|BSC Young Boys|يونغ بويز|club|CH|#FFD700|#000000
+BOH|Bohemians Praha|بوهيميانز براغ|club|CZ|#2E8B57|#FFFFFF
+DINB|Dinamo București|دينامو بوخارست|club|RO|#C8102E|#FFFFFF
+DUK|Dukla Prague|دوكلا براغ|club|CZ|#8B0000|#FFD700
+DUN|Dundee|دندي|club|GB|#0B1F4B|#FFFFFF
+DUU|Dundee United|دندي يونايتد|club|GB|#F58220|#000000
+TIR|FC Swarovski Tirol|سفاروفسكي تيرول|club|AT|#006B3F|#FFFFFF
+ZUR|FC Zürich|زيورخ|club|CH|#1E5AA8|#FFFFFF
+BOD|FK Bodø/Glimt|بودو غليمت|club|NO|#FFE000|#000000
+GCZ|Grasshopper Club Zürich|غراسهوبرز زيورخ|club|CH|#1F4E9C|#FFFFFF
+KSVW|KSV Waregem|فاريغيم|club|BE|#C8102E|#FFFFFF
+LOK|Lokomotive Leipzig|لوكوموتيف لايبزيغ|club|DE|#1B3F8B|#FFD700
+RWDM|RWD Molenbeek|مولينبيك|club|BE|#C8102E|#FFFFFF
+RNIS|Radnički Niš|رادنيتشكي نيش|club|RS|#C8102E|#FFFFFF
+TRN|Spartak Trnava|سبارتاك ترنافا|club|SK|#C8102E|#000000
+UCV|Universitatea Craiova|أونيفرسيتاتيا كرايوفا|club|RO|#0B4EA2|#FFFFFF
+ETO|Vasas ETO Győr|فاشاش إيتو جيور|club|HU|#008000|#FFFFFF
+VASAS|Vasas SC|فاشاش|club|HU|#C8102E|#0B4EA2
+VID|Videoton|فيديوتون|club|HU|#0B4EA2|#C8102E
+WID|Widzew Łódź|فيدجيف لودز|club|PL|#C8102E|#FFFFFF
+UJP|Újpesti Dózsa|أويبشت دوجا|club|HU|#5B2C83|#FFFFFF
+ZEL|Željezničar Sarajevo|جيليزنيتشار سراييفو|club|BA|#0B4EA2|#FFFFFF

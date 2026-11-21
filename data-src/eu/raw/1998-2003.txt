@@ -1,0 +1,101 @@
+## 1998
+CL-SEMI: Juventus | AS Monaco | 4-1 | 2-3 | 6-4
+CL-SEMI: Real Madrid | Borussia Dortmund | 2-0 | 0-0 | 2-0
+CL-FINAL: 20 May 1998 | Amsterdam ArenA, Amsterdam | Real Madrid 1-0 Juventus | none
+G: 67 | Real Madrid | Mijatović
+RED: none
+UEFA-SEMI: Atlético Madrid | SS Lazio | 0-1 | 0-0 | 0-1
+UEFA-SEMI: Internazionale | Spartak Moscow | 2-1 | 2-1 | 4-2
+UEFA-FINAL: 6 May 1998 | Parc des Princes, Paris | Internazionale 3-0 SS Lazio | none
+G: 5 | Internazionale | Zamorano
+G: 60 | Internazionale | J.Zanetti
+G: 70 | Internazionale | Ronaldo
+A: Pagliuca; J.Zanetti, Colonnese, Fresi, West; Winter (Cauet), Zé Elias, Simeone; Djorkaeff (Moriero); Zamorano (Sartor), Ronaldo
+B: Marchegiani; Negro, Nesta, Grandoni (Gottardi), Favalli; Fuser, Venturin (Almeyda), Jugović, Nedvěd; Casiraghi, Mancini
+RED: West (Internazionale) 82
+## 1999
+CL-SEMI: Manchester United | Juventus | 1-1 | 3-2 | 4-3
+CL-SEMI: Dynamo Kyiv | Bayern Munich | 3-3 | 0-1 | 3-4
+CL-FINAL: 26 May 1999 | Camp Nou, Barcelona | Manchester United 2-1 Bayern Munich | none
+G: 6 | Bayern Munich | Basler
+G: 90+1 | Manchester United | Sheringham
+G: 90+2 | Manchester United | Solskjær
+RED: none
+UEFA-SEMI: Olympique de Marseille | Bologna | 0-0 | 1-1 | 1-1 (away goals)
+UEFA-SEMI: Atlético Madrid | Parma | 1-3 | 1-2 | 2-5
+UEFA-FINAL: 12 May 1999 | Luzhniki Stadium, Moscow | Parma 3-0 Olympique de Marseille | none
+G: 26 | Parma | Crespo
+G: 36 | Parma | Vanoli
+G: 55 | Parma | Chiesa
+RED: none
+## 2000
+CL-SEMI: Real Madrid | Bayern Munich | 2-0 | 1-2 | 3-2
+CL-SEMI: Valencia CF | FC Barcelona | 4-1 | 1-2 | 5-3
+CL-FINAL: 24 May 2000 | Stade de France, Saint-Denis | Real Madrid 3-0 Valencia CF | none
+G: 39 | Real Madrid | Morientes
+G: 67 | Real Madrid | McManaman
+G: 75 | Real Madrid | Raúl
+RED: none
+UEFA-SEMI: Galatasaray | Leeds United | 2-0 | 2-2 | 4-2
+UEFA-SEMI: Arsenal | RC Lens | 1-0 | 2-1 | 3-1
+UEFA-FINAL: 17 May 2000 | Parken Stadium, Copenhagen | Galatasaray 0-0 Arsenal | aet, Galatasaray 4-1 pens
+RED: Hagi (Galatasaray) 94
+## 2001
+CL-SEMI: Leeds United | Valencia CF | 0-0 | 0-3 | 0-3
+CL-SEMI: Real Madrid | Bayern Munich | 0-1 | 1-2 | 1-3
+CL-FINAL: 23 May 2001 | San Siro, Milan | Bayern Munich 1-1 Valencia CF | aet, Bayern 5-4 pens
+G: 3 | Valencia CF | Mendieta (pen)
+G: 51 | Bayern Munich | Effenberg (pen)
+A: Kahn; Sagnol (Jancker 46), Andersson, Kuffour, Linke, Lizarazu; Hargreaves, Effenberg, Salihamidžić, Scholl (Paulo Sérgio 108); Élber (Zickler 100)
+B: Cañizares; Angloma, Ayala (Đukić 90), Pellegrino, Carboni; Baraja, Mendieta, Kily González, Juan Sánchez (Zahovič 66), Aimar (Albelda 46); Carew
+RED: none
+UEFA-SEMI: FC Barcelona | Liverpool | 0-0 | 0-1 | 0-1
+UEFA-SEMI: Deportivo Alavés | 1. FC Kaiserslautern | 5-1 | 4-1 | 9-2
+UEFA-FINAL: 16 May 2001 | Westfalenstadion, Dortmund | Liverpool 5-4 Deportivo Alavés | aet, golden goal (Geli own goal 116)
+G: 4 | Liverpool | Babbel
+G: 16 | Liverpool | Gerrard
+G: 27 | Deportivo Alavés | Iván Alonso
+G: 41 | Liverpool | McAllister (pen)
+G: 48 | Deportivo Alavés | Javi Moreno
+G: 51 | Deportivo Alavés | Javi Moreno
+G: 73 | Liverpool | Fowler
+G: 89 | Deportivo Alavés | Jordi Cruyff
+G: 116 | Liverpool | Geli (og)
+A: Westerveld; Carragher, Henchoz (Šmicer 56), Hyypiä, Babbel; Gerrard, McAllister, Hamann, Murphy; Heskey (Fowler 65), Owen (Berger 79)
+B: Herrera; Contra, Karmona, Téllez, Eggen (Iván Alonso 23), Geli; Jordi Cruyff, Tomić, Desio, Astudillo (Magno 46), Javi Moreno (Pablo 65)
+RED: Magno (Alavés) 99; Karmona (Alavés) 116
+## 2002
+CL-SEMI: FC Barcelona | Real Madrid | 0-2 | 1-1 | 1-3
+CL-SEMI: Manchester United | Bayer Leverkusen | 2-2 | 1-1 | 3-3 (away goals)
+CL-FINAL: 15 May 2002 | Hampden Park, Glasgow | Real Madrid 2-1 Bayer Leverkusen | none
+G: 8 | Real Madrid | Raúl
+G: 14 | Bayer Leverkusen | Lúcio
+G: 45 | Real Madrid | Zidane
+A: César (Casillas 68); Míchel Salgado, Hierro (c), Helguera, Roberto Carlos; Figo (McManaman 61), Makélélé (Flávio Conceição 73), Zidane, Solari; Raúl, Morientes
+B: Butt; Sebescen (Kirsten 65), Živković, Lúcio (Babić 90), Placente; Schneider, Ramelow (c), Baştürk, Ballack; Neuville, Brdarić (Berbatov 39)
+RED: none
+UEFA-SEMI: Internazionale | Feyenoord | 0-1 | 2-2 | 2-3
+UEFA-SEMI: Borussia Dortmund | AC Milan | 4-0 | 1-3 | 5-3
+UEFA-FINAL: 8 May 2002 | De Kuip, Rotterdam | Feyenoord 3-2 Borussia Dortmund | none
+G: 33 | Feyenoord | Van Hooijdonk (pen)
+G: 40 | Feyenoord | Van Hooijdonk
+G: 47 | Borussia Dortmund | Amoroso (pen)
+G: 50 | Feyenoord | Tomasson
+G: 58 | Borussia Dortmund | Koller
+A: Zoetebier; Gyan, Van Wonderen, Paauwe, Rzasa; Kalou (Elmander 76), Bosvelt (c), Ono (De Haan 85); Van Persie (Leonardo 63), Tomasson, Van Hooijdonk
+B: Lehmann; Evanílson, Wörns, Kohler, Dedê; Ricken (Heinrich 70), Reuter (c), Rosický; Ewerthon (Addo 61), Koller, Amoroso
+RED: Kohler (Dortmund) 31
+## 2003
+CL-SEMI: Real Madrid | Juventus | 2-1 | 1-3 | 3-4
+CL-SEMI: AC Milan | Internazionale | 0-0 | 1-1 | 1-1 (away goals)
+CL-FINAL: 28 May 2003 | Old Trafford, Manchester | AC Milan 0-0 Juventus | aet, Milan 3-2 pens
+RED: none
+UEFA-SEMI: Celtic | Boavista | 1-1 | 1-0 | 2-1
+UEFA-SEMI: FC Porto | SS Lazio | 4-1 | 0-0 | 4-1
+UEFA-FINAL: 21 May 2003 | Estadio Olímpico, Seville | FC Porto 3-2 Celtic | aet (silver goal)
+G: 45+1 | FC Porto | Derlei
+G: 47 | Celtic | Larsson
+G: 54 | FC Porto | Alenichev
+G: 57 | Celtic | Larsson
+G: 115 | FC Porto | Derlei
+RED: Baldé (Celtic) 95; Nuno Valente (Porto) 120

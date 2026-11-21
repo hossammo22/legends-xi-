@@ -1,0 +1,104 @@
+## 2004
+CL-SEMI: AS Monaco | Chelsea | 3-1 | 2-2 | 5-3
+CL-SEMI: FC Porto | Deportivo de La Coruña | 0-0 | 1-0 | 1-0
+CL-FINAL: 26 May 2004 | Arena AufSchalke, Gelsenkirchen | FC Porto 3-0 AS Monaco | none
+G: 39 | FC Porto | Carlos Alberto
+G: 71 | FC Porto | Deco
+G: 75 | FC Porto | Alenichev
+RED: none
+UEFA-SEMI: Newcastle United | Olympique de Marseille | 0-0 | 0-2 | 0-2
+UEFA-SEMI: Villarreal CF | Valencia CF | 0-0 | 0-1 | 0-1
+UEFA-FINAL: 19 May 2004 | Nya Ullevi, Gothenburg | Valencia CF 2-0 Olympique de Marseille | none
+G: 45 | Valencia CF | Vicente (pen)
+G: 58 | Valencia CF | Mista
+A: Cañizares; Curro Torres, Ayala, Marchena (Pellegrino 86), Carboni; Albelda, Baraja; Rufete (Aimar 64), Angulo (Sissoko 82), Vicente; Mista
+B: Barthez; Beye, Hemdani, Méïté, Ferreira; Flamini (Batlles 71), N'Diaye (Celestini 84), Meriem (Gavanon 45), Dos Santos; Marlet, Drogba
+RED: Barthez (Marseille) 45
+## 2005
+CL-SEMI: Chelsea | Liverpool | 0-0 | 0-1 | 0-1
+CL-SEMI: AC Milan | PSV Eindhoven | 2-0 | 1-3 | 3-3 (away goals)
+CL-FINAL: 25 May 2005 | Atatürk Olympic Stadium, Istanbul | AC Milan 3-3 Liverpool | aet, Liverpool 3-2 pens
+G: 1 | AC Milan | Maldini
+G: 38 | AC Milan | Crespo
+G: 43 | AC Milan | Crespo
+G: 54 | Liverpool | Gerrard
+G: 56 | Liverpool | Šmicer
+G: 60 | Liverpool | Xabi Alonso
+RED: none
+UEFA-SEMI: Parma | CSKA Moscow | 0-0 | 0-3 | 0-3
+UEFA-SEMI: Sporting CP | AZ Alkmaar | 2-1 | 2-3 | 4-4 (aet, away goals)
+UEFA-FINAL: 18 May 2005 | Estádio José Alvalade, Lisbon | Sporting CP 1-3 CSKA Moscow | none
+G: 29 | Sporting CP | Rogério
+G: 56 | CSKA Moscow | A.Berezutski
+G: 66 | CSKA Moscow | Zhirkov
+G: 75 | CSKA Moscow | Vágner Love
+A: Ricardo; Miguel Garcia, Beto, Rodrigo Tello, Enakarhire; Pedro Barbosa, Rochemback, Rogério (Douala 80), João Moutinho (Hugo Viana 88), Sá Pinto (Niculae 73); Liédson
+B: Akinfeev; V.Berezutski, Ignashevich, A.Berezutski, Zhirkov; Rahimić, Odiah, Daniel Carvalho (Šemberas 82), Aldonin (Gusev 86); Vágner Love, Olić (Krasić 67)
+RED: none
+## 2006
+CL-SEMI: Arsenal | Villarreal CF | 1-0 | 0-0 | 1-0
+CL-SEMI: AC Milan | FC Barcelona | 0-1 | 0-0 | 0-1
+CL-FINAL: 17 May 2006 | Stade de France, Saint-Denis | FC Barcelona 2-1 Arsenal | none
+G: 37 | Arsenal | Campbell
+G: 76 | FC Barcelona | Eto'o
+G: 81 | FC Barcelona | Belletti
+RED: Lehmann (Arsenal) 18
+UEFA-SEMI: Steaua București | Middlesbrough | 1-0 | 2-4 | 3-4
+UEFA-SEMI: Schalke 04 | Sevilla FC | 0-0 | 0-1 | 0-1 (aet)
+UEFA-FINAL: 10 May 2006 | Philips Stadion, Eindhoven | Middlesbrough 0-4 Sevilla FC | none
+G: 27 | Sevilla FC | Luís Fabiano
+G: 78 | Sevilla FC | Maresca
+G: 84 | Sevilla FC | Maresca
+G: 89 | Sevilla FC | Kanouté
+A: Schwarzer; Riggott, Southgate, Queudrue (Yakubu 70), Parnaby; Rochemback, Boateng, Downing, Morrison (Maccarone 46); Hasselbaink, Viduka (Cattermole 86)
+B: Palop; Dani Alves, Javi Navarro, Escudé, David Castedo; Jesús Navas, Martí, Maresca, Adriano (Puerta 86); Saviola (Kanouté 46); Luís Fabiano (Renato 72)
+RED: none
+## 2007
+CL-SEMI: Chelsea | Liverpool | 1-0 | 0-1 | 1-1 (Liverpool 4-1 pens)
+CL-SEMI: Manchester United | AC Milan | 3-2 | 0-3 | 3-5
+CL-FINAL: 23 May 2007 | Olympic Stadium, Athens | AC Milan 2-1 Liverpool | none
+G: 45 | AC Milan | F.Inzaghi
+G: 82 | AC Milan | F.Inzaghi
+G: 89 | Liverpool | Kuyt
+RED: none
+UEFA-SEMI: RCD Espanyol | Werder Bremen | 3-0 | 2-1 | 5-1
+UEFA-SEMI: CA Osasuna | Sevilla FC | 1-0 | 0-2 | 1-2
+UEFA-FINAL: 16 May 2007 | Hampden Park, Glasgow | Sevilla FC 2-2 RCD Espanyol | aet, Sevilla 3-1 pens
+G: 18 | Sevilla FC | Adriano
+G: 28 | RCD Espanyol | Riera
+G: 105 | Sevilla FC | Kanouté
+G: 115 | RCD Espanyol | Jônatas
+A: Palop; Dani Alves, Javi Navarro, Puerta, Dragutinović; Martí, Poulsen; Adriano (Renato 76), Maresca (Jesús Navas 46), Luís Fabiano (Kerzhakov 64), Kanouté
+B: Iraizoz; Zabaleta, Torrejón, Jarque, David García; Moisés Hurtado, Rufete (Pandiani 56), Riera, De la Peña (Jônatas 87), Luis García; Tamudo (Lacruz 73)
+RED: none
+## 2008
+CL-SEMI: Liverpool | Chelsea | 1-1 | 2-3 | 3-4 (aet)
+CL-SEMI: FC Barcelona | Manchester United | 0-0 | 0-1 | 0-1
+CL-FINAL: 21 May 2008 | Luzhniki Stadium, Moscow | Manchester United 1-1 Chelsea | aet, Man United 6-5 pens
+G: 26 | Manchester United | C.Ronaldo
+G: 45 | Chelsea | Lampard
+RED: Drogba (Chelsea) 116
+UEFA-SEMI: Rangers | ACF Fiorentina | 0-0 | 0-0 | 0-0 (Rangers 4-2 pens)
+UEFA-SEMI: Bayern Munich | Zenit Saint Petersburg | 1-1 | 0-4 | 1-5
+UEFA-FINAL: 14 May 2008 | City of Manchester Stadium, Manchester | Zenit Saint Petersburg 2-0 Rangers | none
+G: 72 | Zenit Saint Petersburg | Denisov
+G: 90+4 | Zenit Saint Petersburg | Zyryanov
+A: Malafeev; Anyukov, Shirokov, Križanac, Širl; Zyryanov, Tymoshchuk, Denisov, Faizulin (Kim Dong-jin 90+2); Arshavin, Tekke
+B: Alexander; Broadfoot, Cuéllar, Weir, Papac (Novo 76); Davis, Hemdani (McCulloch 81), Ferguson, Thomson, Whittaker (Boyd 86); Darcheville
+RED: none
+## 2009
+CL-SEMI: FC Barcelona | Chelsea | 0-0 | 1-1 | 1-1 (away goals)
+CL-SEMI: Manchester United | Arsenal | 1-0 | 3-1 | 4-1
+CL-FINAL: 27 May 2009 | Stadio Olimpico, Rome | FC Barcelona 2-0 Manchester United | none
+G: 10 | FC Barcelona | Eto'o
+G: 70 | FC Barcelona | Messi
+RED: none
+UEFA-SEMI: Dynamo Kyiv | Shakhtar Donetsk | 1-1 | 1-2 | 2-3
+UEFA-SEMI: Werder Bremen | Hamburger SV | 0-1 | 3-2 | 3-3 (away goals)
+UEFA-FINAL: 20 May 2009 | Şükrü Saracoğlu Stadium, Istanbul | Shakhtar Donetsk 2-1 Werder Bremen | aet
+G: 25 | Shakhtar Donetsk | Luiz Adriano
+G: 35 | Werder Bremen | Naldo
+G: 97 | Shakhtar Donetsk | Jádson
+A: Pyatov; Srna, Kucher, Chygrynskiy, Raț; Fernandinho, Lewandowski, Ilsinho (Gai 99), Jádson (Duljaj 112), Willian; Luiz Adriano (Gladkiy 89)
+B: Wiese; Fritz (Pasanen 95), Prödl, Naldo, Boenisch; Frings, Niemeyer (Tziolis 103), Baumann, Özil; Pizarro, Rosenberg (Hunt 78)
+RED: none

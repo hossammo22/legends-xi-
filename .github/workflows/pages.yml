@@ -1,0 +1,39 @@
+name: Publish web app (GitHub Pages)
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build & validate the football database
+        run: python3 data-src/build.py
+      - name: Offline app shell (service worker)
+        run: python3 data-src/make_sw.py
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp -r www/index.html www/manifest.webmanifest www/sw.js www/icon.svg www/icons www/css www/js www/fonts _site/
+          touch _site/.nojekyll
+          cp _site/index.html _site/404.html
+      - name: Publish to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          force_orphan: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Publish web app'

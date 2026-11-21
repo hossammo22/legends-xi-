@@ -1,0 +1,93 @@
+## 1960
+CL-SEMI: Real Madrid | FC Barcelona | 3-1 | 3-1 | 6-2
+CL-SEMI: Eintracht Frankfurt | Rangers | 6-1 | 6-3 | 12-4
+CL-FINAL: 18 May 1960 | Hampden Park, Glasgow | Real Madrid 7-3 Eintracht Frankfurt | none
+G: 18 | Eintracht Frankfurt | Kress
+G: 27 | Real Madrid | Di Stéfano
+G: 30 | Real Madrid | Di Stéfano
+G: 45 | Real Madrid | Puskás
+G: 56 | Real Madrid | Puskás (pen)
+G: 60 | Real Madrid | Puskás
+G: 71 | Real Madrid | Puskás
+G: 72 | Eintracht Frankfurt | Stein
+G: 75 | Real Madrid | Di Stéfano
+G: 76 | Eintracht Frankfurt | Stein
+A: Domínguez; Marquitos, Santamaría, Pachín; Vidal, Zárraga; Canário, Del Sol, Di Stéfano, Puskás, Gento
+B: Loy; Lutz, Eigenbrodt, Höfer; Weilbächer, Stinka; Kress, Lindner, Stein, Pfaff, Meier
+RED: none
+## 1961
+CL-SEMI: SL Benfica | SK Rapid Vienna | 3-0 | 1-1 | 4-1
+CL-SEMI: FC Barcelona | Hamburger SV | 1-0 | 1-2 | 2-2 (play-off 1-0, Brussels)
+CL-FINAL: 31 May 1961 | Wankdorf Stadium, Bern | SL Benfica 3-2 FC Barcelona | none
+G: 20 | FC Barcelona | Kocsis
+G: 30 | SL Benfica | Águas
+G: 32 | SL Benfica | Ramallets (og)
+G: 55 | SL Benfica | Coluna
+G: 75 | FC Barcelona | Czibor
+A: Costa Pereira; João, Germano, Ângelo; Neto, Cruz; José Augusto, Santana, Águas, Coluna, Cavém
+B: Ramallets; Foncho, Gensana, Gràcia; Vergés, Garay; Kubala, Kocsis, Evaristo, Suárez, Czibor
+RED: none
+## 1962
+CL-SEMI: Real Madrid | Standard CL (Liège) | 4-0 | 2-0 | 6-0
+CL-SEMI: SL Benfica | Tottenham Hotspur | 3-1 | 1-2 | 4-3
+CL-FINAL: 2 May 1962 | Olympisch Stadion, Amsterdam | SL Benfica 5-3 Real Madrid | none
+G: 17 | Real Madrid | Puskás
+G: 23 | Real Madrid | Puskás
+G: 25 | SL Benfica | Águas
+G: 34 | SL Benfica | Cavém
+G: 38 | Real Madrid | Puskás
+G: 51 | SL Benfica | Coluna
+G: 65 | SL Benfica | Eusébio (pen)
+G: 68 | SL Benfica | Eusébio
+A: Costa Pereira; João, Germano, Ângelo; Cavém, Cruz; José Augusto, Eusébio, Águas, Coluna, Simões
+B: Araquistáin; Casado, Santamaría, Miera; Felo, Pachín; Tejada, Del Sol, Di Stéfano, Puskás, Gento
+RED: none
+## 1963
+CL-SEMI: AC Milan | Dundee | 5-1 | 0-1 | 5-2
+CL-SEMI: Feyenoord | SL Benfica | 0-0 | 1-3 | 1-3
+CL-FINAL: 22 May 1963 | Wembley Stadium, London | AC Milan 2-1 SL Benfica | none
+G: 19 | SL Benfica | Eusébio
+G: 58 | AC Milan | Altafini
+G: 70 | AC Milan | Altafini
+A: Ghezzi; David, Maldini, Trebbi; Benítez, Trapattoni; Pivatelli, Sani, Altafini, Rivera, Mora
+B: Costa Pereira; Cavém, Cruz, Humberto, Raul; Coluna, Santana; José Augusto, Torres, Eusébio, Simões
+RED: none
+## 1964
+CL-SEMI: Borussia Dortmund | Internazionale | 2-2 | 0-2 | 2-4
+CL-SEMI: FC Zürich | Real Madrid | 1-2 | 0-6 | 1-8
+CL-FINAL: 27 May 1964 | Prater Stadium, Vienna | Internazionale 3-1 Real Madrid | none
+G: 43 | Internazionale | Mazzola
+G: 61 | Internazionale | Milani
+G: 70 | Real Madrid | Felo
+G: 76 | Internazionale | Mazzola
+A: Sarti; Burgnich, Guarneri, Facchetti; Tagnin, Picchi; Jair, Mazzola, Milani, Suárez, Corso
+B: Vicente; Isidro, Santamaría, Pachín; Zoco, Muller; Amancio, Felo, Di Stéfano, Puskás, Gento
+RED: none
+## 1965
+CL-SEMI: Liverpool | Internazionale | 3-1 | 0-3 | 3-4
+CL-SEMI: Vasas ETO Győr | SL Benfica | 0-1 | 0-4 | 0-5
+CL-FINAL: 27 May 1965 | San Siro, Milan | Internazionale 1-0 SL Benfica | none
+G: 42 | Internazionale | Jair
+A: Sarti; Burgnich, Guarneri, Facchetti; Bedin, Picchi; Jair, Mazzola, Peiró, Suárez, Corso
+B: Costa Pereira; Cavém, Cruz, Germano, Raul; Neto, Coluna; José Augusto, Eusébio, Torres, Simões
+RED: none
+## 1966
+CL-SEMI: Real Madrid | Internazionale | 1-0 | 1-1 | 2-1
+CL-SEMI: FK Partizan (Belgrade) | Manchester United | 2-0 | 0-1 | 2-1
+CL-FINAL: 11 May 1966 | Heysel Stadium, Brussels | Real Madrid 2-1 FK Partizan (Belgrade) | none
+G: 55 | FK Partizan (Belgrade) | Vasović
+G: 70 | Real Madrid | Amancio
+G: 75 | Real Madrid | Serena
+A: Araquistáin; Pachín, De Felipe, Zoco, Sanchís; Pirri, Velázquez; Serena, Amancio, Grosso, Gento
+B: Šoškić; Jusufi, Rašović, Vasović, Mihajlović; Kovačević, Bečejac; Bajić, Hasanagić, Galić, Pirmajer
+RED: none
+## 1967
+CL-SEMI: Celtic | Dukla Prague | 3-1 | 0-0 | 3-1
+CL-SEMI: Internazionale | CSKA Sofia | 1-1 | 1-1 | 2-2 (play-off 1-0, Bologna)
+CL-FINAL: 25 May 1967 | Estádio Nacional, Lisbon | Celtic 2-1 Internazionale | none
+G: 8 | Internazionale | Mazzola (pen)
+G: 63 | Celtic | Gemmell
+G: 85 | Celtic | Chalmers
+A: Simpson; Craig, McNeill, Gemmell; Murdoch, Clark; Johnstone, Wallace, Chalmers, Auld, Lennox
+B: Sarti; Burgnich, Guarneri, Facchetti; Bedin, Picchi; Domenghini, Mazzola, Cappellini, Bicicli, Corso
+RED: none

@@ -6,4 +6,5 @@ cd "$(dirname "$0")"
 python3 build.py >/dev/null          # base build (resolvers read www/js/data.js)
 python3 sb_resolve.py && python3 sb_apply.py
 python3 gen_apply.py
+python3 matches_build.py
 python3 build.py

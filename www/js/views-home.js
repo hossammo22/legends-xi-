@@ -29,6 +29,7 @@ LX.route(/^\/home$/, root => {
     <div class="section-t" style="margin-top:14px">${I.clock.replace('<svg', '<svg style="width:18px;height:18px;vertical-align:-4px;color:var(--gold)"')} ذاكرة الأجيال <small>${esc(e.ar)}</small></div>
     <div class="gens" id="gens" style="margin-top:0">${LX.ERAS.map(x => `<button class="gen ${x.id === e.id ? 'on' : ''}" data-e="${x.id}">${esc(x.label)}</button>`).join('')}</div>
     <div class="bigcards">
+      <button class="bigcard bc4" data-g="/cups"><span class="art" style="font-size:64px;display:grid;place-items:center">🏆</span><span class="k">WORLD CUP · UCL · UEL</span><span class="t">البطولات الكبرى: نصف النهائي والنهائي</span><span class="d">كأس العالم منذ 1930، ودوري الأبطال منذ 1956، والدوري الأوروبي منذ 1972: التشكيلات والهدافون وأبرز الأحداث.</span></button>
       <button class="bigcard bc1" data-g="/squads">${ART.squads}<span class="k">LEGENDARY SQUADS</span><span class="t">موسوعة التشكيلات التاريخية</span><span class="d">تشكيلات موثقة بالأرقام والمراكز والصور، وأرشيف لاعبين لكل موسم.</span></button>
       <button class="bigcard bc2" data-g="/guess">${ART.guess}<span class="k">GUESS THE LEGEND</span><span class="t">خمن اللاعب</span><span class="d">أدلة حقيقية من مسيرات موثقة · 4 مستويات · 3 فرص.</span></button>
       <button class="bigcard bc3" data-g="/connect">${ART.link}<span class="k">PLAYER CONNECTIONS</span><span class="t">وصلات اللاعبين</span><span class="d">من بيليه إلى رونالدو عبر زملاء حقيقيين — 9 أوضاع.</span></button>
@@ -42,6 +43,7 @@ LX.route(/^\/home$/, root => {
       <button class="smallcard" data-g="/story"><span class="ic">${I.info}</span><span class="t">حكاية لاعب</span><span class="d">PLAYER STORY</span></button>
     </div>
     <button class="prow" style="margin-top:12px" data-g="/search">${I.search.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">ابحث عن أي لاعب</div><div class="s">${st.players} لاعب · ${st.squads} تشكيلة · ${Math.round(LX.linkCount).toLocaleString(LX.lang === 'en' ? 'en-US' : 'ar-EG')} رابط زمالة موثق</div></div></button>
+    <button class="prow install" id="inst" style="display:none">${I.dl.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">ثبّت التطبيق على جهازك</div><div class="s">يعمل على اللابتوب والموبايل حتى دون إنترنت</div></div></button>
     <button class="prow" style="margin-top:8px" data-g="/achievements">${I.trophy.replace('<svg', '<svg style="width:22px;height:22px;color:var(--gold)"')}<div class="grow"><div class="n">إنجازاتي</div><div class="s">${Object.keys(S.get('ach', {})).length} من ${LX.ACH.length} إنجاز</div></div></button>
     ${SIGHTML()}`);
   root.querySelector('.topbar h1').innerHTML = `<span class="en" style="letter-spacing:.14em;font-size:15px">LEGENDS <span class="gold">XI</span></span>`;
@@ -50,14 +52,82 @@ LX.route(/^\/home$/, root => {
     const b = ev.target.closest('[data-e]'); if (b) { LX.setEra(b.dataset.e); main.querySelectorAll('#gens .gen').forEach(x => x.classList.toggle('on', x === b)); root.querySelector('.section-t small').textContent = LX.era().ar; }
   };
   root.querySelector('#st').onclick = () => LX.go('/settings');
+  const inst = root.querySelector('#inst'); const showI = () => { if (LX.installEvt && inst) inst.style.display = ''; };
+  if (inst) { inst.onclick = async () => { await LX.install(); inst.style.display = 'none'; }; showI(); document.addEventListener('lx:install', showI, { once: true }); }
 });
 
 /* ---------------- global player search */
 LX.route(/^\/search$/, root => {
-  const main = LX.page(root, { title: 'البحث عن لاعب', gen: true }, `<div class="search">${I.search}<input id="q" placeholder="الاسم بالعربية أو الإنجليزية أو اللقب" autocomplete="off"></div><div class="plist" id="r"></div>`);
-  const q = main.querySelector('#q'), r = main.querySelector('#r');
-  const draw = () => { const res = q.value.trim() ? LX.search(q.value, 60) : LX.allPlayers.filter(p => p.t === 1 && LX.inEra(p)).slice(0, 40); r.innerHTML = res.map(p => LX.prow(p)).join('') || '<div class="empty">لا نتائج</div>'; LX.loadPhotos(r); };
-  q.oninput = draw; draw(); setTimeout(() => q.focus(), 100);
+  const F = Object.assign({ q: '', nat: '', nt: '', club: '', from: '', to: '', pos: '', ht: '', hmin: '', hmax: '', sort: 't' }, S.get('sf', {}));
+  const nats = {}, clubs = {};
+  LX.allPlayers.forEach(p => { nats[p.nat] = (nats[p.nat] || 0) + 1; p.cl.forEach(c => clubs[c[0]] = (clubs[c[0]] || 0) + 1); });
+  const natOpts = Object.keys(nats).filter(k => LX.T(k)).sort((a, b) => LX.teamName(a).localeCompare(LX.teamName(b), 'ar'));
+  const clubOpts = Object.keys(clubs).filter(k => LX.T(k) && LX.T(k).type === 'club').sort((a, b) => clubs[b] - clubs[a]);
+  const nHt = LX.allPlayers.filter(p => p.ht).length;
+  const POS = [['', 'كل المراكز'], ['GK', 'حارس مرمى'], ['DF', 'مدافع (كل الخط)'], ['MF', 'وسط (كل الخط)'], ['FW', 'هجوم (كل الخط)'], ...['CB', 'RB', 'LB', 'DM', 'CM', 'AM', 'RW', 'LW', 'CF'].map(k => [k, LX.POSDETAIL[k]])];
+  const main = LX.page(root, { title: 'البحث عن لاعب', gen: false }, `<div class="search">${I.search}<input id="q" placeholder="الاسم بالعربية أو الإنجليزية أو اللقب" autocomplete="off" value="${esc(F.q)}"></div>
+    <details class="card" id="fx" style="margin-top:10px;padding:10px 12px" ${Object.entries(F).some(([k, v]) => v && k !== 'q' && k !== 'sort') ? 'open' : ''}><summary style="font-weight:800;cursor:pointer">🔎 بحث متقدم: الجنسية · الفترة · النادي · المنتخب · الطول · المركز</summary>
+    <div class="filters">
+      <label>الجنسية<select id="f-nat"><option value="">الكل</option>${natOpts.map(k => `<option value="${k}" ${F.nat === k ? 'selected' : ''}>${LX.flag(LX.T(k).cc)} ${esc(LX.teamName(k).split(' / ')[0])} (${nats[k]})</option>`).join('')}</select></label>
+      <label>المنتخب (لعب دوليًا له)<select id="f-nt"><option value="">الكل</option><option value="*" ${F.nt === '*' ? 'selected' : ''}>أي منتخب (دولي موثق)</option><option value="-" ${F.nt === '-' ? 'selected' : ''}>لم يُوثق له لعب دولي</option>${natOpts.filter(k => LX.T(k).type === 'nt').map(k => `<option value="${k}" ${F.nt === k ? 'selected' : ''}>${esc(LX.teamName(k).split(' / ')[0])}</option>`).join('')}</select></label>
+      <label>النادي<input id="f-club" list="dl-club" placeholder="اكتب اسم النادي" value="${esc(F.club ? LX.teamName(F.club) : '')}"><datalist id="dl-club">${clubOpts.map(k => `<option value="${esc(LX.teamName(k))}">`).join('')}</datalist></label>
+      <label>الفترة الزمنية<span class="hr"><input id="f-from" type="number" inputmode="numeric" placeholder="من سنة" value="${esc(F.from)}"><input id="f-to" type="number" inputmode="numeric" placeholder="إلى سنة" value="${esc(F.to)}"></span></label>
+      <label>المركز<select id="f-pos">${POS.map(([k, l]) => `<option value="${k}" ${F.pos === k ? 'selected' : ''}>${esc(l)}</option>`).join('')}</select></label>
+      <label>الطول (سم)<select id="f-ht"><option value="">الكل</option><option value="s" ${F.ht === 's' ? 'selected' : ''}>أقل من 175</option><option value="m" ${F.ht === 'm' ? 'selected' : ''}>175–184</option><option value="t" ${F.ht === 't' ? 'selected' : ''}>185–189</option><option value="x" ${F.ht === 'x' ? 'selected' : ''}>190 فأكثر</option><option value="r" ${F.ht === 'r' ? 'selected' : ''}>نطاق مخصص…</option></select></label>
+      <label id="hrng" style="${F.ht === 'r' ? '' : 'display:none'}">نطاق الطول<span class="hr"><input id="f-hmin" type="number" placeholder="من" value="${esc(F.hmin)}"><input id="f-hmax" type="number" placeholder="إلى" value="${esc(F.hmax)}"></span></label>
+      <label>الترتيب<select id="f-sort"><option value="t">الأشهر أولًا</option><option value="n" ${F.sort === 'n' ? 'selected' : ''}>الاسم</option><option value="h" ${F.sort === 'h' ? 'selected' : ''}>الأطول أولًا</option><option value="y" ${F.sort === 'y' ? 'selected' : ''}>الأقدم أولًا</option></select></label>
+    </div>
+    <p class="muted" style="font-size:11.5px;margin:8px 0 0">الطول متاح لـ ${nHt} لاعبًا من أشهر اللاعبين (قيم تقريبية كما تُذكر في المصادر الشائعة، وقد تختلف 1–2 سم)، ويُستبعد غيرهم عند تفعيل فلتر الطول. «المنتخب» يعني تمثيلًا دوليًا موثقًا (مشاركة في كأس العالم أو سنوات دولية مسجلة).</p>
+    <div class="row" style="gap:8px;margin-top:8px"><button class="btn sm ghost" id="f-clear">مسح الفلاتر</button></div></details>
+    <div class="fbar"><span class="cnt" id="cnt"></span><span id="chips"></span></div>
+    <div class="plist" id="r"></div><button class="btn block" id="more" style="margin-top:8px;display:none">عرض المزيد</button>`);
+  const $ = id => main.querySelector(id), r = $('#r');
+  let limit = 60;
+  const clubCode = name => { name = LX.norm(name); if (!name) return ''; const hit = clubOpts.find(k => LX.norm(LX.teamName(k)) === name || LX.norm(LX.T(k).en) === name); return hit || clubOpts.find(k => LX.norm(LX.teamName(k)).includes(name) || LX.norm(LX.T(k).en).includes(name)) || ''; };
+  const read = () => {
+    F.q = $('#q').value.trim(); F.nat = $('#f-nat').value; F.nt = $('#f-nt').value; F.club = clubCode($('#f-club').value);
+    F.from = $('#f-from').value; F.to = $('#f-to').value; F.pos = $('#f-pos').value; F.ht = $('#f-ht').value; F.hmin = $('#f-hmin').value; F.hmax = $('#f-hmax').value; F.sort = $('#f-sort').value;
+    $('#hrng').style.display = F.ht === 'r' ? '' : 'none'; S.set('sf', F);
+  };
+  const intl = p => !!(p.nt || (p.wc && p.wc.length));
+  const test = p => {
+    if (F.nat && p.nat !== F.nat) return false;
+    if (F.nt === '*' && !intl(p)) return false;
+    if (F.nt === '-' && intl(p)) return false;
+    if (F.nt && F.nt !== '*' && F.nt !== '-' && !(p.nat === F.nt && intl(p))) return false;
+    if (F.club && !p.cl.some(c => c[0] === F.club)) return false;
+    const a = +F.from || 0, b = +F.to || 9999;
+    if ((F.from || F.to) && (!p.yr || p.yr[1] < a || p.yr[0] > b)) return false;
+    if (F.club && (F.from || F.to) && !p.cl.some(c => c[0] === F.club && c[2] >= a && c[1] <= b)) return false;
+    if (F.pos) { if (['GK', 'DF', 'MF', 'FW'].includes(F.pos)) { if (LX.posGroup(p.pos) !== F.pos) return false; } else if (p.pos !== F.pos) return false; }
+    if (F.ht) {
+      if (!p.ht) return false;
+      const h = p.ht;
+      if (F.ht === 's' && !(h < 175)) return false; if (F.ht === 'm' && !(h >= 175 && h < 185)) return false;
+      if (F.ht === 't' && !(h >= 185 && h < 190)) return false; if (F.ht === 'x' && !(h >= 190)) return false;
+      if (F.ht === 'r' && ((F.hmin && h < +F.hmin) || (F.hmax && h > +F.hmax))) return false;
+    }
+    return true;
+  };
+  const draw = () => {
+    read();
+    const any = Object.entries(F).some(([k, v]) => v && k !== 'q' && k !== 'sort');
+    let res = F.q ? LX.search(F.q, 5000, test) : (any ? LX.allPlayers.filter(test) : LX.allPlayers.filter(p => p.t === 1 && LX.inEra(p)));
+    const srt = { t: (x, y) => x.t - y.t, n: (x, y) => x.ar.localeCompare(y.ar, 'ar'), h: (x, y) => (y.ht || 0) - (x.ht || 0), y: (x, y) => ((x.yr || [9999])[0]) - ((y.yr || [9999])[0]) }[F.sort];
+    if (!F.q || F.sort !== 't') res = res.slice().sort(srt);
+    $('#cnt').textContent = `${res.length} لاعب`;
+    const ch = [];
+    if (F.nat) ch.push(LX.teamName(F.nat).split(' / ')[0]); if (F.nt) ch.push(F.nt === '*' ? 'دولي' : F.nt === '-' ? 'غير دولي' : 'منتخب ' + LX.teamName(F.nt).split(' / ')[0]);
+    if (F.club) ch.push(LX.teamName(F.club)); if (F.from || F.to) ch.push(LX.iso((F.from || '…') + '–' + (F.to || '…'))); if (F.pos) ch.push(LX.POSDETAIL[F.pos] || LX.POSAR[F.pos]); if (F.ht) ch.push('الطول');
+    $('#chips').innerHTML = ch.map(c => `<span class="fchip">${esc(c)}</span>`).join('');
+    r.innerHTML = res.slice(0, limit).map(p => LX.prow(p, p.ht && (F.ht || F.sort === 'h') ? `<span class="chip">${LX.iso(p.ht + ' سم')}</span>` : '')).join('') || '<div class="empty">لا نتائج مطابقة — جرّب توسيع الفلاتر</div>';
+    $('#more').style.display = res.length > limit ? '' : 'none';
+    LX.loadPhotos(r);
+  };
+  main.querySelectorAll('input,select').forEach(el => { el.oninput = () => { limit = 60; draw(); }; el.onchange = el.oninput; });
+  $('#f-clear').onclick = () => { S.del('sf'); LX.render(); };
+  $('#more').onclick = () => { limit += 120; draw(); };
+  draw(); if (!F.q) setTimeout(() => $('#q').focus(), 100);
   r.onclick = e => { const b = e.target.closest('[data-p]'); if (b) LX.go('/player/' + b.dataset.p); };
 });
 
@@ -140,6 +210,7 @@ LX.route(/^\/credits$/, root => {
     <div class="card" style="font-size:13px;line-height:1.8"><b>LEGENDS XI</b> — Football Time Machine<br>Created by <b class="gold">Dr HOSSAM Mo</b><br>الشعار والهوية البصرية تصميم أصلي للتطبيق. شارات الفرق داخل التطبيق رموز مولدة بالألوان والحروف وليست شعارات الأندية الرسمية.</div>
     <div class="section-t">مصادر البيانات</div>
     <div class="card" style="font-size:13px;line-height:1.8">سجلات المباريات النهائية (التشكيلات وأرقام القمصان والبدلاء) روجعت مقابل صفحات المباريات المنشورة على ويكيبيديا ونسخها المؤرشفة، وسجل نادي ليفربول التاريخي (lfchistory.net). مسيرات اللاعبين مُدخلة على مستوى المواسم ويمكن تصحيحها وتوسيعها في ملفات المصدر.</div>
+    <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px"><b>البطولات الكبرى (نصف النهائي والنهائي):</b> أهداف وبطاقات وتبديلات وركلات ترجيح كأس العالم وتشكيلاته منذ 1970 من قاعدة Fjelstul (CC-BY-SA 4.0)، وتشكيلات 1930–1966 من صفحات المباريات في <a href="https://www.rsssf.org/" target="_blank" rel="noopener">RSSSF</a>. نهائيات كأس أوروبا/دوري الأبطال وكأس الاتحاد الأوروبي/الدوري الأوروبي ونتائج نصف النهائي منقولة من صفحات المواسم في RSSSF (The Rec.Sport.Soccer Statistics Foundation)، وموسم 2025–26 من تقارير UEFA.com. الملاحظات التلقائية (الهاتريك، العودة، الطرد، الترجيح) مستخرجة من البيانات نفسها، والملاحظات التحريرية حقائق تاريخية مختصرة. الأطوال تقريبية كما تُذكر في المصادر الشائعة.</div>
     <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px">بيانات كأس العالم (القوائم، أرقام القمصان، المراكز، تواريخ الميلاد، تشكيلات المباريات): <b>The Fjelstul World Cup Database</b> — Joshua C. Fjelstul — مرخصة بموجب <span class="ltr">CC-BY-SA 4.0</span>.</div>
     <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px">تشكيلات أجيال الأندية ذات شارة "موثقة" (الدوريات الكبرى 2003–2024 وبعض نهائيات دوري الأبطال) مأخوذة من <b>StatsBomb Open Data</b> (<span class="ltr">github.com/statsbomb/open-data</span>) — البيانات مقدمة من StatsBomb. وتشكيلات الأجيال ذات شارة "معرفة تاريخية" مكتوبة من المعرفة التاريخية بانتظار مراجعة مصدر ثانٍ، والرقم غير المؤكد يظهر "غير موثق".</div>
     <div class="card" style="font-size:13px;line-height:1.8;margin-top:10px">مسيرات أندية لاعبي كأس العالم: سجلات انتقالات <b>Transfermarkt</b> المنشورة في مستودع <span class="ltr">ewenme/transfers</span>. البطاقات التعريفية وحكايات اللاعبين وصفحات "أسطورة بلده": نصوص تحريرية من المعرفة التاريخية العامة.</div>

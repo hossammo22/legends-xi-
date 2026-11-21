@@ -1,0 +1,96 @@
+## 2016
+CL-SEMI: Manchester City | Real Madrid | 0-0 | 0-1 | 0-1
+CL-SEMI: Atlético Madrid | Bayern Munich | 1-0 | 1-2 | 2-2 (away goals)
+CL-FINAL: 28 May 2016 | San Siro, Milan | Real Madrid 1-1 Atlético Madrid | aet, Real Madrid 5-3 pens
+G: 15 | Real Madrid | Sergio Ramos
+G: 79 | Atlético Madrid | Carrasco
+RED: none
+EL-SEMI: Shakhtar Donetsk | Sevilla FC | 2-2 | 1-3 | 3-5
+EL-SEMI: Villarreal CF | Liverpool | 1-0 | 0-3 | 1-3
+EL-FINAL: 18 May 2016 | St. Jakob-Park, Basel | Sevilla FC 3-1 Liverpool | none
+G: 35 | Liverpool | Sturridge
+G: 46 | Sevilla FC | Gameiro
+G: 64 | Sevilla FC | Coke
+G: 70 | Sevilla FC | Coke
+A: Soria; Mariano, Rami (Kolodziejczak 77), Carriço, Escudero; Krychowiak, N'Zonzi; Coke, Banega (Cristoforo 90+3), Vitolo; Gameiro (Iborra 89)
+B: Mignolet; Clyne, Touré (Benteke 82), Lovren, Moreno; Milner, Emre Can, Lallana (Allen 73); Firmino (Origi 68), Coutinho, Sturridge
+RED: none
+## 2017
+CL-SEMI: Real Madrid | Atlético Madrid | 3-0 | 1-2 | 4-2
+CL-SEMI: AS Monaco | Juventus | 0-2 | 1-2 | 1-4
+CL-FINAL: 3 Jun 2017 | Millennium Stadium, Cardiff | Real Madrid 4-1 Juventus | none
+G: 20 | Real Madrid | C.Ronaldo
+G: 27 | Juventus | Mandžukić
+G: 61 | Real Madrid | Casemiro
+G: 64 | Real Madrid | C.Ronaldo
+G: 90 | Real Madrid | Asensio
+RED: Cuadrado (Juventus) 84
+EL-SEMI: RC Celta | Manchester United | 0-1 | 1-1 | 1-2
+EL-SEMI: AFC Ajax | Olympique Lyonnais | 4-1 | 1-3 | 5-4
+EL-FINAL: 24 May 2017 | Friends Arena, Solna | Manchester United 2-0 AFC Ajax | none
+G: 18 | Manchester United | Pogba
+G: 48 | Manchester United | Mkhitaryan
+RED: none
+## 2018
+CL-SEMI: Bayern Munich | Real Madrid | 1-2 | 2-2 | 3-4
+CL-SEMI: Liverpool | AS Roma | 5-2 | 2-4 | 7-6
+CL-FINAL: 26 May 2018 | NSC Olimpiyskiy, Kyiv | Real Madrid 3-1 Liverpool | none
+G: 51 | Real Madrid | Benzema
+G: 55 | Liverpool | Mané
+G: 64 | Real Madrid | Bale
+G: 83 | Real Madrid | Bale
+RED: none
+EL-SEMI: Olympique de Marseille | Red Bull Salzburg | 2-0 | 1-2 | 3-2 (aet)
+EL-SEMI: Arsenal | Atlético Madrid | 1-1 | 0-1 | 1-2
+EL-FINAL: 16 May 2018 | Parc Olympique Lyonnais, Décines | Atlético Madrid 3-0 Olympique de Marseille | none
+G: 21 | Atlético Madrid | Griezmann
+G: 49 | Atlético Madrid | Griezmann
+G: 89 | Atlético Madrid | Gabi
+A: Oblak; Vrsaljko, Giménez, Godín, Lucas Hernández; Correa, Saúl, Gabi, Koke; Griezmann, Diego Costa (subs used: Juanfran, Thomas, Torres)
+B: Mandanda; Sarr, Rami, Luiz Gustavo, Amavi; Zambo Anguissa, Sanson; Thauvin, Payet, Ocampos; Germain (subs used: Lopez, N'Jie, Mitroglou)
+RED: none
+## 2019
+CL-SEMI: Tottenham Hotspur | AFC Ajax | 0-1 | 3-2 | 3-3 (away goals)
+CL-SEMI: FC Barcelona | Liverpool | 3-0 | 0-4 | 3-4
+CL-FINAL: 1 Jun 2019 | Metropolitano Stadium, Madrid | Liverpool 2-0 Tottenham Hotspur | none
+G: 2 | Liverpool | Salah (pen)
+G: 87 | Liverpool | Origi
+RED: none
+EL-SEMI: Arsenal | Valencia CF | 3-1 | 4-2 | 7-3
+EL-SEMI: Eintracht Frankfurt | Chelsea | 1-1 | 1-1 | 2-2 (Chelsea 4-3 pens)
+EL-FINAL: 29 May 2019 | Olympic Stadium, Baku | Chelsea 4-1 Arsenal | none
+G: 49 | Chelsea | Giroud
+G: 60 | Chelsea | Pedro
+G: 65 | Chelsea | Hazard (pen)
+G: 69 | Arsenal | Iwobi
+G: 72 | Chelsea | Hazard
+RED: none
+## 2020
+CL-SEMI1: Paris Saint-Germain | RB Leipzig | 3-0 (single match, Lisbon)
+CL-SEMI1: Bayern Munich | Olympique Lyonnais | 3-0 (single match, Lisbon)
+CL-FINAL: 23 Aug 2020 | Estádio da Luz, Lisbon | Bayern Munich 1-0 Paris Saint-Germain | none
+G: 59 | Bayern Munich | Coman
+RED: none
+EL-SEMI1: Sevilla FC | Manchester United | 2-1 (single match, Cologne)
+EL-SEMI1: Internazionale | Shakhtar Donetsk | 5-0 (single match, Düsseldorf)
+EL-FINAL: 21 Aug 2020 | RheinEnergieStadion, Cologne | Sevilla FC 3-2 Internazionale | none
+G: 5 | Internazionale | Lukaku (pen)
+G: 12 | Sevilla FC | De Jong
+G: 33 | Sevilla FC | De Jong
+G: 36 | Internazionale | Godín
+G: 74 | Sevilla FC | Lukaku (og)
+RED: none
+## 2021
+CL-SEMI: Real Madrid | Chelsea | 1-1 | 0-2 | 1-3
+CL-SEMI: Paris Saint-Germain | Manchester City | 1-2 | 0-2 | 1-4
+CL-FINAL: 29 May 2021 | Estádio do Dragão, Porto | Chelsea 1-0 Manchester City | none
+G: 42 | Chelsea | Havertz
+RED: none
+EL-SEMI: Villarreal CF | Arsenal | 2-1 | 0-0 | 2-1
+EL-SEMI: Manchester United | AS Roma | 6-2 | 2-3 | 8-5
+EL-FINAL: 26 May 2021 | Stadion Miejski, Gdańsk | Villarreal CF 1-1 Manchester United | aet, Villarreal 11-10 pens
+G: 29 | Villarreal CF | Gerard Moreno
+G: 55 | Manchester United | Cavani
+A: Rulli; Foyth (Alberto Moreno 87), Albiol, Pau Torres, Pedraza (Gaspar 87); Capoue (Raba 120), Parejo, Trigueros (Moi Gómez 77); Yeremy Pino (Alcácer 77), Bacca (Coquelin 60), Gerard Moreno
+B: De Gea; Wan-Bissaka (Mata 120), Lindelöf, Bailly (Tuanzebe 116), Shaw; Pogba (James 116), McTominay (Alex Telles 120); Rashford, Bruno Fernandes, Greenwood (Fred 100); Cavani
+RED: none

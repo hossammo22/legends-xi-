@@ -265,6 +265,43 @@ LX.frame = (w, h, title) => {
   return { c, ctx: x };
 };
 
+/* ---------------- goal celebration (correct answers) */
+LX.goal = () => {
+  if (S.get('fx', true) === false) return;
+  const el = document.createElement('div'); el.className = 'goalfx';
+  const cols = ['#D4AF37', '#2fbf71', '#fff', '#e5484d', '#5fb4ff'];
+  el.innerHTML = '<div class="net"></div><div class="ball"></div><div class="gtxt">GOAL!</div>' +
+    Array.from({ length: 26 }, (_, i) => `<i style="left:${Math.random() * 100}%;background:${cols[i % cols.length]};--dx:${(Math.random() * 40 - 20).toFixed(1)}vw;--r:${Math.round(Math.random() * 720 - 360)}deg;animation-delay:${(Math.random() * .25).toFixed(2)}s"></i>`).join('');
+  document.body.appendChild(el); setTimeout(() => el.remove(), 1500);
+};
+const _toast = LX.toast;
+LX.toast = (msg, kind = '', ms) => { if (kind === 'good' && /^(صحيح|Correct)/.test(String(msg))) LX.goal(); return _toast(msg, kind, ms); };
+
+/* ---------------- FUT-style card with factual fields only (no invented ratings) */
+LX.fut = (p, size = 180) => {
+  const t = LX.T(p.nat) || {};
+  const nWC = (p.wc || []).length, nCl = new Set(p.cl.map(c => c[0])).size, nH = p.h.length;
+  const yrs = p.yr ? (Math.min(p.yr[1], LX.NOW) - p.yr[0]) : 0;
+  return `<div class="futcard t${p.t}" style="width:${size}px"><span class="ovr">${esc(p.pos)}</span><span class="fpos">${esc(LX.POSAR[LX.posGroup(p.pos)] || '')}</span><span class="fflag">${LX.flag(t.cc)}</span>${LX.ph(p.id, 96)}
+    <div class="fnm">${esc(LX.shortName(p))}</div><div class="fsep"></div>
+    <div class="fst"><span><b>${yrs || '–'}</b>موسم</span><span><b>${nCl || '–'}</b>أندية</span><span><b>${nH || 0}</b>ألقاب</span><span><b>${nWC || 0}</b>مونديال</span></div></div>`;
+};
+
+/* ---------------- bottom tab bar (mobile) / side rail (desktop) */
+const TABS = [['/home', 'الرئيسية', '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>'],
+  ['/cups', 'البطولات', I.trophy], ['/squads', 'التشكيلات', I.shirt], ['/guess', 'العب', I.q], ['/search', 'البحث', I.search]];
+LX.tabbar = h => {
+  let bar = document.querySelector('.tabbar');
+  if (!bar) {
+    bar = document.createElement('nav'); bar.className = 'tabbar'; bar.setAttribute('aria-label', 'التنقل');
+    bar.innerHTML = TABS.map(([r, l, ic]) => `<a href="#${r}" data-r="${r}">${ic}<span>${l}</span></a>`).join('');
+    document.body.appendChild(bar); document.body.classList.add('has-tabbar');
+  }
+  const sec = h.startsWith('/cup') || h.startsWith('/match') ? '/cups' : h.startsWith('/squad') || h.startsWith('/team') ? '/squads' :
+    /^\/(guess|connect|missing|daily|era|dream|legends|story)/.test(h) ? '/guess' : h.startsWith('/search') || h.startsWith('/player') ? '/search' : '/home';
+  bar.querySelectorAll('a').forEach(a => a.classList.toggle('on', a.dataset.r === sec));
+};
+
 /* ---------------- router */
 const routes = [];
 LX.route = (re, fn) => routes.push([re, fn]);
@@ -275,7 +312,7 @@ LX.render = () => {
   LX.closeSheet(); if (LX._timer) { clearInterval(LX._timer); LX._timer = null; }
   for (const [re, fn] of routes) {
     const m = h.match(re);
-    if (m) { const root = document.getElementById('app'); root.innerHTML = ''; window.scrollTo(0, 0); fn(root, ...m.slice(1).map(x => x == null ? undefined : decodeURIComponent(x))); LX.loadPhotos(root); return; }
+    if (m) { const root = document.getElementById('app'); root.innerHTML = ''; window.scrollTo(0, 0); fn(root, ...m.slice(1).map(x => x == null ? undefined : decodeURIComponent(x))); LX.tabbar(h); LX.loadPhotos(root); return; }
   }
   LX.go('/home');
 };

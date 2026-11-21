@@ -1,0 +1,25 @@
+## 1977
+CL-SEMI: Dynamo Kyiv | Borussia Mönchengladbach | 1-0 | 0-2 | 1-2
+CL-SEMI: FC Zürich | Liverpool | 1-3 | 0-3 | 1-6
+CL-FINAL: 25 May 1977 | Stadio Olimpico, Rome | Liverpool 3-1 Borussia Mönchengladbach | none
+G: 29 | Liverpool | McDermott
+G: 50 | Borussia Mönchengladbach | Simonsen
+G: 67 | Liverpool | Smith
+G: 85 | Liverpool | Neal (pen)
+A: Clemence; Neal, Jones, Smith, Hughes; Case, Kennedy, Callaghan, McDermott; Keegan, Heighway
+B: Kneib; Vogts, Klinkhammer, Wittkamp, Schäffer; Wohlers (Hannes 79), Wimmer (Kulik 24), Stielike, Bonhof; Simonsen, Heynckes
+RED: none
+UEFA-SEMI: RWD Molenbeek | Athletic Club | 1-1 | 0-0 | 1-1 (away goals)
+UEFA-SEMI: Juventus | AEK Athens | 4-1 | 1-0 | 5-1
+UEFA-FINAL-1: 4 May 1977 | Stadio Comunale, Turin | Juventus 1-0 Athletic Club | none
+G: 15 | Juventus | Tardelli
+A: Zoff; Cuccureddu, Gentile, Scirea, Morini; Tardelli, Furino, Benetti; Causio, Boninsegna (Gori 39), Bettega
+B: Iribar; Oñaederra, Escalza, Goikoetxea, Guisasola; Villar, Irureta, José Ángel Rojo, Churruca; Dani, José Francisco Rojo
+RED: none
+UEFA-FINAL-2: 18 May 1977 | San Mamés, Bilbao | Athletic Club 2-1 Juventus | agg 2-2 (Juventus on away goals)
+G: 7 | Juventus | Bettega
+G: 11 | Athletic Club | Churruca
+G: 78 | Athletic Club | Carlos
+A: Iribar; Lasa (Carlos 63), Guisasola, Alesanco, Escalza; Villar, Churruca, Irureta; Amorrortu, Dani, José Francisco Rojo
+B: Zoff; Cuccureddu, Morini, Scirea, Gentile; Causio, Tardelli, Furino, Benetti; Boninsegna (Spinosi 60), Bettega
+RED: none

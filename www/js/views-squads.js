@@ -188,7 +188,7 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
   const hon = {}; p.h.forEach(([k, y]) => (hon[k] = hon[k] || []).push(y));
   const admin = S.get('admin', false); const phInfo = LX.photoInfo(pid);
   const main = LX.page(root, { title: esc(p.ar), gen: false }, `
-    <div class="prof">${LX.ph(pid, 132)}<h2>${esc(p.ar)}</h2><div class="en ltr">${esc(p.en)}</div>
+    <div class="prof">${LX.fut ? LX.fut(p, 184) : LX.ph(pid, 132)}<h2>${esc(p.ar)}</h2><div class="en ltr">${esc(p.en)}</div>
       <div class="row wrap" style="justify-content:center;gap:6px;margin-top:8px"><span class="chip">${LX.flag(t && t.cc)} ${esc(LX.natName(p))}</span><span class="chip gold">${esc(LX.POSDETAIL[p.pos] || p.pos)}</span>${p.t === 1 ? '<span class="chip green">أسطورة</span>' : ''}</div></div>
     <div class="facts">
       <div class="fact"><b>${p.b ? esc(p.b.length > 4 ? p.b : p.b) : 'غير موثق'}</b><small>تاريخ الميلاد</small></div>
@@ -207,6 +207,7 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
     <div class="section-t">المسيرة مع الأندية <small>بالترتيب الزمني</small></div>
     ${p.cl.length ? `<div class="tl">${p.cl.map(c => `<button class="tli" data-t="${c[0]}" style="display:block;width:100%;text-align:start"><div class="row">${LX.crest(c[0], 30)}<div class="grow"><div style="font-weight:800">${esc(LX.teamName(c[0]))}</div><div class="y">${LX.spell(c)}</div></div></div></button>`).join('')}</div>${p.cs === 'tm' ? '<p class="muted" style="font-size:11.5px;margin:4px 2px 0">مسيرة الأندية مستخرجة من سجلات انتقالات Transfermarkt لـ9 دوريات أوروبية (1992–2023). الفترات خارج هذه الدوريات أو بعد 2023 قد لا تظهر، و"منذ" تعني أنه كان لا يزال بالنادي حتى 2023 على الأقل.</p>' : ''}` : (p.wc ? '<div class="empty">مسيرة الأندية لهذا اللاعب غير مضافة بعد — بياناته الموثقة حاليًا هي مشاركاته في كأس العالم</div>' : '<div class="empty">المسيرة الكاملة غير موثقة في القاعدة بعد</div>')}
     ${nums.length ? `<div class="section-t">أرقام القميص الموثقة</div><div class="card" style="padding:4px 10px"><table class="numtable">${nums.map(n => `<tr data-s="${n.s.id}"><td class="n">${n.no ?? '<span style="font-size:11px">غير موثق</span>'}</td><td><b>${esc(LX.teamName(n.s.team))}</b> · ${esc(n.s.comp)}<div class="muted" style="font-size:11.5px">${esc(n.pos)} · ${n.role === 'XI' ? 'أساسي' : n.role === 'SUB' ? 'بديل شارك' : 'ضمن القائمة'}</div></td></tr>`).join('')}</table></div>` : ''}
+    ${(() => { const mm = LX.matchesOf ? LX.matchesOf(pid) : []; return mm.length ? `<div class="section-t">في نصف النهائي والنهائي <small>${mm.length} مباراة</small></div><div class="mgrid">${mm.map(LX.matchCard).join('')}</div>` : ''; })()}
     ${sqs.length ? `<div class="section-t">ظهوره في التشكيلات التاريخية</div><div class="plist">${sqs.map(LX.squadRow).join('')}</div>` : ''}
     <div class="section-t">زملاء تاريخيون <small>${mates.length} زميل موثق</small></div>
     <div class="plist" id="mates">${mates.slice(0, 12).map(m => LX.prow(m.p, `<span class="chip ${m.ev.k === 'M' ? 'green' : ''}" style="font-size:10.5px">${esc(LX.teamName(m.ev.t))}</span>`)).join('')}</div>
@@ -215,7 +216,7 @@ LX.route(/^\/player\/([^/]+)$/, (root, pid) => {
     <div class="card" style="font-size:12.5px" id="phc">${phInfo && !phInfo.n ? `مصدر الصورة: <a href="${esc(phInfo.src)}" target="_blank" rel="noopener">ويكيميديا كومنز</a> · الترخيص: ${esc(phInfo.lic)}${phInfo.art ? ` · ${esc(phInfo.art)}` : ''}` : 'تُجلب الصور من ويكيبيديا/ويكيميديا كومنز بعد التحقق من أنها للاعب نفسه وأن ترخيصها يسمح بإعادة الاستخدام. يظهر بديل أنيق عند عدم توفر صورة مرخصة.'}
       ${admin ? `<div class="row" style="margin-top:10px"><button class="btn sm" id="phr">استبدال الصورة</button><button class="btn sm" id="phd">حذف الاستبدال</button></div>` : ''}</div>`);
   main.querySelector('.tl') && (main.querySelector('.tl').onclick = e => { const b = e.target.closest('[data-t]'); if (b) LX.go('/team/' + b.dataset.t); });
-  main.addEventListener('click', e => { const s = e.target.closest('[data-s]'); if (s) return LX.go('/squad/' + s.dataset.s); const q = e.target.closest('.prow[data-p]'); if (q) LX.go('/player/' + q.dataset.p); });
+  main.addEventListener('click', e => { const mc = e.target.closest('.mcard[data-m]'); if (mc) return LX.go('/match/' + mc.dataset.m); const s = e.target.closest('[data-s]'); if (s) return LX.go('/squad/' + s.dataset.s); const q = e.target.closest('.prow[data-p]'); if (q) LX.go('/player/' + q.dataset.p); });
   main.querySelector('#a1').onclick = () => LX.go('/connect/build/' + pid);
   main.querySelector('#story').onclick = () => LX.go('/story/' + pid);
   main.querySelector('#a2').onclick = () => { S.set('guessRel', pid); LX.go('/guess/play/rel'); };

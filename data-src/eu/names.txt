@@ -1,0 +1,959 @@
+# Name resolution for European finals line-ups (eu/raw).
+#   = season-start-year|TEAM|raw name|player id   -> force a specific app player
+#   = season-start-year|TEAM|raw name|~           -> not an app player (plain name below)
+#   raw name|English|Arabic                        -> plain name (team-independent)
+= 1956|RMA|Torres|~
+= 1969|CEL|Hughes|~
+= 1974|LEE|Bremner|~
+= 1975|BAY|Hansen|~
+= 1975|LIV|Kennedy|~
+= 1976|LIV|Kennedy|~
+= 1977|LIV|Kennedy|~
+= 1975|ASSE|Piazza|~
+= 1993|SAL|Weber|~
+= 1993|SAL|Steiner|~
+= 2003|OM|Ferreira|~
+= 2008|SHK|Lewandowski|~
+= 2021|RAN|Kamara|~
+= 2025|AVL|Onana|~
+= 1963|RMA|Muller|~
+= 1968|AJA|Muller|~
+= 1978|BMG|Nielsen|~
+= 1979|BMG|Nielsen|~
+= 1990|INT|Pizzi|~
+= 1989|JUV|Bonetti|~
+= 1986|IFK|Andersson|~
+= 1980|RMA|Ángel|~
+= 1973|ATM|Eusebio|~
+= 1973|ATM|Alberto|~
+= 1977|XSCBASTIA|Félix|~
+= 1976|ATH|Carlos|~
+= 2000|XDEPORTIVOA|Pablo|~
+= 2001|FEY|Leonardo|~
+= 1989|JUV|Napoli|~
+# ---- plain names (not app players): raw|English (blank = as written)|Arabic
+Alonso|Juan Alonso|خوان ألونسو
+Atienza||أتيينثا
+Lesmes||ليسميس
+Muñoz|Miguel Muñoz|ميغيل مونيوث
+Joseito||خوسيتو
+Joseíto|Joseito|خوسيتو
+Marchal||مارشال
+Rial|Héctor Rial|إكتور ريال
+Jacquet||جاكيه
+Zimny||زيمني
+Jonquet|Robert Jonquet|روبير جونكيه
+Giraudo||جيرودو
+Leblond||لوبلون
+Siatka||سياتكا
+Hidalgo|Michel Hidalgo|ميشيل هيدالغو
+Glovacki||غلوفاتسكي
+Kopa|Raymond Kopa|ريمون كوبا
+Bliard||بليار
+Templin||تومبلان
+Torres||توريس
+Mateos||ماتيوس
+Magnini||مانييني
+Orzan||أورزان
+Cervato||تشيرفاتو
+Scaramucci||سكاراموتشي
+Segato||سيغاتو
+Julinho||جولينيو
+Gratton||غراتون
+Virgili||فيرجيلي
+Montuori||مونتووري
+Bizzarri||بيتزاري
+Santisteban||سانتيستيبان
+Soldan||سولدان
+Fontana||فونتانا
+C.Maldini|Cesare Maldini|تشيزاري مالديني
+Maldini|Cesare Maldini|تشيزاري مالديني
+Beraldo||بيرالدو
+Bergamaschi||بيرغاماسكي
+Radice||راديتشي
+Danova||دانوفا
+Liedholm|Nils Liedholm|نيلس ليدهولم
+Schiaffino|Juan Alberto Schiaffino|خوان ألبرتو سكيافينو
+Grillo||غريلو
+Cucchiaroni||كوكياروني
+Ruiz||رويث
+Colonna||كولونا
+Rodzik||رودزيك
+Penverne||بانفيرن
+Lamartine||لامارتين
+Fontaine|Just Fontaine|جوست فونتين
+Piantoni||بيانتوني
+Vincent||فانسان
+Loy||لوي
+Lutz||لوتس
+Eigenbrodt||آيغنبرودت
+Höfer||هوفر
+Weilbächer||فايلبيشر
+Stinka||شتينكا
+Kress||كريس
+Lindner||ليندنر
+Stein||شتاين
+Pfaff||بفاف
+Meier||ماير
+Costa Pereira||كوستا بيريرا
+João||جواو
+Germano||جيرمانو
+Ângelo||أنجيلو
+Neto||نيتو
+Santana||سانتانا
+Águas|José Águas|جوزيه آغواش
+Cavém||كافيم
+Ramallets||راماليتس
+Foncho||فونتشو
+Gensana||خينسانا
+Gràcia||غراسيا
+Vergés||بيرخيس
+Garay||غاراي
+Kubala|László Kubala|لاسلو كوبالا
+Kocsis|Sándor Kocsis|شاندور كوتشيش
+Evaristo||إيفاريستو
+Suárez|Luis Suárez Miramontes|لويس سواريز ميرامونتيس
+Czibor|Zoltán Czibor|زولتان تسيبور
+Araquistáin||أراكيستاين
+Casado||كاسادو
+Miera||ميرا
+Felo||فيلو
+Tejada||تيخادا
+Ghezzi||غيتزي
+David||دافيد
+Trebbi||تريبي
+Benítez||بينيتيث
+Trapattoni|Giovanni Trapattoni|جوفاني تراباتوني
+Pivatelli||بيفاتيلي
+Sani||ساني
+Altafini|José Altafini|جوزيه ألتافيني
+Mora||مورا
+Humberto||أومبرتو
+Raul||راوول
+Tagnin||تانيين
+Milani||ميلاني
+Vicente||فيسنتي
+Isidro||إيسيدرو
+Zoco||ثوكو
+Muller||مولر
+Peiró||بييرو
+De Felipe||دي فيليبي
+Sanchís||سانشيس
+Velázquez||بيلاثكيث
+Serena||سيرينا
+Grosso||غروسو
+Šoškić||شوشكيتش
+Jusufi||يوسوفي
+Rašović||راشوفيتش
+Vasović|Velibor Vasović|فيليبور فاسوفيتش
+Mihajlović||ميهايلوفيتش
+Kovačević||كوفاتشيفيتش
+Bečejac||بيتشيياتس
+Bajić||باييتش
+Hasanagić||حسناغيتش
+Galić||غاليتش
+Pirmajer||بيرماير
+Cudicini||كوديتشيني
+Malatrasi||مالاتراسي
+Anquilletti||أنكويليتي
+Lodetti||لوديتي
+Hamrin|Kurt Hamrin|كورت هامرين
+Sormani||سورماني
+Bals||بالس
+Van Duivenbode||فان دويفنبوده
+Pronk||برونك
+Groot||غروت
+Nuninga||نونينغا
+Danielsson||دانيلسون
+Pieters Graafland||بيترز غرافلاند
+Romeijn||رومين
+Haak||هاك
+Laseroms||لاسيرومس
+Hasil||هازيل
+Wery||فيري
+Kindvall|Ove Kindvall|أوفي كيندفال
+Moulijn||مولين
+Williams||ويليامز
+Hay||هاي
+Brogan||بروغان
+Connelly||كونيلي
+Hughes||هيوز
+Rijnders||ريندرس
+Van Dijk||فان دايك
+Oeconomopoulos||إيكونوموبولوس
+Tomaras||توماراس
+Kapsis||كابسيس
+Sourpis||سوربيس
+Vlahos||فلاخوس
+Kamaras||كاماراس
+Elefterakis||إليفتيراكيس
+Grammos||غراموس
+Antoniadis|Antonis Antoniadis|أنطونيس أنطونيادس
+Domazos||دومازوس
+Filakouris||فيلاكوريس
+Salvadore||سالفادوري
+Marchetti||ماركيتي
+Longobucco||لونغوبوكو
+Clemence|Ray Clemence|راي كليمنس
+Lawler||لولر
+Lindsay||ليندسي
+Smith||سميث
+Cormack||كورماك
+Toshack|John Toshack|جون توشاك
+Heighway||هايواي
+Hall||هول
+Callaghan|Ian Callaghan|إيان كالاهان
+Michallik||ميشاليك
+Danner||دانر
+Kulik||كوليك
+Jensen||ينسن
+Rupp||روب
+Simonsen|Allan Simonsen|ألان سيمونسن
+Surau||زوراو
+Boersma||بورسما
+Hansen||هانسن
+Roth||روت
+Zobel||تسوبل
+Torstensson||تورستنسون
+Reina||رينا
+Melo||ميلو
+Capón||كابون
+Adelardo||أديلاردو
+Luis||لويس
+Eusebio||أوسيبيو
+Irureta||إيروريتا
+Ufarte||أوفارتي
+Becerra||بيثيرا
+Gárate||غاراتي
+Salcedo||سالثيدو
+Alberto||ألبرتو
+Benegas||بينيغاس
+Jennings|Pat Jennings|بات جينينغز
+Evans||إيفانز
+Naylor||نايلور
+Pratt||برات
+England||إنغلاند
+Beal||بيل
+Dillon||ديلون
+McGrath||ماكغراث
+Perryman||بيريمان
+Chivers|Martin Chivers|مارتن تشيفرز
+Coates||كوتس
+Treytel||تريتل
+Van Daele||فان دالي
+Vos||فوس
+Ressel||ريسل
+Schoenmaker||سخونماكر
+Kristensen||كريستنسن
+Ramljak||راملياك
+Holder||هولدر
+Parkes||باركس
+Shaw||شو
+Taylor||تايلور
+Hegan||هيغان
+Munro||مونرو
+McAlle||ماكال
+McCalliog||ماكاليوغ
+Hibbitt||هيبيت
+Richards||ريتشاردز
+Dougan||دوغان
+Wagstaffe||واغستاف
+Kinnear||كينير
+Knowles||نولز
+Gilzean||غيلزين
+Bailey||بيلي
+Curran||كوران
+Andersson||أندرسون
+Weiss||فايس
+Wunder||فوندر
+Stewart||ستيوارت
+Reaney||ريني
+F.Gray|Frank Gray|فرانك غراي
+Madeley||مادلي
+Hunter|Norman Hunter|نورمان هانتر
+Bremner|Billy Bremner|بيلي بريمنر
+Giles|Johnny Giles|جوني جايلز
+Yorath||يوراث
+E.Gray|Eddie Gray|إيدي غراي
+Lorimer|Peter Lorimer|بيتر لوريمر
+Clarke|Allan Clarke|ألان كلارك
+Jordan|Joe Jordan|جو جوردان
+Wittkamp||فيتكامب
+Del'Haye||ديلهاي
+Schäffer||شيفر
+Gross||غروس
+Drost||دروست
+Overweg||أوفرفيخ
+Oranen||أورانن
+Thijssen|Frans Thijssen|فرانس تايسن
+Pahlplatz||بالبلاتس
+Van der Vall||فان دير فال
+Bos||بوس
+Jeuring||يورينغ
+Achterberg||أخترباخ
+Zuidema||زويديما
+Klinkhammer||كلينكهامر
+Köppel||كوبل
+K.H.Rummenigge|Karl-Heinz Rummenigge|كارل هاينز رومينيغه
+Ćurković||تشوركوفيتش
+Repellini||ريبيليني
+Piazza|Osvaldo Piazza|أوسفالدو بياتسا
+Santini||سانتيني
+Larqué||لاركيه
+P.Revelli|Patrick Revelli|باتريك ريفيلي
+H.Revelli|Hervé Revelli|إيرفيه ريفيلي
+Sarramagna||سارامانيا
+Kennedy|Ray Kennedy|راي كينيدي
+R.Kennedy|Ray Kennedy|راي كينيدي
+Fairclough||فيركلاف
+Case|Jimmy Case|جيمي كيس
+Bastijns||باستينس
+Krieger||كريغر
+Leekens||ليكنس
+Volders||فولدرس
+Cools||كولس
+Vandereycken||فاندرايكن
+De Cubber||دي كوبر
+Van Gool||فان غول
+Lambert|Raoul Lambert|راؤول لامبير
+Lefevre||لوفيفر
+Hinderyckx||هينديريكس
+Sanders||ساندرز
+Maes||ماس
+Ku||كو
+Simoen||سيمون
+Sørensen||سورنسن
+Hiard||يار
+Burkhard||بوركهارد
+Guesdon||غيسدون
+Orlanducci||أورلاندوتشي
+Cazes||كاز
+Papi||بابي
+Lacuesta||لاكويستا
+Félix||فيليكس
+Rep|Johnny Rep|جوني ريب
+Krimau||كريماو
+Mariot||ماريو
+Van Beveren|Jan van Beveren|يان فان بيفرن
+Krijgh||كرايخ
+Stevens||ستيفنز
+Van der Kuijlen|Willy van der Kuijlen|ويلي فان دير كويلن
+Deijkers||دايكرس
+Deacy||ديسي
+Weller||فيلر
+Marchioni||ماركيوني
+De Zerbi||دي زيربي
+Jovanović||يوفانوفيتش
+Miletović||ميليتوفيتش
+Jurišić||يوريشيتش
+Jovin||يوفين
+Muslin||موسلين
+Krmpotić||كرمبوتيتش
+Petrović||بتروفيتش
+Blagojević||بلاغوييفيتش
+Milosavljević||ميلوسافلييفيتش
+Milovanović||ميلوفانوفيتش
+Savić||سافيتش
+Šestić||شيستيتش
+Kneib||كنايب
+Ringels||رينغلز
+Schäfer||شيفر
+Nielsen||نيلسن
+Wohlers||فولرز
+Gores||غوريس
+Lienen||لينن
+Gray||غراي
+Gunn||غان
+O'Neill|Martin O'Neill|مارتن أونيل
+O'Hare||أوهير
+Nogly||نوغلي
+Buljan||بوليان
+Memering||ميميرينغ
+Reimann||رايمان
+Milewski||ميليفسكي
+Thychosen||تيكوسن
+Bödeker||بوديكر
+H.Nickel|Harald Nickel|هارالد نيكل
+Pahl||بال
+Pezzey||بيتسي
+Neuberger||نويبرغر
+Körbel||كوربل
+Ehrmanntraut||إرمانتراوت
+Lorant||لورانت
+Borchers||بورخرز
+B.Nickel|Bernd Nickel|بيرند نيكل
+Karger||كارغر
+Trapp||تراب
+Schaub||شاوب
+Fleer||فلير
+Johnson||جونسون
+Agustín||أغوستين
+Cortés||كورتيس
+Pineda||بينيدا
+Navajas||نافاخاس
+Sabido||سابيدو
+Ángel||أنخيل
+Cunningham|Laurie Cunningham|لوري كانينغهام
+Cooper||كوبر
+Osman||أوسمان
+McCall||ماكول
+Wark|John Wark|جون وارك
+A.Mühren|Arnold Mühren|أرنولد موهرن
+Brazil||برازيل
+Gates||غيتس
+Van der Meer||فان دير مير
+Metgod||ميتخود
+Spelbos||سبيلبوس
+Peters||بيترز
+Jonker||يونكر
+Arntz||أرنتس
+Nygaard||نيغارد
+Welzl||فيلتسل
+Kist||كيست
+Tol||تول
+Reynders||رايندرس
+Van den Dungen||فان دن دونغن
+Jones||جونز
+Furino||فورينو
+Gori||غوري
+Iribar|José Ángel Iribar|خوسيه أنخيل إيريبار
+Oñaederra||أونياديرا
+Escalza||إسكالثا
+Goikoetxea||غويكوتشيا
+Guisasola||غيساسولا
+Villar||بيار
+José Ángel Rojo||خوسيه أنخيل روخو
+Churruca||تشوروكا
+Dani||داني
+José Francisco Rojo||خوسيه فرانسيسكو روخو
+Lasa||لاسا
+Carlos||كارلوس
+Alesanco||أليسانكو
+Amorrortu||أموروتو
+Wernersson||فيرنرسون
+Svensson||سفينسون
+Hysén||هيسين
+C.Karlsson||كارلسون
+Fredriksson||فريدريكسون
+Tord Holmgren||تورد هولمغرين
+J.Karlsson||كارلسون
+Strömberg||سترومبرغ
+Corneliusson||كورنيليوسون
+Nilsson||نيلسون
+Sandberg||ساندبرغ
+Tommy Holmgren||تومي هولمغرين
+Schiller||شيلر
+Groh||غروه
+Hartwig||هارتفيغ
+Wehmeyer||فيماير
+Von Heesen||فون هيزن
+Bastrup||باستروب
+Hidien||هيدين
+Rolff||رولف
+Marocchino||ماروكينو
+Hofkens||هوفكنز
+Peruzović||بيروزوفيتش
+Olsen|Morten Olsen|مورتن أولسن
+De Groote||دي خروتي
+Frimann||فريمان
+Lozano||لوثانو
+Brylle||بريلي
+Pietra||بيترا
+Álvaro||ألفارو
+José Luís||جوزيه لويس
+Frederico||فريديريكو
+Bastos Lopes||باشتوش لوبيش
+Carlos Manuel||كارلوس مانويل
+Filipović||فيليبوفيتش
+Nené||نينيه
+Alves||ألفيش
+De Greef||دي خريف
+Robinson||روبنسون
+Nappi||نابي
+Bonetti||بونيتي
+Righetti||ريغيتي
+Nela||نيلا
+Di Bartolomei|Agostino Di Bartolomei|أغوستينو دي بارتولوميي
+Strukelj||شتروكيل
+Pruzzo|Roberto Pruzzo|روبرتو بروتسو
+Chierico||كييريكو
+Grün||غرون
+Arnesen||أرنسن
+Parks||باركس
+Thomas||توماس
+Roberts||روبرتس
+Miller||ميلر
+Mabbutt||مابوت
+Hazard||هازارد
+Galvin||غالفين
+Falco||فالكو
+Dick||ديك
+Gudjohnsen|Arnór Guðjohnsen|أرنور غودجونسن
+P.Disztl||ديستل
+Borsányi||بورشاني
+L.Disztl||ديستل
+Csuhay||تشوهاي
+Horváth||هورفاث
+Palkovics||بالكوفيتش
+Végh||فيغ
+Wittmann||فيتمان
+Vadász||فاداس
+Novath||نوفاث
+Gyenti||جينتي
+Burcsa||بورتشا
+San José||سان خوسيه
+Gallego||غاييغو
+Salguero||سالغيرو
+Csongrádi||تشونغرادي
+Szabó||سابو
+Májer||ماير
+Solana||سولانا
+Martín Vázquez|Rafael Martín Vázquez|رافائيل مارتين فاثكيث
+Geils||غايلز
+Gielchen||غيلخن
+Prestin||برستين
+Geilenkirchen||غايلنكيرخن
+Hönerbach||هونرباخ
+Bein||باين
+Janßen||يانسن
+Dickel||ديكل
+Schmitz||شميتس
+Pisanti||بيزانتي
+Carlsson||كارلسون
+Johansson||يوهانسون
+R.Nilsson||نيلسون
+Zetterlund||زيترلوند
+L.Nilsson||نيلسون
+Thomson||تومسون
+Malpas||مالباس
+Narey||ناري
+Hegarty||هيغارتي
+Clark||كلارك
+Holt||هولت
+McInally||ماكينالي
+Kirkwood||كيركوود
+Bowman||باومان
+Bannon||بانون
+Sturrock||ستوروك
+Beaumont||بومونت
+Redford||ريدفورد
+Ferguson||فيرغسون
+Gallacher||غالاغر
+Mordt||مورت
+Vando||فاندو
+Job||جوب
+Miguel Ángel||ميغيل أنخيل
+Gallart||غايارت
+Soler||سولير
+Orejuela||أوريخويلا
+Golobart||غولوبارت
+Urquiaga||أوركياغا
+Iñaki||إينياكي
+Valverde|Ernesto Valverde|إرنستو بالبيردي
+Lauridsen||لوريدسن
+Losada||لوسادا
+Vollborn||فولبورن
+De Keyser||دي كايزر
+A.Reinhardt||راينهارت
+Hinterberger||هينتربرغر
+Götz||غوتس
+Tita||تيتا
+Falkenmayer||فالكنماير
+K.Reinhardt||راينهارت
+Waas||فاس
+Täuber||تويبر
+Seckler||زيكلر
+Schreier||شراير
+Zúñiga||ثونيغا
+Zubillaga||ثوبياغا
+Giuliani||جولياني
+Renica||رينيكا
+Francini||فرانتشيني
+Corradini||كوراديني
+Crippa||كريبا
+Fusi||فوزي
+N.Schmäler||شميلر
+Hartmann||هارتمان
+Sigurvinsson|Ásgeir Sigurvinsson|آسغير سيغورفينسون
+Schröder||شرودر
+Walter||فالتر
+Zietsch||تسيتش
+Gaudino|Maurizio Gaudino|ماوريتسيو غاودينو
+O.Schmäler||شميلر
+Carannante||كارانانتي
+Bigliardi||بيلياردي
+José Carlos||جوزيه كارلوس
+Samuel||صامويل
+Vítor Paneira||فيتور بانيرا
+Vata||فاتا
+Hernâni||إرناني
+Brito||بريتو
+Battistini||باتيستيني
+Paganin||باغانين
+A.Paganin|Antonio Paganin|أنطونيو باغانين
+M.Paganin|Massimo Paganin|ماسيمو باغانين
+Baresi|Giuseppe Baresi|جوزيبي باريزي
+Bianchi||بيانكي
+Pizzi||بيتسي
+Cervone||تشيرفوني
+Tempestilli||تيمبيستيلي
+Carboni||كاربوني
+Comi||كومي
+Muzzi||موتسي
+Gerolin||جيرولين
+Di Mauro||دي ماورو
+Rizzitelli||ريتسيتيلي
+Salsano||سالسانو
+Desideri||ديزيديري
+Mandorlini||ماندورليني
+Bruno||برونو
+Annoni||أنّوني
+Cravero||كرافيرو
+Bresciani||بريشياني
+Sordo||سوردو
+Benedetti||بينيديتي
+Venturin||فينتورين
+Casagrande||كازاغراندي
+Jonk|Wim Jonk|فيم يونك
+Kreek||كريك
+Roy||روي
+Groenendijk||خروننديك
+Vink||فينك
+Alflen||ألفلن
+Policano||بوليكانو
+Galia||غاليا
+Alessio||أليسيو
+Barros||باروس
+Casiraghi|Pierluigi Casiraghi|بييرلويجي كازيراغي
+Landucci||لاندوتشي
+Dell'Oglio||ديلوليو
+Volpecina||فولبيتشينا
+Pin||بين
+Malusci||مالوشي
+Buso||بوزو
+Di Chiara||دي كيارا
+Zironelli||زيرونيلي
+Avallone||أفالوني
+Rosa||روزا
+Reinhardt||راينهارت
+Franck||فرانك
+Mill||ميل
+Schmidt||شميت
+Grauer||غراور
+Lusch||لوش
+Poschner||بوشنر
+Carrera||كاريرا
+De Marchi||دي ماركي
+Di Canio|Paolo Di Canio|باولو دي كانيو
+Schulz||شولتس
+Zelić||زيليتش
+Sippel||زيبل
+Nava||نافا
+Quique Estebaranz||كيكي إستيبارانث
+Amor||أمور
+Lainer||لاينر
+Weber||فيبر
+Winklhofer||فينكلهوفر
+Steiner||شتاينر
+Fürstaller||فورشتالر
+Amerhauser||أميرهاوزر
+Muzek||موزيك
+Marquinho||ماركينيو
+Stadler||شتادلر
+Orlando||أورلاندو
+Manicone||مانيكوني
+Dell'Anno||ديلانو
+Fontolan||فونتولان
+Jurčević||يورتشيفيتش
+Feiersinger||فايرزينغر
+Hütter||هوتر
+Fiore||فيوري
+Rampulla||رامبولا
+Castellini||كاستيليني
+Sušić||سوشيتش
+Frey||فراي
+Kreuzer||كرويتسر
+Witeczek||فيتيتشيك
+Huard||أوار
+Friis-Hansen||فريس هانسن
+Dogon||دوغون
+Grenet||غرونيه
+Lucas||لوكاس
+Croci||كروتشي
+Dutuel||دوتويل
+Bancarel||بانكاريل
+Tholot||تولو
+Anselin||أنسلان
+De Kock||دي كوك
+Eigenrauch||آيغنراوخ
+O.Müller||مولر
+Anderbrügge||أندربروغه
+Büskens||بوسكنز
+Max||ماكس
+Latal||لاتال
+Galante||غالانتي
+Fresi||فريزي
+Ganz||غانز
+Held||هيلد
+Colonnese||كولونيزي
+Cauet||كويه
+Zé Elias||زي إلياس
+Sartor||سارتور
+Grandoni||غراندوني
+Gottardi||غوتاردي
+Paulo Sérgio||باولو سيرجيو
+Élber|Giovane Élber|جوفاني إلبير
+Juan Sánchez||خوان سانشيث
+Zahovič||زاهوفيتش
+Berger|Patrik Berger|باتريك بيرغر
+Herrera||إيريرا
+Contra||كونترا
+Karmona||كارمونا
+Téllez||تيليث
+Iván Alonso||إيفان ألونسو
+Geli||خيلي
+Jordi Cruyff||جوردي كرويف
+Tomić||توميتش
+Desio||ديسيو
+Astudillo||أستوديو
+Magno||ماغنو
+Javi Moreno||خافي مورينو
+Pablo||بابلو
+Sebescen||سيبيشن
+Brdarić||برداريتش
+Zoetebier||زوتبير
+Gyan||جيان
+Van Wonderen||فان فوندرن
+Paauwe||باوفه
+Rzasa||جاسا
+Elmander||إلماندر
+Ono|Shinji Ono|شينجي أونو
+De Haan||دي هان
+Leonardo||ليوناردو
+Evanílson||إيفانيلسون
+Dedê||ديدي
+Rosický|Tomáš Rosický|توماس روسيتسكي
+Ewerthon||إيويرتون
+Koller|Jan Koller|يان كولر
+Amoroso|Márcio Amoroso|ماركيو أموروسو
+Angulo||أنغولو
+Sissoko|Mohamed Sissoko|محمد سيسوكو
+Mista||ميستا
+Hemdani||همداني
+Ferreira||فيريرا
+Batlles||باتيس
+Celestini||سيليستيني
+Meriem||مريم
+Gavanon||غافانون
+Dos Santos||دوس سانتوس
+Marlet||مارليه
+Miguel Garcia||ميغيل غارسيا
+Beto||بيتو
+Rodrigo Tello||رودريغو تيو
+Enakarhire||إناكاريري
+Rogério||روجيريو
+Douala||دوالا
+Sá Pinto||سا بينتو
+Niculae||نيكولاي
+V.Berezutski|Vasili Berezutski|فاسيلي بيريزوتسكي
+A.Berezutski|Aleksei Berezutski|أليكسي بيريزوتسكي
+Ignashevich|Sergei Ignashevich|سيرغي إيغناشيفيتش
+Rahimić||رحيميتش
+Daniel Carvalho||دانييل كارفاليو
+Šemberas||شيمبيراس
+Aldonin||ألدونين
+Gusev||غوسيف
+Vágner Love||فاغنر لوف
+Krasić||كراسيتش
+Maccarone||ماكاروني
+Cattermole||كاترمول
+Javi Navarro||خافي نافارو
+Puerta|Antonio Puerta|أنطونيو بويرتا
+David García||دافيد غارسيا
+Rufete||روفيتي
+Pandiani||بانديانى
+De la Peña|Iván de la Peña|إيفان دي لا بينيا
+Jônatas||جوناتاس
+Malafeev||مالافييف
+Anyukov||أنيوكوف
+Shirokov||شيروكوف
+Križanac||كريجاناتس
+Širl||شيرل
+Zyryanov||زيريانوف
+Denisov||دينيسوف
+Faizulin||فايزولين
+Kim Dong-jin||كيم دونغ جين
+Arshavin|Andrei Arshavin|أندريه أرشافين
+Tekke||تكه
+Alexander||ألكسندر
+Broadfoot||برودفوت
+Cuéllar||كوييار
+Weir||وير
+Papac||باباتس
+Novo||نوفو
+McCulloch||ماكولوك
+Whittaker||ويتاكر
+Boyd||بويد
+Darcheville||دارشفيل
+Pyatov||بياتوف
+Srna|Darijo Srna|داريو سرنا
+Kucher||كوتشر
+Chygrynskiy||تشيغرينسكي
+Raț||رات
+Lewandowski||ليفاندوفسكي
+Ilsinho||إيلسينيو
+Gai||غاي
+Jádson||جادسون
+Duljaj||دولياي
+Willian||ويليان
+Luiz Adriano||لويز أدريانو
+Gladkiy||غلادكي
+Fritz||فريتس
+Pasanen||باسانن
+Prödl||برودل
+Naldo||نالدو
+Boenisch||بونيش
+Niemeyer||نيماير
+Tziolis||تسيوليس
+Pizarro|Claudio Pizarro|كلاوديو بيزارو
+Rosenberg||روزنبرغ
+Hunt||هانت
+Jurado||خورادو
+Valera||باليرا
+Nevland||نيفلاند
+Greening||غريننغ
+Belluschi||بيلوسكي
+Paulão||باولاو
+Alberto Rodríguez||ألبرتو رودريغيث
+Kaká||كاكا
+Sílvio||سيلفيو
+Vandinho||فانديينيو
+Custódio||كوستوديو
+Alan||آلان
+Mossoró||موسورو
+Paulo César||باولو سيزار
+Lima||ليما
+Meyong||ميونغ
+M'Bia||مبيا
+Siqueira||سيكيرا
+Sulejmani||سليماني
+Boyko||بويكو
+Fedetskyi||فيديتسكي
+Douglas||دوغلاس
+Cheberyachko||تشيبرياتشكو
+Léo Matos||ليو ماتوس
+Kankava||كانكافا
+Shakhov||شاخوف
+Fedorchuk||فيدورتشوك
+Bezus||بيزوس
+Matheus||ماتيوس
+Rotan||روتان
+Konoplyanka||كونوبليانكا
+Seleznyov||سيليزنيوف
+N'Zonzi||نزونزي
+Benteke||بنتيكي
+Allen||ألين
+Sanson||سانسون
+Alberto Moreno||ألبرتو مورينو
+Pedraza||بيدراثا
+Capoue||كابو
+Raba||رابا
+Trigueros||تريغيروس
+Tuanzebe||توانزيبي
+James||جيمس
+Hasebe|Makoto Hasebe|ماكوتو هاسيبي
+Touré||توريه
+N'Dicka||نديكا
+Lenz||لينتس
+Hrustić||هروستيتش
+Hauge||هاوغه
+McGregor||ماكغريغور
+Tavernier||تافيرنييه
+Goldson||غولدسون
+Bassey||باسي
+Bariši||باريشيتش
+Roofe||روف
+Lundstram||لوندسترام
+Jack||جاك
+Davis||ديفيس
+Kamara||كامارا
+Arfield||آرفيلد
+Aribo||أريبو
+Sands||ساندز
+Wright||رايت
+Sakala||ساكالا
+Kent||كنت
+Scalvini||سكالفيني
+Hateboer||هاتيبور
+Toloi||تولوي
+Kovář||كوفارج
+Boniface||بونيفاس
+Hincapié||إينكابيه
+Tella||تيلا
+Hložek||هلوجيك
+Schick||شيك
+Van de Ven||فان دي فين
+Spence||سبنس
+Yoro||يورو
+Dorgu||دورغو
+Mainoo||ماينو
+Diallo||ديالو
+Højlund||هويلوند
+Zirkzee||زيركزي
+Garnacho||غارناتشو
+Safonov||سافونوف
+Zabarnyi||زابارني
+Zaïre-Emery||زائير إيمري
+Lucas Beraldo||لوكاس بيرالدو
+Gonçalo Ramos||غونسالو راموس
+Barcola||باركولا
+Raya||رايا
+Mosquera||موسكيرا
+Timber||تيمبر
+Saliba||ساليبا
+Gabriel||غابرييل
+Lewis-Skelly||لويس سكيلي
+Zubimendi||ثوبيميندي
+Madueke||مادويكي
+Gyökeres||يوكيريش
+Trossard||تروسار
+Martinelli||مارتينيلي
+Havertz||هافيرتس
+Eze||إيزي
+Cash||كاش
+Konsa||كونسا
+Pau Torres||باو توريس
+Mings||مينغز
+Digne||دين
+Lindelöf||ليندلوف
+Onana||أونانا
+Tielemans||تيليمانس
+Douglas Luiz||دوغلاس لويز
+McGinn||ماكغين
+Rogers||روجرز
+Buendía||بوينديا
+Watkins||واتكينز
+Atubolu||أتوبولو
+Kübler||كوبلر
+Makengo||ماكينغو
+Ginter||غينتر
+Lienhart||لينهارت
+Rosenfelder||روزنفيلدر
+Treu||ترويه
+Eggestein||إيغشتاين
+Höfler||هوفلر
+Höler||هولر
+Günter||غونتر
+Manzambi||مانزامبي
+Grifo||غريفو
+Scherhant||شيرهانت
+Matanović||ماتانوفيتش
+Carlos Alberto||كارلوس ألبرتو
+Mayulu||مايولو
+Napoli||نابولي
+= 1967|BEN|Humberto|humberto-f
+= 1981|BAY|Rummenigge|rummenigge
+= 1991|AJA|De Boer|deboer-f
+= 2011|ATM|Miranda|miranda
+= 2011|ATM|Diego|diego-r
+= 2003|POR|Carlos Alberto|carlosalberto-pt

@@ -9,6 +9,11 @@
 <title>LEGENDS XI — Football Time Machine</title>
 <link rel="stylesheet" href="css/app.css">
 <link rel="stylesheet" href="css/fonts-extra.css">
+<link rel="stylesheet" href="css/v4.css">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <script>(function(){try{var g=function(k,d){var v=localStorage.getItem('lxi.'+k);return v==null?d:JSON.parse(v)};var r=document.documentElement;r.setAttribute('data-theme',g('theme','gold'));r.setAttribute('data-fsize',g('fsize','m'));r.style.setProperty('--font',"'"+g('font','Cairo')+"'");if(g('lang','ar')==='en'){r.lang='en';r.dir='ltr'}}catch(e){}})();</script>
 </head>
@@ -24,6 +29,8 @@
 <script src="js/views-connect.js"></script>
 <script src="js/views-games.js"></script>
 <script src="js/views-legends.js"></script>
+<script src="js/views-cups.js"></script>
 <script src="js/app.js"></script>
+<script>if('serviceWorker' in navigator&&!(window.Capacitor&&window.Capacitor.isNativePlatform&&window.Capacitor.isNativePlatform())&&/^https?:$/.test(location.protocol)){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js').catch(function(){})})}</script>
 </body>
 </html>

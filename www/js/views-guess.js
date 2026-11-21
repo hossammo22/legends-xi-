@@ -216,6 +216,7 @@ LX.route(/^\/guess\/play(?:\/(rel))?$/, (root, rel) => {
     stage.querySelector('#ans').select();
   };
   const right = () => {
+    LX.goal && LX.goal();
     const secs = (Date.now() - st.t0) / 1000; const base = d.pts;
     st.streak++; st.ok++; st.maxStreak = Math.max(st.maxStreak, st.streak);
     const b = [['النقاط الأساسية', base]];
