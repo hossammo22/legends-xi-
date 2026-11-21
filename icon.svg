@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 200 200" aria-label="LEGENDS XI">
+ <defs>
+  <linearGradient id="lg1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6df8f"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#8f6d14"/></linearGradient>
+  <linearGradient id="lg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f8a5e"/><stop offset="1" stop-color="#0d3f2b"/></linearGradient>
+ </defs>
+ <path d="M100 8 L178 38 V98 C178 146 142 178 100 192 C58 178 22 146 22 98 V38 Z" fill="#101827" stroke="url(#lg1)" stroke-width="7"/>
+ <path d="M100 24 L163 48 V98 C163 137 134 164 100 176 C66 164 37 137 37 98 V48 Z" fill="url(#lg2)"/>
+ <g stroke="rgba(255,255,255,.35)" stroke-width="2" fill="none">
+  <line x1="37" y1="100" x2="163" y2="100"/><circle cx="100" cy="100" r="22"/>
+  <path d="M70 48 V66 H130 V48"/><path d="M78 176 V160 H122 V176" />
+ </g>
+ <g transform="translate(100 64)"><polygon points="0,-13 12.4,-4 7.6,10.5 -7.6,10.5 -12.4,-4" fill="#fff"/><polygon points="0,-6 5.7,-1.9 3.5,4.9 -3.5,4.9 -5.7,-1.9" fill="#101827"/></g>
+ <text x="100" y="140" text-anchor="middle" font-family="Oswald,Cairo,sans-serif" font-weight="700" font-size="58" fill="url(#lg1)" letter-spacing="4">XI</text>
+</svg>
